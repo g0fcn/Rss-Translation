@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最新提交：webdev</title>
+    <link>https://www.reddit.com/r/webdev/new</link>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 17 Feb 2024 11:14:02 GMT</lastBuildDate>
+    <item>
+      <title>我在 PHP 框架中添加了 AI 函数调用功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszjgy/i_added_ai_function_calling_feature_to_my_php/</link>
+      <description><![CDATA[我使用了 llama.cpp 并打开源LLM 当用户输入与提示相关的内容时，提示控制器会触发以产生一些效果。  例如，如果用户询问收养一只猫，这将触发：  用户：我正在考虑养一只猫 框架： ```php [RespondsToPromptSubject( 操作：&#39;采用&#39;，主题：&#39;猫&#39;，  )] [Singleton(collection: SingletonCollection::PromptSubjectResponder)] 只读类 CatAdopt 实现 PromptSubjectResponderInterface { public function respondToPromptSubject(PromptSubjectRequest $request, PromptSubjectResponse $response): void { $response -&gt;write(“给你：\n\n”); $response-&gt;write(&quot; |_./|\n&quot;); $response-&gt;write(&quot; | o o |\n&quot;); $response-&gt;write(“( T )\n”); $response-&gt;write(&quot; .-^-.\n&quot;); $response-&gt;write(&quot; &lt;代码&gt;.;.\n&quot;); $response-&gt;write(&quot; | | | | |\n&quot;); $response-&gt;write(&quot; ((((|))_))\n&quot;); $响应-&gt;结束(); } } ``` 整个图库：https://imgur.com/a/t4FVabp&lt; /p&gt; 该项目是免费且开源的。 Resonance 是一个新的异步 PHP 框架，可促进基础设施中服务之间的互操作性和消息传递，并授予一些 AI 功能。 了解更多 - 文档：https://resonance.distantmagic.com/ GitHub 存储库：https://github.com/distantmagic/resonance 顺便说一句，我需要你的帮助！我现在正在免费开发该项目几个月。我正在寻找测试人员和贡献者（例如改进提示）。如果您想提供帮助，请访问 Discord，我将帮助您开始。如果您只是想来打个招呼，或者在 GitHub 上留下一个开始，我也将不胜感激。这会表明我对这类工作有兴趣。  https://i.imgur.com/fCmSTRb.gif   由   提交 /u/mcharytoniuk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszjgy/i_added_ai_function_calling_feature_to_my_php/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AHA 堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszj8p/the_aha_stack/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszj8p/the_aha_stack/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何以及在何处存储备份？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszg6d/how_and_where_to_store_backups/</link>
+      <description><![CDATA[大家好， 我的团队目前正在构建一个中小型项目，该项目也涉及敏感用户数据（我们正在欧盟），我们目前正在考虑如何以及在哪里存储备份，所以我想知道 2024 年的最佳实践是什么。 你们有什么可以推荐的免费服务吗？您是自动备份还是手动备份？  谢谢！   由   提交 /u/mixedfeelingz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszg6d/how_and_where_to_store_backups/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>星期六炫耀：人工智能辅助日期假名化？软件即服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asz5vd/showoff_saturday_ai_assisted_date/</link>
+      <description><![CDATA[大家好，我一直在开发人工智能辅助假名引擎，该引擎最近发布了第一个版本。该应用程序旨在使数据假名化管道的创建、管理和执行变得简单且可扩展，同时还使用机器学习提供对数据集及其可能包含的任何个人数据的巧妙洞察。完整的门户网站仍在开发中，但您可以在https://seudo.alpn-software.com&lt;查看该应用程序的演示/a&gt; 应用程序末尾有反馈表，请留下您的想法。多多益善。对于任何感兴趣的人来说，UI 是使用 Vue3 构建并托管在 AWS Cloudfront 上，而后端是一个微服务架构，其 API 是用 Python 编写的，并使用 AWS Lambda、Docker 和 AWS API 网关进行部署。整个事情是使用 Terraform 进行管理的。    由   提交/u/OkInteraction493  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asz5vd/showoff_saturday_ai_assisted_date/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的旧项目的代码 - 一个书籍制作网站，适合那些正在寻找灵感的人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asz2kd/code_for_my_old_project_a_bookmaking_website_for/</link>
+      <description><![CDATA[       由   提交/u/Magiqon   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asz2kd/code_for_my_old_project_a_bookmaking_website_for/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:36:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>过滤前的 CTA</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asyqtt/cta_before_fiiter/</link>
+      <description><![CDATA[      页脚上方有 CTA 的部分称为哪些部分。想知道它的术语。上面的例子来自 whop   由   提交/u/Galvanikal  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asyqtt/cta_before_fiiter/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 从哪里获得这些标题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asy4ig/where_does_google_get_these_titles_from/</link>
+      <description><![CDATA[      ​ https://preview.redd.it/d71etz2i74jc1.png?width=1135&amp;format=png&amp; ;auto=webp&amp;s=1f38d9e7aee56e3c95af4a1d88a56193d5eece1f 这不是标题元标记，也不是域名。有人可以帮忙吗？   由   提交 /u/kevinsschmidt   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asy4ig/where_does_google_get_these_titles_from/</guid>
+      <pubDate>Sat, 17 Feb 2024 09:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pree：一个简单的工具，可以轻松构建免构建网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asy4d2/pree_a_simple_tool_to_easily_build_nobuild/</link>
+      <description><![CDATA[   /u/lorean_victor  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asy4d2/pree_a_simple_tool_to_easily_build_nobuild/</guid>
+      <pubDate>Sat, 17 Feb 2024 09:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的网站所有流量来源均来自http://statics.teams.cdn.office.net/</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asxf3k/all_of_my_website_traffic_source_is_coming_from/</link>
+      <description><![CDATA[这是什么意思？   由   提交 /u/Fast-Ad-7653   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asxf3k/all_of_my_website_traffic_source_is_coming_from/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过冒泡排序确定需求的优先级</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asx6f7/prioritize_requirements_with_bubble_sort/</link>
+      <description><![CDATA[ 由   提交/u/nicotinum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asx6f7/prioritize_requirements_with_bubble_sort/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>让文档自己生成！ （寻求早期想法）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aswz8h/let_the_documentations_be_generated_themselves/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/amAProgrammer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aswz8h/let_the_documentations_be_generated_themselves/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:13:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>域名在推送到 GitHub 后不久就被占用了...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</link>
+      <description><![CDATA[所以，我在一年前创建了这个 iOS 应用程序。直到现在我才打算为其创建一个网站。我去Namecheap上搜索域名。已被采取。出于纯粹的好奇，我在 Whois 上搜索以查看该名称何时被占用。它说它是在22年11月22日注册的。这引起了怀疑，因此我转到我的 GitHub 帐户来检查我何时对该项目进行了首次提交。我最初的提交是在 22 年 10 月 25 日，大约在注册前一个月... 我只是偏执地过度思考这个问题，也许这是一个巧合？注册商是否会在 GitHub 上搜索项目并获取域名？这似乎是窃取和追加销售域名的完美场所，因为如果人们花费数小时为其项目编写代码，就会产生明显的兴趣   由   提交/u/danhiggins1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的流量仅在 Google Analytics 中可见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</link>
+      <description><![CDATA[Google Analytics 显示自 14.2 起。我的网站每 20 分钟就会有来自波兰、华沙的定期访问，并显示在流量来源“news.grets.store”中这似乎是俄罗斯域名 https://eveninsight.com/safety-checker/website/news.grets。 store  想要阻止此操作，但我在网站日志中找不到有关这些访问的统计信息，似乎它们只存在于 Google Analytics 中。机器人流量是否通常会从我的网站监控日志中过滤掉并仅显示在 Google 分析中？  感觉有点多余，流量在 GA 中可见，但不能轻易地从网站配置中阻止（如果或因为似乎我在那里看不到这些访问，我没有他们的 IP 或用户代理）&lt; /p&gt; 有什么想法吗？以前在我的网站上从未见过这种流量。  ​   由   提交/u/SpecialistAd4217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</guid>
+      <pubDate>Sat, 17 Feb 2024 07:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个人工智能工作网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</link>
+      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</guid>
+      <pubDate>Sat, 17 Feb 2024 07:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>独立开发者，如何编辑图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</link>
+      <description><![CDATA[嗨，我正在制作一个应用程序，我需要使用客户的徽标进行启动和导航。他们发给我的徽标是横向的，我也需要纵向版本。然后我还需要将前景和背景分成两个文件。 现在我知道我可以花十美元聘请一位艺术家来完成此任务，但这些任务看起来很简单，比如在上面添加一个白色矩形顶部和底部。 有没有一个好的软件可以轻松做到这一点？我以前默认使用 gimp，但它太大了，我每次都需要查找 YouTube 视频。你用什么？   由   提交 /u/ratrak_one   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</guid>
+      <pubDate>Sat, 17 Feb 2024 06:55:34 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
