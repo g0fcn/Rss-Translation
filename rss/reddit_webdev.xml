@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 11:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 12:23:57 GMT</lastBuildDate>
+    <item>
+      <title>[周六炫耀]：Armyclash.io</title>
+      <link>https://www.reddit.com/r/webdev/comments/1at0ou8/showoff_saturday_armyclashio/</link>
+      <description><![CDATA[        由   提交 /u/jbs__   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1at0ou8/showoff_saturday_armyclashio/</guid>
+      <pubDate>Sat, 17 Feb 2024 12:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发新手需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1at0iv7/new_to_web_dev_require_help/</link>
+      <description><![CDATA[我目前正在通过一些免费的 youtube 课程学习 webdev，在该课程中，他们正在教如何制作 Spotify 克隆，并介绍如何托管他们推荐的网站（webhostmost）这还不错，只是它没有为免费计划提供足够的存储空间，所以我正在探索其他选项，例如渲染和奖励空间以及 WordPress，但 WordPress 主要感觉像一个博客托管网站，也许还有一些商店，但我可以托管吗像 Spotify 这样的网站克隆有很多歌曲吗？以及托管此类网站的其他不错的选择。我是这个子版块的新手，我在 Reddit 上发帖很少，所以如果我违反了任何规则，我很抱歉。   由   提交/u/dank_guy0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1at0iv7/new_to_web_dev_require_help/</guid>
+      <pubDate>Sat, 17 Feb 2024 12:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 TypeScript 中使用泛型：实用指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszzeu/using_generics_in_typescript_a_practical_guide/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Clarity_89  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszzeu/using_generics_in_typescript_a_practical_guide/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP 的历史和状态码背后的故事</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aszw2r/the_history_of_http_and_the_stories_behind_status/</link>
+      <description><![CDATA[       由   提交/u/waterslurpingnoises   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aszw2r/the_history_of_http_and_the_stories_behind_status/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:29:53 GMT</pubDate>
+    </item>
     <item>
       <title>我在 PHP 框架中添加了 AI 函数调用功能</title>
       <link>https://www.reddit.com/r/webdev/comments/1aszjgy/i_added_ai_function_calling_feature_to_my_php/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>如何以及在何处存储备份？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aszg6d/how_and_where_to_store_backups/</link>
-      <description><![CDATA[大家好， 我的团队目前正在构建一个中小型项目，该项目也涉及敏感用户数据（我们正在欧盟），我们目前正在考虑如何以及在哪里存储备份，所以我想知道 2024 年的最佳实践是什么。 你们有什么可以推荐的免费服务吗？您是自动备份还是手动备份？  谢谢！   由   提交 /u/mixedfeelingz   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我的团队目前正在构建一个中小型项目，该项目也涉及敏感用户数据（我们正在欧盟），我们目前正在考虑如何以及在哪里存储数据库备份，所以我想知道 2024 年的最佳实践是什么。 你们有什么可以推荐的免费服务吗？您是自动备份还是手动备份？ 谢谢！   由   提交 /u/mixedfeelingz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aszg6d/how_and_where_to_store_backups/</guid>
       <pubDate>Sat, 17 Feb 2024 11:00:48 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[     &lt; td&gt; 由   提交/u/amAProgrammer   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aswz8h/let_the_documentations_be_generated_themselves/</guid>
       <pubDate>Sat, 17 Feb 2024 08:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名在推送到 GitHub 后不久就被占用了...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</link>
-      <description><![CDATA[所以，我在一年前创建了这个 iOS 应用程序。直到现在我才打算为其创建一个网站。我去Namecheap上搜索域名。已被采取。出于纯粹的好奇，我在 Whois 上搜索以查看该名称何时被占用。它说它是在22年11月22日注册的。这引起了怀疑，因此我转到我的 GitHub 帐户来检查我何时对该项目进行了首次提交。我最初的提交是在 22 年 10 月 25 日，大约在注册前一个月... 我只是偏执地过度思考这个问题，也许这是一个巧合？注册商是否会在 GitHub 上搜索项目并获取域名？这似乎是窃取和追加销售域名的完美场所，因为如果人们花费数小时为其项目编写代码，就会产生明显的兴趣   由   提交/u/danhiggins1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aswyr8/domain_name_taken_shortly_after_pushing_to_github/</guid>
-      <pubDate>Sat, 17 Feb 2024 08:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的流量仅在 Google Analytics 中可见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</link>
-      <description><![CDATA[Google Analytics 显示自 14.2 起。我的网站每 20 分钟就会有来自波兰、华沙的定期访问，并显示在流量来源“news.grets.store”中这似乎是俄罗斯域名 https://eveninsight.com/safety-checker/website/news.grets。 store  想要阻止此操作，但我在网站日志中找不到有关这些访问的统计信息，似乎它们只存在于 Google Analytics 中。机器人流量是否通常会从我的网站监控日志中过滤掉并仅显示在 Google 分析中？  感觉有点多余，流量在 GA 中可见，但不能轻易地从网站配置中阻止（如果或因为似乎我在那里看不到这些访问，我没有他们的 IP 或用户代理）&lt; /p&gt; 有什么想法吗？以前在我的网站上从未见过这种流量。  ​   由   提交/u/SpecialistAd4217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aswcuf/weird_traffic_only_visible_in_google_analytics/</guid>
-      <pubDate>Sat, 17 Feb 2024 07:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个人工智能工作网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</link>
-      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asw3oj/i_made_a_site_for_jobs_in_artificial_intelligence/</guid>
-      <pubDate>Sat, 17 Feb 2024 07:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>独立开发者，如何编辑图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</link>
-      <description><![CDATA[嗨，我正在制作一个应用程序，我需要使用客户的徽标进行启动和导航。他们发给我的徽标是横向的，我也需要纵向版本。然后我还需要将前景和背景分成两个文件。 现在我知道我可以花十美元聘请一位艺术家来完成此任务，但这些任务看起来很简单，比如在上面添加一个白色矩形顶部和底部。 有没有一个好的软件可以轻松做到这一点？我以前默认使用 gimp，但它太大了，我每次都需要查找 YouTube 视频。你用什么？   由   提交 /u/ratrak_one   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1asvsb4/solo_devs_how_do_you_edit_images/</guid>
-      <pubDate>Sat, 17 Feb 2024 06:55:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

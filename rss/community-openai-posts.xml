@@ -4,63 +4,22 @@
     <title>OpenAI 开发者论坛 - 最新帖子</title>
     <link>https://community.openai.com</link>
     <description>最新帖子</description>
-    <lastBuildDate>Sat, 17 Feb 2024 11:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 12:24:51 GMT</lastBuildDate>
     <item>
-      <title>最新更新后的 Web 界面问题</title>
-      <link>https://community.openai.com/t/web-interface-issues-after-latest-update/632999#post_1</link>
-      <description><![CDATA[自动滚动发生了什么？当我过去将大量文本或代码粘贴到网络界面中时，它会自动滚动到底部，但现在它不再这样做了。最新更新后，一切都坏了。
-如果你在粘贴大量文本后开始输入内容，你就必须再次滚动……网络界面已经完蛋了。
-如果这个问题没有很快得到解决，我将不会续订我的订阅。]]></description>
-      <guid>https://community.openai.com/t/web-interface-issues-after-latest-update/632999#post_1</guid>
-      <pubDate>Sat, 17 Feb 2024 11:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT 不再读取消息中的 PDF</title>
-      <link>https://community.openai.com/t/gpts-not-reading-pdfs-in-messages-anymore/632599#post_4</link>
-      <description><![CDATA[我现在也遇到了同样的问题，希望能解决。就我而言，整个检索似乎不起作用，而是使用数据分析或只是网页浏览。]]></description>
-      <guid>https://community.openai.com/t/gpts-not-reading-pdfs-in-messages-anymore/632599#post_4</guid>
-      <pubDate>Sat, 17 Feb 2024 11:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>SORA 准备好使用了吗？你将如何使用它？</title>
-      <link>https://community.openai.com/t/is-sora-ready-for-use-how-will-you-use-it/628976?page=5#post_89</link>
-      <description><![CDATA[所以 Sora 将接管建模纹理混合器和 Maya 的工作？]]></description>
-      <guid>https://community.openai.com/t/is-sora-ready-for-use-how-will-you-use-it/628976?page=5#post_89</guid>
-      <pubDate>Sat, 17 Feb 2024 11:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>DALL-E 不断生成某人绘画和/或艺术工具的手</title>
-      <link>https://community.openai.com/t/dall-e-keeps-generating-the-hands-of-someone-drawing-and-or-art-tools/632954#post_2</link>
-      <description><![CDATA[不要使用 DALL-E 进行负面提示。
-指定一代应该做什么，而不是不应该做什么。
-DALL-E 上的内容过滤器处理非常强大，不会以显式图形进行响应。
-另请确保使用用户参数。]]></description>
-      <guid>https://community.openai.com/t/dall-e-keeps-generating-the-hands-of-someone-drawing-and-or-art-tools/632954#post_2</guid>
-      <pubDate>Sat, 17 Feb 2024 11:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>DALLE-3 ON API - 种子支持</title>
-      <link>https://community.openai.com/t/dalle-3-on-api-seed-support/480047?page=2#post_40</link>
-      <description><![CDATA[同意，我喜欢种子，因为它对服装和面部一致性以及超复杂场景有很大帮助。但实际上，您并不需要为许多不同的图像和样式提供种子。我刚才在不到一分钟的时间内通过 api 一次尝试创建了下面的所有这些图像。我以编程方式调整我编写的电影脚本中每个场景的提示，但角色基本相同。没有种子。没有参考 ID。我通过 API 花了大约 40 秒。我确实很想看看种子是否真的能改善事物。如果您想让您的角色更加个性化，例如看起来像您自己，那么您肯定需要种子或参考图像/ID。或者 dalle 需要能够处理更长的提示，以便您可以超详细地描述字符。
-]]></description>
-      <guid>https://community.openai.com/t/dalle-3-on-api-seed-support/480047?page=2#post_40</guid>
-      <pubDate>Sat, 17 Feb 2024 10:58:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以禁用并行工具调用？</title>
-      <link>https://community.openai.com/t/is-it-possible-to-disable-parallel-tool-calls/632932#post_2</link>
-      <description><![CDATA[有多种方法，具体取决于您想要如何处理此问题。
-一种方法是简单地构建一个用户流程，询问用户许可并描述服务将要执行的操作，然后让用户决定。如文档中所述：
-&lt;块引用&gt;
-最新模型（gpt-3.5-turbo-0125 和 gpt-4-turbo-preview）经过训练，可以检测何时应调用函数（取决于输入）并使用比以前的模型更严格地遵循函数签名的 JSON 进行响应。这种能力也带来了潜在的风险。我们强烈建议在代表用户采取影响世界的行动（发送电子邮件、在线发布内容、购买等）之前构建用户确认流程。
-
-另一种可能的方法是在系统消息中明确指定一次仅使用一个工具，因为：
-&lt;块引用&gt;
-在底层，函数按照模型训练过的语法注入到系统消息中。
-– 文档
-]]></description>
-      <guid>https://community.openai.com/t/is-it-possible-to-disable-parallel-tool-calls/632932#post_2</guid>
-      <pubDate>Sat, 17 Feb 2024 10:58:21 GMT</pubDate>
+      <title>在启用检索的情况下，模型对线程中的第二个问题给出了错误的答案</title>
+      <link>https://community.openai.com/t/model-gives-incorrect-answers-for-second-question-in-thread-with-retrieval-enabled/633183#post_1</link>
+      <description><![CDATA[你好，
+我正在使用内置的检索功能。我上传了一个文件作为知识库，大约有1200字（所以不是很大）。我面临以下问题：模型非常准确地回答了线程的第一个问题，但对于同一线程中的第二个问题，它开始给出错误的答案（产生幻觉）。例如：
+主题 1：
+Q-X → 准确回答
+Q-Y → 错误答案伴有幻觉
+主题 2：
+Q-Y → 准确回答
+Q-X → 错误答案伴有幻觉
+该模型是否也没有使用第二个问题的知识库？我一直在尝试使用 gpt-4-turbo-preview。
+知道为什么会发生这种情况吗？]]></description>
+      <guid>https://community.openai.com/t/model-gives-incorrect-answers-for-second-question-in-thread-with-retrieval-enabled/633183#post_1</guid>
+      <pubDate>Sat, 17 Feb 2024 12:20:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

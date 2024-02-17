@@ -4,7 +4,50 @@
     <title>所有人工智能新闻</title>
     <link>https://allainews.com/</link>
     <description>allainews.com 将所有有关人工智能、机器学习、深度学习、计算机视觉、NLP、数据科学和大数据的热门新闻、播客以及更多内容聚合到一处。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 11:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 12:24:57 GMT</lastBuildDate>
+    <item>
+      <title>如何将法学硕士武器化以自动劫持网站</title>
+      <link>https://allainews.com/item/how-to-weaponize-llms-to-auto-hijack-websites-2024-02-17/</link>
+      <description><![CDATA[我们采访了一位教授，他与同事一起开发了 OpenAI 的 GPT-4 和其他神经网络 AI 模型，这些模型是对有害和有偏见输出的持续安全担忧的主题，带来的风险超出了内容发布的范围。当与支持自动化的工具结合在一起时……]]></description>
+      <guid>https://allainews.com/item/how-to-weaponize-llms-to-auto-hijack-websites-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>马克·扎克伯格短期内不会排队购买像埃隆·马斯克的 Neuralink 这样的大脑芯片</title>
+      <link>https://allainews.com/item/mark-zuckerberg-wont-be-lining-up-for-a-brain-chip-like-elon-musks-neuralink-anytime-soon-2024-02-17/</link>
+      <description><![CDATA[扎克伯格表示，他“不想使用第一版”大脑芯片植入物。马斯克最近表示，Neuralink 已经为第一位人类患者植入了植入物。 ……]]></description>
+      <guid>https://allainews.com/item/mark-zuckerberg-wont-be-lining-up-for-a-brain-chip-like-elon-musks-neuralink-anytime-soon-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发新闻：React 19、Bun 加入 Angular 以及 GitHub AI 基金</title>
+      <link>https://allainews.com/item/dev-news-react-19-bun-comes-to-angular-and-github-ai-fund-2024-02-17/</link>
+      <description><![CDATA[React 18 发布已经两年了，所以出现一些问题也就不足为奇了
+开发新闻：React 19、Bun Comes to Angular 和 GitHub AI Fund 帖子首先出现在 The New Stack 上。 ……]]></description>
+      <guid>https://allainews.com/item/dev-news-react-19-bun-comes-to-angular-and-github-ai-fund-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频亮点：数据科学趋势预测 — 与 Sadie St. Lawrence</title>
+      <link>https://allainews.com/item/video-highlights-data-science-trend-predictions-with-sadie-st-lawrence-2024-02-17/</link>
+      <description><![CDATA[在这段视频演示中，我们的好朋友 Jon Krohn（机器学习公司 Nebula 的联合创始人兼首席数据科学家）与 Sadie St. Lawrence 一起分析了去年的预测，并深入研究了重塑行业的新兴技术……]]></description>
+      <guid>https://allainews.com/item/video-highlights-data-science-trend-predictions-with-sadie-st-lawrence-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman 刚刚提醒大家为什么 OpenAI 处于领先地位</title>
+      <link>https://allainews.com/item/sam-altman-just-reminded-everyone-why-openai-is-leading-the-pack-2024-02-17/</link>
+      <description><![CDATA[OpenAI 刚刚推出了新的文本到视频模型 Sora，尽管已经存在类似的技术，但它在网上引发了巨大的反响。 ……]]></description>
+      <guid>https://allainews.com/item/sam-altman-just-reminded-everyone-why-openai-is-leading-the-pack-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:57:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI可以预测未来</title>
+      <link>https://allainews.com/item/ai-can-predict-the-future-2024-02-17/</link>
+      <description><![CDATA[……]]></description>
+      <guid>https://allainews.com/item/ai-can-predict-the-future-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 10:40:01 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 申请“GPT”商标在美国专利商标局遇到困难</title>
       <link>https://allainews.com/item/openais-quest-to-trademark-gpt-hits-a-wall-at-the-us-patent-and-trademark-office-2024-02-17/</link>
@@ -38,6 +81,13 @@ OpenAI 这篇文章现在价值 800 亿美元，很可能让一批新的百万�
       <pubDate>Sat, 17 Feb 2024 08:25:55 GMT</pubDate>
     </item>
     <item>
+      <title>加拿大航空被勒令向被航空公司聊天机器人误导的客户付款</title>
+      <link>https://allainews.com/item/air-canada-ordered-to-pay-customer-who-was-misled-by-airlines-chatbot-2024-02-17/</link>
+      <description><![CDATA[在法庭上，加拿大航空声称其对其聊天机器人的言论不负有责任，因为该聊天机器人是一个“独立的法律实体”。 ……]]></description>
+      <guid>https://allainews.com/item/air-canada-ordered-to-pay-customer-who-was-misled-by-airlines-chatbot-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 08:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>适合云架构师和工程师的 40 多个 Bash 命令。</title>
       <link>https://allainews.com/item/40-bash-commands-for-cloud-architects-engineers-2024-02-17/</link>
       <description><![CDATA[Linux 因其安全、保密功能和易用性而成为使用最广泛的开源操作系统之一。在云中，您会在物联网、大数据、DevOps、网络、数据管理、计算等领域找到它。
@@ -65,57 +115,6 @@ OpenAI 这篇文章现在价值 800 亿美元，很可能让一批新的百万�
       <description><![CDATA[照片由 Lukas Blazek 在 Unsplash 创建更好的仪表板 — 神话还是现实？我的 beta 版本 2.0 使用 Dash 和 Dash 构建而成。 Plotly 而不是 MatplotlibIntroduction2023 年 2 月，我写了第一篇 Medium 帖子：如何在 Python 中自定义信息图表：T …]]></description>
       <guid>https://allainews.com/item/creating-a-better-dashboard-myth-or-reality-2024-02-17/</guid>
       <pubDate>Sat, 17 Feb 2024 05:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>周末人工智能项目：为视力障碍者打造视觉助手</title>
-      <link>https://allainews.com/item/a-weekend-ai-project-making-a-visual-assistant-for-people-with-vision-impairments-2024-02-17/</link>
-      <description><![CDATA[运行多模态 LLaVA 模型、相机和语音合成继续阅读走向数据科学 » ...]]></description>
-      <guid>https://allainews.com/item/a-weekend-ai-project-making-a-visual-assistant-for-people-with-vision-impairments-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，Reddit 在 IPO 前与人工智能公司签署内容许可协议</title>
-      <link>https://allainews.com/item/reddit-signs-content-licensing-deal-with-ai-company-ahead-of-ipo-bloomberg-reports-2024-02-17/</link>
-      <description><![CDATA[……]]></description>
-      <guid>https://allainews.com/item/reddit-signs-content-licensing-deal-with-ai-company-ahead-of-ipo-bloomberg-reports-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>CoRover.ai 是印度 LLM 竞赛的无声赢家</title>
-      <link>https://allainews.com/item/coroverai-is-the-silent-winner-of-indian-llm-race-2024-02-17/</link>
-      <description><![CDATA[Ankush Sabharwal 认为没有必要从头开始构建基础模型。 “当 Java 推出时，并没有创建另一个 Java 的冲动。”
-CoRover.ai 是印度 LLM 竞赛的无声胜利者一文首先出现在 Analytics I 上……]]></description>
-      <guid>https://allainews.com/item/coroverai-is-the-silent-winner-of-indian-llm-race-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 04:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>像 Bard (Gemini) 和 ChatGPT 这样的聊天机器人都太友善和谨慎了。你怎么认为？</title>
-      <link>https://allainews.com/item/chatbots-like-bard-gemini-and-chatgpt-are-too-nice-and-cautious-what-do-you-think-2024-02-17/</link>
-      <description><![CDATA[……]]></description>
-      <guid>https://allainews.com/item/chatbots-like-bard-gemini-and-chatgpt-are-too-nice-and-cautious-what-do-you-think-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 03:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>TravelPlanner：一个全面的人工智能基准，旨在跨多个维度评估语言代理在现实场景中的规划能力</title>
-      <link>https://allainews.com/item/meet-travelplanner-a-comprehensive-ai-benchmark-designed-to-evaluate-the-planning-abilities-of-language-agents-in-real-world-scena-2024-02-17/</link>
-      <description><![CDATA[最有趣的挑战之一是让人工智能代理能够模仿类人的规划能力。这些能力将使这些代理能够应对复杂的现实场景，这在很大程度上是一项难以掌握的任务。传统的人工智能规划工作已经……]]></description>
-      <guid>https://allainews.com/item/meet-travelplanner-a-comprehensive-ai-benchmark-designed-to-evaluate-the-planning-abilities-of-language-agents-in-real-world-scena-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 02:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flatiron 的第 3 阶段（Python）</title>
-      <link>https://allainews.com/item/phase-3-at-flatiron-python-2024-02-17/</link>
-      <description><![CDATA[第三阶段简介：
-当我踏上学习之旅的第三阶段时，Python 占据了中心舞台，为新的可能性领域打开了大门。探索 Python 是一项有趣的努力，其特点是我们的代码测试方法与……相比发生了显着转变。]]></description>
-      <guid>https://allainews.com/item/phase-3-at-flatiron-python-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 02:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 R-CNN 模型探索目标检测 — 综合初学者指南（第 2 部分）</title>
-      <link>https://allainews.com/item/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-2024-02-17/</link>
-      <description><![CDATA[使用 R-CNN 模型探索对象检测 — 综合初学者指南（第 2 部分）对象检测模型照片由 Liam siegel 在 Unsplash 对象检测模型上拍摄对象检测是一个复杂的过程，有助于定位和分类……]]></description>
-      <guid>https://allainews.com/item/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 02:28:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
