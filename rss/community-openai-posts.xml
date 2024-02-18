@@ -4,44 +4,128 @@
     <title>OpenAI 开发者论坛 - 最新帖子</title>
     <link>https://community.openai.com</link>
     <description>最新帖子</description>
-    <lastBuildDate>Sat, 17 Feb 2024 21:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 01:05:55 GMT</lastBuildDate>
     <item>
-      <title>GPT 突然无法读取其知识库中的文件</title>
-      <link>https://community.openai.com/t/gpt-suddenly-cant-read-files-in-its-knowledge-base/578576#post_18</link>
-      <description><![CDATA[&lt; /p&gt;
-我尝试打开代码分析器，没有改变任何东西]]></description>
-      <guid>https://community.openai.com/t/gpt-suddenly-cant-read-files-in-its-knowledge-base/578576#post_18</guid>
-      <pubDate>Sat, 17 Feb 2024 21:11:58 GMT</pubDate>
+      <title>垂直图像的方向问题</title>
+      <link>https://community.openai.com/t/orientation-problem-for-vertical-images/482759#post_18</link>
+      <description><![CDATA[我认为翻转图像方面取得了突破
+我今晚注意到，如果你过多地描述背景，它就会改变你的方向
+即纵向到横向
+如果我删除一些有关背景的细节，它又会正确
+如果模型认为它必须填充所有背景并且该方向为其提供了更多空间，那么这有点有意义？]]></description>
+      <guid>https://community.openai.com/t/orientation-problem-for-vertical-images/482759#post_18</guid>
+      <pubDate>Sun, 18 Feb 2024 01:04:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>PNG 格式现在仅适用于 WEBP 格式</title>
+      <link>https://community.openai.com/t/png-format-are-now-only-available-in-webp-format/611496#post_8</link>
+      <description><![CDATA[刚刚尝试生成图像，但它拒绝提供除垃圾 WEBP 格式之外的任何内容。我无法使用这些格式。我们需要 PNG 或 JPG，请停止这种 DRM 和水印垃圾。]]></description>
+      <guid>https://community.openai.com/t/png-format-are-now-only-available-in-webp-format/611496#post_8</guid>
+      <pubDate>Sun, 18 Feb 2024 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>即将推出的人工智能模型的新想法</title>
+      <link>https://community.openai.com/t/new-ideas-for-upcoming-ai-models/627789#post_19</link>
+      <description><![CDATA[
+
+
+jnordq：
+&lt;块引用&gt;
+我可以在某个地方请某人进行测试吗 - 可以提前访问的人？
+
+
+是的，Altman 先生一直在 X 上接受视频请求。]]></description>
+      <guid>https://community.openai.com/t/new-ideas-for-upcoming-ai-models/627789#post_19</guid>
+      <pubDate>Sun, 18 Feb 2024 01:00:51 GMT</pubDate>
     </item>
     <item>
       <title>GPT 不再读取消息中的 PDF</title>
-      <link>https://community.openai.com/t/gpts-not-reading-pdfs-in-messages-anymore/632599#post_9</link>
-      <description><![CDATA[我一直在注销并重新登录来解决该问题]]></description>
-      <guid>https://community.openai.com/t/gpts-not-reading-pdfs-in-messages-anymore/632599#post_9</guid>
-      <pubDate>Sat, 17 Feb 2024 21:10:57 GMT</pubDate>
+      <link>https://community.openai.com/t/gpts-not-reading-pdfs-in-messages-anymore/632599#post_14</link>
+      <description><![CDATA[嗯，我已经尝试过 txt 但同样的问题。
+它无法读取 pdf、CSV、txt 以及基本上所有文件。
+它无法生成稍微超出老大哥所说的范围的内容。
+这是他们放慢人工智能速度以便我们能够先让世界做好准备的方法吗？或者说，对于人工智能未来的面貌来说，这是一个非常坏的消息：大众之声所说的图像苍白。没有浪潮，只有短期主流思维。
+听起来像是一本不错的反乌托邦书。]]></description>
+      <guid>https://community.openai.com/t/gpts-not-reading-pdfs-in-messages-anymore/632599#post_14</guid>
+      <pubDate>Sun, 18 Feb 2024 00:58:41 GMT</pubDate>
     </item>
     <item>
-      <title>语音通话功能音量低的问题 - 还有其他人吗？</title>
-      <link>https://community.openai.com/t/low-volume-issue-on-voice-call-feature-anyone-else/408669?page=3#post_58</link>
-      <description><![CDATA[2024 年 2 月，问题仍然存在。]]></description>
-      <guid>https://community.openai.com/t/low-volume-issue-on-voice-call-feature-anyone-else/408669?page=3#post_58</guid>
-      <pubDate>Sat, 17 Feb 2024 21:10:37 GMT</pubDate>
+      <title>我的 Sora AI 视频请求</title>
+      <link>https://community.openai.com/t/sora-ai-video-request-from-me/634965#post_3</link>
+      <description><![CDATA[可以理解，但这不是开发者论坛吗？]]></description>
+      <guid>https://community.openai.com/t/sora-ai-video-request-from-me/634965#post_3</guid>
+      <pubDate>Sun, 18 Feb 2024 00:58:21 GMT</pubDate>
     </item>
     <item>
-      <title>财务分析、大数据和 PDF 表格提取 - 最佳实践</title>
-      <link>https://community.openai.com/t/financial-analysis-big-data-and-pdf-table-extraction-best-practice/591614#post_9</link>
-      <description><![CDATA[我发现它们是 adobe 的一个 python 模块，名为“Adobe PDF Extract API”。
-我认为 OpenAI 应该与 adobe 合作将这种逻辑融入到他们的产品中。作为需要自己格式化输入以供 LLM 使用的开发人员，这对我们来说是一种负担。
-我的意思是，如果 OpenAI 可以构建并发布文本到视频模型……那么将包含表格和数字的 pdf 读入可用的 LLM 内容对于 OpenAI 来说就是小菜一碟]]></description>
-      <guid>https://community.openai.com/t/financial-analysis-big-data-and-pdf-table-extraction-best-practice/591614#post_9</guid>
-      <pubDate>Sat, 17 Feb 2024 21:05:52 GMT</pubDate>
+      <title>基于纯文本微调聊天模型</title>
+      <link>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_5</link>
+      <description><![CDATA[
+
+
+_j：
+&lt;块引用&gt;
+诸如davinci-002之类的聊天，仍然存在
+
+
+嗯，确实如此。 davinci-003 已经消失，davinci-002 仍然可用。     我失去了它。
+
+
+
+ 图标：
+&lt;块引用&gt;
+是的：我想给它新的信息。这可能吗？
+
+
+人们通常使用 RAG（检索增强生成）来实现此目的。如果您只是想尝试一下，您也许可以获得一个使用自定义 gpt 或助手运行的原型，然后查看矢量数据库。]]></description>
+      <guid>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_5</guid>
+      <pubDate>Sun, 18 Feb 2024 00:57:09 GMT</pubDate>
     </item>
     <item>
-      <title>快速启动设置环境错误</title>
-      <link>https://community.openai.com/t/quickstart-setup-environment-error/625020#post_11</link>
-      <description><![CDATA[如何在 VS code 中设置环境？]]></description>
-      <guid>https://community.openai.com/t/quickstart-setup-environment-error/625020#post_11</guid>
-      <pubDate>Sat, 17 Feb 2024 21:02:15 GMT</pubDate>
+      <title>我的 Sora AI 视频请求</title>
+      <link>https://community.openai.com/t/sora-ai-video-request-from-me/634965#post_2</link>
+      <description><![CDATA[抱歉，论坛上的“我们这些人”只是其他用户，而不是 OpenAI 内部人士。
+组织之外提供专业知识来完善这项研究的任何人可能都必须签署一份全面的保密协议——这意味着不得满足对受版权束缚的角色的请求。]]></description>
+      <guid>https://community.openai.com/t/sora-ai-video-request-from-me/634965#post_2</guid>
+      <pubDate>Sun, 18 Feb 2024 00:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于纯文本微调聊天模型</title>
+      <link>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_4</link>
+      <description><![CDATA[是的：我想给它新的信息。这可能吗？]]></description>
+      <guid>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_4</guid>
+      <pubDate>Sun, 18 Feb 2024 00:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Sora AI 视频请求</title>
+      <link>https://community.openai.com/t/sora-ai-video-request-from-me/634965#post_1</link>
+      <description><![CDATA[嗨！听说过你们的新人工智能视频制作器，但鉴于它目前尚未向公众开放，我想我应该在这里提出我的视频请求：你们能给我制作一个关于被绑住并被堵住嘴的皮卡丘试图逃脱束缚的视频吗？使用索拉？如果你们满足我的要求，我会很高兴！]]></description>
+      <guid>https://community.openai.com/t/sora-ai-video-request-from-me/634965#post_1</guid>
+      <pubDate>Sun, 18 Feb 2024 00:53:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于纯文本微调聊天模型</title>
+      <link>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_3</link>
+      <description><![CDATA[各个消息背后的背景是，当您使用普通的聊天完成 API 发送到 AI 时，它们会被容器化。这强化了“用户”和“助手”之间交换的角色和身份，也为人工智能的带外指令提供了“系统”角色。
+由于人工智能实际上可以看到这一点，并且您正在向人工智能示例展示它应该如何与正常情况不同的书写方式，因此您还必须采用这种训练格式。
+训练文件的每一行都会有一系列消息，显示示例对话，从“系统”标识开始，您可以使用它使您的微调与其他预训练、用户输入以及新类型不同征求 AI 响应。
+&lt;小时/&gt;
+即使在“聊天完成”之外，微调聊天中未调整的正常完成模型，例如 davinci-002，仍然存在，您仍然需要提供训练中的某种结构，在用户输入和 AI 生成之间提供分隔符（您对 API 的使用反映了这一点），因此 AI 知道它应该写入哪里，从一个新实体开始。你仍然制定了一种聊天格式。否则，人工智能将继续在您输入中断的地方继续写入。]]></description>
+      <guid>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_3</guid>
+      <pubDate>Sun, 18 Feb 2024 00:51:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于纯文本微调聊天模型</title>
+      <link>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_2</link>
+      <description><![CDATA[（帖子已被作者删除）]]></description>
+      <guid>https://community.openai.com/t/fine-tune-chat-model-based-on-plain-text/634946#post_2</guid>
+      <pubDate>Sun, 18 Feb 2024 00:48:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-4 每次更新都变得越来越糟糕</title>
+      <link>https://community.openai.com/t/gpt-4-is-getting-worse-and-worse-every-single-update/508470?page=11#post_236</link>
+      <description><![CDATA[]]></description>
+      <guid>https://community.openai.com/t/gpt-4-is-getting-worse-and-worse-every-single-update/508470?page=11#post_236</guid>
+      <pubDate>Sat, 17 Feb 2024 23:49:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
