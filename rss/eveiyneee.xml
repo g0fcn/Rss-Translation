@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>évelyne / @eveiyneee</title>
+    <link>http://nitter.esmailelbob.xyz/eveiyneee</link>
+    <description>Twitter 供稿：@eveiyneee。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 19 Feb 2024 03:27:40 GMT</lastBuildDate>
+    <item>
+      <title>R 致@eveiyneee：不幸的是，我没有任何 16.x arm64e 测试设备，但它在我的所有设备上都运行得非常好！</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864741362028778#m</link>
+      <description><![CDATA[不幸的是，我没有任何 16.x arm64e 测试设备，但它在我的所有设备上都运行得非常好！]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864741362028778#m</guid>
+      <pubDate>Sat, 17 Feb 2024 14:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dopamine 2.0 一定是有史以来最好的 arm64e 越狱。速度快得令人难以置信且稳定</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864251727257798#m</link>
+      <description><![CDATA[Dopamine 2.0 一定是有史以来最好的 arm64e 越狱。速度快且稳定，令人难以置信]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864251727257798#m</guid>
+      <pubDate>Sat, 17 Feb 2024 14:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @eveiyneee：ElleKit 1.1.1 现已在 https://ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</link>
+      <description><![CDATA[ElleKit 1.1.1 现已在 ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</guid>
+      <pubDate>Mon, 29 Jan 2024 22:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你关心的话，17.2 及更低版本似乎在 igmp_flush_relq 中有一个 UaF（krw！）。我是
+不够聪明，无法利用它，其他人应该尝试</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751723085659566525#m</link>
+      <description><![CDATA[如果你关心的话，17.2 及更低版本似乎在 igmp_flush_relq 中有一个 UaF（krw！）。我是
+不够聪明，无法利用它，其他人应该尝试]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751723085659566525#m</guid>
+      <pubDate>Sun, 28 Jan 2024 21:45:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@eveiyneee：到底有多少半活跃越狱用户？你的估计是多少@aaronp613</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694715630604532#m</link>
+      <description><![CDATA[到底有多少半活跃越狱用户？您的估计是多少 @aaronp613]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694715630604532#m</guid>
+      <pubDate>Sun, 28 Jan 2024 19:52:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@eveiyneee：我怀疑我永远不会知道，因为回购协议没有统计数据</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694200469344765#m</link>
+      <description><![CDATA[我怀疑我永远不会知道，因为仓库没有统计数据]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694200469344765#m</guid>
+      <pubDate>Sun, 28 Jan 2024 19:50:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想知道 ellekit 有多少用户。所有 rootless / roothide 用户都使用它，所以它一定很多吧？</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694199299224053#m</link>
+      <description><![CDATA[我想知道 ellekit 有多少用户。所有 rootless / roothide 用户都使用它，所以它一定很多吧？]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694199299224053#m</guid>
+      <pubDate>Sun, 28 Jan 2024 19:50:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我没有 17.4 checkm8 设备来测试 ellekit，所以我不知道是否能够解决该问题。它们很贵</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751012009884192926#m</link>
+      <description><![CDATA[我没有 17.4 checkm8 设备来测试 ellekit，所以我不知道是否能够解决该问题。它们很贵]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751012009884192926#m</guid>
+      <pubDate>Fri, 26 Jan 2024 22:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@eveiyneee：@apple 100$ 要么接受要么放弃</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011401462669591#m</link>
+      <description><![CDATA[@apple 100 美元接受或放弃]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011401462669591#m</guid>
+      <pubDate>Fri, 26 Jan 2024 22:37:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>“com,apple.developer.marketplace.app-installation”的 100 万美元是一回事，但“com,apple,private,security.no-sandbox”要花多少钱？</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011247057780895#m</link>
+      <description><![CDATA[“com,apple.developer.marketplace.app-installation”100 万美元是一回事，但“com,apple,private,security.no-sandbox”要花多少钱？]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011247057780895#m</guid>
+      <pubDate>Fri, 26 Jan 2024 22:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有点有趣的是，iOS 17.0 有一个 CoreTrust 漏洞，但仍然无法在设备上获得用它签名的二进制文件。真正展示了 installd 的检查对于设备安全有多么有用</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1747654434341921076#m</link>
+      <description><![CDATA[有点有趣的是，iOS 17.0 有一个 CoreTrust 漏洞，但仍然无法在设备上获得用它签名的二进制文件。真正展示了 installd 的检查对于设备安全有多么有用]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1747654434341921076#m</guid>
+      <pubDate>Wed, 17 Jan 2024 16:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@eveiyneee：而且 rootless 仍然比 roothide 更好，应该是可选的 😭</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382962983600186#m</link>
+      <description><![CDATA[而且 rootless 仍然比 roothide 更好，应该是可选的 😭]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382962983600186#m</guid>
+      <pubDate>Fri, 05 Jan 2024 21:24:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@eveiyneee：我仍然认为像这样发布它是愚蠢的，CoreTrust 旁路应该充分自动化，以稳定的方式支持系统范围的注入，但无论如何我都会为我的主设备制作我自己的私人东西</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382175431410157#m</link>
+      <description><![CDATA[我仍然认为这样发布它很愚蠢，CoreTrust 旁路应该充分自动化，以稳定的方式支持系统范围的注入，但无论如何我都会为我的主设备制作自己的私有东西]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382175431410157#m</guid>
+      <pubDate>Fri, 05 Jan 2024 21:21:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致 @eveiyneee：*如果* 17.0 获得正确的内核或 launchd 漏洞，我可能会恢复所需的用户空间 PAC 旁路工作</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1743381540023783631#m</link>
+      <description><![CDATA[*如果* 17.0 获得正确的内核或 launchd 漏洞，我可能会恢复所需的用户空间 PAC 旁路工作]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1743381540023783631#m</guid>
+      <pubDate>Fri, 05 Jan 2024 21:18:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很高兴有人对 SpringBoard 调整注入感兴趣，你不应该再指望我发布任何与此相关的内容。</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1743381538962645039#m</link>
+      <description><![CDATA[我很高兴有人对 SpringBoard 调整注入感兴趣，您不应再期望我发布与此相关的任何内容。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1743381538962645039#m</guid>
+      <pubDate>Fri, 05 Jan 2024 21:18:44 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

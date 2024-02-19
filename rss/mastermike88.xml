@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>迈克尔/@MasterMike88</title>
+    <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
+    <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 19 Feb 2024 03:27:48 GMT</lastBuildDate>
+    <item>
+      <title>将此分享给有识之士。
+
+如果您的设备在 iOS 16 上达到 EoL（iPhone 8(+)/X、iPad Pro 9.7"/12.9" 第一代或 iPad 第五代），16.7.5 cryptex 与 16.6.1 兼容
+
+这意味着什么？：如果您有 blob，您实际上可以通过 futurerestore 转到 16.6.1。
+
+现在，需要记住三件事：
+- 你不能使用 futurerestore 的 nightly 分支，你必须编译并使用 futurerestore 的 dev 分支，可以在 https://github.com/futurerestore/futurerestore/tree/dev 找到
+- 这样做会中断 OTA 更新，直到您恢复到最新的 iOS 版本
+- 执行此操作后，“设置”->“常规”->“关于”将显示 16.7.5，但点击 iOS 版本应该显示它在 16.6.1 上，具有 16.7.5 快速安全响应（实际上是密码）
+
+再次强调，除非您知道自己在做什么，否则不要这样做。</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759401746500128917#m</link>
+      <description><![CDATA[分享给有识之士。
+
+如果您的设备在 iOS 16 上达到 EoL（iPhone 8(+)/X、iPad Pro 9.7&quot;/12.9&quot; 第一代或 iPad 第五代），16.7.5 cryptex 与 16.6.1 兼容
+
+这意味着什么？：如果你有 blob，你实际上可以通过 futurerestore 访问 16.6.1。
+
+现在，需要记住三件事：
+- 你不能使用 futurerestore 的 nightly 分支，你必须编译并使用 futurerestore 的 dev 分支，可以在 github 找到.com/futurerestore/fut…
+- 这样做会中断 OTA 更新，直到您恢复到最新的 iOS 版本
+- 设置 -&gt; 常规 -&gt; 关于 执行此操作后将显示 16.7.5，但点击 iOS 版本应该显示它在 16.6.1 上，具有 16.7.5 快速安全响应（实际上是密码）
+
+再次强调，除非您知道自己在做什么，否则不要这样做。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759401746500128917#m</guid>
+      <pubDate>Mon, 19 Feb 2024 02:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>@MasterMike88转发：礼包码购买和兑换目前正在维护中。我们对不便表示抱歉。</title>
+      <link>http://nitter.esmailelbob.xyz/HavocRepo/status/1759080583047590109#m</link>
+      <description><![CDATA[礼品代码购买和兑换目前正在进行维护。对于给您带来的不便，我们深表歉意。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/HavocRepo/status/1759080583047590109#m</guid>
+      <pubDate>Sun, 18 Feb 2024 05:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>上下文</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759076711486951870#m</link>
+      <description><![CDATA[上下文
+nitter.esmailelbob.xyz/MasterMike88/status/1759075554806927368#m
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759076711486951870#m</guid>
+      <pubDate>Sun, 18 Feb 2024 04:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 到@MasterMike88：也可以设置速率限制</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075703310418412#m</link>
+      <description><![CDATA[还要设置速率限制]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075703310418412#m</guid>
+      <pubDate>Sun, 18 Feb 2024 04:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>给所有拥有礼品代码的存储库维护者的建议：不要让代码中除了少数字符之外的所有字符都是常量
+
+不要问我为什么发这个帖子</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075554806927368#m</link>
+      <description><![CDATA[给所有拥有礼物代码的存储库维护者的建议：不要让代码中除了少数字符之外的所有字符都是常量
+
+不要问我为什么发这篇文章]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075554806927368#m</guid>
+      <pubDate>Sun, 18 Feb 2024 04:41:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @MasterMike88：我想我会再做一次，因为几个月前我做了类似的事情：
+
+您有哪些与 Dopamine 或 TrollStore 有关的问题？</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758918422149144948#m</link>
+      <description><![CDATA[我想我会再做一次，因为几个月前我做了类似的事情：
+
+您有哪些与 Dopamine 或 TrollStore 有关的问题？]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758918422149144948#m</guid>
+      <pubDate>Sat, 17 Feb 2024 18:16:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @MasterMike88：Dopamine 2.0 一定是有史以来最好的 arm64e 越狱。速度快得令人难以置信且稳定</title>
+      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864251727257798#m</link>
+      <description><![CDATA[Dopamine 2.0 一定是有史以来最好的 arm64e 越狱。速度快且稳定，令人难以置信]]></description>
+      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864251727257798#m</guid>
+      <pubDate>Sat, 17 Feb 2024 14:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>顺便说一句，多巴胺 2.0.5 应该可以修复 16GB RAM 的问题，这要归功于添加了 Dhinak 的内存占用者。
+
+https://github.com/opa334/Dopamine/releases/tag/2.0.5</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758855390458957986#m</link>
+      <description><![CDATA[多巴胺 2.0.5 应该可以解决 16GB RAM 的问题，这要归功于添加了 Dhinak 的内存占用者。
+
+github.com/opa334/Dopamine/r…
+nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758855390458957986#m</guid>
+      <pubDate>Sat, 17 Feb 2024 14:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不得不说，Dopamine (2.x) 是迄今为止我在现代使用过的最好的越狱之一：
+- 极其可靠
+- 极其稳定
+- 极快的利用速度
+
+图片来自：
+最大16.0 XS
+- 16.5.1 SE 2</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758570201765880106#m</link>
+      <description><![CDATA[我不得不说，Dopamine (2.x) 是迄今为止我在现代时代使用过的最好的越狱之一：
+- 极其可靠
+- 极其稳定
+- 利用速度极快
+
+图片来自：
+最大 16.0 XS
+- 16.5.1 SE 2
+nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m
+
+
+
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758570201765880106#m</guid>
+      <pubDate>Fri, 16 Feb 2024 19:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>多巴胺2.0正式发布。
+
+下载：https://ellekit.space/dopamine
+指南：https://ios.cfw.guide/installing-dopamine
+
+设备/操作系统支持：
+A15-A16/M2：15.0-16.5 / 16.6 beta 1-2（beta 3/4 需要测试人员）
+A12-A14/M1：15.0-16.5.1 / 16.6 贝塔 1-4
+A9-A11：15.0-16.6.1
+A8：不支持
+
+笔记：
+- 如果您正在使用血清素和/或 Bootstrap，则必须将其删除 - 安装它们后多巴胺将不起作用
+- 16GB RAM M1/M2 iPad Pro 可能需要打开 60 个 safari 选项卡或使用大量占用内存的应用程序，否则它将不会成功（这不适用于 M1 iPad Air 或 8GB RAM M1/M2 iPad Pro）
+- 如果您已经在使用 Dopamine 1.x，则越狱时应迁移您的设置
+- 如果您使用 meowbrek2、dnajt 或 Palera1n（以及其他一两个），则现有设置将保持不变，但不会迁移到 Dopamine 2.x
+- Betas 和 RC 要求（大多数情况下）您已安装 TrollStore</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m</link>
+      <description><![CDATA[多巴胺2.0正式发布。
+
+下载：ellekit.space/dopamine
+指南：ios.cfw.guide/installing-dop…
+
+设备/操作系统支持：
+A15-A16/M2：15.0-16.5 / 16.6 beta 1-2（beta 3/4 需要测试人员）
+A12-A14/M1：15.0-16.5.1 / 16.6 贝塔 1-4
+A9-A11：15.0-16.6.1
+A8：不支持
+
+备注：
+- 如果您正在使用血清素和/或 Bootstrap，则必须将其删除 - 安装它们后多巴胺将无法工作
+- 16GB RAM M1/M2 iPad Pro 可能需要打开 60 个 safari 选项卡或使用大量占用内存的应用程序，否则它将不会成功（这不适用于 M1 iPad Air 或 8GB RAM M1/M2 iPad Pro） 
+- 如果您已经在使用 Dopamine 1.x，则在越狱时应迁移您的设置
+- 如果您使用 meowbrek2、dnajt 或 Palera1n（以及其他一两个），则现有设置将保持不变，但不会迁移到 Dopamine 2.x
+- Betas 和 RC 要求（大多数情况下）您安装了 TrollStore
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m</guid>
+      <pubDate>Fri, 16 Feb 2024 17:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个平台的格式如此糟糕，让我很生气</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758541896450797593#m</link>
+      <description><![CDATA[这个平台的格式如此糟糕，让我很生气]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758541896450797593#m</guid>
+      <pubDate>Fri, 16 Feb 2024 17:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>@MasterMike88 转发：多巴胺 2.0 正式发布。支持
+
+15.0 - 16.6.1，arm64（目前为 A9+）
+15.0 - 16.5.1, A12 - A14
+15.0 - 16.5, A15 - A16
+
+发布帖子：
+https://www.reddit.com/r/jailbreak/comments/1ascjhy/dopamine_20_jailbreak_for_ios_150_1661_a9_and_up/</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</link>
+      <description><![CDATA[多巴胺2.0正式发布。支持
+
+15.0 - 16.6.1，arm64（目前为A9+）
+15.0 - 16.5.1，A12 - A14
+15.0 - 16.5，A15 - A16
+
+发布帖子：
+trodit.esmailelbob.xyz/r/jailbreak/comme…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</guid>
+      <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>随机问题，这里是否有人拥有以下任何 17.0 beta 版本的设备（注意：这与任何形式的越狱无关，最多只是针对 TrollStore 的这些 beta 版本）：
+- 测试版1
+- 测试版2
+- 测试版3
+- 测试版4</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758365505860128921#m</link>
+      <description><![CDATA[随机问题，这里是否有人拥有以下任何 17.0 beta 版本的设备（注意：这与任何形式的越狱无关，最多只是针对这些 beta 的 TrollStore）：
+- 测试版 1
+- 测试版 2
+- 测试版 3
+- 测试版 4]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758365505860128921#m</guid>
+      <pubDate>Fri, 16 Feb 2024 05:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>不知何故，这应该明天就能到达，这会很好
+
+迫不及待地等待美国邮政再次搞砸送货，尽管出于某种未知的原因！</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758347750846972288#m</link>
+      <description><![CDATA[不知何故，这应该明天就能到达，这会很好
+
+迫不及待地等待美国邮政再次搞砸送货，尽管出于某种未知的原因！
+nitter.esmailelbob.xyz/MasterMike88/status/1757561230468772087#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758347750846972288#m</guid>
+      <pubDate>Fri, 16 Feb 2024 04:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>几个小时前刚刚赢得了这个</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1757561230468772087#m</link>
+      <description><![CDATA[几个小时前刚刚赢得了这个
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1757561230468772087#m</guid>
+      <pubDate>Wed, 14 Feb 2024 00:23:45 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

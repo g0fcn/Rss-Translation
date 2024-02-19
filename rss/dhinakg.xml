@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>迪纳克 G / @dhinakg</title>
+    <link>http://nitter.esmailelbob.xyz/dhinakg</link>
+    <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 19 Feb 2024 03:27:31 GMT</lastBuildDate>
+    <item>
+      <title>多巴胺2.0出来了！
+
+祝贺 @opa334dev 和 @dora2ios 以及所有做出贡献的人，以及所有内部测试人员！</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1758534363325546713#m</link>
+      <description><![CDATA[多巴胺2.0已经出来了！
+
+恭喜 @opa334dev 和 @dora2ios以及所有做出贡献的人，以及所有内测人员！
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1758534363325546713#m</guid>
+      <pubDate>Fri, 16 Feb 2024 16:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @dhinakg：多巴胺 2.0 正式发布。支持
+
+15.0 - 16.6.1，arm64（目前为 A9+）
+15.0 - 16.5.1, A12 - A14
+15.0 - 16.5, A15 - A16
+
+发布帖子：
+https://www.reddit.com/r/jailbreak/comments/1ascjhy/dopamine_20_jailbreak_for_ios_150_1661_a9_and_up/</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</link>
+      <description><![CDATA[多巴胺2.0正式发布。支持
+
+15.0 - 16.6.1，arm64（目前为A9+）
+15.0 - 16.5.1，A12 - A14
+15.0 - 16.5，A15 - A16
+
+发布帖子：
+trodit.esmailelbob.xyz/r/jailbreak/comme…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</guid>
+      <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>visionOS 1.0.3 版本 (21N333) 已发布。
+
+“此更新提供了重要的错误修复，并添加了一个在您忘记密码时重置设备的选项。”</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1757104290865332449#m</link>
+      <description><![CDATA[visionOS 1.0.3 版本 (21N333) 已发布。
+
+“此更新提供了重要的错误修复，并添加了一个选项，用于在您忘记密码时重置您的设备。”]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1757104290865332449#m</guid>
+      <pubDate>Mon, 12 Feb 2024 18:08:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>感谢您参与我们的社会实验。</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1756790218286301355#m</link>
+      <description><![CDATA[感谢您参与我们的社交实验。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1756790218286301355#m</guid>
+      <pubDate>Sun, 11 Feb 2024 21:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>ellekit.space/多巴胺/2.0</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1756786437083533626#m</link>
+      <description><![CDATA[ellekit.space/dopamine/2.0]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1756786437083533626#m</guid>
+      <pubDate>Sun, 11 Feb 2024 21:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>🤔</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1756775112601186693#m</link>
+      <description><![CDATA[🤔]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1756775112601186693#m</guid>
+      <pubDate>Sun, 11 Feb 2024 20:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @dhinakg：终于让 NewTerm 工作了，这太棒了！感谢@icrazeios 的帮助！</title>
+      <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1753886999235240120#m</link>
+      <description><![CDATA[终于让 NewTerm 工作了，太棒了！感谢 @icrazeios 的帮助！
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1753886999235240120#m</guid>
+      <pubDate>Sat, 03 Feb 2024 21:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ElleKit 1.1.2 现已发布在 https://ellekit.space 上，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 且该设备使用 Palera1n 启动时可能出现的问题。
+
+如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
+      <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 时可能出现的问题并且设备使用 Palera1n 启动。
+
+如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</guid>
+      <pubDate>Wed, 31 Jan 2024 21:23:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @dhinakg：- 将安全模式警报更改为“退出安全模式”和“关闭”（由 @icrazeios 提供）
+- 点击 SpringBoard 上的状态栏时显示安全模式警报（由 @icrazeios 提供）
+- 安装/升级 ElleKit 时删除日志文件（如果存在）
+- 修复 rootful 上的日志路径</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091829107888258#m</link>
+      <description><![CDATA[- 将安全模式警报更改为“退出安全模式”和“关闭”（作者：@icrazeios） 
+- 点击 SpringBoard 上的状态栏时显示安全模式警报（作者：@icrazeios）
+- 安装/升级 ElleKit 时删除日志文件（如果存在）
+- 修复 rootful 上的日志路径]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091829107888258#m</guid>
+      <pubDate>Mon, 29 Jan 2024 22:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@dhinakg：变更日志：
+- 修复即使在 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
+- 17.4 beta 1 支持（由 @opa334dev 提供）
+- 改进越狱检测代码</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</link>
+      <description><![CDATA[变更日志：
+- 修复即使在 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
+- 17.4 beta 1 支持（由@opa334dev）
+- 改进越狱检测代码]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</guid>
+      <pubDate>Mon, 29 Jan 2024 22:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>ElleKit 1.1.1 现已在 https://ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</link>
+      <description><![CDATA[ElleKit 1.1.1 现已在 ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</guid>
+      <pubDate>Mon, 29 Jan 2024 22:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @dhinakg：在紧要关头，我的 2023 年最后一个视频和文章🎊
+
+今年早些时候，macOS High Sierra 互联网恢复出现错误“无法联系恢复服务器”
+
+@dhinakg 帮助我调查并解决了问题
+
+https://youtu.be/ouNQS36dIBw
+https://mrmacintosh.com/how-to-fix-the-recovery-server-could-not-be-contacted-error-high-sierra-recovery-is-still-online-but-broken</title>
+      <link>http://nitter.esmailelbob.xyz/ClassicII_MrMac/status/1741659658278871119#m</link>
+      <description><![CDATA[就在紧要关头，我的最后一个视频&amp; 2023年文章🎊
+
+今年早些时候，macOS High Sierra 互联网恢复因错误“无法联系恢复服务器”而中断
+
+@dhinakg 帮助我调查并解决问题
+
+invidious.esmailelbob.xyz/ouNQS36dIBw
+mrmacintosh.com/how-to-fix-t…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/ClassicII_MrMac/status/1741659658278871119#m</guid>
+      <pubDate>Mon, 01 Jan 2024 03:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 16.6.1 和 17.0 正式延迟 OTA 未签名。已经没有办法更新了。</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1740051539564314896#m</link>
+      <description><![CDATA[iOS 16.6.1 和 17.0 已正式延迟 OTA 未签名。不再有更新的方法。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1740051539564314896#m</guid>
+      <pubDate>Wed, 27 Dec 2023 16:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致 @dhinakg：@Little_34306 在让 Misaka 参与 M1/M2 方面也取得了巨大成功。希望 PureKFD 和 Misaka 都能在不久的将来得到支持。不过，请不要因为预计到达时间而打扰任何人。</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1732223140866961849#m</link>
+      <description><![CDATA[@Little_34306 在让御坂参与 M1/M2 方面也取得了巨大成功。希望 PureKFD 和 Misaka 都能在不久的将来得到支持。不过，请不要因为预计到达时间而打扰任何人。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1732223140866961849#m</guid>
+      <pubDate>Wed, 06 Dec 2023 02:19:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>M1 上的 TrollStore，无需越狱。
+
+使用 PureKFD 的私有 WIP 版本完成。不，没有预计到达时间。
+
+感谢 PureKFD Discord 中的 @noxwelle 和 shg8 修复 M1/M2 上的 KFD，感谢 @Lrdsnow101 访问私人存储库。 （我完成了安装TS的代码）</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1732223138815996221#m</link>
+      <description><![CDATA[M1 上的 TrollStore，无需越狱。
+
+使用 PureKFD 的私有 WIP 版本完成。不，没有预计到达时间。 
+
+感谢 @noxwelle &amp; shg8 来自 PureKFD Discord，用于 M1/M2 上的 KFD 修复，以及 @Lrdsnow101 用于访问私人存储库。 （我完成了安装TS的代码）
+
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1732223138815996221#m</guid>
+      <pubDate>Wed, 06 Dec 2023 02:19:14 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
