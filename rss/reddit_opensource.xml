@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最新提交：开源</title>
+    <link>https://www.reddit.com/r/opensource/new</link>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Mon, 19 Feb 2024 02:43:16 GMT</lastBuildDate>
+    <item>
+      <title>Bitmagnet 允许人们在本地运行自己的去中心化 Torrent 索引器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1au9b2t/bitmagnet_allows_people_to_run_their_own/</link>
+      <description><![CDATA[ 由   提交 /u/foundfootagefan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1au9b2t/bitmagnet_allows_people_to_run_their_own/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 Wi-Fi 身份验证绕过漏洞暴露家庭、企业网络</title>
+      <link>https://www.reddit.com/r/opensource/comments/1au47wr/new_wifi_authentication_bypass_flaws_expose_home/</link>
+      <description><![CDATA[       由   提交 /u/wewewawa   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1au47wr/new_wifi_authentication_bypass_flaws_expose_home/</guid>
+      <pubDate>Sun, 18 Feb 2024 20:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>修改后的 MIT 许可证（限制商业用途）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1au2974/modified_mit_license_with_restricted_commercial/</link>
+      <description><![CDATA[嗨，我正在寻找一个看起来有点像这样的许可证（我将某些内容与 ChatGPT 放在一起）：  具有商业限制的 MIT 许可证 版权所有 (c) [年份] [全名] 特此免费授予任何获得本软件及相关文档文件副本的人（“软件”），不受限制地处理本软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售的权利 /&gt; 本软件的副本，前提是满足以下条件： 1. 允许在各种商业环境中使用本软件或其任何部分（包括修改版本），例如集成到产品、服务、或系统。1.1。但是，它不得成为其他公司提供的任何商业产品或服务的主要或主要方面。 1.2。如果本软件被用作其他公司提供的任何商业产品或服务的主要或主要部分，则必须从版权所有者处获得单独的许可或协议。3. 上述版权声明和本许可声明应适用包含在本软件的所有副本或重要部分中。本软件按“原样”提供，不提供任何类型的明示或暗示的保证，包括但不限于适销性、特定用途的适用性和不侵权的保证。在任何情况下， 作者或版权持有者均不对因 引起的任何索赔、损害或其他 责任（无论是合同诉讼、侵权行为还是其他行为）承担责任。与软件的联系或软件中的使用或其他交易。  我的想法是我想发布一个应用程序并希望允许商业用途，因为我个人在以下情况下感到恼火我找到了一个很好的工具，我只能在私人场合使用，而不能在工作中使用，但我也想保护我的作品不被出售或其他东西。我的目标是在允许商业使用和防止第三方直接销售或利用我的软件之间取得平衡。 有类似的建议或要点吗？也许某件事已经被证明了？ ​ 你们对此有何看法？您认为这仍然是开源吗？   由   提交 /u/mArKoLeW   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1au2974/modified_mit_license_with_restricted_commercial/</guid>
+      <pubDate>Sun, 18 Feb 2024 19:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Angular 无头哈希节点 |开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1au1k2z/angular_headless_hashnode_open_source_project/</link>
+      <description><![CDATA[我想和大家分享一下我最近开始的 Angular 开源项目。 欢迎各个级别的 Angular 开发者协作 - https://github.com/monacodelisa/angular-headless-hashnode   由   提交 /u/monacodelisa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1au1k2z/angular_headless_hashnode_open_source_project/</guid>
+      <pubDate>Sun, 18 Feb 2024 18:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉 想分享我的第一个开源项目的一个小里程碑：Logbun 今天收到了第一个贡献！一个简单的拼写错误修复，但对我来说是一个重要的里程碑。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1au0f9l/want_to_share_a_small_milestone_for_my_first/</link>
+      <description><![CDATA[   /u/Accomplished_Horse_4   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1au0f9l/want_to_share_a_small_milestone_for_my_first/</guid>
+      <pubDate>Sun, 18 Feb 2024 18:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>NxtCMS - NodeJS 无头 CMS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</link>
+      <description><![CDATA[一项开源计划，旨在为下一代应用程序构建和维护功能齐全的 CMS。在 MongoDB 的支持下使用 NodeJS 和 NextJS 构建。 欢迎合作者加入团队并帮助我们开发。 Github : https://github.com/nxtopen/nxtcms 加入我们！  &amp; #32；由   提交/u/gilzonme  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</guid>
+      <pubDate>Sun, 18 Feb 2024 15:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化网络抓取开源库反馈和提示</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</link>
+      <description><![CDATA[嗨，我正在和一群人一起开发一个开源库，目标是让这个项目成为首选用于抓取的工具库，类似于数据科学中的 pandas，与经典库的区别在于利用 LLM 和代理技术，我知道这是一个相当雄心勃勃的目标，为此我向您询问一些技巧和方法扩展维护者/贡献者以及如何发展此类项目。 此处存储库：https://github.com/ VinciGit00/Scrapegraph-ai   由   提交/u/lurenssss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</guid>
+      <pubDate>Sun, 18 Feb 2024 12:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>更改海信 Vidaa 电视上的操作系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ats5a3/changing_os_on_my_hisense_vidaa_tv/</link>
+      <description><![CDATA[我非常讨厌我的海信 A7KAU 电视上的 Vidaa 操作系统，它太慢了，不稳定，让我很恼火。我想知道是否有办法在上面安装不同的操作系统，比如 Android TV。我真的不在乎需要做什么，因为我愿意尝试任何事情来实现这一点，只要我不必花很多钱购买某种设备。    由   提交 /u/TheShrubby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ats5a3/changing_os_on_my_hisense_vidaa_tv/</guid>
+      <pubDate>Sun, 18 Feb 2024 11:35:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么开发者选择 MIT 许可证而不是 ISC？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atpsz4/why_developers_choose_mit_license_over_isc/</link>
+      <description><![CDATA[两个许可证非常相似。它们几乎是一样的。 ISC 也更短。但我几乎从未见过有人真正使用 ISC。为什么会这样？   由   提交 /u/vedehcsra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atpsz4/why_developers_choose_mit_license_over_isc/</guid>
+      <pubDate>Sun, 18 Feb 2024 08:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Rails 创建了一个开源项目，下一步是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atpn7q/i_created_an_open_source_project_for_rails_whats/</link>
+      <description><![CDATA[这是一个为 GDPR 合规性准备的 Rails 活动日志记录 gem。我需要有关如何成功推动开源项目的反馈。 将其付诸实践。 https://loggableactivity -efe7b931c886.herokuapp.com/   由   提交/u/This_Routine_116   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atpn7q/i_created_an_open_source_project_for_rails_whats/</guid>
+      <pubDate>Sun, 18 Feb 2024 08:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>CubeTrek，一款面向徒步社区的开源社区驱动型 GPS 数据分析工具 - 寻求支持和反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atodoj/cubetrek_an_open_source_and_communitydriven_gps/</link>
+      <description><![CDATA[       由   提交 /u/folli   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atodoj/cubetrek_an_open_source_and_communitydriven_gps/</guid>
+      <pubDate>Sun, 18 Feb 2024 07:21:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 [T]csh 的修改</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atjbji/modifications_on_tcsh/</link>
+      <description><![CDATA[我对 [T]csh 进行了一些修改。 - 函数（仅适用于脚本） - 将文件读入变量 - 对交互式会话的评论 - 判断 stdin 是否为空 如果有任何反馈、建议或贡献，我将不胜感激。非常欢迎任何形式的贡献。 一位关键的 [T]csh 开发人员要求我为 我的函数发明。如果你们中有人进行测试，我将不胜感激。 源代码位于此处。修改在分支中分开。 我有原始 Csh 的存储库，但仅函数在那里，但不是最新的。   由   提交/u/Krush206  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atjbji/modifications_on_tcsh/</guid>
+      <pubDate>Sun, 18 Feb 2024 02:27:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们正在寻找什么替代方案？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atgcx3/what_alternatives_are_people_looking_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atgcx3/what_alternatives_are_people_looking_for/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何正确开源具有未知版权情况的老式字体的扩展 ASCII 艺术程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/</link>
+      <description><![CDATA[我计划创建一个程序，用于使用互联网早期的旧扩展 ASCII Art 字体创建文本。 &lt; pre&gt;╦ ┬┬┌─┌─┐ ┌┬┐┬ ┬┬┌─┐ ║ │├┴┐├┤ │ ├─┤│└─┐ ╩═╝┴┴ ┴└─┘ ┴ ┴┴┴ └─┘o  我计划在 MIT 甚至 MIT-0 下发布它。问题是，我无法找到该字体的创建者。由于它的版权情况未知，很明显我不能在符号设计方面不加任何注释地在免费许可下发布整个程序。 处理这个问题的正确方法是什么？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/</guid>
+      <pubDate>Sat, 17 Feb 2024 21:22:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持自动更新尺寸标签的免费 CAD 应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1at7123/free_cad_application_that_supports_autoupdating/</link>
+      <description><![CDATA[我正在寻找一款免费的 2D CAD 应用程序，该应用程序支持在缩放形状时自动更新的尺寸标签。研究了几个应用程序，发现 LibreCAD 或 FreeCAD 都无法做到这一点。 这是 SmartDraw 中的功能。不幸的是，他们只按年收费，而且我不会使用它足够的成本效益。如果是按月付款，我肯定会付费。 https://imgur.com/a/3Yvp8BS   由   提交 /u/HiddenMushroom11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1at7123/free_cad_application_that_supports_autoupdating/</guid>
+      <pubDate>Sat, 17 Feb 2024 17:19:36 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
