@@ -4,59 +4,31 @@
     <title>OpenAI 开发者论坛 - 最新帖子</title>
     <link>https://community.openai.com</link>
     <description>最新帖子</description>
-    <lastBuildDate>Sun, 18 Feb 2024 21:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 02:39:47 GMT</lastBuildDate>
     <item>
-      <title>助理检索的定价如何运作？</title>
-      <link>https://community.openai.com/t/how-does-pricing-for-assistant-retrieval-work/637726#post_4</link>
-      <description><![CDATA[我相信有 20 个文件上传限制，因此这可以回答您的查询  底层系统是 Azure AI Search，因此您可以从 Microsoft 查找其规格，希望如此将指导您了解它是如何做它所做的事情的。]]></description>
-      <guid>https://community.openai.com/t/how-does-pricing-for-assistant-retrieval-work/637726#post_4</guid>
-      <pubDate>Sun, 18 Feb 2024 21:08:09 GMT</pubDate>
+      <title>帐户已删除或停用</title>
+      <link>https://community.openai.com/t/account-deleted-or-deactivated/579784#post_4</link>
+      <description><![CDATA[没有“向我们发送消息”选项，似乎只有“提问”，而对话框只是提供问题列表，不允许用户输入。]]></description>
+      <guid>https://community.openai.com/t/account-deleted-or-deactivated/579784#post_4</guid>
+      <pubDate>Mon, 19 Feb 2024 02:33:57 GMT</pubDate>
     </item>
     <item>
-      <title>使用openai解决Wordle</title>
-      <link>https://community.openai.com/t/using-openai-to-solve-wordle/18529#post_12</link>
-      <description><![CDATA[一个简单的改变可能会提高性能，wordle 是部分文字游戏部分字母游戏，如果你将一个单词的字母作为一个单词，即“铅笔”，那么这对人工智能来说是一个单一的标记，它不会看起来将其视为一组字母，将“pencil”替换为“p-e-n-c-i-l”，您将得到非常不同的响应，也许同时包含“pencil，p-e-n-c-i-l”会更好......享受！]]></description>
-      <guid>https://community.openai.com/t/using-openai-to-solve-wordle/18529#post_12</guid>
-      <pubDate>Sun, 18 Feb 2024 21:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>SORA：等等，但是它有声音吗？！</title>
-      <link>https://community.openai.com/t/sora-wait-but-does-it-come-with-sound/632185#post_18</link>
-      <description><![CDATA[是的，可能会有更多 
-如果您发现任何诈骗，您可以向我或其他版主之一发送链接，我们会定期报告这些诈骗。 &lt;img alt=&quot;:heart:&quot; class=&quot;emoji&quot; height=&quot;20&quot; src=&quot;https://emoji.discourse-cdn.com/twitter/heart.png?v=12&quot; title=&quot;:heart: “宽度=“20”/&gt;]]></description>
-      <guid>https://community.openai.com/t/sora-wait-but-does-it-come-with-sound/632185#post_18</guid>
-      <pubDate>Sun, 18 Feb 2024 21:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>错误“嗯……似乎出了问题。”</title>
-      <link>https://community.openai.com/t/error-hmm-something-seems-to-have-gone-wrong/635479#post_8</link>
-      <description><![CDATA[同样的问题。清除缓存、cookie 或更改浏览器 100% 都会导致相同的错误。]]></description>
-      <guid>https://community.openai.com/t/error-hmm-something-seems-to-have-gone-wrong/635479#post_8</guid>
-      <pubDate>Sun, 18 Feb 2024 21:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡在“嗯……好像出了什么问题”。与 GPT4</title>
-      <link>https://community.openai.com/t/stuck-at-hmm-something-seems-to-have-gone-wrong-with-gpt4/624063#post_3</link>
-      <description><![CDATA[同样的问题。清除缓存、cookie 或更改浏览器 100% 都会导致相同的错误]]></description>
-      <guid>https://community.openai.com/t/stuck-at-hmm-something-seems-to-have-gone-wrong-with-gpt4/624063#post_3</guid>
-      <pubDate>Sun, 18 Feb 2024 21:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>SORA：等等，但是它有声音吗？！</title>
-      <link>https://community.openai.com/t/sora-wait-but-does-it-come-with-sound/632185#post_17</link>
-      <description><![CDATA[我开始在互联网上看到假冒的 SORA 骗局。]]></description>
-      <guid>https://community.openai.com/t/sora-wait-but-does-it-come-with-sound/632185#post_17</guid>
-      <pubDate>Sun, 18 Feb 2024 21:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>您已达到 GPT-4、WTH 的当前使用上限</title>
-      <link>https://community.openai.com/t/youve-reached-the-current-usage-cap-for-gpt-4-wth/598606?page=3#post_49</link>
-      <description><![CDATA[40/3 小时是可以忍受的，如果他们让你知道你用了多少，但不知何故他们移除了计数器，让你自己优雅地测量和节流&lt; br /&gt;
-相反，你只有在撞到墙上时才知道冷却时间
-事实上，他们不再让你知道你在 40 条限制内烧毁了多少条消息，这对我来说表明他们并不真正关心你在这里概述的任何内容，他们只是希望你达到限制并离开你付费的服务，并且希望重置限制时忘记回来。
-这样，他们就可以最大限度地提高付费客户未使用和浪费的配额。]]></description>
-      <guid>https://community.openai.com/t/youve-reached-the-current-usage-cap-for-gpt-4-wth/598606?page=3#post_49</guid>
-      <pubDate>Sun, 18 Feb 2024 20:59:52 GMT</pubDate>
+      <title>如何克服响应延迟</title>
+      <link>https://community.openai.com/t/how-to-overcome-latency-in-response/594000#post_2</link>
+      <description><![CDATA[嘿@logankilpatrick：我们是一家初创公司，不想在事情上花费时间和金钱OpenAI 计划在短期内进行改进。其中之一就是声音。请您告知一下您的发布时间表，其中哪些我什至不应该碰，因为您计划在未来 3-6 个月内发布：
+
+
+预测用户已完成讲话并且应处理用户输入以创建响应的 API。我知道您可能正在尝试通过“静音检测”或其他一些方法（例如流式传输）来实现此目的。
+
+
+检测 LLM 处理时间较长并注入适当填充词的 API。这可能包括向用户重述他们所说的话，以防他们的输入长度为 30-45 秒。
+
+
+此外，我申请了您在 Twitter 上宣布的新论坛。但没有收到任何确认电子邮件。我应该重新申请吗？
+钦梅·辛格
+iWish AI创始人。]]></description>
+      <guid>https://community.openai.com/t/how-to-overcome-latency-in-response/594000#post_2</guid>
+      <pubDate>Mon, 19 Feb 2024 02:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
