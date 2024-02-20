@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
+    <link>https://brettterpstra.com/</link>
+    <description></description>
+    <lastBuildDate>Tue, 20 Feb 2024 19:18:38 GMT</lastBuildDate>
+    <item>
+      <title>Cerakey陶瓷键帽评测</title>
+      <link>https://brett.trpstra.net/link/535/16580751/a-cerakey-ceramic-keycap-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16580751/a-cerakey-ceramic-keycap-review</guid>
+      <pubDate>Sat, 17 Feb 2024 20:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#dimspirations 回来了</title>
+      <link>https://brett.trpstra.net/link/535/16571361/dimspirations-are-back</link>
+      <description><![CDATA[ #dimspirations, automation, wallpaper, gallery, feedback
+总结:作者创建了一个名为#dimspirations的系列“inspirational”海报，并自动化了壁纸格式的创建。作者考虑建立一个易于维护的网站来展示这些作品，并考虑通过Patreon等方式获取支持。读者被邀请分享反馈和建议。 
+
+
+
+
+
+
+I’ve started creating Dimspirations again, my depressing-but-actually-realistic collection of “inspirational” posters. You can follow the hashtag #dimspirations on Twitter, Facebook, Mastodon, or Instagram for new posts. I’ve also automated the process of creating wallpaper-formatted version of them which get uploaded to Flickr and are also available as a zip (containing 5120x3200 and 2048x1366 versions). I should probably add an iPhone ratio to the automation, but they get harder to resize vertically from one image. Anyway, if you’re in the mood to be “dimspired,” check them out.
+By the way, if you’ve never checked it out, the “Other Stuff” section (where my wallpapers are located) has some fun projects in it. Fun for me, anyway.
+Side tangent: I own the domain dimspire.me, and have always meant to find a way to make an easy-to-maintain gallery out of these. Probably a blog-style thing with daily or weekly dimspirations, with basic comments functionality and links to download the square or wallpaper versions. The index page would just be a thumbnail gallery with the main image from each post. It might actually be nice to do a paywall and have the wallpaper versions supported by Patreon or something. I don’t know if anyone would actually pay for these. I’ve seen similar projects sold as books, and I feel like the designs are actually pretty good for print, so maybe someday. Anyway, my inclination is to do this site in Jekyll (which I’m very adept at), but would be open to any suggestions as to what the best way to accomplish this would be. I’m not even opposed to WordPress with some custom plugins (which I’m also surprisingly adept at), which would be pretty easy to automate and then I could use MarsEdit to maintain it. Still pondering.
+In the meantime, please share your feedback (and any suggestions, should the dimspiration strike)!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16571361/dimspirations-are-back</guid>
+      <pubDate>Mon, 12 Feb 2024 18:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 2 月 12 日网上游览</title>
+      <link>https://brett.trpstra.net/link/535/16571248/web-excursions-for-february-12-2024</link>
+      <description><![CDATA[ Find Any File, iThoughts, photo library, GUI, BrettTerpstra.com
+
+总结:
+本文介绍了几款实用的工具和应用，其中包括Find Any File，这是一款更新不断的应用，可以帮助用户进行准确的文件搜索，并且可以搜索NAS；iThoughts则是一款思维导图工具，虽然开发者已经停止更新，但仍然是一款值得推荐的应用；此外，还有一款用于整理照片库的工具，以及一款可以直接编辑Mac应用偏好设置的GUI工具。BrettTerpstra.com也提供了支持，读者可以选择是否点赞或分享。 
+
+
+
+
+
+
+Web excursions brought to you in partnership with MindMeister, the best collaborative mind mapping software out there.
+
+Find Any File
+I’ve mentioned HoudahSpot plenty of times, but there’s an app that’s been around since about 2005 that has been continually updated and only costs $6-10 that’s worth checking out if you constantly run into hard-to-find files. One major benefit of Find Any File is that it can search your NAS and doesn’t rely on Spotlight for indexing. Searches can be a little slow but they are VERY accurate. Allows saving searches and search templates, and can export found files as a list for use in scripting app… uses a pay-what-you-can shareware model (oh, the old days!). Here’s a great review from Allison Sheridan with much more detail.
+toketaWare has ceased trading
+If you’ve followed me for the last few years, you know I swear by iThoughts for my mind mapping needs (of which I have a lot). I’m pretty devastated to see that the developer has moved on and there will be no future releases of the app on any platform. I checked in with him, he says he’s fine, he just moved on. Fair enough. Now I have to pick a new favorite mind mapping tool. Open to your thoughts!
+Photoscope - Storage Cleaner on the App Store
+A tool for cleaning up your photo library by easily selecting the best image from sets of multiple/burst photos. Well done and easy to use.
+Prefs Editor
+From the same developer who makes Find Any File, a very handy GUI for directly editing any Mac app’s preferences. Especially great for apps that have “esoteric” or hidden preferences that require using defaults commands in Terminal. Free!
+
+Check out MindMeister and start brainstorming, collaborating, and boosting productivity.
+Like or share this post on Mastodon or Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16571248/web-excursions-for-february-12-2024</guid>
+      <pubDate>Mon, 12 Feb 2024 15:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 nvALT RTF 文件转换为 Markdown</title>
+      <link>https://brett.trpstra.net/link/535/16565808/convert-nvalt-rtf-files-to-markdown</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16565808/convert-nvalt-rtf-files-to-markdown</guid>
+      <pubDate>Thu, 08 Feb 2024 17:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>检查 VPN 连接第 2 部分</title>
+      <link>https://brett.trpstra.net/link/535/16553334/checking-for-a-vpn-connection-part-2</link>
+      <description><![CDATA[ scutil, VPN连接, 脚本, grep, 网络接口
+
+VPN连接状态检测的脚本可以通过使用scutil命令和grep来进行。通过检查返回值来确定VPN连接的状态，这个脚本可以让你更清晰地监控VPN的连接情况。总结: scutil命令和grep在脚本中被用来检测VPN连接状态，让你能够更有效地管理网络接口变化。 
+Ok, so I wrote yesterday about a solution for checking your VPN connection via a network interface change, but it turns out there’s a better way to do it. I discovered it shortly after posting (StackExchange thread), and received a few comments mentioning it. So here’s part two.
+The command is scutil, used for managing (s)ystem (c)onfiguration parameters. The command scutil --nc list will show your available VPN devices and their state, either Connected or Disconnected. By doing a case-sensitive grep for Connected we can determine if one or more is connected.
+So now the script just look like:
+#!/bin/bash
+
+while true; do
+  RES=`scutil --nc list | grep -c Connected`
+  [[ $RES == 0 ]] &amp;&amp; break
+  sleep 1
+done
+
+say &quot;VPN disconnected&quot;
+The scutil --nc list | grep -c Connected should return 0 if no VPN is connected, which you can then use to light up a button, integrate into launch/quit scripts, etc. Just a cleaner way to do what I showed yesterday.
+Trevor Manternach has an interesting post using this trick with Wirecast and Bartender.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16553334/checking-for-a-vpn-connection-part-2</guid>
+      <pubDate>Tue, 30 Jan 2024 16:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从命令行检查 VPN 连接</title>
+      <link>https://brett.trpstra.net/link/535/16552042/checking-for-a-vpn-connection-from-the-command-line</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16552042/checking-for-a-vpn-connection-from-the-command-line</guid>
+      <pubDate>Mon, 29 Jan 2024 19:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ScreenFloat 2 -- 增强你的屏幕截图 [赞助商]</title>
+      <link>https://brett.trpstra.net/link/535/16547664/screenfloat-2-power-up-your-screenshots-sponsor</link>
+      <description><![CDATA[ ScreenFloat, features, capture, annotations, organization
+总结:ScreenFloat是一个强大的屏幕截图工具，具有多种新功能和工具，包括截图、标注、组织等。它可以让用户轻松地进行屏幕截图、录制屏幕、添加标注和整理截图，非常方便实用。ScreensFloat的新版本提供了诸多升级，能够让用户更加高效地进行屏幕截图和管理。 
+Thanks to ScreenFloat for sponsoring BrettTerpstra.com this week! I was a frequent user of the original version, and I’m very excited to see version 2 released. It’s chock full of new features and tools that set it apart from the competition.
+
+
+
+
+
+
+
+
+Hi, my name’s Matthias, I’m the developer of Yoink, Transloader, and Tameno, among others.
+Allow me to introduce another one of my apps to you: ScreenFloat. Over eleven years after its initial v1 release, and after more than a year and a half of development, ScreenFloat 2 is finally here — rebuilt from the ground up, based on the core functionality that made it so beloved, but improving it in numerous, incredibly useful ways.
+Capture screenshots, record your screen, or take timed screenshots. Re-capture shots without painstakingly reframing them. Import from your clipboard, other apps, your Desktop, or your iOS devices.
+Float screenshots and recordings above all your other windows, apps and spaces, so information or reference material is always visible, no matter what you do. It’s like picture-in-picture, but for your captures.
+Texts, faces and barcodes are detected in every shot you take and can effortlessly be extracted/copied and non-destructively redacted with a simple right-click.
+Mark up and annotate your screenshots with lines, arrows, checkmarks, highlights, smart bullet points, redactions and more. All non-destructively, so you can always go back and make changes or restore the original capture.
+Pick colors from any floating shot. Crop, “fold”, resize, rotate, “de-retinize”, trim, and mute your shots.
+Sharing floating shots is just a file drag away, with on-the-fly changing of file format and sizing options, whether or not annotations should be included, and more.
+Set up double-click workflows for repetitive tasks, like de-retinize the shot, resize it to 75% and then attach it to an email.
+Your captures are stored in ScreenFloat’s Shots Browser, where you can name, tag, favorite and rate them, and organize them with folders and smart folders. They can also (optionally) be synchronized across your Macs over iCloud.
+Find all your shots system-wide or in the Shots Browser by their metadata — including detected text and barcode content.
+And more!
+A screenshot is just a screenshot. Until you use ScreenFloat. Check it out today.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16547664/screenfloat-2-power-up-your-screenshots-sponsor</guid>
+      <pubDate>Thu, 25 Jan 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 1 月 18 日网上游览</title>
+      <link>https://brett.trpstra.net/link/535/16539501/web-excursions-for-january-18-2024</link>
+      <description><![CDATA[ ScreenFloat, CleanShot X, macOS, Backblaze, keybindings
+总结:本文介绍了Matthias Gansrigler发布的ScreenFloat v2，以及macOS中隐藏的代理图标的显示技巧。另外还推荐了一款可以调查macOS文本系统按键绑定的应用程序。同时还提到了一个有关双相情感障碍生活的纪录片。文章最后介绍了Backblaze，这是一款用于将计算机数据安全备份到云端的工具。
+ 
+
+
+
+
+
+
+Web excursions brought to you in partnership with Backblaze. Back up everything.
+
+Eternal Storms Software - ScreenFloat
+Matthias Gansrigler has released v2 of ScreenFloat, one of my favorite apps from years ago. A lot of its functionality was replaced by CleanShot X for me in recent years, but the shots browser, tagging, and smart folders set it apart. The basic idea is you can float a screenshot above all other windows and it follows you between spaces, but v2 goes a lot further. Check it out.
+TipBITS: Always Show Window Proxy Icons
+Back in 2020 I published a tip to make the now-hidden proxy icons in macOS show up instantly on rollover, but it turns out that since then Apple has added a preference to just show them all the time. Thanks to Pim for pointing this out.
+davidbalbert/KeyBinding-Inspector
+An app to survey your macOS text system keybindings. I’ve been writing a lot about editing the DefaultKeyBinding.dict file, and this app makes it easy to peruse what key combinations are doing what. The biggest shortfall is that it doesn’t handle nested bindings (multi-keystroke), but it does successfully ignore those and show you everything else.
+Commit Art
+Turn your contributions into a tangible piece of art! Mine for 2023 is a documentation of my bipolar type 2 life.
+
+Backblaze securely backs up your entire computer to the cloud, affordably and reliably. I trust it with all my data. Check it out today.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16539501/web-excursions-for-january-18-2024</guid>
+      <pubDate>Thu, 18 Jan 2024 19:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CurlyQ 的屏幕截图</title>
+      <link>https://brett.trpstra.net/link/535/16537593/screenshots-with-curlyq</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16537593/screenshots-with-curlyq</guid>
+      <pubDate>Wed, 17 Jan 2024 20:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>调酒师赠品！</title>
+      <link>https://brett.trpstra.net/link/535/16534736/bartender-giveaway</link>
+      <description><![CDATA[ Bartender, giveaway, macOS, menu bar, workflow
+总结: 这篇文章介绍了一次Bartender软件的赠送活动，该软件可以管理Mac的菜单栏，让用户将不经常使用的菜单项移动到次要菜单中，通过快捷键和触发器控制菜单栏项目，提高工作效率。活动将于1月19日抽出10名获奖者，每人获得价值16美元的Bartender软件一份。参与者需要提供名和姓才能参加抽奖。此外，文章还介绍了网站，提到了BrettTerpstra.com受到读者支持，作者也征集下一个赠送活动的建议。 
+
+
+
+
+
+
+I’m excited to offer the next giveaway, 10 licenses ($16 value each) for Bartender. Bartender tames your Mac menu bar. You can move all the stuff you don’t always need to see into a secondary menu bar, navigate the menu bar(s) with shortcuts, and even control menu bar items like Time Machine, Battery, and Wi-fi.
+From the developer:
+
+Bartender is an award-winning app for macOS that superpowers your menu bar, giving you total control over your menu bar items, what’s displayed, and when, with menu bar items only showing when you need them. Bartender improves your workflow with quick reveal, search, custom hotkeys and triggers, and lots more.
+
+
+
+
+
+
+
+Check out the Bartender site for more info.
+Sign up below to enter. Winners will be randomly drawn on Friday, January 19, at 12pm Central. The drawing is for 10 licenses ($16 value each) for Bartender, one per winner. Note that if you’re reading this via RSS, you’ll need to visit this post on brettterpstra.com to enter!
+New rule: All signups must have a first and last name in order to be eligible. Entries with only a first name will be skipped by the giveaway robot. A lot of the vendors in this series require first and last names for generating license codes, and your cooperation is appreciated!
+
+Giveaway ends in...
+
+You need to view this post on brettterpstra.com to enter.
+Stay tuned for more giveaways every week through September, 2024 (and maybe beyond).
+If you have an app you’d love to see featured in this series of giveaways, let me know. Also be sure to sign up for the mailing list or follow me on Mastodon so you can be (among) the first to know about these!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16534736/bartender-giveaway</guid>
+      <pubDate>Mon, 15 Jan 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>键盘大师赠品获奖者！</title>
+      <link>https://brett.trpstra.net/link/535/16532758/the-keyboard-maestro-giveaway-winner</link>
+      <description><![CDATA[ Keyboard Maestro, giveaway, winner, discount, automation
+
+这是一篇关于键盘大师软件的赠品活动的文章。文章宣布了赢家的名单，并提供了未中奖者的购买折扣码。同时，还展示了未来几个月的赠品活动清单，并向读者提供了参与和分享的方式。总体来说，这篇文章是在宣传和促销键盘大师软件，吸引读者参与和支持作者的活动。
+总结: 键盘大师赠品活动的宣传和促销，赢家名单公布，未中奖者折扣码公布，未来赠品活动清单公布，吸引读者参与。 
+
+
+
+
+
+
+The Keyboard Maestro giveaway has ended, and I have a winner to announce!
+The winners!
+Congratulations to:
+
+Jonno Cohen jonno@jonnocohen.com
+
+You should have received an email with details, please let me know if you didn’t hear anything!
+But I didn’t win!
+If you didn’t win, sorry, but Keyboard Maestro is still worth checking out. You can still save 20% off of Keyboard Maestro with the coupon TERPSTRA! The automation possibilities are endless.
+Next up is Bartender. Check back every Monday through September, 2024 for more giveaways.
+The next giveaways include:
+
+OmniFocus
+MarsEdit
+HoudahSpot
+FastScripts
+TaskPaper
+
+See the full list of upcoming giveaways!
+If you want to suggest an app you’d like to see in this series, let me know on Twitter or Mastodon, and join the email list for notifications!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16532758/the-keyboard-maestro-giveaway-winner</guid>
+      <pubDate>Fri, 12 Jan 2024 18:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 CurlyQ，一个面向管道的卷曲助手</title>
+      <link>https://brett.trpstra.net/link/535/16526283/introducing-curlyq-a-pipeline-oriented-curl-helper</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16526283/introducing-curlyq-a-pipeline-oriented-curl-helper</guid>
+      <pubDate>Wed, 10 Jan 2024 16:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>键盘大师赠品！</title>
+      <link>https://brett.trpstra.net/link/535/16522882/keyboard-maestro-giveaway</link>
+      <description><![CDATA[ Keyboard Maestro, giveaway, automation, Mac, efficiency
+总结:
+本文介绍了一次Keyboard Maestro软件的抽奖活动，该软件价值36美元，可用于Mac自动化操作。软件可以帮助用户提高效率，无论是高级用户还是初学者都可以从中受益。抽奖活动将在特定日期进行抽奖，参与者需要在特定网站上注册以参与。文章最后还提到了对该系列活动的期待以及作者网站的支持。 
+
+
+
+
+
+
+I’m excited to offer the next giveaway, a license ($36 value) for Keyboard Maestro. Keyboard Maestro is an insanely powerful app for automation on your Mac that no power user should be without. It can automate literally everything. Power users will love it, but everyday users can greatly benefit from the shortcuts and triggers that Keyboard Maestro offers with a simple drag-and-drop configuration.
+From the developer:
+
+Whether you are a power user or just getting started, your time is precious. So don’t waste it. You can quickly benefit from Keyboard Maestro. Let Keyboard Maestro help make your Mac life more pleasant and efficient. With so many possible actions that you can combine together, including flow control, conditions and looping actions, you can automate almost any task, from the trivial to very complex multi-application reporting systems.
+
+
+
+
+
+
+
+Check out the Keyboard Maestro site for more info.
+Sign up below to enter. A winner will be randomly drawn on Friday, January 12, at 12pm Central. The drawing is for a license ($36 value) for Keyboard Maestro. Note that if you’re reading this via RSS, you’ll need to visit this post on brettterpstra.com to enter!
+New rule: All signups must have a first and last name in order to be eligible. Entries with only a first name will be skipped by the giveaway robot. A lot of the vendors in this series require first and last names for generating license codes, and your cooperation is appreciated!
+
+Giveaway ends in...
+
+You need to view this post on brettterpstra.com to enter.
+Stay tuned for more giveaways every week through September, 2024 (and maybe beyond).
+If you have an app you’d love to see featured in this series of giveaways, let me know. Also be sure to sign up for the mailing list or follow me on Mastodon so you can be (among) the first to know about these!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16522882/keyboard-maestro-giveaway</guid>
+      <pubDate>Mon, 08 Jan 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>App Tamer 赠品获奖者！</title>
+      <link>https://brett.trpstra.net/link/535/16520840/the-app-tamer-giveaway-winners</link>
+      <description><![CDATA[ App Tamer, giveaway, winners, coupon, next giveaway
+总结:
+App Tamer的赠品活动已经结束，获奖者已经公布。恭喜Delaine Taylor和Kevin Cline获奖。未获奖的人可以使用折扣码BRETT-ATM-2023获得20%的优惠。下一个赠品活动将在2024年的9月份举行。同时，网站上还有其他众多精彩的应用程序。读者可以在网站上进行购买支持。 
+
+
+
+
+
+
+The App Tamer giveaway has ended, and I have winners to announce!
+The winners!
+Congratulations to:
+
+Delaine Taylor
+Kevin Cline
+
+You should have received an email with details, please let me know if you didn’t hear anything!
+But I didn’t win!
+If you didn’t win, sorry, but App Tamer is still worth checking out. If you want your apps to run faster, it’s a no-brainer. You can still save 20% using the coupon BRETT-ATM-2023 at checkout.
+By the way, App Tamer is also available on Setapp, along with hundreds of other amazing apps. You should probably get a subscription.
+Next up is Keyboard Maestro. Check back every Monday through September, 2024 for more giveaways.
+The next giveaways include:
+
+Bartender
+OmniFocus
+MarsEdit
+HoudahSpot
+FastScripts
+
+See the full list of upcoming giveaways!
+If you want to suggest an app you’d like to see in this series, let me know on Twitter or Mastodon, and join the email list for notifications!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16520840/the-app-tamer-giveaway-winners</guid>
+      <pubDate>Fri, 05 Jan 2024 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>App Tamer 赠品！</title>
+      <link>https://brett.trpstra.net/link/535/16514852/app-tamer-giveaway</link>
+      <description><![CDATA[ App Tamer, giveaway, licenses, control, CPU
+总结: 
+这篇文章介绍了一个App Tamer的赠品活动，价值每个14.95美元的license。这个应用可以帮助控制CPU，并预设了一些应用程序的CPU和电池使用。活动截止日期为1月5日，中午12点。需要提供名和姓才能参加抽奖。如果想要提供自己的应用程序参加赠品，需要联系作者。另外，还可以通过点赞或分享文章来支持作者。 
+
+
+
+
+
+
+I’m excited to offer the next giveaway, 2 licenses ($14.95 value each) for App Tamer. Got unruly applications? App Tamer helps you take control of your CPU by controlling how much access your apps have to it. Throttle apps that take up too much CPU, speeding up the apps you’re using most.
+From the developer:
+
+App Tamer will automatically slow down or pause your applications whenever you’re not using them, greatly reducing their CPU use. App Tamer even comes pre-configured to automatically reduce the CPU and battery usage of Safari, Firefox, Google Chrome, Spotlight, Time Machine, Photoshop, Illustrator, Word and many other applications.
+
+
+
+
+
+
+
+Check out the App Tamer site for more info.
+Sign up below to enter. Winners will be randomly drawn on Friday, January 05, at 12pm Central. The drawing is for 2 licenses ($14.95 value each) for App Tamer, one per winner. Note that if you’re reading this via RSS, you’ll need to visit this post on brettterpstra.com to enter!
+New rule: All signups must have a first and last name in order to be eligible. Entries with only a first name will be skipped by the giveaway robot. A lot of the vendors in this series require first and last names for generating license codes, and your cooperation is appreciated!
+
+Giveaway ends in...
+
+You need to view this post on brettterpstra.com to enter.
+Stay tuned for more giveaways every week through September, 2024 (and maybe beyond).
+If you have an app you’d love to see featured in this series of giveaways, let me know. Also be sure to sign up for the mailing list or follow me on Mastodon so you can be (among) the first to know about these!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16514852/app-tamer-giveaway</guid>
+      <pubDate>Mon, 01 Jan 2024 14:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
