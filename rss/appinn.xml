@@ -4,7 +4,19 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Feb 2024 19:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 06:18:02 GMT</lastBuildDate>
+    <item>
+      <title>SwitchyOmega将无法在chrome上继续使用，讨论下替代品</title>
+      <link>https://meta.appinn.net/t/topic/52872</link>
+      <description><![CDATA[https://x.com/_catus/status/1759413399270936672
+
+我之前尝试过其他同类型的扩展，但是没找到类似SwitchyOmega“虚情景模式”的功能。
+其实也可以把规则都放到代理软件里去，但是确实没在浏览器里直接改的方便。
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/52872</guid>
+      <pubDate>Wed, 21 Feb 2024 05:53:36 GMT</pubDate>
+    </item>
     <item>
       <title>IOS上有没有免费的能够显示网速的app？</title>
       <link>https://meta.appinn.net/t/topic/52838</link>
@@ -277,74 +289,6 @@ shiquda_UserScript/General at main · shiquda/shiquda_UserScript (github.com)
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/52506</guid>
       <pubDate>Thu, 08 Feb 2024 08:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>会限制最大宽度的自适应布局应用和网页</title>
-      <link>https://meta.appinn.net/t/topic/18154</link>
-      <description><![CDATA[这个帖子收集在一些平板电脑和带鱼屏上交互体验良好的网页、应用、软件
-平板上横屏只能显示半张图的大号手机布局是假的自适应，带鱼屏上一行渲染八十个字，读到脖子抽筋的自适应布局也是假的自适应
-入选遵循双重标准：自适应布局 + 限制最大宽度或动态分栏
-欢迎公共编辑加入你的候选
-格式模板 （点击了解更多详细信息）
-
-Trello
-自适应布局适配平台：网页 Android iPad
-适配方法：分栏
-
-@feeshy：Trello的界面天生自适应不同尺寸的屏幕，屏幕越宽，屏幕中就会显示更多的列表
-
-微博PWA
-自适应布局适配平台：网页
-适配方法：限制最大宽度
-
-@feeshy：微博PWA的最大宽度在35个字左右，图片也有限制最大宽度，不会因为屏幕太宽而变得难以阅读
-
-Wikipedia
-自适应布局适配平台：网页
-适配方法：自适应布局、限制最大宽度
-
-@Dalieba：Wikipedia 的页面不仅自适应不同尺寸的屏幕，也有限制最大宽度，不会因为屏幕太宽而不方便阅读
-
-Solid Explorer
-自适应布局适配平台：Android
-适配方法：动态分栏
-
-@feeshy：挺智能的，手机下是单列布局，平板竖屏下是双列布局，横屏下是双窗口布局
-
-Floating Calculator
-自适应布局适配平台：Android
-适配方法：窗口化
-
-@feeshy：自由调整大小的悬浮窗计算器
-
-微软Office系列：OneNote、Word、PowerPoint、Excel
-自适应布局适配平台：网页- Office Online, Android, iPad
-适配方法：UI切换
-
-@feeshy：会根据屏幕的尺寸在手机UI与Ribbon UI之间自动切换。注意，有大屏优化的Office都是独立的App，而名为&quot;Office&quot;的三合一App暂时没有大屏优化
-
-SIRIN
-自适应布局适配平台：Android
-适配方法：限制图片大小
-
-@feeshy：SIRIN是一个DRM-free的有声书播放器。这个App的媒体库界面会限制书籍封面的显示大小，屏幕越大，显示的内容越多
-
-Kindle
-自适应布局适配平台：Android iOS
-适配方法：限制图片大小
-
-@feeshy：限制书籍封面的显示大小，在Pad上只会增加一行的书籍数量，不会拉宽图片
-
-幕布
-自适应布局适配平台：网页 PC
-适配方法：限制最大宽度
-
-@feeshy：幕布可以在两种模式之间自选：不限最大宽度或者限制最大宽度
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/18154</guid>
-      <pubDate>Fri, 07 Aug 2020 11:46:23 GMT</pubDate>
     </item>
     <item>
       <title>我又回来了，这次带来了Watchout iOS版本</title>
