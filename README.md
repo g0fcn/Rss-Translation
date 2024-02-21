@@ -31,5 +31,5 @@
  - source018 [https://yinan.me/RSS-GPT/steph-ango](https://yinan.me/RSS-GPT/steph-ango) -> [ango](rss/ango.xml)
  - source019 [https://yinan.me/RSS-GPT/byte-tank](https://yinan.me/RSS-GPT/byte-tank) -> [byte](rss/byte.xml)
  - source0122 [https://yinan.me/RSS-GPT/36kr](https://yinan.me/RSS-GPT/36kr) -> [36kr](rss/36kr.xml)
- - source020 [https://yinan.me/RSS-GPT/byte-tank](https://yinan.me/RSS-GPT/byte-tank) -> [byte](rss/byte.xml)
- - source021 [https://yinan.me/RSS-GPT/paul-graham](https://yinan.me/RSS-GPT/paul-graham) -> [byte](rss/byte.xml)
+ - source020 [https://yinan.me/RSS-GPT/36kr-ai](https://yinan.me/RSS-GPT/36kr-ai) -> [36krai](rss/36krai.xml)
+ - source021 [https://yinan.me/RSS-GPT/paul-graham](https://yinan.me/RSS-GPT/paul-graham) -> [essays](rss/essays.xml)
