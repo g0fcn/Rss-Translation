@@ -4,7 +4,25 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 22 Feb 2024 12:24:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 21:11:55 GMT</lastBuildDate>
+    <item>
+      <title>Youtube布局乱套了，想恢复原状</title>
+      <link>https://meta.appinn.net/t/topic/52959</link>
+      <description><![CDATA[刚刚发现，comment栏到了右边，推荐视频到了下面
+怀疑是两个插件搞的
+一个是Improve Youtube，这个有布局调整功能
+另一个是Tweaks for Youtube
+因为他们两个都在昨天更新了
+删了youtube.com的cook和site data都没用
+关闭或者删除extension,重装extension也都没用
+关闭所有的extension，没用
+是不是还有哪个域名负责youtube布局的数据可以删除？
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/52959</guid>
+      <pubDate>Thu, 22 Feb 2024 19:42:33 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】卡片笔记 - 一个本地化的卡片笔记</title>
       <link>https://meta.appinn.net/t/topic/52931</link>
@@ -226,65 +244,6 @@ chrome://bookmarks/
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/52568</guid>
       <pubDate>Sun, 11 Feb 2024 16:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】轻松将网页上的选定元素转换为 Markdown：Easy Web Page to Markdown</title>
-      <link>https://meta.appinn.net/t/topic/52506</link>
-      <description><![CDATA[Easy Web Page to Markdown
-简介
-“Easy Web Page to Markdown” 允许你将任何网页上的元素转换为 Markdown 格式。这对于经常需要将 文章转载 HTML 内容转换为 Markdown 格式的人来说非常有用。
-特性
-
-框选工具：使用鼠标和滚轮选择你想转换的 HTML 元素。
-
-
-
-
-Markdown 预览：转换后，将出现一个模态框，显示你选定的网页元素的 Markdown 转换结果。同时可以编辑 Markdown 并查看实时预览。
-
-
-复制到剪贴板：只需点击一下，你就可以将转换后的 Markdown 复制到你的剪贴板。
-
-
-下载为 Markdown 文件：可以将转换后的 Markdown 下载为 .md 文件。
-
-
-
-使用方法
-
-
-安装用户脚本管理器，如 Tampermonkey 或 Greasemonkey。
-
-
-安装脚本： Easy Web Page to Markdown (greasyfork.org)
-
-
-在任何网页，按 Ctrl + M ，或者在脚本管理器的菜单打开功能，开始选择 HTML 元素。
-
-
-选择时，移动鼠标来选定位置，用鼠标滚轮来缩放选择区域的大小，红色方框内的部分即为将被转换的内容。
-
-
-选择后，可以在左侧对转换后的 Markdown 代码进行编辑，右侧为其预览。
-
-
-可以将 Markdown 复制到剪贴板，也可以将其下载为 .md 文件。
-
-
-感谢
-
-框选灵感来源： Mainonly - 仅显示网页所选部分的 JS 小书签 - 发现频道  - 小众软件官方论坛 (appinn.net)
-marked：将html转换为markdown
-turndown：markdown预览
-
-Github
-shiquda_UserScript/General at main · shiquda/shiquda_UserScript (github.com)
-
-第一次尝试在小众软件论坛发帖~请多光照~
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/52506</guid>
-      <pubDate>Thu, 08 Feb 2024 08:33:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
