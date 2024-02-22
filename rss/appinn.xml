@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 22 Feb 2024 06:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 09:15:06 GMT</lastBuildDate>
     <item>
       <title>【自荐】卡片笔记 - 一个本地化的卡片笔记</title>
       <link>https://meta.appinn.net/t/topic/52931</link>
@@ -33,6 +33,13 @@ utools 插件商店
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/52931</guid>
       <pubDate>Thu, 22 Feb 2024 05:51:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐+送码】一款在手机上就能搞定发票管理报销的APP——发票盒子</title>
+      <link>https://meta.appinn.net/t/topic/52925</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/52925</guid>
+      <pubDate>Thu, 22 Feb 2024 05:15:23 GMT</pubDate>
     </item>
     <item>
       <title>SwitchyOmega将无法在chrome上继续使用，讨论下替代品</title>
@@ -219,46 +226,6 @@ chrome://bookmarks/
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/52568</guid>
       <pubDate>Sun, 11 Feb 2024 16:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[ToMemo] 携新年祝福短语来啦，过年祝福文案不烦恼</title>
-      <link>https://meta.appinn.net/t/topic/52508</link>
-      <description><![CDATA[背景
-去年加了一个「新年祝福」的功能，核心功能就是一个：在聊天软件中，通过 ToMemo 键盘，直接输出祝福短语，过年再也不用到处搜索有逼格的新年文案啦。
-今年，在这辞旧迎新之际，更新了新年的文案，让祝福短语文采和便捷依旧。
-使用方法
-同步「新年祝福」短语
-进入「设置」-「扩展」-「新年祝福」，点击右上角的同步按钮，即可获取今年的新年祝福文案
-
-同步完成后，记得 check 一下，是否是龙年的新年短语
-键盘中发送「新年祝福」短语
-
-点击左上角应用图标
-点击「新年短语」
-点击任意的类型会自动发送有文采的祝福短语。
-
-祝福短语会在指定类型下随机发送。
-** 祝福短语中会有需要替换的内容，比如「尊敬的&lt;领导&gt;」，需要自行手动将&lt;领导&gt;替换成你们平时沟通的称呼，不然会显得过于生分**，也因为不同的人称呼不一样，所以无法自动替换成需要的称呼。
-
-常见问题
-
-
-数据刷不出来，新年祝福显示为空，尝试更换一下链接的路径
-
-
-
-如何替换「发送人」变量
-在祝福短语中，部分短语可以填入发送人姓名。比如「 xxx 在这给您拜年了」。每次调整太过麻烦，可以参考上面你问题的处理流程，核心是在「发送人」字段中输入需要替换的姓名，会在键盘使用时自动替换。
-
-
-如何开始使用
-下载 ToMemo ！下载 ToMemo ！下载 ToMemo ！
-App Store
-此功能免费可用！此功能免费可用！此功能免费可用！
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/52508</guid>
-      <pubDate>Thu, 08 Feb 2024 09:05:43 GMT</pubDate>
     </item>
     <item>
       <title>【自荐】轻松将网页上的选定元素转换为 Markdown：Easy Web Page to Markdown</title>
