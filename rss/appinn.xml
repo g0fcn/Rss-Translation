@@ -4,7 +4,36 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 21 Feb 2024 09:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 06:18:05 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】卡片笔记 - 一个本地化的卡片笔记</title>
+      <link>https://meta.appinn.net/t/topic/52931</link>
+      <description><![CDATA[预览图
+
+
+
+简介
+卡片笔记，如果熟悉 memos 或者 flomo 的话，就会对这个插件很熟悉。
+卡片笔记是一种用于记录和存储信息的文本文件，它可以帮助人们记录重要的想法、日志、备忘录或其他内容。
+
+功能：卡片笔记可以帮助人们记录重要的想法、日志、备忘录或其他内容，并且可以在任何时间随时查看这些信息。
+特性：卡片笔记可以使用不同的格式来存储信息，例如文本、图片、音频和视频等，并且可以通过多种方式分享，包括电子邮件、即时聊天工具和社交媒体等。
+优势：卡片笔记可以节省时间，因为它可以让人们快速记录和存储信息，而不需要手动记录。一，卡片笔记也可以帮助人们更好地管理信息，因为它可以将信息分类，以便更容易查找。
+
+目前有两个渠道使用：
+
+utools 插件商店
+网页使用：卡片笔记
+
+数据存储：
+使用网站访问的数据全部存到浏览器的 IndexedDB 中，utools 存到了 utools 的数据库中。
+其他
+项目已开源：https://gitee.com/qiaoshengda/card-note
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/52931</guid>
+      <pubDate>Thu, 22 Feb 2024 05:51:02 GMT</pubDate>
+    </item>
     <item>
       <title>SwitchyOmega将无法在chrome上继续使用，讨论下替代品</title>
       <link>https://meta.appinn.net/t/topic/52872</link>
@@ -289,42 +318,6 @@ shiquda_UserScript/General at main · shiquda/shiquda_UserScript (github.com)
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/52506</guid>
       <pubDate>Thu, 08 Feb 2024 08:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我又回来了，这次带来了Watchout iOS版本</title>
-      <link>https://meta.appinn.net/t/topic/2034</link>
-      <description><![CDATA[上次在这发了Android，收到了很多反馈和鼓励，
-
-
-小众软件官方论坛 – 15 Dec 15
-
-
-
-
-分享一个自己做的软件啊~~Watch Out 2
-
-
-
-
-讨论分享
-
-
-
-
-大家好，我是一个业余游戏开发者，这次做了一款休闲游戏，比较Q，它适合无聊的时候打发时间。游戏内容有点像Flappy bird，但是又有新的元素。一旦开始，就不可能停下来。  Android下载地址：http://shouji.baidu.com/game/item?docid=8184491
-
-
-
-
-
-
-这次带来了iOS版，希望大家喜欢~~
-友情提示，虐心模式需要满足一定的条件才能开启，什么条件，那大家自己去摸索吧~~
-https://itunes.apple.com/us/app/watch-out!-zhong-wen-ban/id1059954734?mt=8
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/2034</guid>
-      <pubDate>Wed, 20 Jan 2016 02:15:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
