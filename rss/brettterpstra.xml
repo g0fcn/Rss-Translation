@@ -4,7 +4,33 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 22 Feb 2024 18:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:58:46 GMT</lastBuildDate>
+    <item>
+      <title>昏暗的我</title>
+      <link>https://brett.trpstra.net/link/535/16588973/dimspire-dot-me</link>
+      <description><![CDATA[ Jekyll, insomnia, website, automation, dimspirations
+总结: 这篇文章讲述了作者因失眠而产生创造力，制作了一个名为Dimspirations的网站。网站基于Jekyll架构，具有自动化功能，可以生成不同尺寸的壁纸，包括iPhone版本和方形版本。作者描述了网站的页面结构和功能，包括随机生成Dimspirations的功能和下载按钮的实现方法。作者还提到了对于网站的未来计划。整篇文章表达了作者对于自己创作的热情和对网站的期望。 
+
+
+
+
+
+
+I couldn’t sleep last night. I’m not manic, I’m just going through this months-long bout of insomnia. At least I don’t think I’m manic. It doesn’t have any of the characteristics of my usual mania. And up until last night I wasn’t even getting out of bed when I couldn’t sleep. But last night I did, and I made you a website.
+Introducing Dimspire.me. It’s built on Jekyll and has a bunch of automations. I can essentially create a “dimspiration” using an Affinity Photo template, and then RetroBatch will output wallpaper sizes (including iPhone) and square versions for posting and populating the gallery. Just running rake will find new photos added to the assets folder and generate posts for them, which will then populate the index pages. It should be pretty simple to maintain. All documented in a Howzit notes file, of course.
+The site is pretty simple: a homepage with description and the latest few posts, a “Dimspirations” page that’s essentially a blog post index but done in gallery fashion, and a random dimspiration page that will just throw single random dimspirations at you. Fun stuff.
+When viewing a single Dimspiration (by clicking on any thumbnail), you get some cool UI showing edges of the previous and next Dimspiration. I like it, anyway. There’s still some work to do on certain breakpoints, but overall the styling should work on any device. And every Dimspiration page has a download button, where you can download all available versions of the current Dimspiration. This is accomplished by a Rake task that parses every post, extracts the YAML key that defines the image for the page, then zips up every file in the assets directory that matches it. It creates a manifest table that shows what’s in the zip file, with each individual file linked. So when there are wallpaper versions of a Dimspiration, you can download the set or follow a link to a specific version. Took a little thinking and tweaking, but I think it’s a good solution.
+I hope you enjoy it. It’s cathartic for me to create these, and they’re getting better with time. I’m not going to try to monetize any of this at this point, but I’ve watermarked all the images so if you share them, they should trace back to me. Speaking of, I do still need to consider adding share buttons to these… but it always freaks me out how much data social sites collect when you include their button, so I’ll need to figure out ways around that. We’ll call that “next step.”
+Love always,
+Brett
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16588973/dimspire-dot-me</guid>
+      <pubDate>Thu, 22 Feb 2024 19:43:00 GMT</pubDate>
+    </item>
     <item>
       <title>保留它——写笔记，保留东西，然后再次找到它们[赞助商]</title>
       <link>https://brett.trpstra.net/link/535/16588628/keep-it-write-notes-keep-things-and-find-them-again-sponsor</link>
@@ -317,48 +343,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16522882/keyboard-maestro-giveaway</guid>
       <pubDate>Mon, 08 Jan 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>App Tamer 赠品获奖者！</title>
-      <link>https://brett.trpstra.net/link/535/16520840/the-app-tamer-giveaway-winners</link>
-      <description><![CDATA[ App Tamer, giveaway, winners, coupon, next giveaway
-总结:
-App Tamer的赠品活动已经结束，获奖者已经公布。恭喜Delaine Taylor和Kevin Cline获奖。未获奖的人可以使用折扣码BRETT-ATM-2023获得20%的优惠。下一个赠品活动将在2024年的9月份举行。同时，网站上还有其他众多精彩的应用程序。读者可以在网站上进行购买支持。 
-
-
-
-
-
-
-The App Tamer giveaway has ended, and I have winners to announce!
-The winners!
-Congratulations to:
-
-Delaine Taylor
-Kevin Cline
-
-You should have received an email with details, please let me know if you didn’t hear anything!
-But I didn’t win!
-If you didn’t win, sorry, but App Tamer is still worth checking out. If you want your apps to run faster, it’s a no-brainer. You can still save 20% using the coupon BRETT-ATM-2023 at checkout.
-By the way, App Tamer is also available on Setapp, along with hundreds of other amazing apps. You should probably get a subscription.
-Next up is Keyboard Maestro. Check back every Monday through September, 2024 for more giveaways.
-The next giveaways include:
-
-Bartender
-OmniFocus
-MarsEdit
-HoudahSpot
-FastScripts
-
-See the full list of upcoming giveaways!
-If you want to suggest an app you’d like to see in this series, let me know on Twitter or Mastodon, and join the email list for notifications!
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16520840/the-app-tamer-giveaway-winners</guid>
-      <pubDate>Fri, 05 Jan 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
