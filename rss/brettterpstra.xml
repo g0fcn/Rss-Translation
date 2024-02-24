@@ -4,7 +4,41 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 23 Feb 2024 00:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 18:16:43 GMT</lastBuildDate>
+    <item>
+      <title>饲料中的缺陷</title>
+      <link>https://brett.trpstra.net/link/535/16590869/dimspirations-in-your-feed</link>
+      <description><![CDATA[ RSS feed, subscription, email, monetize, political
+
+这是一篇关于Dimspire Me网站的文章，介绍了他们新增了RSS feed订阅和通过邮件订阅的功能。同时作者表示如果网站有商业化可能的话，将通过出售商品来实现，而不是收费订阅。作者还表示会尽量减少涉及政治的内容，因为有些读者对此表示反感。最后作者呼吁读者点赞和分享这篇文章以及支持他们的项目。总结：文章介绍了Dimspire Me网站新增的订阅功能以及未来可能进行商业化运营的打算，同时表示会尽量减少政治相关内容。 
+
+
+
+
+
+
+I’ve added (well, fixed) the RSS feed for Dimspire.me. You can now subscribe via your favorite feed reader at Dimspirations RSS (or just enter https://dimspire.me in your subscribe field, the feeds are discoverable). The feed is available in XML and JSON flavors, and each entry just contains a pithy description and one image.
+You can also sign up to receive Dimspirations in your email, max one email per day, and only when there’s new stuff:
+
+
+Enter your e-mail address:
+
+
+
+
+Dimspire Me
+
+
+Thanks for supporting this little project. I’ve decided if I ever monetize it, it will be through merch (posters, calendars, coffee mugs, etc.). So the wallpapers and dismal inspirations will continue to be free online.
+P.S. I’ve received some flack for occasionally going “political” with the Dimspirations. I don’t think things like being disgusted by a lack of gun control, being anti-genocide, or laughing at manufactured outrage are extreme political views, but I promise to keep those to a minimum. Sometimes I get a little fired up — don’t let it scare you away.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16590869/dimspirations-in-your-feed</guid>
+      <pubDate>Sat, 24 Feb 2024 17:08:00 GMT</pubDate>
+    </item>
     <item>
       <title>昏暗的我</title>
       <link>https://brett.trpstra.net/link/535/16588973/dimspire-dot-me</link>
@@ -303,46 +337,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16526283/introducing-curlyq-a-pipeline-oriented-curl-helper</guid>
       <pubDate>Wed, 10 Jan 2024 16:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>键盘大师赠品！</title>
-      <link>https://brett.trpstra.net/link/535/16522882/keyboard-maestro-giveaway</link>
-      <description><![CDATA[ Keyboard Maestro, giveaway, automation, Mac, efficiency
-总结:
-本文介绍了一次Keyboard Maestro软件的抽奖活动，该软件价值36美元，可用于Mac自动化操作。软件可以帮助用户提高效率，无论是高级用户还是初学者都可以从中受益。抽奖活动将在特定日期进行抽奖，参与者需要在特定网站上注册以参与。文章最后还提到了对该系列活动的期待以及作者网站的支持。 
-
-
-
-
-
-
-I’m excited to offer the next giveaway, a license ($36 value) for Keyboard Maestro. Keyboard Maestro is an insanely powerful app for automation on your Mac that no power user should be without. It can automate literally everything. Power users will love it, but everyday users can greatly benefit from the shortcuts and triggers that Keyboard Maestro offers with a simple drag-and-drop configuration.
-From the developer:
-
-Whether you are a power user or just getting started, your time is precious. So don’t waste it. You can quickly benefit from Keyboard Maestro. Let Keyboard Maestro help make your Mac life more pleasant and efficient. With so many possible actions that you can combine together, including flow control, conditions and looping actions, you can automate almost any task, from the trivial to very complex multi-application reporting systems.
-
-
-
-
-
-
-
-Check out the Keyboard Maestro site for more info.
-Sign up below to enter. A winner will be randomly drawn on Friday, January 12, at 12pm Central. The drawing is for a license ($36 value) for Keyboard Maestro. Note that if you’re reading this via RSS, you’ll need to visit this post on brettterpstra.com to enter!
-New rule: All signups must have a first and last name in order to be eligible. Entries with only a first name will be skipped by the giveaway robot. A lot of the vendors in this series require first and last names for generating license codes, and your cooperation is appreciated!
-
-Giveaway ends in...
-
-You need to view this post on brettterpstra.com to enter.
-Stay tuned for more giveaways every week through September, 2024 (and maybe beyond).
-If you have an app you’d love to see featured in this series of giveaways, let me know. Also be sure to sign up for the mailing list or follow me on Mastodon so you can be (among) the first to know about these!
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16522882/keyboard-maestro-giveaway</guid>
-      <pubDate>Mon, 08 Jan 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
