@@ -4,7 +4,16 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Fri, 23 Feb 2024 15:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:16:24 GMT</lastBuildDate>
+    <item>
+      <title>网友曝光 OpenAI 秘密项目 Feather：简化 AI 应用开发</title>
+      <link>https://www.36kr.com/p/2665235569944325</link>
+      <description><![CDATA[ OpenAI, Feather, 数据标注, 合作, AI模型 
+OpenAI发布了Feather的应用页面，预示着该服务正式发布可能在即。此服务需要单点登录，可能是为少数合作伙伴提供定制解决方案，也可用于内部数据标注。OpenAI提交了OpenAI Feather商标申请，涉及数据标注和数据处理服务。去年与Scale AI合作，将Scale AI的微调工具与OpenAI的GPT-3.5结合，定制AI模型。Scale AI的客户可以通过Scale的平台整理和优化数据，并对GPT-3.5进行微调，以满足特定需求。OpenAI也在暗示开发一种内部调优工具，若真要做数据标注，将对新贵Scale AI构成威胁。 总结:OpenAI发布了Feather应用页面，预示着可能要正式发布该服务。据推测，该服务可能为少数合作伙伴提供定制解决方案，也可用于内部数据标注。OpenAI还提交了OpenAI Feather商标申请。同时，去年开始与Scale AI合作，定制AI模型以满足特定需求。如果OpenAI真要做数据标注，将对Scale AI构成威胁。 
+2 月 26 日消息，有网友在「X」上发布了 OpenAI Feather 的应用页面。虽然目前 https://feather.openai.com 还无法登入使用，但一些可以查看的基本信息显示出 OpenAI 可能正在为 Feather 的正式发布做准备。 Reddit 上有用户称，这个服务至少从去年 12 月就开始存在。该站点需要单点登录（SSO），所以这一服务可能是为向单个关键合作伙伴或少数合作伙伴和战略客户提供定制解决方案、独家服务而推出的，同时，它也可能用于在内部标记数据集以进行微调服务。 美国专利商标局官网信息显示，OpenAI 是在 2023 年 5 月提交的商标申请：OpenAI Feather 这一商标注册类别属于数据标注和标注服务，具体来说，是是使用自动化的图像、音频、视频、文本以及其他形式的电子数据的标注和注释服务进行数据处理和系统化；在计算机数据库中更新和维护数据；数据处理服务；编译和管理计算机化数据库以及相关咨询服务。 此前在去年 8 月，OpenAI 宣布了与数据标签初创公司 Scale AI 的合作，合作目的是将 Scale AI 的微调工具和 OpenAI 的 GPT-3.5 文本生成模型结合在一起，从而让开发人员能够针对特定任务定制 AI 模型。比如，企业可以调整模型，使其在对话中保持与品牌一致的语调和风格，或者让模型能够用特定的语言进行回答。 Scale AI 的客户可以通过 Scale 的数据引擎平台来整理和优化他们的数据，然后，他们可以利用这些数据对 GPT-3.5 进行微调，进一步定制 AI 模型，使其在回答问题时能够引用或包含客户的专有数据。这样一来，AI 模型就能够更好地服务于客户的独特需求。 当时，在这一合作消息宣布的前一天，OpenAI 就有在公告中暗示自己正在开发一种内部调优工具。如果 OpenAI 真要做数据标注的话，AI 行业新贵 Scale AI 恐怕也会感到威胁。 *头图来源：X 本文来自微信公众号“极客公园”（ID：geekpark），作者：连冉，36氪经授权发布。]]></description>
+      <guid>https://www.36kr.com/p/2665235569944325</guid>
+      <pubDate>Mon, 26 Feb 2024 11:56:02 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI和谷歌，AI对线中的飞驰人生</title>
       <link>https://www.36kr.com/p/2660898993824512</link>
@@ -102,13 +111,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2654948966760706</guid>
       <pubDate>Mon, 19 Feb 2024 07:28:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI还有对手吗？a16z干货：2024年AI视频产品何去何从</title>
-      <link>https://www.36kr.com/p/2654851535289477</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2654851535289477</guid>
-      <pubDate>Mon, 19 Feb 2024 03:26:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
