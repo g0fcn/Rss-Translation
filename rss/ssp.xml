@@ -4,7 +4,42 @@
     <title>少数派 -- 首页</title>
     <link>https://sspai.com</link>
     <description></description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 18:19:04 GMT</lastBuildDate>
+    <item>
+      <title>如何快速重置 macOS 应用窗口的位置</title>
+      <link>https://sspai.com/post/86772</link>
+      <description><![CDATA[ 快捷指令, Shell脚本, macOS, plist文件, 窗口大小和位置 
+通过本文介绍的快捷指令或Shell脚本，可以帮助在macOS中重置应用窗口的大小和位置。这些方法利用了应用窗口大小和位置保存在特定的plist文件中这一原理，通过移除其中的信息来恢复默认状态。这种工具对于在使用外接显示器时出现窗口位置混乱、手滑导致窗口不适的情况下非常实用。利用这些方法，用户可以快速且方便地恢复应用窗口的默认状态，提高使用效率。 总结: 本文介绍了使用快捷指令和Shell脚本来重置macOS中应用的窗口大小和位置。这些方法利用了应用窗口信息保存在plist文件中的原理，帮助用户解决窗口位置混乱的问题。 
+背景
+「记忆应用的使用状态」一直是 macOS 追求的交互设计目标。从 Macintosh 时代开始，应用窗口就「学会」了记住自己每次打开时所处的位置，并在下次打开时自动恢复。Finder、Keynote 这类多窗口应用中，每个窗口还会分别记住自己的位置。
+这种设计背后其实是一种隐藏的「拟物」思想：通过让窗口与其空间位置关联起来，提高熟悉感和效率。
+但「好记性」有时也会变成麻烦。设想以下几种不算少见的情景：
+
+在插拔外接显示器时，由于分辨率和桌面数量的变化，很多窗口可能被自动调整到一个难用的尺寸和位置，甚至落到显示区域之外；
+在拖拽调整窗口尺寸时，可能因为手滑或不慎双击到边框，让窗口变成一个很别扭的比例；
+颜色选择、字体选择等小尺寸工具窗口留在上一次调用时的位置，离之后方便的位置相距甚远；
+有的场景本身要求保持应用的固定位置，例如 Spotlight 搜索、Alfred 等启动器类工具最适合的就是居中偏上的位置，如果不慎走偏，很容易让人「强迫症」发作。
+
+对此，只有少数应用会在设置中包含重置窗口位置的选项，更多的应用则似乎就「铁了心」要回归自己现有的地盘。对于这种情况，如何快速让窗口回到原始的默认位置呢？
+快速使用
+我们首先提供两种成品解决方案供尝试，具体的原理和编写方法将在后文说明。
+快捷指令
+这是对大多数用户最友好的方法。通过下面的链接下载我们做好的快捷指令：Reset Window Position
+运行时，转到侧边栏的「应用程序」（Applications）文件夹选择需要重置窗口状态的应用即可。（初次运行可能弹出权限求询问框，选择「总是允许」。）
+Shell 脚本
+如果你是更喜欢泡在终端里的用户，或者想与其他自动化工具结合使用，这里也提供一个等效的 shell 脚本版本。通过下面的链接下载：reset-window-position.sh
+依照 Unix 惯例，这种自制脚本一般可以放在~/bin 目录。然后，在在终端执行 chmod +x ~/bin/reset-window-position.sh 命令，为其增加执行权限 。
+以后运行这个脚本，根据提示即可重置窗口位置。
+原理
+一般情况下，macOS 上应用的窗口大小和位置都会保存在特定的 plist 文件里。
+plist 文件，有时也被称为 property list 文件，是 Apple 在大部分系统中常用的一种文件格式，常用于存储用户的设置和配置信息。在 macOS 应用开发中，plist 文件经常用于保存应用程序的配置信息和用户偏好设置，比如前面提到的「窗口大小和位置」这一信息就会保存在软件自己的 plist 文件里。
+
+其中会包含和「窗口大小和位置」有关的信息
+
+所以，很多时候只需要把这段信息从对应的 plist 中拿掉就可以还原应用的窗口大小和位置到默认。]]></description>
+      <guid>https://sspai.com/post/86772</guid>
+      <pubDate>Thu, 29 Feb 2024 12:03:36 GMT</pubDate>
+    </item>
     <item>
       <title>新玩意 173｜少数派的编辑们最近买了啥？</title>
       <link>https://sspai.com/post/86780</link>
@@ -83,13 +118,6 @@
       <description><![CDATA[]]></description>
       <guid>https://sspai.com/post/86627</guid>
       <pubDate>Mon, 26 Feb 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？</title>
-      <link>https://sspai.com/post/86677</link>
-      <description><![CDATA[]]></description>
-      <guid>https://sspai.com/post/86677</guid>
-      <pubDate>Mon, 26 Feb 2024 03:41:23 GMT</pubDate>
     </item>
     <item>
       <title>2023 年度总结：阅读地图</title>
