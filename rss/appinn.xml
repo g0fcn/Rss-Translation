@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 29 Feb 2024 12:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 06:18:14 GMT</lastBuildDate>
     <item>
       <title>Pastey - 您的高效剪贴板管理工具 ! 【新应用上架促销】</title>
       <link>https://meta.appinn.net/t/topic/53223</link>
@@ -400,35 +400,90 @@ utools 插件商店
       <pubDate>Sat, 17 Feb 2024 14:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 扩展商店的套娃操作</title>
-      <link>https://meta.appinn.net/t/topic/52678</link>
-      <description><![CDATA[由于谷歌在 11 月时更新 Chrome 应用商店，
-
-
-ithome.com
-
-
-谷歌升级 Chrome 应用商店：启用新设计、主推 AI 赋能扩展 - IT之家
-谷歌近日面向所有用户，开放了新版“Chrome 应用商店”，简化查找扩展程序和主题的过程。新版 Chrome 应用商店采用 Material You 设计语言，采用鲜艳的色彩搭配，并更新了卡片样式，启用了新的图标。新版 Chrome 应用商店采用 Material You 设计语言，采用鲜艳的色彩搭配，并更新了卡片样式，启用了新的图标。在页面中还特别开辟了“AI 赋能的扩展程序”栏目，利用各种以生成式 AI 为后盾的扩展程序，提升浏览器性能。
-
-
-
-
-
-
-且该商店是只供使用 Chrome 用户安装扩展，结果如果你是使用旧版 Chrome 或者是第三方 Chromium 浏览器，只能使用官方的扩展商店，或者是第三方的下载网站。
-当然，用旧版也没什么问题，可问题在于，旧版扩展商店（域名为 &lt;chrome.google.com/webstore/&gt;）会自动跳转至新的扩展商店（域名为 &lt;chromewebstore.google.com&gt; ），所以就等于套娃操作，你点击提示的「访问旧版商店」，其实也是跳转到新版商店 …
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/52678</guid>
-      <pubDate>Thu, 15 Feb 2024 15:24:52 GMT</pubDate>
-    </item>
-    <item>
       <title>SmoothScroll 让页面滚动像流淌的蜂蜜，什么是真正的丝滑！</title>
       <link>https://meta.appinn.net/t/topic/41408</link>
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/41408</guid>
       <pubDate>Wed, 08 Mar 2023 12:16:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐+送码】个人新作品：Pandora——管理你的订阅项目</title>
+      <link>https://meta.appinn.net/t/topic/35917</link>
+      <description><![CDATA[
+软件名称
+Pandora-好用的订阅管理工具
+
+应用平台
+
+iOS
+
+
+推荐类型
+【开发者自荐】
+
+一句话简介
+Pandora 是一款用来管理订阅服务的工具类 app，你可以将自己已购买的订阅服务添加至 Pandora 进行管理，了解已订阅服务的具体消费情况，查看自己已订阅项目的数据统计分析，并在订阅扣费时获得通知；
+
+
+应用简介
+【产品主要功能】
+
+
+易于添加：Pandora 预置了百余种常见的订阅服务，你可以使用搜索功能来进行筛选，也可以通过「自定义订阅项目」来创建，填写简单信息后即可保存；
+
+
+支持从 AppStore 直接分享应用信息至 Pandora，自动获取应用图标和名称；
+
+
+完善的信息录入：支持录入订阅开始及结束时间、试用周期、订阅周期支持自动续订项目及一次性买断项目等；
+
+
+数据统计：通过精心设计的精美图表，一目了然的查看自己订阅了哪几种类型的服务、花了多少钱；
+
+
+订阅提醒：可在添加订阅时设置提醒，订阅日前将会收到通知推送，方便你及时管理自己的订阅内容，不再错过续费或取消；
+
+
+iCloud 云同步：Pandora 使用了 iCloud 来备份数据，所有数据自动实时上传至云端，并可在不同设备间进行同步；
+
+
+多币种：支持创建使用他国货币支付的订阅项目，目前已支持百余种货币，汇率自动更新；
+
+
+
+
+
+官方网站 &amp;&amp; 应用商店地址
+
+
+App Store
+
+
+
+‎Pandora-管理你的订阅服务
+‎**AppStore Today《如何管理你的订阅》 推荐应用**
+**AppStore 《本周编辑推荐》栏目推荐应用**
+**「PriceTag」、「最美应用」、「少数派」、「小众软件」、「极客公园」推荐应用**
+
+Pandora 是一款用来管理订阅服务的工具类 app，你可以将自己已购买的订阅服务添加至 Pandora 进行管理，了解已订阅服务的具体消费情况，查看自己已订阅项目的数据统计分析，并在订阅扣费时获得通知；
+
+【产品主要功能】
+- 易于添加：Pandora...
+
+
+
+
+
+
+其他想要说的
+Pandora 是我的第一个项目 OneBox 的 2.0 版本，原有的 OneBox 采用付费下载的模式，升级到 2.0 后，原来付费下载过的用户将自动升级为 Pandora 的永久会员。
+
+送码
+评论区聊聊你对「订阅管理」这件事儿的看法， 或者在体验 Pandora 后有没有什么建议，会挑选出三位朋友送出 Pandora 的永久会员兑换码。
+26 个帖子 - 15 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/35917</guid>
+      <pubDate>Thu, 01 Sep 2022 13:53:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
