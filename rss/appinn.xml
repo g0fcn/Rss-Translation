@@ -4,7 +4,16 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Mar 2024 21:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 09:13:49 GMT</lastBuildDate>
+    <item>
+      <title>求个iOS上的可以自定义请求域名和key的chatgpt客户端</title>
+      <link>https://meta.appinn.net/t/topic/53626</link>
+      <description><![CDATA[求个iOS上的可以自定义请求域名和key的chatgpt客户端
+5 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/53626</guid>
+      <pubDate>Fri, 08 Mar 2024 06:41:23 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】诗猿任务 - 一款日程待办记录的软件，随时记录，免费无广告</title>
       <link>https://meta.appinn.net/t/topic/53597</link>
@@ -313,115 +322,6 @@ MacOS：未经测试，没有收到过使用反馈，仅仅编译出了软件，
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/53101</guid>
       <pubDate>Mon, 26 Feb 2024 10:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】h5player视频增强脚本：无极倍速、视频下载、画面截图等「几乎适用一切网站」</title>
-      <link>https://meta.appinn.net/t/topic/53002</link>
-      <description><![CDATA[应用名称
-h5player for tampermonkey
-适用平台
-Window/Android/Mac/Linux（基于浏览器）
-应用简介
-支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。
-全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。
-还有片前片后短视频快进、在线教程/教育视频倍速快学、视频文件离线私藏等能力。
-
-应用场景
-
-
-无极调速，节奏快慢，掌控自如
-
-
-倍速快学，看教程快人一步
-
-
-快乐刷剧，不再枯燥乏味
-
-
-短片快进，告别无聊等待
-
-
-视频截图，笔记存档、剪贴分享
-
-
-视频离线，本地观看、私发、私藏
-
-
-直播同步，拒绝延迟，迎头赶上
-
-
-技术特征
-
-
-兼容广泛，所有存在video标签的网页均支持 即使嵌在 iframe、shadowdom下均可兼容
-
-
-支持跨域控制，跨域受限页面下快捷键一样可以无缝衔接
-
-
-支持多实例（如：twitter，instagram下亦可兼容）
-
-
-支持播放进度记录
-
-
-支持播放速度记录
-
-
-支持视频画面缩放
-
-
-支持画中画功能
-
-
-支持跨Tab控制画中画
-
-
-支持视频画面截图功能
-
-
-支持对音频实例的控制
-
-
-支持视频/音频文件离线
-
-
-支持直播视频流提取
-
-
-支持配置式添加自定义功能
-
-
-安装
-
-安装脚本前需先安装油猴插件，
-油猴(Tampermonkey)是一款广受好评的、用于加载用户脚本的浏览器插件，支持：Chrome、Edge、Firefox、safari、Opera、以及国内品牌众多的浏览器
-
-安装好油猴插件后，点击下面的链接即可一键安装：
-
-h5player.user.js (点我直接安装)
-
-更详细的安装帮助看这里：详细安装教程
-使用文档
-
-
-功能手册
-
-
-常见问题Q&amp;A
-
-
-相关地址
-
-官网地址：h5player.anzz.top
-GitHub地址：github.com/xxxily/h5player
-GreasyFork：greasyfork.org/scripts/381682
-一键安装地址：h5player.anzz.top/h5player.user.js
-
-10 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53002</guid>
-      <pubDate>Fri, 23 Feb 2024 17:33:45 GMT</pubDate>
     </item>
     <item>
       <title>SmoothScroll 让页面滚动像流淌的蜂蜜，什么是真正的丝滑！</title>
