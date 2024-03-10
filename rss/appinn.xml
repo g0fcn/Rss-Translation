@@ -4,7 +4,20 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Mar 2024 12:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 06:16:25 GMT</lastBuildDate>
+    <item>
+      <title>Chrome extension Enhancer for YouTube全网下架了怎么办？</title>
+      <link>https://meta.appinn.net/t/topic/53697</link>
+      <description><![CDATA[Enhancer for YouTube™2.0.122.1
+搜了一下哪里都没有，猜测是Youtube和作者商量之后主动下降的
+我想要的是Enhancer for YouTube™2.0.122.1版本
+我自己机器上没有原始的xpi，但是有个profile里面有装好的
+有没有办法导出转给其他的profile？
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/53697</guid>
+      <pubDate>Sun, 10 Mar 2024 03:31:52 GMT</pubDate>
+    </item>
     <item>
       <title>求个iOS上的可以自定义请求域名和key的chatgpt客户端</title>
       <link>https://meta.appinn.net/t/topic/53626</link>
@@ -284,44 +297,6 @@ LTFAFAYY7X9J
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/53206</guid>
       <pubDate>Thu, 29 Feb 2024 05:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】游戏存档管理工具 - 开源、支持WebDAV</title>
-      <link>https://meta.appinn.net/t/topic/53101</link>
-      <description><![CDATA[软件名称
-游戏存档管理器（Game Save Manager），有在考虑改名，但是暂未确定
-简介
-这个软件可以按照你想要的方式快速备份和恢复游戏存档，支持WebDAV云备份，具有一定的防误操作机制（额外备份），性能占用极低（后台10MB以下，安装包10MB以下），适用于存档备份和游戏SL。
-应用平台及其说明
-
-Windows：经过了我本人以及一些用户的测试，应该比较稳定
-Linux：有用户在Linux平台使用过，但是没有经过充分的测试
-MacOS：未经测试，没有收到过使用反馈，仅仅编译出了软件，不一定能用
-
-软件发布渠道
-下载和教程：https://help.sworld.club/
-源代码：Github（基于Vue、Rust、Tauri，欢迎提交Issue和PR）
-截图和详细介绍
-
-
-游戏添加后的管理界面，可以描述已有备份，利用描述搜索存档
-
-
-
-云同步界面，当前支持WebDAV，未来支持新的后端也很简单
-
-
-
-可选的退出到角标功能，提供便捷操作，且后台占用很小，我刚才测试是5.1MB
-
-
-
-其它
-欢迎提交任何遇到的问题，或者功能请求，对该项目感兴趣也可以参与贡献，现在项目的贡献者已经有四位了
-3 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53101</guid>
-      <pubDate>Mon, 26 Feb 2024 10:28:40 GMT</pubDate>
     </item>
     <item>
       <title>SmoothScroll 让页面滚动像流淌的蜂蜜，什么是真正的丝滑！</title>
