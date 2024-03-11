@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>保罗·格雷厄姆 - 散文</title>
+    <link>http://paulgraham.com/articles.html</link>
+    <description></description>
+    <lastBuildDate>Mon, 11 Mar 2024 01:02:35 GMT</lastBuildDate>
+    <item>
+      <title>最好的论文</title>
+      <link>http://paulgraham.com/best.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/best.html</guid>
+      <pubDate>Thu, 29 Feb 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超线性回报</title>
+      <link>http://paulgraham.com/superlinear.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/superlinear.html</guid>
+      <pubDate>Sat, 30 Sep 2023 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何做好工作</title>
+      <link>http://paulgraham.com/greatwork.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/greatwork.html</guid>
+      <pubDate>Fri, 30 Jun 2023 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获得新想法</title>
+      <link>http://paulgraham.com/getideas.html</link>
+      <description><![CDATA[2023 年 1 月(有人将我的论文输入GPT 做出一些可以回答的东西
+基于它们提出问题，然后询问它好的想法从何而来。这
+答案还可以，但不是我想说的。这就是我想说的。）获得新想法的方法是注意异常情况：看起来奇怪的东西，
+或丢失，或损坏？你可以在日常生活中看到异常现象（很多
+单口喜剧就是基于此），但最好的地方是寻找
+他们处于知识的前沿。知识呈分形增长。
+从远处看，它的边缘看起来很光滑，但当你了解得足够多时
+靠近一个，你会发现它充满了间隙。这些差距
+看起来很明显；没有人尝试过，这似乎令人费解
+x 或想知道 y。在最好的情况下，探索这些差距会产生
+全新的分形芽。]]></description>
+      <guid>http://paulgraham.com/getideas.html</guid>
+      <pubDate>Sat, 31 Dec 2022 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阅读的必要性</title>
+      <link>http://paulgraham.com/read.html</link>
+      <description><![CDATA[2022年11月小时候看的科幻小说里，经常会看到
+被一些更有效的获取知识的方式所取代。
+神秘的“磁带”会像程序一样将其加载到人的大脑中
+被加载到计算机中。这种事情不太可能很快发生。不只是
+因为很难建立一个阅读的替代品，但是
+因为即使存在，也是不够的。阅读有关
+x 不只是教你关于 x 的知识；它还教你关于 x 的知识。它还教你如何写作。
+[1]&lt; /font&gt;这有关系吗？如果我们取代阅读，是否有人需要
+擅长写作？之所以如此重要，是因为写作不仅仅是一种方式
+传达想法，也是实现想法的一种方式。优秀的作家不只是思考，然后写下他的想法
+思想，作为一种抄本。一个好的作家几乎总是会
+在写作的过程中发现新的事物。到目前为止，还有
+据我所知，这种发现无可替代。谈论
+与他人分享你的想法是发展它们的好方法。但
+即使这样做之后，你会发现你仍然发现新事物
+当你坐下来写作时。有一种思维可以
+只能通过写作来完成。当然有各种各样的思考无需
+写作。如果你不需要太深入地探讨问题，你可以
+不写就解决。如果您正在考虑如何将两块
+机器应该组装在一起，而写它可能不会
+有很大帮助。当一个问题可以被正式描述时，你可以
+有时在你的脑海中解决它。但如果你需要解决一个
+复杂的、不明确的问题，它几乎总是有帮助的
+写一下它。这反过来意味着一个不擅长的人
+在解决此类问题时，写作几乎总是处于劣势
+问题。不写好就无法思考，也无法写好
+没有好好读书。我的意思是最后一个“好”的意思是两种意义上的。
+一定要善于读书，读好书。
+[2]&lt; /font&gt;只想要信息的人可能会找到其他方式来获取信息。
+但想要有想法的人却无力承担。&lt; br /&gt;注释[1 ]
+有声读物可以为您提供优秀写作的示例，但是
+他们读给你听的东西并不能像阅读那样教给你更多关于写作的知识
+你自己。[2]
+我所说的“擅长阅读”并不是指擅长阅读的技巧
+阅读。你不必擅长从文本中提取单词
+页面的意义就在于从单词中提取含义。]]></description>
+      <guid>http://paulgraham.com/read.html</guid>
+      <pubDate>Mon, 31 Oct 2022 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你（想要）*想要什么</title>
+      <link>http://paulgraham.com/want.html</link>
+      <description><![CDATA[2022 年 11 月从我大约 9 岁起，我就一直对这种明显的矛盾感到困惑
+由行为可预测的物质组成，并且
+我可以选择做任何我想做的事情的感觉。在
+当时我是出于自私的动机来探索这个问题的。在
+那个时代（就像大多数后来的时代一样）我总是遇到麻烦
+当局，在我看来，可能有
+通过争论我没有责任来摆脱麻烦
+为了我的行动。我渐渐对此失去了希望，但谜题
+剩下的：你如何调和作为一台由物质组成的机器与
+您可以自由选择自己做什么的感觉？
+[1]&lt; /font&gt;解释答案的最好方法可能是先稍微解释一下
+版本不对，然后修复。错误的版本是：你可以
+你想要什么，但你不能想要你想要的。是的，你可以控制
+你做什么，但你会做你想做的事，你无法控制
+这是错误的原因是人们有时会改变什么
+他们要。那些不想要某样东西的人——吸毒者，
+例如——有时可以让自己不再想要它。和
+想要某样东西的人——想要喜欢古典的人
+音乐，或西兰花——有时会成功。因此，我们修改最初的声明：你可以做你想做的事，但是
+你不可能想要你想要的东西。这仍然不完全正确。可以改变你想要的
+想要。我可以想象有人说“我决定不再想要
+喜欢古典音乐。”但我们正在接近真相。
+人们很少能改变自己想要的东西，而且越多
+我们添加的“想要”越少。我们可以通过添加更多“想要”来任意接近真实的陈述
+与我们可以通过添加任意接近 1 的方式大致相同
+更多 9 到小数点后的一串 9。在实践中
+三四个“想要”肯定就足够了。甚至很难
+想象一下改变你想要的东西意味着什么
+所以表达正确答案的一种方法是使用正则
+表达。你可以做你想做的事，但有一些声明
+“你不能（想要）*想要你想要的东西”，这是真的。
+最终你又回到了你无法控制的欲望。
+[2]&lt; /font&gt;
+注释[1]
+我九岁的时候并不知道物质的行为可能是随机的，
+但我认为这对问题影响不大。随机性破坏
+机器中的幽灵与决定论一样有效。[2]
+如果您不喜欢使用表达式，也可以使用相同的表达式
+使用高阶欲望点：有一些n使得你
+不要控制你的n阶欲望。
+感谢特雷弗·布莱克威尔，
+杰西卡·利文斯顿、罗伯特·莫里斯和
+感谢 Michael Nielsen 阅读了本文的草稿。]]></description>
+      <guid>http://paulgraham.com/want.html</guid>
+      <pubDate>Mon, 31 Oct 2022 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>外星真相</title>
+      <link>http://paulgraham.com/alien.html</link>
+      <description><![CDATA[2022 年 10 月如果宇宙其他地方存在智慧生物，他们会
+与我们分享某些共同的真理。数学的真理
+会是一样的，因为根据定义它们是正确的。同上
+物理学的真理；碳原子的质量相同
+在他们的星球上。但我认为我们会与外星人分享其他真相
+除了数学和物理的真理之外，这将是
+值得思考这些可能是什么。例如，我认为我们会分享这样的原则：受控的
+实验检验一些假设使我们有权按比例拥有
+增加了对它的信心。看起来也很有可能
+对于外星人来说，通过练习可以在某件事上做得更好是正确的。
+我们可能会分享奥卡姆剃刀。似乎没有什么
+当然，我们只能猜测。我们不能确定什么形式
+智慧生活可能需要。我的目标也不是探索这个
+问题，虽然很有趣。外星人观念的要点
+事实并不是它为我们提供了一种推测什么形式的方法
+智慧生命可能需要，但它给了我们一个门槛，或者
+更准确地说，是一个目标，为了真理。如果你想找到
+除了数学或物理之外的最普遍的真理，那么大概
+它们将是我们与其他形式的智能所共有的
+生活。如果我们犯了错误，外星真理将作为启发法发挥最佳作用。
+慷慨。如果一个想法可能与外星人有关，那就是
+足够的。例如，正义。我不想赌这一切
+聪明人会理解正义的概念，但我
+也不想与之打赌。外星真理的观念与厄多斯对上帝之书的观念有关。
+他曾经形容一个特别好的证明是在上帝的手中
+书，其含义是（a）足够好的证明是
+发现的比发明的多，并且（b）它的好处是
+得到普遍认可。如果存在外星真理这样的事情
+那么上帝的书中除了数学之外还有更多内容。我们应该把寻找外星真理称为什么呢？显而易见的选择
+是“哲学”。无论哲学还包括什么，它都应该
+大概包括这个。我相当肯定亚里士多德会想到
+所以。人们甚至可以证明，寻找外星真相
+即使不是哲学的准确描述，也是一个很好的
+定义它。 IE。这就是人们所说的
+哲学家自己应该做的事情，无论他们现在是否
+是。但我并不执着于此。重要的是做，而不是做什么
+我们称之为。有一天，我们可能会以某种形式出现类似外星生命的东西
+人工智能。这反过来又可以让我们准确地了解什么
+一个聪明人必须与我们分享的真理。我们可能
+例如，发现不可能创造出我们想要的东西
+考虑不使用奥卡姆剃刀的智能。我们可能有一个
+天甚至能够证明这一点。但尽管这样的研究
+会很有趣，对于我们的目的来说没有必要，或者
+即使是同一个领域；哲学的目标，如果我们这么称呼它的话，将是
+看看我们以外星真理为目标想出了什么想法，
+更不能准确地说出它的门槛在哪里。这两个问题可能是一个
+日会聚，但它们会从完全不同的方向会聚，
+在他们这样做之前，限制我们自己就太过了
+只考虑我们确信是陌生真理的事情。
+特别是因为这可能是那些
+事实证明，最佳猜测与最佳猜测惊人地接近。 （让我们
+看看那个人是否这样做。）无论我们怎么称呼它，发现外星真理的尝试将是
+一项有价值的事业。奇怪的是，这就是它本身
+可能是一个陌生的事实。感谢格雷格·特雷弗·布莱克威尔布罗克曼,
+感谢 Patrick Collison、Robert Morris 和 Michael Nielsen 阅读了本文的草稿。]]></description>
+      <guid>http://paulgraham.com/alien.html</guid>
+      <pubDate>Fri, 30 Sep 2022 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从用户那里学到了什么</title>
+      <link>http://paulgraham.com/users.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/users.html</guid>
+      <pubDate>Wed, 31 Aug 2022 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>异端</title>
+      <link>http://paulgraham.com/heresy.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/heresy.html</guid>
+      <pubDate>Thu, 31 Mar 2022 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将想法付诸文字</title>
+      <link>http://paulgraham.com/words.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/words.html</guid>
+      <pubDate>Mon, 31 Jan 2022 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有所谓的“好品味”？</title>
+      <link>http://paulgraham.com/goodtaste.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/goodtaste.html</guid>
+      <pubDate>Sun, 31 Oct 2021 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越智能</title>
+      <link>http://paulgraham.com/smart.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/smart.html</guid>
+      <pubDate>Thu, 30 Sep 2021 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的语言</title>
+      <link>http://paulgraham.com/weird.html</link>
+      <description><![CDATA[2021 年 8 月当人们说，根据他们的经验，所有编程语言
+基本上是等价的，他们所做的声明不是关于
+语言，但关于他们所做的编程类型。99.5% 的编程包括将对库的调用粘合在一起
+功能。所有流行语言在这方面都同样擅长。那么一个
+可以轻松地度过一生的职业生涯在路口经营
+流行的编程语言。但另外 0.5% 的编程却异常有趣。
+如果你想了解它的组成部分，奇怪的奇怪之处
+语言是一个很好的线索。奇怪的语言并不是偶然出现的。不是好的，在
+至少。好人的怪异通常意味着其存在
+某种形式的编程，而不仅仅是通常的粘合在一起
+库调用。具体示例：Lisp 宏。 Lisp 宏甚至对于
+许多 Lisp 程序员。他们不仅不在交集
+流行语言，但本质上很难实现
+正确地用一种语言而不将其变成方言
+口齿不清。宏绝对是技术的证据
+超越胶水编程。例如，首先解决问题
+为该类型的问题编写一种语言，然后编写
+您在其中的具体应用。这还不是你能做的全部
+宏；它只是程序操作空间中的一个区域
+即使现在还远未得到充分探索的技术。因此，如果您想扩展您对编程的概念，
+一种方法是学习奇怪的语言。选择语言
+大多数程序员认为很奇怪，但其中间用户很聪明，
+然后重点关注该语言与其他语言之间的差异
+流行语言的交叉点。你能用这种语言说什么
+这句话在别人嘴里说出来会不会很不方便？在里面
+学习如何说出以前不能说的话的过程，
+你可能会学会如何思考你无法思考的事情
+以前认为。
+感谢特雷弗·布莱克威尔、帕特里克·克里森、丹尼尔·加克尔、阿姆贾德
+马萨德和罗伯特·莫里斯阅读了本文的草稿。
+]]></description>
+      <guid>http://paulgraham.com/weird.html</guid>
+      <pubDate>Sat, 31 Jul 2021 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何努力工作</title>
+      <link>http://paulgraham.com/hwh.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/hwh.html</guid>
+      <pubDate>Mon, 31 May 2021 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自己的项目</title>
+      <link>http://paulgraham.com/own.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/own.html</guid>
+      <pubDate>Mon, 31 May 2021 16:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
