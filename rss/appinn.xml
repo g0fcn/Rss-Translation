@@ -4,7 +4,30 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 14 Mar 2024 09:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 12:26:15 GMT</lastBuildDate>
+    <item>
+      <title>聚合AI聊天 chrome 扩展</title>
+      <link>https://meta.appinn.net/t/topic/53870</link>
+      <description><![CDATA[AIChatOne - 由 ChatGPT-4 提供支持的一体化 AI Copilot，让您可以使用所有流行的聊天 LLM，并具有增强功能，如快速响应、与 Google 网络搜索、聊天搜索、AI 字符、提示库等集成。您可以同时与多个 LLM 聊天，以了解更多信息。 获得最佳答案，您可以在侧边栏向 AI 询问任何问题，支持 webapp、Poe、OpenRouter、Azure 和 API
+
+
+
+aichatone.com
+
+
+
+AIChatOne - Your ALL-in-one AI Copilot powered by ChatGPT-4
+Free Chrome extension to use all popular Chat LLMs with enhanced features like fast response, Integrated with Google web  search, Chat search, AI characters, Prompt library, etc. You can chat with Multiple LLMs like typingmind maxme sider monica...
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/53870</guid>
+      <pubDate>Thu, 14 Mar 2024 09:40:11 GMT</pubDate>
+    </item>
     <item>
       <title>能不能在爱奇艺、腾讯视频、B站等视频网站上，根据关键字屏蔽视频的功能？</title>
       <link>https://meta.appinn.net/t/topic/53863</link>
@@ -276,35 +299,6 @@ https://ichatt.cn
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/53467</guid>
       <pubDate>Tue, 05 Mar 2024 08:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>【喜大普奔】百分浏览器更新测试版（5.1.1130.26）</title>
-      <link>https://meta.appinn.net/t/topic/53404</link>
-      <description><![CDATA[更新日志：
-内核升级至118.0.5993.159
-继续支持Win7和Win8
-支持指定小号标签打开书签和链接
-标签列表菜单中显示声音图标
-添加选项&quot;强制在当前标签中打开链接&quot;
-热门网站支持本地图片作为图标
-合并安全补丁（CVE-2023-7024,CVE-2024-0517,CVE-2024-0519,CVE-2024-0807,CVE-2024-1669,CVE-2024-1670）
-[BUG修复]部分环境下下载窗口花屏
-[BUG修复]小号标签中无法显示桌面通知
-[BUG修复]浏览器启动时加载下载列表会引起卡顿
-[BUG修复]选中复制和超级拖拽无法复制HTML内容
-[BUG修复]部分环境下安装包崩溃
-[BUG修复]JS书签被强制使用默认图标
-[BUG修复]&quot;新标签打开位置&quot;为&quot;在当前标签的右侧&quot;时&quot;打开全部书签&quot;顺序会被颠倒
-下载地址(带x64的为64位版本，推荐使用64位版本。带portable的为便携版。如果需要经常重装系统，建议下载便携版解压到非系统盘使用。)：
-https://static.centbrowser.cn/win_beta/5.1.1130.26/
-已知问题：
-
-下载按钮不能被隐藏
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53404</guid>
-      <pubDate>Mon, 04 Mar 2024 07:04:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
