@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 02 Mar 2024 21:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 21:11:49 GMT</lastBuildDate>
+    <item>
+      <title>构建自定义 URL 缩短器</title>
+      <link>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</guid>
+      <pubDate>Sat, 16 Mar 2024 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>忧郁商品！</title>
       <link>https://brett.trpstra.net/link/535/16598996/dimspirations-merch</link>
@@ -298,38 +305,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16547664/screenfloat-2-power-up-your-screenshots-sponsor</guid>
       <pubDate>Thu, 25 Jan 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 1 月 18 日网上游览</title>
-      <link>https://brett.trpstra.net/link/535/16539501/web-excursions-for-january-18-2024</link>
-      <description><![CDATA[ ScreenFloat, CleanShot X, macOS, Backblaze, keybindings
-总结:本文介绍了Matthias Gansrigler发布的ScreenFloat v2，以及macOS中隐藏的代理图标的显示技巧。另外还推荐了一款可以调查macOS文本系统按键绑定的应用程序。同时还提到了一个有关双相情感障碍生活的纪录片。文章最后介绍了Backblaze，这是一款用于将计算机数据安全备份到云端的工具。
- 
-
-
-
-
-
-
-Web excursions brought to you in partnership with Backblaze. Back up everything.
-
-Eternal Storms Software - ScreenFloat
-Matthias Gansrigler has released v2 of ScreenFloat, one of my favorite apps from years ago. A lot of its functionality was replaced by CleanShot X for me in recent years, but the shots browser, tagging, and smart folders set it apart. The basic idea is you can float a screenshot above all other windows and it follows you between spaces, but v2 goes a lot further. Check it out.
-TipBITS: Always Show Window Proxy Icons
-Back in 2020 I published a tip to make the now-hidden proxy icons in macOS show up instantly on rollover, but it turns out that since then Apple has added a preference to just show them all the time. Thanks to Pim for pointing this out.
-davidbalbert/KeyBinding-Inspector
-An app to survey your macOS text system keybindings. I’ve been writing a lot about editing the DefaultKeyBinding.dict file, and this app makes it easy to peruse what key combinations are doing what. The biggest shortfall is that it doesn’t handle nested bindings (multi-keystroke), but it does successfully ignore those and show you everything else.
-Commit Art
-Turn your contributions into a tangible piece of art! Mine for 2023 is a documentation of my bipolar type 2 life.
-
-Backblaze securely backs up your entire computer to the cloud, affordably and reliably. I trust it with all my data. Check it out today.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16539501/web-excursions-for-january-18-2024</guid>
-      <pubDate>Thu, 18 Jan 2024 19:44:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
