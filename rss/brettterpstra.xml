@@ -4,7 +4,39 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Mar 2024 01:03:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:17:09 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 3 月 19 日网上游览</title>
+      <link>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</link>
+      <description><![CDATA[ Deckset, Markdown, OCR, Ground News, CleanShot X
+总结:
+文章介绍了一些最新的网络资源和工具。其中提到了Deckset推出iOS版本，用户可以使用Markdown在iPhone/iPad上创建演示文稿。另外推荐了一款基于Markdown的演示工具，可能比Deckset更好。还介绍了一个只适用于macOS 13+的简单命令行工具，可以使用内置的OCR和转录框架。提到了Ground News这个工具，可以帮助用户了解不同观点的新闻，打破信息茧房。最后作者推荐了CleanShot X用于截图和录屏。文章结尾提到网站受到读者支持，保留所有材料版权。 
+
+
+
+
+
+
+Web excursions brought to you in partnership with CleanShot X, the absolute, hands-down best app for Mac screenshots. Get one of my all-time favorite apps here.
+
+Deckset on the App Store
+Just when I thought Deckset was dead, an iOS version is announced. Create presentations using Markdown, now on your iPhone/iPad.
+iA Presenter
+A newer option for Markdown-based presentations (from the creators of iA Writer and based on the same engine) that I think this might be even better than Deckset. Going to give it a test run for a while, but off the bat it looks really slick.
+freedmand/textra
+macOS 13+ only, a simple command line interface to the OS’s built-in OCR and transcription frameworks. The OCR works really well. Really, really well (I’m using it to add automatic ALT tags to Dimspirations and it deals with text in crazy fonts on crazy backgrounds). I haven’t gone far with testing the audio transcription, but I have high expectations.
+Ground News
+This is advertised on almost every YouTube channel I subscribe to, so I decided to check it out. It’s really good. If you want to break out of your news bubble and understand what the other side is hearing and thinking, Ground News provides all kinds of tools for doing so. Highly recommended. I’m trying to get my parents to use it, but even if they don’t, it helps me see the headlines that are going to affect them in their bubble so I’m not shocked when topics come up that I’ve seen no trace of previously.
+
+I do all of my screenshots and screen recordings with CleanShot X. I love it to pieces. You should get it.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</guid>
+      <pubDate>Tue, 19 Mar 2024 15:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>构建自定义 URL 缩短器</title>
       <link>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</link>
@@ -270,41 +302,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16552042/checking-for-a-vpn-connection-from-the-command-line</guid>
       <pubDate>Mon, 29 Jan 2024 19:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ScreenFloat 2 -- 增强你的屏幕截图 [赞助商]</title>
-      <link>https://brett.trpstra.net/link/535/16547664/screenfloat-2-power-up-your-screenshots-sponsor</link>
-      <description><![CDATA[ ScreenFloat, features, capture, annotations, organization
-总结:ScreenFloat是一个强大的屏幕截图工具，具有多种新功能和工具，包括截图、标注、组织等。它可以让用户轻松地进行屏幕截图、录制屏幕、添加标注和整理截图，非常方便实用。ScreensFloat的新版本提供了诸多升级，能够让用户更加高效地进行屏幕截图和管理。 
-Thanks to ScreenFloat for sponsoring BrettTerpstra.com this week! I was a frequent user of the original version, and I’m very excited to see version 2 released. It’s chock full of new features and tools that set it apart from the competition.
-
-
-
-
-
-
-
-
-Hi, my name’s Matthias, I’m the developer of Yoink, Transloader, and Tameno, among others.
-Allow me to introduce another one of my apps to you: ScreenFloat. Over eleven years after its initial v1 release, and after more than a year and a half of development, ScreenFloat 2 is finally here — rebuilt from the ground up, based on the core functionality that made it so beloved, but improving it in numerous, incredibly useful ways.
-Capture screenshots, record your screen, or take timed screenshots. Re-capture shots without painstakingly reframing them. Import from your clipboard, other apps, your Desktop, or your iOS devices.
-Float screenshots and recordings above all your other windows, apps and spaces, so information or reference material is always visible, no matter what you do. It’s like picture-in-picture, but for your captures.
-Texts, faces and barcodes are detected in every shot you take and can effortlessly be extracted/copied and non-destructively redacted with a simple right-click.
-Mark up and annotate your screenshots with lines, arrows, checkmarks, highlights, smart bullet points, redactions and more. All non-destructively, so you can always go back and make changes or restore the original capture.
-Pick colors from any floating shot. Crop, “fold”, resize, rotate, “de-retinize”, trim, and mute your shots.
-Sharing floating shots is just a file drag away, with on-the-fly changing of file format and sizing options, whether or not annotations should be included, and more.
-Set up double-click workflows for repetitive tasks, like de-retinize the shot, resize it to 75% and then attach it to an email.
-Your captures are stored in ScreenFloat’s Shots Browser, where you can name, tag, favorite and rate them, and organize them with folders and smart folders. They can also (optionally) be synchronized across your Macs over iCloud.
-Find all your shots system-wide or in the Shots Browser by their metadata — including detected text and barcode content.
-And more!
-A screenshot is just a screenshot. Until you use ScreenFloat. Check it out today.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16547664/screenfloat-2-power-up-your-screenshots-sponsor</guid>
-      <pubDate>Thu, 25 Jan 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
