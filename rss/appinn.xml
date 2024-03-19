@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Mar 2024 12:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 06:18:11 GMT</lastBuildDate>
     <item>
       <title>【自荐】小狗听听-一款强大的听视频的应用</title>
       <link>https://meta.appinn.net/t/topic/53986</link>
@@ -379,20 +379,48 @@ iOS
       <pubDate>Sun, 10 Mar 2024 03:31:52 GMT</pubDate>
     </item>
     <item>
-      <title>求个iOS上的可以自定义请求域名和key的chatgpt客户端</title>
-      <link>https://meta.appinn.net/t/topic/53626</link>
-      <description><![CDATA[求个iOS上的可以自定义请求域名和key的chatgpt客户端
-5 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53626</guid>
-      <pubDate>Fri, 08 Mar 2024 06:41:23 GMT</pubDate>
-    </item>
-    <item>
       <title>【网页更新提醒】任何网页，任何区域，我帮您盯着</title>
       <link>https://meta.appinn.net/t/topic/36976</link>
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/36976</guid>
       <pubDate>Tue, 11 Oct 2022 12:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>自荐：辅助输入法切换工具-KeyboardHolder</title>
+      <link>https://meta.appinn.net/t/topic/19015</link>
+      <description><![CDATA[软件名称
+KeyboardHolder
+应用平台
+
+MacOS
+
+推荐类型
+【开发者自荐】
+一句简介
+app切换是辅助输入法切换工具。
+应用简介
+输入法辅助工具 KeyboardHolder。 它能记住你在每个app使用的输入法，在多个app切换的时候，自动帮助你切换到app最后使用的输入法。省去了切换app后，还要切换输入法的问题。
+它可以配置app启动到默认输入法，还可以针对app进行默认定制。
+
+官方网站 &amp;&amp; 应用商店地址
+下载链接
+
+
+GitHub
+
+
+
+Releases · leaves615/KeyboardHolder
+Contribute to leaves615/KeyboardHolder development by creating an account on GitHub.
+
+
+
+
+
+8 个帖子 - 7 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/19015</guid>
+      <pubDate>Sat, 12 Sep 2020 12:47:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
