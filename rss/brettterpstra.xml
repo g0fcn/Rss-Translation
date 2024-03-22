@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Mar 2024 18:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:17:13 GMT</lastBuildDate>
+    <item>
+      <title>重新审视 TagFiler 和 Vitag</title>
+      <link>https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag</guid>
+      <pubDate>Fri, 22 Mar 2024 16:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 3 月 19 日网上游览</title>
       <link>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</link>
@@ -295,13 +302,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16553334/checking-for-a-vpn-connection-part-2</guid>
       <pubDate>Tue, 30 Jan 2024 16:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从命令行检查 VPN 连接</title>
-      <link>https://brett.trpstra.net/link/535/16552042/checking-for-a-vpn-connection-from-the-command-line</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16552042/checking-for-a-vpn-connection-from-the-command-line</guid>
-      <pubDate>Mon, 29 Jan 2024 19:55:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
