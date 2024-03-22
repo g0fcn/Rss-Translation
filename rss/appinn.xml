@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Mar 2024 18:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 06:18:16 GMT</lastBuildDate>
     <item>
       <title>【开源自荐】elasticsearch客户端：es-client</title>
       <link>https://meta.appinn.net/t/topic/54143</link>
@@ -263,60 +263,72 @@ Free Chrome extension to use all popular Chat LLMs with enhanced features like f
       <pubDate>Thu, 14 Mar 2024 09:40:11 GMT</pubDate>
     </item>
     <item>
-      <title>能不能在爱奇艺、腾讯视频、B站等视频网站上，根据关键字屏蔽视频的功能？</title>
-      <link>https://meta.appinn.net/t/topic/53863</link>
-      <description><![CDATA[需求的原因是，家里小孩在这类视频网站上刷视频时，经常刷到一些低质量的视频，我想通过关键字去屏蔽掉相关视频。虽然理想状态是我找好视频给他看，但这个不太现实，他也有自己的喜好，比如喜欢枪械，我期望他看到的是科普类或者纪录片，但他刷着刷着，就刷到一些做得不好的游戏视频，里面脏话满天飞，实在是不想让他过多接触这些。
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53863</guid>
-      <pubDate>Thu, 14 Mar 2024 06:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开发者自荐]我花了两万块做了一个App，映画相机快速制作人物写真和数字分身</title>
-      <link>https://meta.appinn.net/t/topic/53825</link>
-      <description><![CDATA[产品介绍
-映画相机（WaveCam）是一款用于生成一致肖像图像的应用。与主流的基于人工智能的生成产品（如文本转图像和图像转图像）不同，我们基于开源生态基础之上微调了模型。用户可以提供面部图像，应用程序可以生成高度相似的面部轮廓图像。支持60多种风格。
-App Store下载
-
-使用方法：
-
-打开应用程序，点击添加按钮（位于右下角的“+”按钮）
-提交一个必须包含完整且相对清晰面部的面部图像，并设置简单的参数
-打开详情页，您可以每5秒点击刷新按钮。任务完成会渲染生成的效果图片。
-
-生成高质量图片建议：
-灵活运用风格和饱和度比例选项，对图片效果影响比较大。
-
-一致性效果图：
-
-用户权益
-我们每天会为每位用户提供一定的使用额度，另外我们还提供了月度高级版本的订阅服务，产品内部会有更加详细的说明。
-关于隐私数据的处理：
-用户提交的面部数据将存储在AWS服务器上。我们定期删除这些数据，不向任何第三方提供。
-App开发背景故事
-之前做产品主要是花费自己的时间，这次我为了做一个产品花了两万多。我之前的产品基本上都是重客户端的类型，所有的数据和业务逻辑都是在用户的本地客户端完成。直到我开始做生成式AI产品时发现了用户客户端本地模型推理的局限性。最近SD生态IP一致性的方案落地很有意思，我就开始筹划自己部署一套推理服务器。这样用户无论什么机型都可以体验到不错的生成效果，调研了一番现在GPU租赁服务，租一年不如自己搭建一套省钱，于是就是看各种主机组装的介绍也问了几个朋友最终在2W左右（其中显卡占了70%）搭建了一套属于自己的推理服务器如下图所示。
-
-机器装好之后，才算是困难逐渐开始浮现。我这台服务器在家里，我们并没有公网IP，首先需要解决内网穿透的问题这样我在外面也偶尔可以修改一下代码远程部署下，在朋友的建议下最终使用了tailscale方案，这里有必要提醒大家修改下ssh端口（不然好像会受到运营商的干扰），如果你也有这个想法的话。然后我又购买了一个小米开关把主板设置成通电开机模式应对家里的电路异常。
-4090虽然有24GB显存，但是依然是不够用的。我需要做推理服务为了省略模型载入的时间我使用守护进程的方式让模型的缓存常驻在系统这也导致了我这个显卡的命运目前被推理服务锁死了。我还发现GPU随着运行的时间长会产生显存碎片，需要定期启动。
-为了让我们产品后端服务可以推理服务器建立时时紧密的连接我使用的socket方案，低延迟的于内网通信。大概折腾了一个月终于差不多了。于是基于我之前的App产品前端代码简单修改就提交到App Store审核了。结果被Apple 4.3拒绝审核。做过iOS开发的朋友应该都知道4.3的严重性，轻则下架产品，重则封号。看到这个4.3真是欲哭无泪呀，难道2w块要打水漂了么。还好我没有抄袭或者copy自己的代码也不让我复用真是醉了。又单独花了一天时间把GUI给重构了一遍，焦急的等待了一天终于给过审核了。
-后续开发计划
-
-支持安卓
-支持小程序
-
-使用意见和反馈欢迎与我联系，邮箱或者私信。
-邮箱： jiangdi0924@gmail.com
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53825</guid>
-      <pubDate>Wed, 13 Mar 2024 06:42:16 GMT</pubDate>
-    </item>
-    <item>
       <title>【网页更新提醒】任何网页，任何区域，我帮您盯着</title>
       <link>https://meta.appinn.net/t/topic/36976</link>
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/36976</guid>
       <pubDate>Tue, 11 Oct 2022 12:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>SessionBuddy - 支持崩溃后恢复的浏览器标签页管理插件</title>
+      <link>https://meta.appinn.net/t/topic/24089</link>
+      <description><![CDATA[
+软件名称
+SessionBuddy
+
+应用平台
+
+Chrome
+
+
+推荐类型
+【用户投递】
+
+一句简介
+一个 Chrome 的浏览器标签页管理插件，支持管理/保存/恢复多个浏览器窗口内的标签。
+
+应用简介
+类似于 OneTab 之类的标签页管理插件，但是功能更强。在保存标签页到分组并恢复外，也支持整体的状态保存/恢复（多个浏览器窗口+多个标签）。
+
+保存当前打开的标签页到标签页组
+在崩溃后恢复之前的浏览状态
+一次管理所有打开的窗口和标签页
+
+但我自己使用的主要功能实际上是崩溃恢复，自己用的是 Dev 分支的 Edge，有的时候会导致整个浏览器崩溃，但是 Edge（或者说 Chrome 系）本身的崩溃恢复个人认为做的不是很好，如果错过了崩溃后首次打开的恢复机会，之后就没办法恢复了。这个插件会在后台自动快照最近的会话状态（当前打开了多少窗口，每个窗口里开了哪些标签页），恢复起来容易一些。
+
+官方网站
+
+
+
+sessionbuddy.com
+
+
+
+Session Buddy
+Manage Browser Tabs and Bookmarks with Ease
+
+
+
+
+
+
+
+
+chrome.google.com
+
+
+
+Session Buddy
+Manage Browser Tabs and Bookmarks with Ease
+
+
+
+
+
+4 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/24089</guid>
+      <pubDate>Tue, 15 Jun 2021 14:37:57 GMT</pubDate>
     </item>
     <item>
       <title>自荐：辅助输入法切换工具-KeyboardHolder</title>
@@ -354,6 +366,19 @@ Contribute to leaves615/KeyboardHolder development by creating an account on Git
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/19015</guid>
       <pubDate>Sat, 12 Sep 2020 12:47:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>求推荐：Chrome 重新打开关闭的标签页 扩展</title>
+      <link>https://meta.appinn.net/t/topic/4482</link>
+      <description><![CDATA[Chrome 自带的可以恢复的数量有限
+历史记录的问题在于中间会有很多其他的记录混在一起
+求一个可以  重新打开关闭的标签页 的扩展、插件
+恢复数量越多越好
+Ps： 自带的可以恢复25个标签页，我估计得用到100个
+9 个帖子 - 6 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/4482</guid>
+      <pubDate>Fri, 03 Nov 2017 01:48:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
