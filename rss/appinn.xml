@@ -4,7 +4,26 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 23 Mar 2024 00:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 15:15:24 GMT</lastBuildDate>
+    <item>
+      <title>如果你想要Chrome旧版的收藏书签UI及流程，推荐用这个扩展</title>
+      <link>https://meta.appinn.net/t/topic/54227</link>
+      <description><![CDATA[https://chromewebstore.google.com/detail/书签管理增强版/kcipcflegclplnkpbijedkhgljodgfcp
+唯一问题是，新收藏的会在文件夹里排最顶部，而不是排最底下，不习惯的无视吧
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/54227</guid>
+      <pubDate>Sat, 23 Mar 2024 13:22:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>永久记录浏览器历史且自动备份到云端的Chrome插件？</title>
+      <link>https://meta.appinn.net/t/topic/54225</link>
+      <description><![CDATA[我现在在用History Trends Unlimited，这个插件会永久记录浏览历史，但是需要经常备份到本地，有没有可以自动备份到云端的替代品？
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/54225</guid>
+      <pubDate>Sat, 23 Mar 2024 12:27:04 GMT</pubDate>
+    </item>
     <item>
       <title>【开源自荐】elasticsearch客户端：es-client</title>
       <link>https://meta.appinn.net/t/topic/54143</link>
@@ -99,145 +118,24 @@
       <pubDate>Mon, 18 Mar 2024 09:13:55 GMT</pubDate>
     </item>
     <item>
-      <title>【开源自荐】用cf worker部署的临时邮箱服务</title>
-      <link>https://meta.appinn.net/t/topic/53941</link>
-      <description><![CDATA[Vmail.dev
+      <title>音乐播放管理软件</title>
+      <link>https://meta.appinn.net/t/topic/40654</link>
+      <description><![CDATA[其实我已经半放弃本地听歌了……网上找资源麻烦且质量良莠不齐，购买又吃不住价格，还是一个月5块的 Apple Music 深得我心……
 
-项目地址：https://vmail.dev
-开源仓库：GitHub - yesmore/vmail: Virtual temporary Email Generator. 👉 https://vmail.dev
+软件名称
 
-使用 cloudflare email worker 实现的临时邮箱服务，有效期24h，支持多语言。
-1 个帖子 - 1 位参与者
+官方网址：
+开源&amp;付费情况：
+应用平台：Linux，Windows，MacOS，iOS，Android，Web，BSD，etc.
+支持格式：mp3、flac、wav、alac、aac，etc.
+特殊/优越之处：标签系统、元数据编辑、扫描指定目录、云盘支持、多元视图、轻量快速、listenbrainz或last.fm支持， etc.
+（选）截图/截图链接：
+（选）本论坛中过去提到该软件的讨论链接
+
+18 个帖子 - 13 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53941</guid>
-      <pubDate>Sun, 17 Mar 2024 09:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>老胡的周刊（第132期）</title>
-      <link>https://meta.appinn.net/t/topic/53935</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/53935</guid>
-      <pubDate>Sun, 17 Mar 2024 04:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮忙做个油猴脚本, 在gmail中回复邮件时, 可以自定义引用文本</title>
-      <link>https://meta.appinn.net/t/topic/53897</link>
-      <description><![CDATA[古早的gmail有个lab功能,
-可以在邮件正文中选中一段文字,
-然后按下回复的快捷键r,
-这段文字就会自动加入到回复文本框的最上面, 作为引用文字.
-然后下面可以输入自己的回复.
-我一直觉得这样的引用非常有针对性.
-比嵌套性的引用所有以前邮件的内容要清晰明了的多.
-但不出意料的是,
-这样的功能被google取消了.
-我尝试用油猴脚本实现类似的功能,
-但是自己水平有限,
-手搓到下面这些后,
-我就进行不下去了.
-请问有没有熟悉js的朋友可以帮我实现这个功能?
-万分感谢.
-我期望的回复样式是这样的:
-
-引用内容的时候同时会附加原邮件的时间, 发信人和邮箱地址
-下面使用引用格式, 后面自动附加我高亮的文字.
-可以在一个主题邮件的多个邮件中重复: 高亮 &gt; r 的动作. 它们会自动的叠起来. (比如下图中就有两个叠加在了一起.) 这样便于我处理同个主题下多封邮件的回复.
-
-
-我的手搓:
-// ==UserScript==
-// @name         Gmail Reply Enhancer
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Enhance Gmail reply functionality
-// @author       Your Name
-// @match        https://mail.google.com/*
-// @grant        none
-// ==/UserScript==
-
-(function() {
-    &#39;use strict&#39;;
-
-    // 监听键盘事件，当按下 &#39;r&#39; 键时执行函数
-    document.addEventListener(&#39;keydown&#39;, function(event) {
-        // 检查是否按下 &#39;r&#39; 键（键码为 82）
-        if (event.key === &#39;r&#39; &amp;&amp; !event.shiftKey &amp;&amp; !event.ctrlKey &amp;&amp; !event.metaKey &amp;&amp; !event.altKey) {
-            // 阻止默认事件，避免 Gmail 的默认行为
-            event.preventDefault();
-
-            // 获取选中的文字
-            var selectedText = window.getSelection().toString().trim();
-            console.log(&#39;Selected text:&#39;, selectedText);
-
-            // 获取发件人姓名
-            var senderName = &#39;&#39;;
-            var senderNameElement = document.querySelector(&#39;span[email]&#39;);
-            if(senderNameElement) {
-                senderName = senderNameElement.getAttribute(&#39;name&#39;) || &#39;&#39;;
-            }
-            console.log(&#39;Sender name:&#39;, senderName);
-
-            // 获取发件人地址
-            var senderAddress = &#39;&#39;;
-            var senderAddressElement = document.querySelector(&#39;span[email]&#39;);
-            if(senderAddressElement) {
-                senderAddress = senderAddressElement.getAttribute(&#39;email&#39;) || &#39;&#39;;
-            }
-            console.log(&#39;Sender address:&#39;, senderAddress);
-
-            // 获取邮件接收时间
-            var receivedTime = &#39;&#39;;
-            var receivedTimeElement = document.querySelector(&#39;div[role=&quot;heading&quot;] &gt; span[data-legacy-last-non-collapsed-time]&#39;);
-            if(receivedTimeElement) {
-                receivedTime = receivedTimeElement.getAttribute(&#39;title&#39;) || &#39;&#39;;
-            }
-            console.log(&#39;Received time:&#39;, receivedTime);
-
-            // 构建回复内容
-            var replyContent = &#39;&#39;;
-            replyContent += senderName !== &#39;&#39; ? senderName + &#39; &#39; : &#39;&#39;;
-            replyContent += senderAddress !== &#39;&#39; ? &#39;&lt;&#39; + senderAddress + &#39;&gt; &#39; : &#39;&#39;;
-            replyContent += receivedTime !== &#39;&#39; ? receivedTime + &#39;\n&#39; : &#39;&#39;;
-            replyContent += selectedText !== &#39;&#39; ? &#39;\n&#39; + selectedText + &#39;\n\n&#39; : &#39;\n\n&#39;;
-            console.log(&#39;Reply content:&#39;, replyContent);
-
-            // 获取回复按钮
-            var replyButton = document.querySelector(&#39;[aria-label=&quot;Reply&quot;]&#39;);
-            if (replyButton) {
-                replyButton.click(); // 触发点击事件
-                console.log(&#39;reply button toggled&#39;);
-            }
-
-
-           // 问题: 无法清空当前的输入框. :(
-            setTimeout(function() {
-                // Trigger Ctrl+A
-                document.execCommand(&#39;selectAll&#39;, false, null);
-                // Trigger delete
-                document.execCommand(&#39;delete&#39;, false, null);
-            }, 4000); // 1000 milliseconds delay
-
-//             // 清空回复框中的内容
-//             var replyBox = document.querySelector(&#39;.editable&#39;);
-//             if(replyBox) {
-//                 replyBox.innerHTML = &#39;&#39;;
-//                 console.log(&#39;Reply box cleared.&#39;);
-//             }
-
-//             // 将回复内容添加到回复框中
-//             if(replyBox) {
-//                 replyBox.focus();
-//                 document.execCommand(&#39;insertText&#39;, false, replyContent);
-//                 console.log(&#39;Reply content inserted.&#39;);
-//             }
-        }
-    });
-})();
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/53897</guid>
-      <pubDate>Fri, 15 Mar 2024 08:46:45 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/40654</guid>
+      <pubDate>Tue, 14 Feb 2023 12:59:22 GMT</pubDate>
     </item>
     <item>
       <title>【网页更新提醒】任何网页，任何区域，我帮您盯着</title>
