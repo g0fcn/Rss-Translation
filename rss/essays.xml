@@ -4,7 +4,14 @@
     <title>保罗·格雷厄姆 - 散文</title>
     <link>http://paulgraham.com/articles.html</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Mar 2024 21:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 15:15:11 GMT</lastBuildDate>
+    <item>
+      <title>红迪网</title>
+      <link>http://paulgraham.com/reddits.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://paulgraham.com/reddits.html</guid>
+      <pubDate>Thu, 29 Feb 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何启动谷歌</title>
       <link>http://paulgraham.com/google.html</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 29 Feb 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>最好的散文</title>
+      <title>最好的论文</title>
       <link>http://paulgraham.com/best.html</link>
       <description><![CDATA[]]></description>
       <guid>http://paulgraham.com/best.html</guid>
@@ -38,7 +45,7 @@
       <link>http://paulgraham.com/getideas.html</link>
       <description><![CDATA[2023 年 1 月(有人将我的论文输入GPT 做出一些可以回答的东西
 基于它们提出问题，然后询问它好的想法从何而来。这
-答案还可以，但不是我想说的。这就是我想说的。）获得新想法的方法是注意异常情况：看起来奇怪的东西，
+答案还可以，但不是我想说的。这就是我想说的。）获得新想法的方法是注意到异常：看起来奇怪的东西，
 或丢失，或损坏？你可以在日常生活中看到异常现象（很多
 单口喜剧就是基于此），但最好的地方是寻找
 他们处于知识的前沿。知识呈分形增长。
@@ -74,7 +81,7 @@ x 不只是教你关于 x 的知识；它还教你关于 x 的知识。它还教
 不写就解决。如果您正在考虑如何将两块
 机器应该组装在一起，而写它可能不会
 有很大帮助。当一个问题可以被正式描述时，你可以
-有时在你的脑海中解决它。但如果你需要解决一个
+有时在你的脑海里解决它。但如果你需要解决一个
 复杂的、不明确的问题，它几乎总是有帮助的
 写一下它。这反过来意味着一个不擅长的人
 在解决此类问题时，写作几乎总是处于劣势
@@ -194,7 +201,7 @@ x 不只是教你关于 x 的知识；它还教你关于 x 的知识。它还教
 在他们这样做之前，限制我们自己就太过了
 只考虑我们确信是陌生真理的事情。
 特别是因为这可能是那些
-事实证明，最佳猜测与最佳猜测惊人地接近。 （让我们
+最佳猜测结果惊人地接近最优。 （让我们
 看看那个人是否这样做。）无论我们怎么称呼它，发现外星真理的尝试将是
 一项有价值的事业。奇怪的是，这就是它本身
 可能是一个陌生的事实。感谢格雷格·特雷弗·布莱克威尔布罗克曼,
@@ -273,13 +280,6 @@ x 不只是教你关于 x 的知识；它还教你关于 x 的知识。它还教
 ]]></description>
       <guid>http://paulgraham.com/weird.html</guid>
       <pubDate>Sat, 31 Jul 2021 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何努力工作</title>
-      <link>http://paulgraham.com/hwh.html</link>
-      <description><![CDATA[]]></description>
-      <guid>http://paulgraham.com/hwh.html</guid>
-      <pubDate>Mon, 31 May 2021 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
