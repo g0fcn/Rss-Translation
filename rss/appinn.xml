@@ -4,7 +4,53 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 12:26:29 GMT</lastBuildDate>
+    <item>
+      <title>【开发工具，送码】Tempest 是一款跨平台、云同步、隐私优先的 SSH 客户端 和 Kubernetes 终端</title>
+      <link>https://meta.appinn.net/t/topic/54408</link>
+      <description><![CDATA[Tempest（官网：gotempest.app） 是一款跨平台、云同步、隐私优先的 SSH 客户端 和 Kubernetes 终端
+下载链接： https://gotempest.app/download/
+支持 Windows ，macOS ，Linux ，iOS 和 Android
+软件大部分功能都是免费的，仅跨设备同步、协作等增强功能需要付费。送码在最后
+SSH
+
+支持 SSH2 、SFTP 和身份管理器
+支持从 1Password 进行服务器私钥验证
+
+Kubernetes
+
+管理 Kubernetes Config
+在不同标签页中同时管理不同的集群，Kubeconfig 是隔离的
+跨设备端对端加密同步
+
+本地 Shell
+
+对于 Windows 额外支持 MSYS ，WSL （开发中）等环境
+将支持 Serial 串口
+
+数据加密和云同步
+
+在用户本地进行加解密，同步的内容始终是已经加密的（端对端加密）。加密的密钥仅保存在用户本机，使用 KeyChain 或 Windows Credential Manager 保护数据
+加解密部分将在 GitHub 开源以供审查
+跨设备无缝同步非常丝滑，欢迎体验~
+
+共享和协作
+
+支持共享协作，类似石墨文档。发送链接给好友即可共享终端
+支持多窗口广播，即在一个标签中输入的指令可以广播到所有标签页，以同时配置大量服务器
+支持多保险库、分享保险库给团队、撤销用户权限等
+
+
+
+送码
+请前往 Tempest SSH 官方网站 点击 Claim 6 Months Pro Account Now 即可领取半年免费高级账户，活动截止为 4/25/2024
+Tempest 目前为技术预览版，还请大家多多包涵。欢迎反馈想法和 bug~ 独立开发者作品，欢迎大家体验~
+windows android macos ios linux
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/54408</guid>
+      <pubDate>Wed, 27 Mar 2024 05:44:42 GMT</pubDate>
+    </item>
     <item>
       <title>03-18~03-24.老胡的周刊（第134期）</title>
       <link>https://meta.appinn.net/t/topic/54326</link>
@@ -194,43 +240,6 @@ Manage Browser Tabs and Bookmarks with Ease
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/24089</guid>
       <pubDate>Tue, 15 Jun 2021 14:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>自荐：辅助输入法切换工具-KeyboardHolder</title>
-      <link>https://meta.appinn.net/t/topic/19015</link>
-      <description><![CDATA[软件名称
-KeyboardHolder
-应用平台
-
-MacOS
-
-推荐类型
-【开发者自荐】
-一句简介
-app切换是辅助输入法切换工具。
-应用简介
-输入法辅助工具 KeyboardHolder。 它能记住你在每个app使用的输入法，在多个app切换的时候，自动帮助你切换到app最后使用的输入法。省去了切换app后，还要切换输入法的问题。
-它可以配置app启动到默认输入法，还可以针对app进行默认定制。
-
-官方网站 &amp;&amp; 应用商店地址
-下载链接
-
-
-GitHub
-
-
-
-Releases · leaves615/KeyboardHolder
-Contribute to leaves615/KeyboardHolder development by creating an account on GitHub.
-
-
-
-
-
-8 个帖子 - 7 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/19015</guid>
-      <pubDate>Sat, 12 Sep 2020 12:47:43 GMT</pubDate>
     </item>
     <item>
       <title>分享 Flash 播放器</title>
