@@ -4,7 +4,38 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Mar 2024 21:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 18:17:02 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 3 月 29 日网上游览</title>
+      <link>https://brett.trpstra.net/link/535/16635234/web-excursions-for-march-29-2024</link>
+      <description><![CDATA[ mac app; intention setting; Terminal trick; native macOS email client; keycap replacement
+总结: 这篇文章介绍了一款简单优雅的Mac应用程序，可以帮助用户设定意图并提醒他们专注工作。还分享了一个适用于Terminal爱好者的技巧，并推荐了一款优秀的原生macOS邮件客户端。最后提到了订购了一个键帽来替换现有的定制键帽。 
+
+
+
+
+
+
+Web excursions brought to you in partnership with CleanMyMac X, all the tools to speed up your Mac, in one app.
+
+N₁₀ - Attention Management App for Mac
+A simple, elegant Mac app that allows you to set an intention, define how much time you plan to put into it, and then just sit, quietly reminding you of what you want to be working on with subtle but all-encompassing animations. Perfect for those of us who say “OK, now I’m really going to work on this” and then find ourselves doing something entirely different within five minutes H/T Jason Rhemus and props to props to developer Sam Stephenson.
+Again with man pages and BBEdit - All this
+Really nice trick for Terminal junkies who use BBEdit. I have a similar trick for sublime, and one that opens man pages in Preview, but this one provides additional navigation that none of mine have.
+Mimestream
+“A native macOS email client for Gmail.” This looks so good, especially considering MailPlane is dead. If only I didn’t have iCloud and Exchange email accounts I need to deal with, too.
+Interstellar Resin Keycap
+I ordered this keycap to replace my custom rocket keycap that I use for my hyper key. Available in 2.25u (Enter) size. It should arrive today and I’m very excited. I’ll post pictures once I’ve installed it!
+
+
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16635234/web-excursions-for-march-29-2024</guid>
+      <pubDate>Fri, 29 Mar 2024 17:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>重新审视 TagFiler 和 Vitag</title>
       <link>https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag</link>
@@ -274,34 +305,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16565808/convert-nvalt-rtf-files-to-markdown</guid>
       <pubDate>Thu, 08 Feb 2024 17:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>检查 VPN 连接第 2 部分</title>
-      <link>https://brett.trpstra.net/link/535/16553334/checking-for-a-vpn-connection-part-2</link>
-      <description><![CDATA[ scutil, VPN连接, 脚本, grep, 网络接口
-
-VPN连接状态检测的脚本可以通过使用scutil命令和grep来进行。通过检查返回值来确定VPN连接的状态，这个脚本可以让你更清晰地监控VPN的连接情况。总结: scutil命令和grep在脚本中被用来检测VPN连接状态，让你能够更有效地管理网络接口变化。 
-Ok, so I wrote yesterday about a solution for checking your VPN connection via a network interface change, but it turns out there’s a better way to do it. I discovered it shortly after posting (StackExchange thread), and received a few comments mentioning it. So here’s part two.
-The command is scutil, used for managing (s)ystem (c)onfiguration parameters. The command scutil --nc list will show your available VPN devices and their state, either Connected or Disconnected. By doing a case-sensitive grep for Connected we can determine if one or more is connected.
-So now the script just look like:
-#!/bin/bash
-
-while true; do
-  RES=`scutil --nc list | grep -c Connected`
-  [[ $RES == 0 ]] &amp;&amp; break
-  sleep 1
-done
-
-say &quot;VPN disconnected&quot;
-The scutil --nc list | grep -c Connected should return 0 if no VPN is connected, which you can then use to light up a button, integrate into launch/quit scripts, etc. Just a cleaner way to do what I showed yesterday.
-Trevor Manternach has an interesting post using this trick with Wirecast and Bartender.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16553334/checking-for-a-vpn-connection-part-2</guid>
-      <pubDate>Tue, 30 Jan 2024 16:14:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
