@@ -4,7 +4,70 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 31 Mar 2024 06:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 09:14:06 GMT</lastBuildDate>
+    <item>
+      <title>饼图大师(PieChartMaster)- 终极饼图/玫瑰图制作工具! ｜ 限时免费</title>
+      <link>https://meta.appinn.net/t/topic/54573</link>
+      <description><![CDATA[
+饼图大师(PieChartMaster) - 解锁您的饼图/玫瑰图创意潜能！
+
+释放您的创造力，轻松打造令人惊叹的饼图/玫瑰图！ 饼图大师是您在 iOS 和 macOS 上必备的工具，让您轻松输入数据，并以绚丽多彩的方式展示复杂的数据关系。
+特色亮点：
+
+
+
+支持玫瑰图：不仅仅是饼图，我们还支持南丁格尔玫瑰图生成，让您的数据更生动。
+
+
+
+
+多种化配置：无论您想调整饼图大小、背景颜色还是标签，饼图大师都能满足您的多样化定制需求，让您的饼图更具个性。
+
+
+
+
+高质量导出：一键导出、复制或分享高分辨率的饼图，让您的工作轻松共享和整合。
+
+
+
+
+数据文件导入：通过文件导入饼图数据，减少手动输入，让您的工作更高效。
+
+
+
+基本功能：
+
+
+
+轻松输入数据：使用简单的界面轻松创建饼图数据。
+
+
+
+
+极简设计：我们的用户友好界面让您轻松创建详细的数据关系。
+
+
+
+
+跨平台亮点：专为 iOS 和 macOS 定制，确保您拥有无缝的用户体验。
+
+
+
+无论您是经验丰富的商务人士、数据分析师还是求知若渴的学生，饼图大师都是您掌握饼图艺术的不二选择。立即下载，将您的数据转化为引人入胜的可视化叙述！
+如有任何咨询或建议，请随时联系我们的专业支持团队。我们期待听到您的宝贵反馈！
+下载地址
+AppStore
+官网
+PieChartMaster
+推广说明
+
+目前产品处于内测阶段，暂定终身购买价格为8.99美元/58人民币，当前版本1.1免费下载使用。下一个版本1.2将提供基础订阅和终身购买两种方式，在下个版本发布后(预计2024年4月2号)到月中（2024年4月15日）期间，我们将在各大平台的评论区随机赠送终身授权码。注意产品限时免费推广只有这一次，后续将不会有任何形式的免费促销活动，过期不候！！！
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/54573</guid>
+      <pubDate>Sun, 31 Mar 2024 06:59:22 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】DevHub 免费的开发者集成工具</title>
       <link>https://meta.appinn.net/t/topic/54570</link>
@@ -213,67 +276,6 @@ OpenUserJS：https://openuserjs.org/scripts/duanluan/V2EX_主题回复增强
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/36431</guid>
       <pubDate>Wed, 21 Sep 2022 10:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SessionBuddy - 支持崩溃后恢复的浏览器标签页管理插件</title>
-      <link>https://meta.appinn.net/t/topic/24089</link>
-      <description><![CDATA[
-软件名称
-SessionBuddy
-
-应用平台
-
-Chrome
-
-
-推荐类型
-【用户投递】
-
-一句简介
-一个 Chrome 的浏览器标签页管理插件，支持管理/保存/恢复多个浏览器窗口内的标签。
-
-应用简介
-类似于 OneTab 之类的标签页管理插件，但是功能更强。在保存标签页到分组并恢复外，也支持整体的状态保存/恢复（多个浏览器窗口+多个标签）。
-
-保存当前打开的标签页到标签页组
-在崩溃后恢复之前的浏览状态
-一次管理所有打开的窗口和标签页
-
-但我自己使用的主要功能实际上是崩溃恢复，自己用的是 Dev 分支的 Edge，有的时候会导致整个浏览器崩溃，但是 Edge（或者说 Chrome 系）本身的崩溃恢复个人认为做的不是很好，如果错过了崩溃后首次打开的恢复机会，之后就没办法恢复了。这个插件会在后台自动快照最近的会话状态（当前打开了多少窗口，每个窗口里开了哪些标签页），恢复起来容易一些。
-
-官方网站
-
-
-
-sessionbuddy.com
-
-
-
-Session Buddy
-Manage Browser Tabs and Bookmarks with Ease
-
-
-
-
-
-
-
-
-chrome.google.com
-
-
-
-Session Buddy
-Manage Browser Tabs and Bookmarks with Ease
-
-
-
-
-
-4 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/24089</guid>
-      <pubDate>Tue, 15 Jun 2021 14:37:57 GMT</pubDate>
     </item>
     <item>
       <title>分享 Flash 播放器</title>
