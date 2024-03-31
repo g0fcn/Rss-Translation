@@ -4,7 +4,14 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 29 Mar 2024 15:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 06:16:46 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】DevHub 免费的开发者集成工具</title>
+      <link>https://meta.appinn.net/t/topic/54570</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/54570</guid>
+      <pubDate>Sun, 31 Mar 2024 04:01:15 GMT</pubDate>
+    </item>
     <item>
       <title>全平台（网页）保持屏幕常亮 Keep Screen On【用户推荐】</title>
       <link>https://meta.appinn.net/t/topic/54508</link>
@@ -162,24 +169,6 @@ windows android macos ios linux
       <pubDate>Sat, 23 Mar 2024 12:27:04 GMT</pubDate>
     </item>
     <item>
-      <title>【开源自荐】elasticsearch客户端：es-client</title>
-      <link>https://meta.appinn.net/t/topic/54143</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/54143</guid>
-      <pubDate>Thu, 21 Mar 2024 12:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome的紧凑显示书签终于还是阵亡了</title>
-      <link>https://meta.appinn.net/t/topic/54131</link>
-      <description><![CDATA[Chrome新UI太浪费显示空间了。点开个书签文件夹，鼠标滚轮使劲翻啊翻，太伤神。所以有关闭chrome://flags/#chrome-refresh-2023来找回紧凑UI的办法。但是今天升级到123.0.6312.59，已经无效了。以后只能以泪洗面。
-记得有个扩展，点一下弹出个界面，假装自己书签栏，还能多列显示。有人知道叫啥吗？
-论坛搜到的几个书签扩展我都试了，没有那个好用。
-5 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/54131</guid>
-      <pubDate>Thu, 21 Mar 2024 08:48:55 GMT</pubDate>
-    </item>
-    <item>
       <title>音乐播放管理软件</title>
       <link>https://meta.appinn.net/t/topic/40654</link>
       <description><![CDATA[其实我已经半放弃本地听歌了……网上找资源麻烦且质量良莠不齐，购买又吃不住价格，还是一个月5块的 Apple Music 深得我心……
@@ -198,6 +187,32 @@ windows android macos ios linux
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/40654</guid>
       <pubDate>Tue, 14 Feb 2023 12:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>【Tampermonkey/油猴】V2EX 主题回复增强</title>
+      <link>https://meta.appinn.net/t/topic/36431</link>
+      <description><![CDATA[软件名称
+V2EX 主题回复增强
+应用平台
+Tampermonkey/油猴 - Chrome
+推荐类型
+【开发者自荐】
+简介
+因为 V2EX 的主题回复之间没有关联，所以想知道发生了什么还得 Ctrl + F 搜索被艾特的人说了什么。
+点击“@xxx”的链接即可打开右侧“xxx 在讨论……”的弹窗。
+首次使用请允许弹出窗口并在 V2EX &gt; 设置 &gt; 脚本设置中配置 Token。
+
+资源
+
+V2EX：https://v2ex.com/t/881909
+Github：https://github.com/duanluan/tampermonkey-scripts/tree/main/v2ex-replies-pro
+Greasy Fork：https://greasyfork.org/zh-CN/scripts/451752
+OpenUserJS：https://openuserjs.org/scripts/duanluan/V2EX_主题回复增强
+
+4 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/36431</guid>
+      <pubDate>Wed, 21 Sep 2022 10:04:10 GMT</pubDate>
     </item>
     <item>
       <title>SessionBuddy - 支持崩溃后恢复的浏览器标签页管理插件</title>
