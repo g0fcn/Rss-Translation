@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 02 Apr 2024 01:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 01:00:09 GMT</lastBuildDate>
+    <item>
+      <title>关于使用 CDN</title>
+      <link>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</guid>
+      <pubDate>Tue, 02 Apr 2024 21:03:00 GMT</pubDate>
+    </item>
     <item>
       <title>自动化 Dimspirations 工作流程</title>
       <link>https://brett.trpstra.net/link/535/16637190/automating-the-dimspirations-workflow</link>
@@ -272,39 +279,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16571361/dimspirations-are-back</guid>
       <pubDate>Mon, 12 Feb 2024 18:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 2 月 12 日网上游览</title>
-      <link>https://brett.trpstra.net/link/535/16571248/web-excursions-for-february-12-2024</link>
-      <description><![CDATA[ Find Any File, iThoughts, photo library, GUI, BrettTerpstra.com
-
-总结:
-本文介绍了几款实用的工具和应用，其中包括Find Any File，这是一款更新不断的应用，可以帮助用户进行准确的文件搜索，并且可以搜索NAS；iThoughts则是一款思维导图工具，虽然开发者已经停止更新，但仍然是一款值得推荐的应用；此外，还有一款用于整理照片库的工具，以及一款可以直接编辑Mac应用偏好设置的GUI工具。BrettTerpstra.com也提供了支持，读者可以选择是否点赞或分享。 
-
-
-
-
-
-
-Web excursions brought to you in partnership with MindMeister, the best collaborative mind mapping software out there.
-
-Find Any File
-I’ve mentioned HoudahSpot plenty of times, but there’s an app that’s been around since about 2005 that has been continually updated and only costs $6-10 that’s worth checking out if you constantly run into hard-to-find files. One major benefit of Find Any File is that it can search your NAS and doesn’t rely on Spotlight for indexing. Searches can be a little slow but they are VERY accurate. Allows saving searches and search templates, and can export found files as a list for use in scripting app… uses a pay-what-you-can shareware model (oh, the old days!). Here’s a great review from Allison Sheridan with much more detail.
-toketaWare has ceased trading
-If you’ve followed me for the last few years, you know I swear by iThoughts for my mind mapping needs (of which I have a lot). I’m pretty devastated to see that the developer has moved on and there will be no future releases of the app on any platform. I checked in with him, he says he’s fine, he just moved on. Fair enough. Now I have to pick a new favorite mind mapping tool. Open to your thoughts!
-Photoscope - Storage Cleaner on the App Store
-A tool for cleaning up your photo library by easily selecting the best image from sets of multiple/burst photos. Well done and easy to use.
-Prefs Editor
-From the same developer who makes Find Any File, a very handy GUI for directly editing any Mac app’s preferences. Especially great for apps that have “esoteric” or hidden preferences that require using defaults commands in Terminal. Free!
-
-Check out MindMeister and start brainstorming, collaborating, and boosting productivity.
-Like or share this post on Mastodon or Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16571248/web-excursions-for-february-12-2024</guid>
-      <pubDate>Mon, 12 Feb 2024 15:57:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
