@@ -4,7 +4,28 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Apr 2024 01:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 21:12:24 GMT</lastBuildDate>
+    <item>
+      <title>CurlyQ 和自动化 JavaScript 执行</title>
+      <link>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</link>
+      <description><![CDATA[ gem install curlyq, JavaScript execution, screenshot command, execute subcommand, web automation tool 
+
+总结: 作者在文章中介绍了对CurlyQ工具的改进，包括添加JavaScript执行功能、改进截图命令、新增执行子命令等。通过对工具的升级，用户可以更方便地进行网页自动化操作，如保存网页截图、执行特定脚本等。这些改进将极大地提高用户的工作效率，特别适用于自动化文档生成等工作。CurlyQ的最新版本已可通过gem install curlyq进行更新或安装。 
+I’ve been wanting to add JavaScript execution to CurlyQ for a while and finally got around to it.
+In case you’ve missed it, CurlyQ is my command-line web automation tool for fetching, parsing, and responding to web page content, designed to be used as part of a *NIX pipeline. It can grab titles, links, metadata, and more from any web page. As part of its functionality, it can also use Firefox or Chrome to save screenshots, and that’s part of what I’ve improved.
+The screenshot command now accepts a --script parameter. This can be a JavaScript string, or - to read from STDIN, or a path to a file which will be read and executed before taking a screenshot. You can also now define an element ID to wait for before taking the screenshot (or executing the script) using --id ELEMENT_ID. As long as the ID is a valid element on the page, the screenshot will trigger once that element is loaded (via HTML or dynamically), with a timeout of 10 seconds. You can also define a --wait X flag in the command to wait for a specified number of seconds after executing a script before the screenshot is taken.
+Further, I’ve added a new subcommand, execute, that has the same parameters as above and simply allows you to load a page in the browser and execute a script on it. I really wanted this because it’s the easiest way to automate NiftyMenu:
+curlyq execute -b chrome -s &quot;NiftyAPI.find(&#39;file/save&#39;).arrow().shoot(&#39;file-save&#39;)&quot; file:///Users/ttscoff/Desktop/Code/niftymenu/dist/MultiMarkdown-Composer.html
+That command will save a screenshot of the File-&gt;Save menu item for me, allowing me to fully automate menu screenshots for any of my apps. I can have NiftyMenu generate an up-to-date view of the app’s menu bar, with styling for the current OS, and output detailed screenshots with callouts automatically. This will be a huge timesaver when it comes to documentation.
+You can update/install the latest version of CurlyQ with gem install curlyq. The improvements in this post are available as of version 0.0.12. Enjoy!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</guid>
+      <pubDate>Thu, 04 Apr 2024 18:24:00 GMT</pubDate>
+    </item>
     <item>
       <title>关于使用 CDN</title>
       <link>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</link>
@@ -256,29 +277,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16580751/a-cerakey-ceramic-keycap-review</guid>
       <pubDate>Sat, 17 Feb 2024 20:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#dimspirations 回来了</title>
-      <link>https://brett.trpstra.net/link/535/16571361/dimspirations-are-back</link>
-      <description><![CDATA[ #dimspirations, automation, wallpaper, gallery, feedback
-总结:作者创建了一个名为#dimspirations的系列“inspirational”海报，并自动化了壁纸格式的创建。作者考虑建立一个易于维护的网站来展示这些作品，并考虑通过Patreon等方式获取支持。读者被邀请分享反馈和建议。 
-
-
-
-
-
-
-I’ve started creating Dimspirations again, my depressing-but-actually-realistic collection of “inspirational” posters. You can follow the hashtag #dimspirations on Twitter, Facebook, Mastodon, or Instagram for new posts. I’ve also automated the process of creating wallpaper-formatted version of them which get uploaded to Flickr and are also available as a zip (containing 5120x3200 and 2048x1366 versions). I should probably add an iPhone ratio to the automation, but they get harder to resize vertically from one image. Anyway, if you’re in the mood to be “dimspired,” check them out.
-By the way, if you’ve never checked it out, the “Other Stuff” section (where my wallpapers are located) has some fun projects in it. Fun for me, anyway.
-Side tangent: I own the domain dimspire.me, and have always meant to find a way to make an easy-to-maintain gallery out of these. Probably a blog-style thing with daily or weekly dimspirations, with basic comments functionality and links to download the square or wallpaper versions. The index page would just be a thumbnail gallery with the main image from each post. It might actually be nice to do a paywall and have the wallpaper versions supported by Patreon or something. I don’t know if anyone would actually pay for these. I’ve seen similar projects sold as books, and I feel like the designs are actually pretty good for print, so maybe someday. Anyway, my inclination is to do this site in Jekyll (which I’m very adept at), but would be open to any suggestions as to what the best way to accomplish this would be. I’m not even opposed to WordPress with some custom plugins (which I’m also surprisingly adept at), which would be pretty easy to automate and then I could use MarsEdit to maintain it. Still pondering.
-In the meantime, please share your feedback (and any suggestions, should the dimspiration strike)!
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16571361/dimspirations-are-back</guid>
-      <pubDate>Mon, 12 Feb 2024 18:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
