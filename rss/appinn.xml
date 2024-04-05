@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:24:35 GMT</lastBuildDate>
     <item>
       <title>2024了，有哪些好用的软件或功能是其他系统还没有的？</title>
       <link>https://meta.appinn.net/t/topic/54785</link>
@@ -282,11 +282,27 @@ windows android macos ios linux
       <pubDate>Wed, 27 Mar 2024 05:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>03-18~03-24.老胡的周刊（第134期）</title>
-      <link>https://meta.appinn.net/t/topic/54326</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/54326</guid>
-      <pubDate>Mon, 25 Mar 2024 14:24:44 GMT</pubDate>
+      <title>【翻译工具】开源免费的跨平台划词翻译软件</title>
+      <link>https://meta.appinn.net/t/topic/42940</link>
+      <description><![CDATA[软件名称
+pot
+应用平台
+Windows/MacOS/Linux
+推荐类型
+【开发者自荐】
+一句简介
+pot 是一款好用的全局划词翻译软件，支持划词后快捷键翻译，独立窗口输入翻译以及配合其他软件的插件划词后通过小图标点击翻译。支持多个翻译源自己按需配置，deepl和Google翻译无需配置可以直接使用。
+软件截图
+
+
+
+下载渠道
+软件官网：pot-app.com
+github仓库：https://github.com/pot-app/pot-desktop
+30 个帖子 - 16 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/42940</guid>
+      <pubDate>Thu, 20 Apr 2023 02:37:03 GMT</pubDate>
     </item>
     <item>
       <title>【Tampermonkey/油猴】V2EX 主题回复增强</title>
