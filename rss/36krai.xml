@@ -4,7 +4,14 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Apr 2024 12:28:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 03:17:56 GMT</lastBuildDate>
+    <item>
+      <title>在 ChatGPT 上，许多人开始主动追求被 AI 骂</title>
+      <link>https://www.36kr.com/p/2720300573276035</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2720300573276035</guid>
+      <pubDate>Sat, 06 Apr 2024 00:00:48 GMT</pubDate>
+    </item>
     <item>
       <title>「免登录」挤爆ChatGPT，百度文心一言们会跟进吗？</title>
       <link>https://www.36kr.com/p/2718558895985288</link>
@@ -110,13 +117,6 @@ OpenAI 宣布免去注册账户即可使用 ChatGPT，吸引了许多用户。�
 OpenAI雪藏的新产品——语音合成引擎Voice Engine，终于被正式揭幕。有了它，只需15秒的语音样本，就能克隆出一个人的声音，而且还能跨越语言！APP版ChatGPT中的语音对话功能，也正是由这项技术所驱动。效果如何？先来听段DEMO：Salt also makes sure we stay hydrated which means there is enough water in our body for it to properly function.盐分也可以保持人体内的水分，确保其满足正常功能的需要。而OpenAI通告显示，他们在2022年底就已经开发出了这项技术，但出于安全考虑一直没有正式发布。这次，OpenAI终于官宣了Voice Engine，并展示了小规模测试中的几个应用案例。比如，一家非营利医疗机构就利用这项技术，为一名年轻的病人恢复了她的声音。另外值得一提的是，去年爆火的视频翻译软件HeyGen，采用的语音引擎也正是Voice Engine。那么，这次OpenAI还展现了哪些效果，下面就来一睹为快。01 用AI帮助病患恢复声音首先是利用基础的语音合成能力，为儿童等不具备文字阅读能力的群体提供阅读辅助。比如一家儿童教育技术公司，就一直在使用Voice Engine来给编写好的画外音内容配音。DEMO中生成的大段内容，都是基于这样一段15秒的样本：然后，就可以合成相同音色的长段语音：再来看看HeyGen中用到的的语音翻译技术，原始素材是一段英语的音频：它被用原始的音色，翻译成了普通话、法语、德语等多种语言。忽略译文的质量，只听声音，中文的效果是这样的：音色保持的还算不错，不过腔调很明显一听就是外国人在说中文。至于这到底是个bug还是个feature，就见仁见智了（手动狗头）。此外，一款名为Livox的残障人士辅助应用，也利用Voice Engine为不能说话的残障人士“发出声音”——在有了Voice Engine之后，TA们可以选择专属的真人音色，而不再是机械感明显的合成音，并且在各种语言之间都能保持音色的一致性。不只是帮助残障人士拥有自己的声音，Voice Engine还可以为因疾病导致声音发生在重大改变的人群，恢复患病之前声音，只要有以前的声音样本就能实现。一名年轻的患者因罹患血管性脑肿瘤，失去了流利讲话的能力，说话变成了这样：医生从她所在学校录制的视频中提取到了她患病前的声音作为样本，在Voice Engine的帮助下为她恢复了此前的音色。此次发布的案例，特别是为不便人士提供帮助的场景受到了不少好评，但也有网友对这项技术的滥用表达了担忧。02 安全问题需要全社会共同关注实际上，安全问题也是OpenAI迟迟未将这项技术公之于众的主要考量。出于安全考虑，前面案例的开发者都经过了OpenAI的严格筛选，并且需要承诺遵守使用协议。这些开发者被要求必须明确说明声音是合成的，并且设定了黑名单以防止克隆公众人物声音。此外，OpenAI还向合成的声音中添加了水印，以便出现问题时可以进行检测监控，同时呼吁人们采取措施共同应对这一问题：在银行等敏感信息的安全验证措施中逐步淘汰语音验证方式探索AI时代下个人声音的保护措施教育公众理解AI的局限性，并了解其被用于欺诈的可能加速开发跟踪溯源技术，让人们能够清晰辨别出真人和AI参考链接：https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices本文来自微信公众号“量子位”（ID:QbitAI），作者：关注前沿科技，36氪经授权发布。]]></description>
       <guid>https://www.36kr.com/p/2714150511753346</guid>
       <pubDate>Mon, 01 Apr 2024 00:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>1000亿美元宇宙级豪赌，微软OpenAI打造星际之门AI超算，电力能耗惊人</title>
-      <link>https://www.36kr.com/p/2714138700527494</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2714138700527494</guid>
-      <pubDate>Mon, 01 Apr 2024 00:14:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
