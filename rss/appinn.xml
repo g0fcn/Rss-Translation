@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 07 Apr 2024 03:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 06:16:51 GMT</lastBuildDate>
     <item>
       <title>【重大更新】DSCloud 迎来了黑暗模式和Emby链接方式</title>
       <link>https://meta.appinn.net/t/topic/54836</link>
@@ -232,37 +232,6 @@ Web
       <pubDate>Thu, 28 Mar 2024 03:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>[自荐] ReHabit - 专为养成每日习惯、实现自我提升的习惯管理App</title>
-      <link>https://meta.appinn.net/t/topic/54437</link>
-      <description><![CDATA[软件名称
-ReHabit
-应用平台
-
-iOS
-iPadOS
-macOS
-
-推荐类型
-【开发者自荐】
-一句话简介
-自动追踪每日目标完成进展，以《高效能人士的七个习惯》中的理论来实践自我提升。
-应用简介
-任何习惯都是在反复练习或者重复性的经历中形成的，所以不再将目标留在计划中。受《高效能人士的7个习惯》和《要事第一》中理念的启发，ReHabit为了帮助你养成好习惯，提供了自我提升、角色与目标、个人使命宣言等功能。同时，为了降低养成习惯的门槛，还提供了许多自动记录的方式和快捷方式，让你在平常使用手机的时候完成打卡记录。
-应用截图
-
-
-
-功能演示
-自律功能使用展示（原名自我提升优先）
-
-下载链接
-App Store
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/54437</guid>
-      <pubDate>Thu, 28 Mar 2024 01:22:00 GMT</pubDate>
-    </item>
-    <item>
       <title>【翻译工具】开源免费的跨平台划词翻译软件</title>
       <link>https://meta.appinn.net/t/topic/42940</link>
       <description><![CDATA[软件名称
@@ -284,6 +253,60 @@ github仓库：https://github.com/pot-app/pot-desktop
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/42940</guid>
       <pubDate>Thu, 20 Apr 2023 02:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在各种 OS 显示"激活水印"</title>
+      <link>https://meta.appinn.net/t/topic/39456</link>
+      <description><![CDATA[Windows 没有激活的时候，右下角会显示一个激活水印。Github 上开发者将这个水印功能加到了其他系统中，包括但不限于：
+Linux
+
+
+GitHub
+
+
+
+GitHub - MrGlockenspiel/activate-linux: The &quot;Activate Windows&quot; watermark...
+The &quot;Activate Windows&quot; watermark ported to Linux. Contribute to MrGlockenspiel/activate-linux development by creating an account on GitHub.
+
+
+
+
+
+
+macOS
+
+
+GitHub
+
+
+
+GitHub - Lakr233/ActivateMac: Show MS Windows style activation dialog on my...
+Show MS Windows style activation dialog on my screen. - Lakr233/ActivateMac
+
+
+
+
+
+
+iOS
+
+
+GitHub
+
+
+
+GitHub - Lessica/ActivatePhone: Show MS Windows style activation dialog on my...
+Show MS Windows style activation dialog on my screen. - Lessica/ActivatePhone
+
+
+
+
+
+
+5 个帖子 - 5 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/39456</guid>
+      <pubDate>Sat, 07 Jan 2023 11:32:10 GMT</pubDate>
     </item>
     <item>
       <title>【Tampermonkey/油猴】V2EX 主题回复增强</title>
