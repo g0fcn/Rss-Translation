@@ -4,7 +4,14 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Mon, 08 Apr 2024 03:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 06:21:54 GMT</lastBuildDate>
+    <item>
+      <title>​ChatGPT悄悄变懒，OpenAI还能加速跑吗？</title>
+      <link>https://www.36kr.com/p/2724239707066881</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2724239707066881</guid>
+      <pubDate>Mon, 08 Apr 2024 03:38:52 GMT</pubDate>
+    </item>
     <item>
       <title>本周AI界发生了什么 | ChatGPT免注册；苹果进军家用机器人；Anthropic发现长文本漏洞</title>
       <link>https://www.36kr.com/p/2723163889727621</link>
@@ -108,13 +115,6 @@ OpenAI 宣布免去注册账户即可使用 ChatGPT，吸引了许多用户。�
 算力只是个小问题？现在，使用 OpenAI 的人工智能平台 ChatGPT，不需要注册账户了。当地时间 4 月 1 日，OpenAI 正式公布了这个新政策，立即引来了全网的欢呼。在开放之后，ChatGPT 打开就能用，看起来终于初步具备了「AI 搜索引擎」的样子。不过这次开放仅适用于免费版的 ChatGPT（3.5 版本），其他 OpenAI 产品如 DALL-E 3、GPT-4 等仍然需要付费才能访问，当然也需要登录帐户。人们第一时间涌入 ChatGPT 的网站尝试，很多国家和地区的用户表示仍需登录。也有人表示第一次需要登录，同一台电脑过一会看又不需要账户了。仍有用户在访问时遇到了注册页面的阻拦，换了几个浏览器，还是老样子，看起来仍在处于灰度测试。OpenAI 在一篇博客文章中表示：「我们正在逐步推出这一项目，目的是让任何对其功能感兴趣的人都能接触到人工智能。」从先体验上的用户 po 出的实测看来，不需要注册的 ChatGPT 和原版几乎没有区别。但如果重新开始一段对话，之前的记录将被清除，不能保留和 ChatGPT 的聊天记录。另外 OpenAI 表示，所有人向 ChatGPT 输出的信息都会被记录用来持续改进模型（不论是否登录）。如果你不愿意的话，需要在设置里关闭该功能。自从 2022 年底首次推出以来，ChatGPT 作为一个新类型应用在全球范围内获得了空前的欢迎，它成为了有史以来增长速度最快的应用。但一直以来，用户必须注册 OpenAI 帐户才能使用 ChatGPT。随着大模型技术的不断发展，OpenAI 陆续增加了付费订阅选项，以允许用户访问 DALL-E 3、GPT-4 等产品和能力更强的大模型。除此以外，用户们也需要使用帐户来保存和查看聊天历史记录、共享聊天内容以及进行语音对话。ChatGPT 的产品形态很大程度上成为了大模型应用的「标准」。不过在 GPT-5 发布之前，ChatGPT 已经很难称得上遥遥领先了。最近一段时间，不论是谷歌的 Gemini、百度的文心一言，还是 Claude 和 Mistral 在大语言模型领域都取得了很好的效果。面对友商的围剿，开放是一个好选择。也有人认为，ChatGPT 取消账户限制可以吸引流量，获得更多宝贵的「互动数据」。毕竟 AI 能力的提升不仅需要大规模数据集，也需要实时新增的用户反馈。谁可以尽可能多地获得数据，谁就拥有了进一步提升 AI 的潜力。OpenAI 表示，目前已有 185 个国家和地区，超过 1 亿人在每周在使用 ChatGPT。流量跟踪网站 SimilarWeb 显示 ChatGPT 在 2 月份估计有 16 亿访问者，尽管谷歌提出的竞品 Gemini 已经起势，但在生成式 AI 方面 ChatGPT 的地位仍然无法撼动。与此同时，其他 OpenAI 产品，例如新发布的人工智能语音克隆服务 Voice Engine 和视频创作平台 Sora，仍然仅向有限数量的用户和合作伙伴开放，且仍不属于拥有 OpenAI 帐户免费福利的一部分。此前有关 OpenAI 和微软的一些报道中称，GPT-5 会在今年发布，OpenAI 可能已向一些企业用户提供了早期版本的预览。本文来自微信公众号“机器之心”（ID：almosthuman2014），作者：泽南、佳琪，36氪经授权发布。]]></description>
       <guid>https://www.36kr.com/p/2715738011924352</guid>
       <pubDate>Tue, 02 Apr 2024 04:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT官宣免注册，全球互联网变天，OpenAI将取代谷歌搜索？</title>
-      <link>https://www.36kr.com/p/2715761831327874</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2715761831327874</guid>
-      <pubDate>Tue, 02 Apr 2024 03:57:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
