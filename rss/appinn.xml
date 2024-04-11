@@ -4,7 +4,38 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 10 Apr 2024 12:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 06:18:57 GMT</lastBuildDate>
+    <item>
+      <title>求，精简浏览器右键菜单</title>
+      <link>https://meta.appinn.net/t/topic/55011</link>
+      <description><![CDATA[精简edge或chrome浏览器右键菜单，
+就像ContextMenuManager管理系统右键菜单那样
+网上搜了，都是说自己写个右键菜单，替换原生的，但我只是想要删掉我用不到的选项，仅此而已，
+论坛有个帖子的评论里稍微涉及到，但并不能解决我的问题
+
+
+
+
+请问如何将edge浏览器右键菜单里的子菜单选项排序到顶部？ 问题求助❓
+
+
+[ba86cd05cd610a0a6fd884fb65485f9] 
+在浏览器使用中，我会通过Search All这款插件，如图快速通过其他搜索引擎查询我想了解的内容 
+但这样操作起来需要3步，不够效率，同时Search All会显示在右键菜单的最下方，需要大幅度挪动鼠标（图片上是chrome截取的右键菜单，比较少，而我常用的edge浏览器右键菜单有20多项，所以就很麻烦） 
+请问有什么方法： 
+1、将Search All这款软件的所处菜单位置放到最上面，像下图这样（我P的图） 
+ [微信截图_20220505110707] 
+2、或者是将右键的Search All菜单减少一级，像下图这样（我P的图）直接从第一步到第三步 
+ [微信图片_20220505110935]
+
+
+除了浏览器自带的菜单选项，还有安装的扩展也会添加到右键菜单，导致右键菜单冗长不便，
+少有扩展可以设置是否添加到右键菜单，
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/55011</guid>
+      <pubDate>Thu, 11 Apr 2024 03:17:06 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】Pixboard: 只是一个能在桌面上放置模拟LED/CRT/VFD复古屏小摆件的App</title>
       <link>https://meta.appinn.net/t/topic/54971</link>
@@ -212,69 +243,6 @@ DS Cloud下载地址
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/54599</guid>
       <pubDate>Mon, 01 Apr 2024 01:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>饼图大师(PieChartMaster)- 终极饼图/玫瑰图制作工具! ｜ 限时免费</title>
-      <link>https://meta.appinn.net/t/topic/54573</link>
-      <description><![CDATA[
-饼图大师(PieChartMaster) - 解锁您的饼图/玫瑰图创意潜能！
-
-释放您的创造力，轻松打造令人惊叹的饼图/玫瑰图！ 饼图大师是您在 iOS 和 macOS 上必备的工具，让您轻松输入数据，并以绚丽多彩的方式展示复杂的数据关系。
-特色亮点：
-
-
-
-支持玫瑰图：不仅仅是饼图，我们还支持南丁格尔玫瑰图生成，让您的数据更生动。
-
-
-
-
-多种化配置：无论您想调整饼图大小、背景颜色还是标签，饼图大师都能满足您的多样化定制需求，让您的饼图更具个性。
-
-
-
-
-高质量导出：一键导出、复制或分享高分辨率的饼图，让您的工作轻松共享和整合。
-
-
-
-
-数据文件导入：通过文件导入饼图数据，减少手动输入，让您的工作更高效。
-
-
-
-基本功能：
-
-
-
-轻松输入数据：使用简单的界面轻松创建饼图数据。
-
-
-
-
-极简设计：我们的用户友好界面让您轻松创建详细的数据关系。
-
-
-
-
-跨平台亮点：专为 iOS 和 macOS 定制，确保您拥有无缝的用户体验。
-
-
-
-无论您是经验丰富的商务人士、数据分析师还是求知若渴的学生，饼图大师都是您掌握饼图艺术的不二选择。立即下载，将您的数据转化为引人入胜的可视化叙述！
-如有任何咨询或建议，请随时联系我们的专业支持团队。我们期待听到您的宝贵反馈！
-下载地址
-AppStore
-官网
-PieChartMaster
-推广说明
-
-目前产品处于内测阶段，暂定终身购买价格为8.99美元/58人民币，当前版本1.1免费下载使用。下一个版本1.2将提供基础订阅和终身购买两种方式，在下个版本发布后(预计2024年4月2号)到月中（2024年4月15日）期间，我们将在各大平台的评论区随机赠送终身授权码。注意产品限时免费推广只有这一次，后续将不会有任何形式的免费促销活动，过期不候！！！
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/54573</guid>
-      <pubDate>Sun, 31 Mar 2024 06:59:22 GMT</pubDate>
     </item>
     <item>
       <title>老胡的周刊（第100期）</title>
