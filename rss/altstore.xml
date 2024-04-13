@@ -4,235 +4,190 @@
     <title>AltStore.io / @altstoreio</title>
     <link>http://nitter.esmailelbob.xyz/altstoreio</link>
     <description>Twitter 供稿：@altstoreio。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 19 Feb 2024 03:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:52:02 GMT</lastBuildDate>
     <item>
-      <title>R 致@altstoreio：一如既往，您可以下载该工具并从我们最新的 Patreon 帖子中阅读更多相关信息：https://www.patreon.com/posts/96819971</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1757836445656449258#m</link>
-      <description><![CDATA[与往常一样，您可以下载该工具并从我们最新的 Patreon 帖子中了解更多相关信息：patreon.com/posts/96819971&lt; /a&gt;
+      <title>youtube.com/watch?v=wp7YoAZj…</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1778878617755218236#m</link>
+      <description><![CDATA[piped.video/watch?v=wp7YoAZj…
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1757836445656449258#m</guid>
-      <pubDate>Wed, 14 Feb 2024 18:37:22 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1778878617755218236#m</guid>
+      <pubDate>Fri, 12 Apr 2024 20:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>AltServer 1.8b 已向所有订阅者开放！它包括一个全新的“altsource”CLI 工具，可用于从 .ipa 文件自动生成 AltStore 源 - 使在 AltStore 上分发应用程序变得比以往更容易！
+      <title>🙃
 
-有关文档，请参阅我们的常见问题解答 https://faq.altstore.io/distribute-your-apps/altsource-cli</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1757836191456497825#m</link>
-      <description><![CDATA[AltServer 1.8b 已向所有订阅者开放！它包括一个全新的“altsource”CLI 工具，可用于从 .ipa 文件自动生成 AltStore 源 - 使您在 AltStore 上分发应用程序变得比以往更容易！
+…四月M̷a̷r̷c̷h̷见 ♡</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1774724440846201137#m</link>
+      <description><![CDATA[🙃
 
-有关文档，请参阅我们的常见问题解答 faq.altstore.io/distribute-y...
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1757836191456497825#m</guid>
-      <pubDate>Wed, 14 Feb 2024 18:36:21 GMT</pubDate>
+…四月 M̷a̷r̷c̷h̷见 ♡
+nitter.esmailelbob.xyz/altstoreio/status/1750598337533747445#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1774724440846201137#m</guid>
+      <pubDate>Mon, 01 Apr 2024 09:04:14 GMT</pubDate>
     </item>
     <item>
-      <title>RT @altstoreio：#AltCompatibility iOS 17.3.1 + macOS 14.3.1
+      <title>R 致@altstoreio：此更新还包括一系列其他错误修复，以便为我们计划下个月推出的 2.0 做好一切准备。
 
-✅ 替代商店
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
+感谢大家帮助我们测试这个版本——没有你们我们就无法做到这一点！</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1761120443694518301#m</link>
+      <description><![CDATA[此更新还包括一系列其他错误修复，以便为我们计划下个月推出的 2.0 做好一切准备。
 
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT</title>
-      <link>http://nitter.esmailelbob.xyz/AltCompatible/status/1756111150628941991#m</link>
-      <description><![CDATA[#AltCompatibility iOS 17.3.1 + macOS 14.3.1
-
-✅ AltStore
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
-
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT]]></description>
-      <guid>http://nitter.esmailelbob.xyz/AltCompatible/status/1756111150628941991#m</guid>
-      <pubDate>Sat, 10 Feb 2024 00:21:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 至 @altstoreio：要安装此测试版，请下载 .ipa 并使用 AltStore 进行旁加载
-
-如果您已经有 Delta，这会将其更新为 1.5。然而，由于 1.5 尚未发布，您将看到 Delta 1.4.2 的“更新”。如果您有任何问题，可以将 Delta“更新”回此版本</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1753110433450410074#m</link>
-      <description><![CDATA[要安装此测试版，请下载 .ipa 并使用 AltStore 进行旁加载
-
-如果您已经有 Delta，这会将其更新为 1.5。然而，由于 1.5 尚未发布，您将看到 Delta 1.4.2 的“更新”。如果您有任何问题，可以将 Delta“更新”回此版本]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1753110433450410074#m</guid>
-      <pubDate>Thu, 01 Feb 2024 17:37:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delta 1.5 即将到来！除了一些很酷的新功能之外，它还修复了我们一直在与顾客一起测试的 Delta Sync。为了确保不存在遗留问题，我们今天向所有人发布 Delta 1.5 的公开测试版 🥳
-
-从 GitHub 下载：https://github.com/rileytestut/Delta/releases/tag/v1.5</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1753110233205862687#m</link>
-      <description><![CDATA[Delta 1.5 即将到来！除了一些很酷的新功能之外，它还修复了我们一直在与顾客一起测试的 Delta Sync。为了确保不存在遗留问题，我们今天向所有人发布 Delta 1.5 的公开测试版 🥳
-
-从 GitHub 下载：github.com/rileytestut/Delta...
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1753110233205862687#m</guid>
-      <pubDate>Thu, 01 Feb 2024 17:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @altstoreio：#AltCompatibility iOS 17.4 beta 1 + macOS 14.4 beta 1
-
-✅ 替代商店
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
-
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT</title>
-      <link>http://nitter.esmailelbob.xyz/AltCompatible/status/1752116507717378317#m</link>
-      <description><![CDATA[#AltCompatibility iOS 17.4 beta 1 + macOS 14.4 beta 1
-
-✅ AltStore
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
-
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT]]></description>
-      <guid>http://nitter.esmailelbob.xyz/AltCompatible/status/1752116507717378317#m</guid>
-      <pubDate>Mon, 29 Jan 2024 23:48:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @altstoreio：#AltCompatibility iOS 17.3 + macOS 14.3
-
-✅ 替代商店
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
-
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT</title>
-      <link>http://nitter.esmailelbob.xyz/AltCompatible/status/1749540347502309582#m</link>
-      <description><![CDATA[#AltCompatibility iOS 17.3 + macOS 14.3
-
-✅ AltStore
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
-
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT]]></description>
-      <guid>http://nitter.esmailelbob.xyz/AltCompatible/status/1749540347502309582#m</guid>
-      <pubDate>Mon, 22 Jan 2024 21:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 Delta 1.5rc2 现已可供所有订阅者使用，并包含一些与同步相关的最后一刻修复。我们建议尽快更新，以确保您的所有数据正确同步！
-
-在我们的 Patreon 上了解更多信息：https://www.patreon.com/posts/delta-1-5rc2-hot-96611950</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1749502205328064703#m</link>
-      <description><![CDATA[🚀 Delta 1.5rc2 现已可供所有订阅者使用，并包含一些与同步相关的最后一刻修复。我们建议尽快更新，以确保您的所有数据正确同步！
-
-了解更多关于我们的Patreon：patreon.com/posts/delta-1-5r… 
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1749502205328064703#m</guid>
-      <pubDate>Mon, 22 Jan 2024 18:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>⚠️ AltStore 2.0b7 现已推出，修复了一些用户无法下载或刷新 Patreon 专有应用程序的问题。对于给您带来的不便，我们深表歉意！
-
-阅读我们的 Patreon 帖子以了解更多信息：https://www.patreon.com/posts/altstore-2-0b7-96180867</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1744794040128754027#m</link>
-      <description><![CDATA[⚠️ AltStore 2.0b7 现已推出，修复了一些用户无法下载或刷新 Patreon 专有应用程序的问题。对于给您带来的不便，我们深表歉意！
-
-阅读我们的 Patreon 帖子以了解更多信息：patreon.com/posts/altstore-2…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1744794040128754027#m</guid>
-      <pubDate>Tue, 09 Jan 2024 18:51:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @altstoreio：#AltCompatibility iOS 17.2.1
-
-✅ 替代商店
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
-
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT</title>
-      <link>http://nitter.esmailelbob.xyz/AltCompatible/status/1737185870426370347#m</link>
-      <description><![CDATA[#AltCompatibility iOS 17.2.1
-
-✅ AltStore
-✅ AltServer（macOS + Windows）
-✅ AltJIT (macOS)*
-⚠️ AltJIT (Windows)**
-
-*需要 pymobiledevice3 v2.30.1 或更早版本
-**Windows 尚不支持 iOS 17 上的 AltJIT]]></description>
-      <guid>http://nitter.esmailelbob.xyz/AltCompatible/status/1737185870426370347#m</guid>
-      <pubDate>Tue, 19 Dec 2023 18:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@altstoreio：最后，AltServer 1.7.2b (macOS) 也可以快速修复“No such command 'start-quic-tunnel'”错误
-
-有关详细的发行说明，请查看我们的 Patreon 帖子：https://www.patreon.com/posts/altstore-2-0b6-94481421</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1735028799912230944#m</link>
-      <description><![CDATA[最后，AltServer 1.7.2b (macOS) 还可以快速修复“没有这样的命令‘start-quic-tunnel’”错误
-
-有关详细的发行说明，请查看我们的 Patreon 帖子：patreon.com/posts/altstore-2…
+感谢大家帮助我们测试这个版本 - 没有你们我们就无法做到这一点！
 
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1735028799912230944#m</guid>
-      <pubDate>Wed, 13 Dec 2023 20:07:55 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1761120443694518301#m</guid>
+      <pubDate>Fri, 23 Feb 2024 20:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@altstoreio：我们也很高兴能够扩展我们的 Patreon 集成！现在，开发者可以通过 AltStore 向他们的订阅者分发独家应用程序，让用户更轻松地直接支持他们喜爱的开发者
+      <title>🚀 AltStore 2.0 RC 现已向所有订阅者开放，并带有我们全新的图标 ✨
 
-✅ AltStore 收取 0% 的销售额，因此所有承诺都直接交给开发者！</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1735028086897304036#m</link>
-      <description><![CDATA[我们也很高兴能够扩展我们的 Patreon 集成！现在开发者可以通过 AltStore 将专属应用分发给他们的订阅者，让用户更容易直接支持他们喜爱的开发者
+但我们并没有仅限于一个，我们还添加了超过 15 个独特的应用程序图标供您选择 - 全部由我们的朋友 @1CarolineMoore 设计
 
-✅ AltStore 收取 0% 的销售额，因此所有承诺都直接交给开发者！
+了解有关 Patreon 的更多信息：https://www.patreon.com/posts/altstore-2-0-rc-99079259</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1761120076445475203#m</link>
+      <description><![CDATA[🚀 AltStore 2.0 RC 现已向所有订阅者开放，并带有我们全新的图标 ✨
+
+但我们并没有仅限于一个，我们还添加了超过 15 个独特的应用程序图标供您选择 - 所有图标均由我们的朋友 @1CarolineMoore
+
+了解有关 Patreon 的更多信息：patreon.com/posts/altstore-2…
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1735028086897304036#m</guid>
-      <pubDate>Wed, 13 Dec 2023 20:05:05 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1761120076445475203#m</guid>
+      <pubDate>Fri, 23 Feb 2024 20:05:20 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@altstoreio：我们还添加了一项重要的安全功能：AltStore 现在会要求您在下载应用程序时检查权限
+      <title>R 致@altstoreio：Delta Sync 也得到了一些不错的更新，使其比以往更加可靠 ✅
 
-这个新的“查看权限”屏幕将列出所需的所有权利以及它们的用途的描述，以便您确切地知道您正在安装什么👍</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1735027833880059947#m</link>
-      <description><![CDATA[我们还添加了一项重要的安全功能：AltStore 现在会要求您在下载应用程序时检查权限
+对于我们技术含量较高的用户，您现在可以通过查看“设置”中的新错误日志来找到有关同步的更多详细信息⚙️
 
-这个新的“查看权限”屏幕将列出所需的所有权利以及它们的用途的描述，以便您准确地知道您正在安装什么👍
+有关更多信息，请参阅我们的发行说明：https://faq.deltaemulator.com/release-notes</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1760012987627143319#m</link>
+      <description><![CDATA[Delta Sync 还获得了一些不错的更新，使其比以往更加可靠 ✅
+
+对于我们技术含量较高的用户，您现在可以通过查看“设置”中的新错误日志来找到有关同步的更多详细信息 ⚙️
+
+有关更多信息，请参阅我们的发行说明：faq.deltaemulator.com/releas...
+
+
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1735027833880059947#m</guid>
-      <pubDate>Wed, 13 Dec 2023 20:04:05 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1760012987627143319#m</guid>
+      <pubDate>Tue, 20 Feb 2024 18:46:10 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@altstoreio：AltStore 有一个完全重新设计的“浏览”选项卡，让您比以往更轻松地发现新应用程序
+      <title>R 致@altstoreio：但是对于您的狂欢派对来说，iPhone 可能太小了，这就是为什么我们还添加了 AirPlay 支持！
 
-查看最近更新的应用程序以及每个来源的特色应用程序，或浏览我们的 8 个新类别中的任何一个，以准确找到您想要的内容 🔎</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1735027593932366115#m</link>
-      <description><![CDATA[AltStore 拥有完全重新设计的“浏览”选项卡，让您比以往更轻松地发现新应用
+在大屏幕上玩您喜爱的游戏，包括 Wii U 风格的 DS 游戏双屏动作 📺 📺</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1760011418747691130#m</link>
+      <description><![CDATA[但是 iPhone 对于您的狂欢派对来说可能太小，这就是为什么我们还添加了 AirPlay 支持！
 
-查看最近更新的应用程序以及每个来源的特色应用程序，或浏览我们的 8 个新类别中的任何一个，以准确找到您正在寻找的内容🔎
-
+在大屏幕上玩您喜爱的游戏，包括 Wii U 风格的 DS 游戏双屏动作 📺 📺
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1735027593932366115#m</guid>
-      <pubDate>Wed, 13 Dec 2023 20:03:08 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1760011418747691130#m</guid>
+      <pubDate>Tue, 20 Feb 2024 18:39:56 GMT</pubDate>
     </item>
     <item>
-      <title>祝大家节日快乐🎁
+      <title>R 致@altstoreio：与最多 4 名玩家一起玩 Delta，享受 4 倍的乐趣，新增了对本地多人游戏的支持🎮🎮🎮🎮（感谢 @ThatClawsonBoy 贡献了这一点！）
 
-AltStore 2.0b6 现已可供所有订阅者使用，其中包括一些迄今为止最大的更新：
+另外，Delta 现在完全支持所有 NSO 控制器 - 包括 N64！ - 这样您就可以按照您记忆中的方式玩《任天堂明星大乱斗》🧠</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1760010955637785043#m</link>
+      <description><![CDATA[与最多 4 名玩家一起玩 Delta，乐趣增加 4 倍，新增对本地多人游戏的支持🎮🎮🎮🎮（感谢 @ThatClawsonBoy 做出了贡献！）
 
-🎨 完全重新设计的浏览选项卡
-📝 “查看权限”屏幕
-💸 为开发者提供的 Patreon 集成</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1735027185025421467#m</link>
-      <description><![CDATA[祝大家节日快乐🎁
-
-AltStore 2.0b6 现已可供所有订阅者使用，其中包含一些迄今为止最大的更新：
-
-🎨 完全重新设计的浏览选项卡
-📝 “查看权限”屏幕
-💸 为开发者提供的 Patreon 集成
+另外，Delta 现在完全支持所有 NSO 控制器 - 包括 N64！ - 这样您就可以按照您记忆中的方式玩《任天堂明星大乱斗》🧠
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1735027185025421467#m</guid>
-      <pubDate>Wed, 13 Dec 2023 20:01:30 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1760010955637785043#m</guid>
+      <pubDate>Tue, 20 Feb 2024 18:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>啊啊啊我们又回来了，我们将带来更多模拟乐趣来分享！
+
+Delta 1.5 现已可供所有人使用，并对大屏幕进行了一些重大更改</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1760010336130711882#m</link>
+      <description><![CDATA[啊啊啊我们又回来了，我们将带来更多模拟乐趣来分享！
+
+Delta 1.5 现已可供所有人使用，并对大屏幕进行了一些重大更改
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1760010336130711882#m</guid>
+      <pubDate>Tue, 20 Feb 2024 18:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 年后，GBA4iOS 又回来了，而且比以往任何时候都更好！像 2014 年一样举办派对，重温 iOS 版 OG Game Boy 模拟器的乐趣 🎉
+
+从 GBA4iOS 网站添加新的 AltStore 源：http://gba4iosapp.com/download</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1759700832268726558#m</link>
+      <description><![CDATA[10 年后，GBA4iOS 回来了，而且比以往任何时候都更好！像 2014 年一样举办派对，重温 iOS 版 OG Game Boy 模拟器的乐趣 🎉
+
+从 GBA4iOS 网站添加新的 AltStore 源：gba4iosapp.com/download
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1759700832268726558#m</guid>
+      <pubDate>Mon, 19 Feb 2024 22:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@altstoreio：为什么使用 GBA4iOS 而不是 Delta？除了怀旧之外，GBA4iOS X 还带回了活动分发！
+
+此功能实际上将 GBA4iOS 创作者 Riley 和 Paul 插入到您的 Pokémon 游戏中，这样他们就可以为您的角色提供稀有的 Pokemon :)</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1759680231613387110#m</link>
+      <description><![CDATA[为什么使用 GBA4iOS 而不是 Delta？除了怀旧之外，GBA4iOS X 还带回了活动分发！
+
+此功能实际上将 GBA4iOS 创作者 Riley 和 Paul 插入到您的 Pokémon 游戏中，这样他们就可以为您的角色提供稀有的 Pokemon :)
+&lt;视频循环=“循环”海报=“http://nitter.esmailelbob.xyz/pic/tweet_video_thumb%2FGGujo72XcAAWbEC.jpg”&gt;
+  ]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1759680231613387110#m</guid>
+      <pubDate>Mon, 19 Feb 2024 20:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@altstoreio：GBA4iOS 带着 2014 年的辉煌起死回生！这次有了一个很酷的新名字：GBA4iOS X（发音为“GBA4iOS 罗马数字 Ex”）
+
+GBA4iOS X已重新编译+更新，使其完全兼容iOS 17
+
+尽快从http://www.gba4iosapp.com/download/下载它</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1759679857330409472#m</link>
+      <description><![CDATA[GBA4iOS 带着 2014 年的辉煌起死回生！这次有了一个很酷的新名字：GBA4iOS X（发音为“GBA4iOS 罗马数字 Ex”）
+
+GBA4iOS X已重新编译+更新，使其完全兼容iOS 17
+
+尽快从 gba4iosapp.com/download/ 下载
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1759679857330409472#m</guid>
+      <pubDate>Mon, 19 Feb 2024 20:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@altstoreio：GBA4iOS 网站上的倒计时即将结束，一旦结束，GBA4vOS TestFlight 将向所有人开放，所以请确保您已准备好！ http://gba4iosapp.com
+
+对于那些没有 Vision Pro 的人，不用担心：还有一件事......</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1759679701381996904#m</link>
+      <description><![CDATA[GBA4iOS 网站上的倒计时即将结束，一旦结束，GBA4vOS TestFlight 将向所有人开放，所以请确保您已做好准备！ gba4iosapp.com
+
+对于那些没有 Vision Pro 的人，不用担心：还有一件事......]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1759679701381996904#m</guid>
+      <pubDate>Mon, 19 Feb 2024 20:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@altstoreio：然后是我们个人最喜欢的功能：玩 WarioWare：只需旋转双手即可扭曲！言语无法准确描述此功能 - 您必须亲自尝试一下！
+
+谁知道 Vision Pro 能打造出如此出色的 Kinect？</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1759679231355748504#m</link>
+      <description><![CDATA[然后是我们个人最喜欢的功能：只需旋转双手即可玩 WarioWare：Twisted！言语无法准确描述此功能 - 您必须亲自尝试一下！
+
+谁知道 Vision Pro 能打造出如此出色的 Kinect？
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1759679231355748504#m</guid>
+      <pubDate>Mon, 19 Feb 2024 20:39:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@altstoreio：有史以来第一次，您可以毫无感觉地玩 Game Boy Advance 游戏。它可能不是最理想的，但用手掌玩真人大小的 Game Boy 客观上很搞笑。</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1759677823114002682#m</link>
+      <description><![CDATA[有史以来第一次，您可以毫无感觉地玩 Game Boy Advance 游戏。它可能不是最理想的，但用手掌玩真人大小的 Game Boy 客观上很搞笑。
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1759677823114002682#m</guid>
+      <pubDate>Mon, 19 Feb 2024 20:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @altstoreio：mfw the Vision Pro Killer 应用程序（侧载 Game Boy Advance 模拟器）掉落</title>
+      <link>http://nitter.esmailelbob.xyz/gbrl_dick/status/1665865492236754946#m</link>
+      <description><![CDATA[mfw the Vision Pro Killer 应用程序（侧载 Game Boy 高级模拟器）掉落
+
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/gbrl_dick/status/1665865492236754946#m</guid>
+      <pubDate>Mon, 05 Jun 2023 23:37:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

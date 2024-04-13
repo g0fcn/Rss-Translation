@@ -4,145 +4,192 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 19 Feb 2024 03:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:53:22 GMT</lastBuildDate>
     <item>
-      <title>使多巴胺 2.x 正常工作
-- 启用“开发者模式”
-- 禁用“锁定模式”</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1759006586628939864#m</link>
-      <description><![CDATA[为了让多巴胺 2.x 正常工作
-- 启用“开发者模式”
-- 禁用“锁定模式”]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1759006586628939864#m</guid>
-      <pubDate>Sun, 18 Feb 2024 00:07:05 GMT</pubDate>
+      <title>感谢 @POC_Crew 让我参加 #Zer0Con2024
+
+真是太棒了😄</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
+      <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
+
+真是太棒了😄]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
+      <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.0.5 已推出，并进行了一些更重要的修复
-https://github.com/opa334/Dopamine/releases/tag/2.0.5</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758853785458299219#m</link>
-      <description><![CDATA[多巴胺 2.0.5 已推出，并进行了一些更重要的修复
+      <title>RT @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
+https://github.com/alfiecg24/TrollInstallerX</title>
+      <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
+      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
+github.com/alfiecg24/TrollIn…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
+      <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @opa334dev：[#Zer0Con2024]
+
+第一次来韩国，非常喜欢这里😆
+
+@opa334dev
+《如何越狱 iOS 16》</title>
+      <link>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</link>
+      <description><![CDATA[[#Zer0Con2024]
+
+第一次来韩国，非常喜欢它😆
+
+@opa334dev
+“如何越狱 iOS 16”
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</guid>
+      <pubDate>Thu, 04 Apr 2024 05:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉......）
+
+Crane 1.3.14-6 现已发布并修复了该问题。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</link>
+      <description><![CDATA[Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
+
+Crane 1.3.14-6 现已发布并修复了该问题。
+nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</guid>
+      <pubDate>Sun, 31 Mar 2024 00:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @opa334dev：（请注意，这些说明假设您通过宏正确实现了无根支持）
+
+适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</link>
+      <description><![CDATA[（请注意，这些说明假设您通过宏正确实现了无根支持）
+
+适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</guid>
+      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的软件包在未来的 RootHide 版本上工作，而无需提供单独的软件包来适应：
+
+1.更新理论
+2.（可选）从rootless.h迁移到libroot.h
+3.重新编译</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</link>
+      <description><![CDATA[libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包，以适应：
+
+1.更新理论
+2.（可选）从rootless.h迁移到libroot.h
+3.重新编译]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</guid>
+      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>libroot 支持现在已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
+
+CCS支持1.3.13-2
+libSandy 1.1.4
+libundirect 1.1.6
+起重机1.3.14-5
+
+正在采用它。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</link>
+      <description><![CDATA[libroot 支持现已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
+
+CCS支持1.3.13-2
+libSandy 1.1.4
+libundirect 1.1.6
+起重机1.3.14-5
+
+打算采用它。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</guid>
+      <pubDate>Fri, 29 Mar 2024 17:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>AltList 1.0.11 已发布，修复了 lsd 加载时的崩溃问题。显然，在某些情况下，Crane 会将其加载到那里，导致设备在安装后看门狗超时。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</link>
+      <description><![CDATA[AltList 1.0.11 已发布，修复了 lsd 加载时发生的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</guid>
+      <pubDate>Fri, 29 Mar 2024 17:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @opa334dev：iOS 14.0 - 16.6.1 (arm64) ✅
+iOS 14.0 - 16.5.1（A12 - A14）✅
+iOS 14.0 - 16.5（A15 - A16）✅
+剩余版本：⏱️</title>
+      <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1772053689869504553#m</link>
+      <description><![CDATA[iOS 14.0 - 16.6.1（arm64）✅
+iOS 14.0 - 16.5.1（A12 - A14）✅
+iOS 14.0 - 16.5 (A15 - A16) ✅
+剩余版本：⏱️
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1772053689869504553#m</guid>
+      <pubDate>Mon, 25 Mar 2024 00:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @opa334dev：我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 来允许在我的 Apple Watch 上安装具有任意权限的永久签名应用程序（类似 TrollStore），运行 watchOS 8.3。 \o/</title>
+      <link>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</link>
+      <description><![CDATA[我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 允许在运行 watchOS 的 Apple Watch 上安装具有任意权限的永久签名应用程序（a-la TrollStore） 8.3. \o/
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</guid>
+      <pubDate>Sat, 16 Mar 2024 21:57:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>多巴胺 2.0.11 已发布
+
+修复了在实际未调用重新越狱时自动修复文件 /private/preboot/... 文件权限的代码，呃...
+
+https://github.com/opa334/Dopamine/releases/tag/2.0.11</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1766966185059365344#m</link>
+      <description><![CDATA[多巴胺 2.0.11 已推出
+
+修复了在实际未调用重新越狱时自动修复文件 /private/preboot/... 文件权限的代码，呃...
+
 github.com/opa334/Dopamine/r…
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758853785458299219#m</guid>
-      <pubDate>Sat, 17 Feb 2024 13:59:55 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1766966185059365344#m</guid>
+      <pubDate>Sun, 10 Mar 2024 23:15:41 GMT</pubDate>
     </item>
     <item>
-      <title>如果有人仍然被 2.0.1 搞砸的多个引导程序所困扰，请随时私信我，我将亲自协助您修复它。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758681002975605105#m</link>
-      <description><![CDATA[如果有人仍然被 2.0.1 搞砸的多个引导程序所困扰，请随时私信我，我将亲自协助您修复它。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758681002975605105#m</guid>
-      <pubDate>Sat, 17 Feb 2024 02:33:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dopamine 2.0.4 已发布以修复 libkrw 无法工作的问题
+      <title>多巴胺 2.0.10 已发布
 
-https://github.com/opa334/Dopamine/releases/tag/2.0.4</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758676471944483055#m</link>
-      <description><![CDATA[Dopamine 2.0.4 已修复 libkrw 无法正常工作的问题
+https://github.com/opa334/Dopamine/releases/tag/2.0.10
 
-github.com/opa334/Dopamine/r…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758676471944483055#m</guid>
-      <pubDate>Sat, 17 Feb 2024 02:15:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@opa334dev：OTA 更新现在似乎对我有效，不确定它们是否还有任何问题，或者这是否只是侥幸，因为人们在尝试更新时没有越狱（此错误行为已在 2.0.3 中修复）现在）</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758607629478224107#m</link>
-      <description><![CDATA[OTA更新现在似乎对我有效，不确定它们是否还有任何问题，或者这是否只是侥幸，因为人们在尝试更新时没有越狱（这个错误行为现在已在2.0.3中修复） ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758607629478224107#m</guid>
-      <pubDate>Fri, 16 Feb 2024 21:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的，Dopamine 2.0.3 已发布，并进行了一些小修复
-https://github.com/opa334/Dopamine/releases/tag/2.0.3
-
-暂时应该是最后一次更新了👍</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758607310174224790#m</link>
-      <description><![CDATA[好吧，Dopamine 2.0.3 已推出，并进行了一些小修复
-github.com/opa334/Dopamine/r…
-
-暂时应该是最后更新了👍
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758607310174224790#m</guid>
-      <pubDate>Fri, 16 Feb 2024 21:40:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前，您需要确保开发者模式已打开，以便使用 Dopamine 进行越狱，未来的更新可能会删除此要求。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758586729420734493#m</link>
-      <description><![CDATA[目前您需要确保开发者模式已开启，以便使用 Dopamine 进行越狱，未来的更新可能会删除此要求。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758586729420734493#m</guid>
-      <pubDate>Fri, 16 Feb 2024 20:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>另外，OTA 更新似乎在某些设备上不起作用（它们只是卡在 100%），不确定这是怎么回事……稍后会研究一下。现在安装最新的tipa并使用“更新环境”应该可以。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758551995072299208#m</link>
-      <description><![CDATA[此外，OTA 更新似乎在某些设备上不起作用（它们只是卡在 100%），不确定这是怎么回事......稍后会研究它。现在安装最新的tipa并使用“更新环境”应该可以。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758551995072299208#m</guid>
-      <pubDate>Fri, 16 Feb 2024 18:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@opa334dev：（但是当然，不要碰任何不以多巴胺开头的东西！！！）</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758551410625433985#m</link>
-      <description><![CDATA[（但是，当然，不要碰任何不以多巴胺开头的东西！！！）]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758551410625433985#m</guid>
-      <pubDate>Fri, 16 Feb 2024 17:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>其中有一个超级愚蠢的问题，即每次越狱时都会重新创建引导程序，2.0.2 上的构建已被拉出并已修复。
-
-https://github.com/opa334/Dopamine/releases/tag/2.0.2
-
-您可能想进入 /private/preboot/<UUID> 并删除任何不需要的多巴胺文件夹...</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758551296842346926#m</link>
-      <description><![CDATA[这里有一个超级愚蠢的问题，即每次越狱时都会重新创建引导程序，2.0.2 上的构建已被拉出并已修复。
+值得注意的是，所有已知的 arm64 特定问题现在都应该得到修复，而且即使禁用开发者模式，越狱现在也应该可以工作。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1765932268025979015#m</link>
+      <description><![CDATA[多巴胺 2.0.10 已推出
 
 github.com/opa334/Dopamine/r…
 
-您可能想进入 /private/preboot/&lt;UUID&gt;并删除任何不需要的多巴胺文件夹...
-nitter.esmailelbob.xyz/opa334dev/status/1758543580623151488#m
+值得注意的是，所有已知的 arm64 特定问题现在都应该得到修复，而且即使禁用开发者模式，越狱现在也应该可以工作。
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758551296842346926#m</guid>
-      <pubDate>Fri, 16 Feb 2024 17:57:56 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1765932268025979015#m</guid>
+      <pubDate>Fri, 08 Mar 2024 02:47:16 GMT</pubDate>
     </item>
     <item>
-      <title>做了一些修复，Dopamine 2.0.1 现已发布：
-https://github.com/opa334/Dopamine/releases/tag/2.0.1
-从 TrollStore 安装上的应用程序内部进行 OTA 更新应该可以。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758543580623151488#m</link>
-      <description><![CDATA[做了一些修复，Dopamine 2.0.1 现已推出：
-github.com/opa334/Dopamine/r…
-在 TrollStore 安装上从应用程序内部进行 OTA 更新应该可以。
+      <title>TrollStore 2.0.13 已发布
+
+https://github.com/opa334/TrollStore/releases/tag/2.0.13</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1764253481085383162#m</link>
+      <description><![CDATA[TrollStore 2.0.13 已推出
+
+github.com/opa334/TrollStore…
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758543580623151488#m</guid>
-      <pubDate>Fri, 16 Feb 2024 17:27:16 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1764253481085383162#m</guid>
+      <pubDate>Sun, 03 Mar 2024 11:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：更新时，它可能会要求您再次选择包管理器，因为应用程序不会知道您已经越狱，只需选择任何内容，如果稍后检测到您已经越狱，它实际上不会安装它们环境搭建好了。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758531554450509923#m</link>
-      <description><![CDATA[更新时，它可能会要求您再次选择包管理器，因为应用程序不会知道您已经越狱，只需选择任何内容，如果稍后检测到您已经设置了越狱环境，它实际上不会安装它们向上。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758531554450509923#m</guid>
-      <pubDate>Fri, 16 Feb 2024 16:39:29 GMT</pubDate>
+      <title>R 至 @opa334dev：来源：</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1763613501312950546#m</link>
+      <description><![CDATA[来源：
+nitter.esmailelbob.xyz/TeamYouTube/status/1696189191074296237#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1763613501312950546#m</guid>
+      <pubDate>Fri, 01 Mar 2024 17:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>建议每个 1.x 用户使用 Dopamine 2.0。事实上，我建议尽快停止使用 1.x，因为它的代码库是垃圾，谢谢。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758531402872524916#m</link>
-      <description><![CDATA[建议每个 1.x 用户使用 Dopamine 2.0。事实上，我建议尽快停止使用 1.x，因为它的代码库是垃圾，谢谢。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758531402872524916#m</guid>
-      <pubDate>Fri, 16 Feb 2024 16:38:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@opa334dev：kfd landa 也有点奇怪，可能会在设备越狱后的前 30 分钟或第一次用户空间重新启动期间导致后期“随机”恐慌。如前所述，自旋锁恐慌似乎已在 iOS 16.0 中得到修复。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758528908398362783#m</link>
-      <description><![CDATA[kfd landa 也有点奇怪，可能会在设备越狱后的前 30 分钟或第一次用户空间重新启动期间导致后期“随机”恐慌。如前所述，自旋锁恐慌似乎已在 iOS 16.0 中得到修复。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758528908398362783#m</guid>
-      <pubDate>Fri, 16 Feb 2024 16:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@opa334dev：虽然这是我想要的正确的 2.0 版本，但为了节省时间而删除了一些功能，并将在后续版本中添加。此外，越狱时的可靠性并不是 100% 好，因为页表分配可能有点不稳定。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758528375356862546#m</link>
-      <description><![CDATA[虽然这是我想要的正确的 2.0 版本，但为了节省时间而删除了一些功能，并将在后续版本中添加。此外，越狱时的可靠性并不是 100% 好，因为页表分配可能有点不稳定。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758528375356862546#m</guid>
-      <pubDate>Fri, 16 Feb 2024 16:26:51 GMT</pubDate>
+      <title>R 致@opa334dev：@TeamYouTube 在这一点上实际上只是一个笑话，不确定它们如何仍然是一个相关平台。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1763613129634664645#m</link>
+      <description><![CDATA[@TeamYouTube 目前确实只是一个笑话，不确定它们如何仍然具有相关性平台。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1763613129634664645#m</guid>
+      <pubDate>Fri, 01 Mar 2024 17:11:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,230 +4,196 @@
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
     <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 19 Feb 2024 03:27:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:52:47 GMT</lastBuildDate>
     <item>
-      <title>将此分享给有识之士。
+      <title>这个新逻辑到底是什么
 
-如果您的设备在 iOS 16 上达到 EoL（iPhone 8(+)/X、iPad Pro 9.7"/12.9" 第一代或 iPad 第五代），16.7.5 cryptex 与 16.6.1 兼容
+激活锁定部件？</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1778412842732904502#m</link>
+      <description><![CDATA[这个新逻辑到底是什么
 
-这意味着什么？：如果您有 blob，您实际上可以通过 futurerestore 转到 16.6.1。
-
-现在，需要记住三件事：
-- 你不能使用 futurerestore 的 nightly 分支，你必须编译并使用 futurerestore 的 dev 分支，可以在 https://github.com/futurerestore/futurerestore/tree/dev 找到
-- 这样做会中断 OTA 更新，直到您恢复到最新的 iOS 版本
-- 执行此操作后，“设置”->“常规”->“关于”将显示 16.7.5，但点击 iOS 版本应该显示它在 16.6.1 上，具有 16.7.5 快速安全响应（实际上是密码）
-
-再次强调，除非您知道自己在做什么，否则不要这样做。</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759401746500128917#m</link>
-      <description><![CDATA[分享给有识之士。
-
-如果您的设备在 iOS 16 上达到 EoL（iPhone 8(+)/X、iPad Pro 9.7&quot;/12.9&quot; 第一代或 iPad 第五代），16.7.5 cryptex 与 16.6.1 兼容
-
-这意味着什么？：如果你有 blob，你实际上可以通过 futurerestore 访问 16.6.1。
-
-现在，需要记住三件事：
-- 你不能使用 futurerestore 的 nightly 分支，你必须编译并使用 futurerestore 的 dev 分支，可以在 github 找到.com/futurerestore/fut…
-- 这样做会中断 OTA 更新，直到您恢复到最新的 iOS 版本
-- 设置 -&gt; 常规 -&gt; 关于 执行此操作后将显示 16.7.5，但点击 iOS 版本应该显示它在 16.6.1 上，具有 16.7.5 快速安全响应（实际上是密码）
-
-再次强调，除非您知道自己在做什么，否则不要这样做。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759401746500128917#m</guid>
-      <pubDate>Mon, 19 Feb 2024 02:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>@MasterMike88转发：礼包码购买和兑换目前正在维护中。我们对不便表示抱歉。</title>
-      <link>http://nitter.esmailelbob.xyz/HavocRepo/status/1759080583047590109#m</link>
-      <description><![CDATA[礼品代码购买和兑换目前正在进行维护。对于给您带来的不便，我们深表歉意。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/HavocRepo/status/1759080583047590109#m</guid>
-      <pubDate>Sun, 18 Feb 2024 05:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>上下文</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759076711486951870#m</link>
-      <description><![CDATA[上下文
-nitter.esmailelbob.xyz/MasterMike88/status/1759075554806927368#m
+激活锁定部件？
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759076711486951870#m</guid>
-      <pubDate>Sun, 18 Feb 2024 04:45:44 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1778412842732904502#m</guid>
+      <pubDate>Thu, 11 Apr 2024 13:20:37 GMT</pubDate>
     </item>
     <item>
-      <title>R 到@MasterMike88：也可以设置速率限制</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075703310418412#m</link>
-      <description><![CDATA[还要设置速率限制]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075703310418412#m</guid>
-      <pubDate>Sun, 18 Feb 2024 04:41:44 GMT</pubDate>
+      <title>R 致@MasterMike88：请注意，Substitute 已从最近的 rootpalpala1n 存储库中删除（您应该使用 ellekit 代替）。</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1778351668117094419#m</link>
+      <description><![CDATA[请注意，Substitute 最近已从 rootful Palera1n 存储库中删除（您应该使用 ellekit 来代替）。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1778351668117094419#m</guid>
+      <pubDate>Thu, 11 Apr 2024 09:17:32 GMT</pubDate>
     </item>
     <item>
-      <title>给所有拥有礼品代码的存储库维护者的建议：不要让代码中除了少数字符之外的所有字符都是常量
+      <title>对于少数仍在使用 Rootful Palera1n 的人，请注意：
 
-不要问我为什么发这个帖子</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075554806927368#m</link>
-      <description><![CDATA[给所有拥有礼物代码的存储库维护者的建议：不要让代码中除了少数字符之外的所有字符都是常量
+下一版本将不支持 Substitute，如果继续使用 Substitute，您将遇到问题。
 
-不要问我为什么发这篇文章]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1759075554806927368#m</guid>
-      <pubDate>Sun, 18 Feb 2024 04:41:08 GMT</pubDate>
+您有两个选择：
+- [推荐]切换到无根
+- 通过palera1n repo安装ellekit</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1778351666594455967#m</link>
+      <description><![CDATA[对于少数仍在使用 Rootful Palera1n 的人，请注意：
+
+下一版本将不支持 Substitute，如果继续使用 Substitute 将会遇到问题。
+
+您有两个选择：
+- [推荐]切换到rootless
+- 通过palera1n repo安装ellekit]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1778351666594455967#m</guid>
+      <pubDate>Thu, 11 Apr 2024 09:17:32 GMT</pubDate>
     </item>
     <item>
-      <title>RT @MasterMike88：我想我会再做一次，因为几个月前我做了类似的事情：
-
-您有哪些与 Dopamine 或 TrollStore 有关的问题？</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758918422149144948#m</link>
-      <description><![CDATA[我想我会再做一次，因为几个月前我做了类似的事情：
-
-您有哪些与 Dopamine 或 TrollStore 有关的问题？]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758918422149144948#m</guid>
-      <pubDate>Sat, 17 Feb 2024 18:16:45 GMT</pubDate>
+      <title>R 致@MasterMike88：无论如何，需要大约 8 小时左右结束（因为我的手机热点是我的 Wii U 连接到的，而且我有一个叫做工作的外国概念）</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777548829744628182#m</link>
+      <description><![CDATA[无论如何，需要大约 8 小时左右结束（因为我的手机热点是我的 Wii U 连接的，而且我有一个叫做工作的外国概念）]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1777548829744628182#m</guid>
+      <pubDate>Tue, 09 Apr 2024 04:07:20 GMT</pubDate>
     </item>
     <item>
-      <title>RT @MasterMike88：Dopamine 2.0 一定是有史以来最好的 arm64e 越狱。速度快得令人难以置信且稳定</title>
-      <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864251727257798#m</link>
-      <description><![CDATA[Dopamine 2.0 一定是有史以来最好的 arm64e 越狱。速度快且稳定，令人难以置信]]></description>
-      <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864251727257798#m</guid>
-      <pubDate>Sat, 17 Feb 2024 14:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>顺便说一句，多巴胺 2.0.5 应该可以修复 16GB RAM 的问题，这要归功于添加了 Dhinak 的内存占用者。
+      <title>一直到 CDT 晚上 11:03，我终于遇到了通信错误，这一切终于结束了。
 
-https://github.com/opa334/Dopamine/releases/tag/2.0.5</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758855390458957986#m</link>
-      <description><![CDATA[多巴胺 2.0.5 应该可以解决 16GB RAM 的问题，这要归功于添加了 Dhinak 的内存占用者。
+死亡时间： 2024 年 4 月 8 日，晚上 11:03 CDT（+ 4 小时 3 分钟）</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777548660164706599#m</link>
+      <description><![CDATA[一直到 CDT 晚上 11:03，才终于出现通信错误，这一切终于结束了。
 
-github.com/opa334/Dopamine/r…
-nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m
+死亡时间：2024 年 4 月 8 日，晚上 11:03 CDT（+ 4 小时 3 分钟）
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758855390458957986#m</guid>
-      <pubDate>Sat, 17 Feb 2024 14:06:17 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1777548660164706599#m</guid>
+      <pubDate>Tue, 09 Apr 2024 04:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>我不得不说，Dopamine (2.x) 是迄今为止我在现代使用过的最好的越狱之一：
-- 极其可靠
-- 极其稳定
-- 极快的利用速度
+      <title>不知怎的，即使在新的轮换之后我仍然在这个游戏中
 
-图片来自：
-最大16.0 XS
-- 16.5.1 SE 2</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758570201765880106#m</link>
-      <description><![CDATA[我不得不说，Dopamine (2.x) 是迄今为止我在现代时代使用过的最好的越狱之一：
-- 极其可靠
-- 极其稳定
-- 利用速度极快
+好的</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777518774486208650#m</link>
+      <description><![CDATA[不知何故，即使在新的轮换之后我仍然在这个游戏中
 
-图片来自：
-最大 16.0 XS
-- 16.5.1 SE 2
-nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m
+好的
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1777518774486208650#m</guid>
+      <pubDate>Tue, 09 Apr 2024 02:07:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @MasterMike88：在 Wii U/3ds 的所有事情中，Apple 终于取消了 17.3.1 的签名</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777498713239265768#m</link>
+      <description><![CDATA[在 Wii U/3ds 的所有事情中，Apple 终于取消了 17.3.1 的签名]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1777498713239265768#m</guid>
+      <pubDate>Tue, 09 Apr 2024 00:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于那些仍在 Wii U 或 3ds 上在线的人来说，恭喜你，游戏已经开始了。
 
+任天堂通常关闭服务器的方式是，你无法再登录，但如果你保持连接，只要你在服务器上保持连接，你就可以继续玩游戏。</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777490364548436084#m</link>
+      <description><![CDATA[对于那些仍在 Wii U 或 3ds 上在线的人，恭喜，游戏已经开始。
 
+任天堂通常关闭服务器的方式是，你无法再登录，但如果你保持连接，只要你在服务器上保持连接，你就可以继续玩游戏。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1777490364548436084#m</guid>
+      <pubDate>Tue, 09 Apr 2024 00:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据记录，虽然该漏洞应该适用于非 SPTM arm64e，但由于 vnode 内容已损坏，应用程序将找不到任何符合条件的内容来在 arm64e 上安装持久性助手（因为间接用于 arm64e 17.0b1-b4）
+
+另外，不，不支持 17.0 Final。</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777405318537925000#m</link>
+      <description><![CDATA[郑重声明，虽然该漏洞应该适用于非 SPTM arm64e，但由于 vnode 内容已损坏，该应用程序不会找到任何符合条件的内容来在 arm64e 上安装持久性助手（因为间接用于 arm64e 17.0b1） -b4)
+
+另外，不，不支持 17.0 Final。
+nitter.esmailelbob.xyz/alfiecg_dev/status/1777401082903237067#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1777405318537925000#m</guid>
+      <pubDate>Mon, 08 Apr 2024 18:37:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我本来想昨天发布这个，但由于一些事情而严重偏离了方向。
+
+更广泛的越狱社区实际上了解延迟 ota 的事情，三周年快乐（现在+1 天）周年纪念日。
+
+（仅供参考，14.3 OTA 期限由 Dhinak 于 2021 年 4 月 7 日首次公布）</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777216217524175114#m</link>
+      <description><![CDATA[我本来想昨天发布这个，但由于一些事情而严重偏离了方向。
+
+更广泛的越狱社区实际上了解延迟 ota 的事情，三周年快乐（现在+1 天）周年纪念日。
+
+（仅供参考，14.3 OTA周期由Dhinak于2021年4月7日首次公布）]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1777216217524175114#m</guid>
+      <pubDate>Mon, 08 Apr 2024 06:05:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @MasterMike88：[任天堂网络]
+
+好的，关闭时间似乎有些混乱。
+
+美国任天堂表示 UTC 时间晚上 11 点（“PDT 下午 4 点”）。
+
+日本、香港、台湾和澳大利亚的任天堂表示UTC时间上午12点。
+
+欧洲任天堂表示“4 月 8 日”。
+
+就我个人而言，我最信任日本。</title>
+      <link>http://nitter.esmailelbob.xyz/OatmealDome/status/1777018433042801109#m</link>
+      <description><![CDATA[[任天堂网络]
+
+好的，关闭时间似乎有些混乱。
+
+美国任天堂表示 UTC 时间晚上 11 点（“PDT 下午 4 点”）。
+
+日本、香港、台湾和澳大利亚的任天堂表示 UTC 时间上午 12 点。
+
+欧洲任天堂表示“4 月 8 日”。
+
+就我个人而言，我最信任日本。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/OatmealDome/status/1777018433042801109#m</guid>
+      <pubDate>Sun, 07 Apr 2024 16:59:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前正在尝试弄清楚如何使用过期的企业证书对应用程序进行签名
+
+（上下文：iOS 8.0.3 及更早版本）</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1776764508423307565#m</link>
+      <description><![CDATA[目前正在尝试弄清楚如何使用过期的企业证书对应用程序进行签名
+
+（上下文：iOS 8.0.3 及更早版本）]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1776764508423307565#m</guid>
+      <pubDate>Sun, 07 Apr 2024 00:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何人都拥有 17.0 beta 1 至 17.0 beta 4 上的非 SPTM (A10-A14/M1-M2) 设备。
+
+如果是这样，您可以尝试 https://github.com/alfiecg24/TrollInstallerX/releases/tag/1.0.1 并分享情况如何吗？
+
+（arm64使用直接，arm64e使用间接）</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1776638256911614093#m</link>
+      <description><![CDATA[任何人在 17.0 beta 1 至 17.0 beta 4 上都拥有非 SPTM (A10-A14/M1-M2) 设备。
+
+如果是这样，您可以尝试 github.com/alfiecg24/TrollIn... 并分享一下进展情况吗？ 
+
+（arm64使用直接，arm64e使用间接）
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1776638256911614093#m</guid>
+      <pubDate>Sat, 06 Apr 2024 15:49:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@MasterMike88：请记住，这些仍然是同一部分的一部分</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1776374925466484837#m</link>
+      <description><![CDATA[请记住，它们仍然是同一部分的一部分
 
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758570201765880106#m</guid>
-      <pubDate>Fri, 16 Feb 2024 19:13:03 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1776374925466484837#m</guid>
+      <pubDate>Fri, 05 Apr 2024 22:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>多巴胺2.0正式发布。
+      <title>我对苹果宣布的复古游戏模拟器变化有点感兴趣，因为我觉得这比人们得到的更多：
+- “复古”的确切定义是什么
+- 下载是否包含并允许用户自己提供它们（如果没有，我认为这并不重要）</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1776374040220844170#m</link>
+      <description><![CDATA[我对苹果宣布的复古游戏模拟器变化有点感兴趣，因为我觉得这比人们得到的更多：
+- “复古”到底是什么定义
+- 下载是否包含并允许用户自己提供它们（如果没有，我认为这并不重要）
 
-下载：https://ellekit.space/dopamine
-指南：https://ios.cfw.guide/installing-dopamine
-
-设备/操作系统支持：
-A15-A16/M2：15.0-16.5 / 16.6 beta 1-2（beta 3/4 需要测试人员）
-A12-A14/M1：15.0-16.5.1 / 16.6 贝塔 1-4
-A9-A11：15.0-16.6.1
-A8：不支持
-
-笔记：
-- 如果您正在使用血清素和/或 Bootstrap，则必须将其删除 - 安装它们后多巴胺将不起作用
-- 16GB RAM M1/M2 iPad Pro 可能需要打开 60 个 safari 选项卡或使用大量占用内存的应用程序，否则它将不会成功（这不适用于 M1 iPad Air 或 8GB RAM M1/M2 iPad Pro）
-- 如果您已经在使用 Dopamine 1.x，则越狱时应迁移您的设置
-- 如果您使用 meowbrek2、dnajt 或 Palera1n（以及其他一两个），则现有设置将保持不变，但不会迁移到 Dopamine 2.x
-- Betas 和 RC 要求（大多数情况下）您已安装 TrollStore</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m</link>
-      <description><![CDATA[多巴胺2.0正式发布。
-
-下载：ellekit.space/dopamine
-指南：ios.cfw.guide/installing-dop…
-
-设备/操作系统支持：
-A15-A16/M2：15.0-16.5 / 16.6 beta 1-2（beta 3/4 需要测试人员）
-A12-A14/M1：15.0-16.5.1 / 16.6 贝塔 1-4
-A9-A11：15.0-16.6.1
-A8：不支持
-
-备注：
-- 如果您正在使用血清素和/或 Bootstrap，则必须将其删除 - 安装它们后多巴胺将无法工作
-- 16GB RAM M1/M2 iPad Pro 可能需要打开 60 个 safari 选项卡或使用大量占用内存的应用程序，否则它将不会成功（这不适用于 M1 iPad Air 或 8GB RAM M1/M2 iPad Pro） 
-- 如果您已经在使用 Dopamine 1.x，则在越狱时应迁移您的设置
-- 如果您使用 meowbrek2、dnajt 或 Palera1n（以及其他一两个），则现有设置将保持不变，但不会迁移到 Dopamine 2.x
-- Betas 和 RC 要求（大多数情况下）您安装了 TrollStore
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758542196142149973#m</guid>
-      <pubDate>Fri, 16 Feb 2024 17:21:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个平台的格式如此糟糕，让我很生气</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758541896450797593#m</link>
-      <description><![CDATA[这个平台的格式如此糟糕，让我很生气]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758541896450797593#m</guid>
-      <pubDate>Fri, 16 Feb 2024 17:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>@MasterMike88 转发：多巴胺 2.0 正式发布。支持
-
-15.0 - 16.6.1，arm64（目前为 A9+）
-15.0 - 16.5.1, A12 - A14
-15.0 - 16.5, A15 - A16
-
-发布帖子：
-https://www.reddit.com/r/jailbreak/comments/1ascjhy/dopamine_20_jailbreak_for_ios_150_1661_a9_and_up/</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</link>
-      <description><![CDATA[多巴胺2.0正式发布。支持
-
-15.0 - 16.6.1，arm64（目前为A9+）
-15.0 - 16.5.1，A12 - A14
-15.0 - 16.5，A15 - A16
-
-发布帖子：
-trodit.esmailelbob.xyz/r/jailbreak/comme…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</guid>
-      <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>随机问题，这里是否有人拥有以下任何 17.0 beta 版本的设备（注意：这与任何形式的越狱无关，最多只是针对 TrollStore 的这些 beta 版本）：
-- 测试版1
-- 测试版2
-- 测试版3
-- 测试版4</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758365505860128921#m</link>
-      <description><![CDATA[随机问题，这里是否有人拥有以下任何 17.0 beta 版本的设备（注意：这与任何形式的越狱无关，最多只是针对这些 beta 的 TrollStore）：
-- 测试版 1
-- 测试版 2
-- 测试版 3
-- 测试版 4]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758365505860128921#m</guid>
-      <pubDate>Fri, 16 Feb 2024 05:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>不知何故，这应该明天就能到达，这会很好
-
-迫不及待地等待美国邮政再次搞砸送货，尽管出于某种未知的原因！</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1758347750846972288#m</link>
-      <description><![CDATA[不知何故，这应该明天就能到达，这会很好
-
-迫不及待地等待美国邮政再次搞砸送货，尽管出于某种未知的原因！
-nitter.esmailelbob.xyz/MasterMike88/status/1757561230468772087#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1758347750846972288#m</guid>
-      <pubDate>Fri, 16 Feb 2024 04:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>几个小时前刚刚赢得了这个</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1757561230468772087#m</link>
-      <description><![CDATA[几个小时前刚刚赢得了这个
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1757561230468772087#m</guid>
-      <pubDate>Wed, 14 Feb 2024 00:23:45 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1776374040220844170#m</guid>
+      <pubDate>Fri, 05 Apr 2024 22:19:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
