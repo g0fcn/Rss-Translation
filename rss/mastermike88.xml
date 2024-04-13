@@ -4,7 +4,14 @@
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
     <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 13 Apr 2024 03:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 18:14:44 GMT</lastBuildDate>
+    <item>
+      <title>你知道，有一天我有点想开玩笑地安装多巴胺并用它越狱，只是为了强调它有多快</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1779188262151610376#m</link>
+      <description><![CDATA[你知道，有一天我有点想开玩笑地安装多巴胺并用它越狱，只是为了强调它有多快]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1779188262151610376#m</guid>
+      <pubDate>Sat, 13 Apr 2024 16:41:52 GMT</pubDate>
+    </item>
     <item>
       <title>今天早些时候买的，价格大约是 20 美元。
 
@@ -109,7 +116,7 @@
       <pubDate>Tue, 09 Apr 2024 00:15:01 GMT</pubDate>
     </item>
     <item>
-      <title>根据记录，虽然该漏洞应该适用于非 SPTM arm64e，但由于 vnode 内容已损坏，应用程序将找不到任何符合条件的内容来在 arm64e 上安装持久性助手（因为间接用于 arm64e 17.0b1-b4）
+      <title>根据记录，虽然该漏洞应该在非 SPTM arm64e 上运行，但由于 vnode 内容被破坏，该应用程序不会找到任何符合条件的东西来在arm64e上安装持久性助手（因为间接用于arm64e 17.0b1-b4）
 
 另外，不，不支持 17.0 Final。</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1777405318537925000#m</link>
@@ -188,15 +195,6 @@ nitter.esmailelbob.xyz/alfiecg_dev/status/1777401082903237067#m]]></description>
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1776638256911614093#m</guid>
       <pubDate>Sat, 06 Apr 2024 15:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@MasterMike88：请记住，这些仍然是同一部分的一部分</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1776374925466484837#m</link>
-      <description><![CDATA[请记住，它们仍然是同一部分的一部分
-
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1776374925466484837#m</guid>
-      <pubDate>Fri, 05 Apr 2024 22:22:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
