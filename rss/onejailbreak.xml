@@ -4,7 +4,66 @@
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
     <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 14 Apr 2024 11:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 22:03:50 GMT</lastBuildDate>
+    <item>
+      <title>💻Semaphorin 1.0 命令行版本发布，降级支持 iOS 7.0.1 – 适用于 A7、A8、A8X 和 A9 的 iOS 11.1，包括 iPhone 5s、iPhone 6、iPhone 6s 和 iPhone SE 🔥 📢
+
+https://onejailbreak.com/blog/semaphorin/
+
+#iOS7 #iOS8 #iOS9 #iOS10 #iOS11 #iPhone6 #jailbreak #downgrade</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779594348021121428#m</link>
+      <description><![CDATA[💻Semaphorin 1.0 命令行版本发布，降级支持 iOS 7.0.1 – iOS 11.1，适用于 A7、A8、A8X 和 A9，包括 iPhone 5s、iPhone 6、iPhone 6s 和 iPhone SE 🔥 📢
+
+onejailbreak.com/blog/semaph...
+
+#iOS7 #iOS8 #iOS9 #iOS10 #iOS11 #iPhone6 #jailbreak&lt; /a&gt; #downgrade
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779594348021121428#m</guid>
+      <pubDate>Sun, 14 Apr 2024 19:35:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>🕵️SignTools v3.0.3 发布。这个无需 PC 即可旁加载 iOS 应用程序的自托管平台已更新，现在允许更改 Cloudflare 和 ngrok 主机 🗞️
+
+https://github.com/SignTools/SignTools
+
+#iOS16 #iOS17 #IPA #signing #iPhone #nojailbreak</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779581679012598024#m</link>
+      <description><![CDATA[🕵️SignTools v3.0.3 已发布。这个无需 PC 即可旁加载 iOS 应用程序的自托管平台已更新，现在允许更改 Cloudflare 和 ngrok 主机 🗞️
+
+github.com/SignTools/SignToo…
+
+#iOS16 #iOS17 #IPA #signing #iPhone #nojailbreak
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779581679012598024#m</guid>
+      <pubDate>Sun, 14 Apr 2024 18:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>🕵️palera1n rootful 的下一个版本将不支持 Substitute 作为调整注入。建议切换到无root环境或通过palera1n repo安装ellekit 🗞️
+
+#palera1n #iOS15 #iOS16 #iOS17 #iPhone #jailbreak</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779580494847299766#m</link>
+      <description><![CDATA[🕵️palera1n rootful 的下一个版本将不支持 Substitute 作为调整注入。建议切换到无root环境或通过palera1n repo安装ellekit 🗞️
+
+#palera1n #iOS15 #iOS16 #iOS17 #iPhone #jailbreak]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779580494847299766#m</guid>
+      <pubDate>Sun, 14 Apr 2024 18:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔓HFZ Ramdisk Universal 3.8.4 已发布。运营商锁定设备现在支持信号旁路🔥
+
+https://onejailbreak.com/blog/hfz-activator-ramdisk/
+
+#icloudbypass #icloudunlock #windows #macOS #nojailbreak #checkra1n #checkm8 #pogoOS #iPhone #iPhoneX #iPhone6 #iPhone7 #iPhone8</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779575973878337860#m</link>
+      <description><![CDATA[🔓HFZ Ramdisk Universal 3.8.4 已发布。运营商锁定设备现在支持信号旁路🔥
+
+onejailbreak.com/blog/hfz-ac…
+
+#icloudbypass #icloudunlock #windows #macOS #nojailbreak #checkra1n #checkm8&lt; /a&gt; #pogoOS #iPhone #iPhoneX #iPhone6 #iPhone7 #iPhone8
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1779575973878337860#m</guid>
+      <pubDate>Sun, 14 Apr 2024 18:22:29 GMT</pubDate>
+    </item>
     <item>
       <title>🔓SkynetTool AIO iCloud Bypass 已更新至版本 1.1.9。此版本为所有无需越狱的 iDevices 添加了 iOS 17.5 绕过 + OTA Blocker 和 MDM Lock 绕过 🔥📱
 
@@ -110,73 +169,6 @@ onejailbreak.com/blog/watusi…
       <pubDate>Fri, 12 Apr 2024 16:15:10 GMT</pubDate>
     </item>
     <item>
-      <title>R 至@onejailbreak_：v2.0.7
-- 修复了新版本中不显示选项卡图标的问题
-- 调整了 OLED 模式的重命名音频文本视图边框
-- 修复了跳过警告不起作用的问题
-- 为所有媒体启用迷你播放器</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778817588807512359#m</link>
-      <description><![CDATA[v2.0.7 
-- 修复了新版本中标签图标不显示的问题
-- 调整了 OLED 模式的重命名音频文本视图边框
-- 修复了跳过警告不起作用的问题
-- 为所有媒体启用迷你播放器]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778817588807512359#m</guid>
-      <pubDate>Fri, 12 Apr 2024 16:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧩YTMusicUltimate 是一项功能强大的调整，可解锁高级功能，例如后台播放和从 YouTube Music 应用中删除广告📱🎵
-
-https://onejailbreak.com/blog/ytmusicultimate/
-
-通过@Dayanch96
-
-#jailbreak #nojailbreak #unc0ver #checkra1n #palera1n #iOS15 #Dopamine #iOS #sideloadly #altstore</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778817457148264559#m</link>
-      <description><![CDATA[🧩YTMusicUltimate 是一项功能强大的调整，可以解锁后台播放和从 YouTube Music 应用中删除广告等高级功能📱🎵
-
-onejailbreak.com/blog/ytmusi…
-
-作者：@Dayanch96
-
-#jailbreak #nojailbreak #unc0ver #checkra1n #palera1n #iOS15 #Dopamine&lt; /a&gt; #iOS #sideloadly #altstore
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778817457148264559#m</guid>
-      <pubDate>Fri, 12 Apr 2024 16:08:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧩TrollRecorder 1.7 提供“触觉反馈”、自定义 HUD 空闲间隔、设置页面的优化布局以及 FaceTime 和电话应用程序的自定义选项...📱🔥
-
-https://onejailbreak.com/blog/trollrecorder/
-
-#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778802373697180030#m</link>
-      <description><![CDATA[🧩TrollRecorder 1.7 提供“触觉反馈”、自定义 HUD 空闲间隔、设置页面的优化布局以及 FaceTime 和电话应用程序的自定义选项...📱🔥
-
-onejailbreak.com/blog/trollr…
-
-#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778802373697180030#m</guid>
-      <pubDate>Fri, 12 Apr 2024 15:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧩Kayoko 是一款出色的 iOS 设备剪贴板管理器，现在还提供无根支持。 2.0版本已推送至GitHub，但未编译。获取适用于 arm 和 amr64 的最新 2.0 版本 🔥📢
-
-https://onejailbreak.com/blog/kayoko-tweak/
-
-#越狱 #iOS15 #iOS16 #Dopamine2 #palera1n #iPhone15</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778771538440851790#m</link>
-      <description><![CDATA[🧩Kayoko 是一款出色的 iOS 设备剪贴板管理器，现在还提供无根支持。 2.0版本已推送至GitHub，但未编译。获取适用于arm和amr64的最新2.0版本🔥📢
-
-onejailbreak.com/blog/kayoko…
-
-#jailbreak #iOS15 #iOS16 #Dopamine2 #palera1n #iPhone15
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778771538440851790#m</guid>
-      <pubDate>Fri, 12 Apr 2024 13:05:57 GMT</pubDate>
-    </item>
-    <item>
       <title>RT by @onejailbreak_：🧩Vē 是一项调整，使您能够在 iOS 上记录所有通知并从一个位置查看它们。 2.0版本已推送至GitHub，但未编译。获取适用于arm和amr64的最新2.0版本📱
 
 https://onejailbreak.com/blog/ve-tweak/
@@ -217,7 +209,7 @@ https://onejailbreak.com/blog/quickprefs-tweak/
 
 #越狱 #iOS15 #iOS16 #Dopamine2 #palera1n #iPhone15</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1778691346141761554#m</link>
-      <description><![CDATA[🧩QuickPrefs 是针对 iOS 11 至 iOS 16 的越狱调整，旨在通过 3D Touch 菜单快速访问调整和库存偏好设置📱 🔥
+      <description><![CDATA[🧩QuickPrefs 是针对 iOS 11 到 iOS 16 的越狱调整，旨在通过 3D Touch 菜单快速访问调整和库存偏好设置📱 🔥
 
 onejailbreak.com/blog/quickp…
 

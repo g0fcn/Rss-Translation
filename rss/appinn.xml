@@ -4,7 +4,25 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 13 Apr 2024 12:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 22:05:17 GMT</lastBuildDate>
+    <item>
+      <title>[自荐-效率工具] Boos直聘自动投递打招呼（ChatGPT+Vue3+Vite）</title>
+      <link>https://meta.appinn.net/t/topic/55191</link>
+      <description><![CDATA[虽然是油猴脚本但技术栈够新，使用了VIte + Vue3 + element-plus来构建。
+该脚本的一大亮点就是GPT加持，目前为测试版本，可能会有部分bug,还请谅解。
+目前支持 公司名，薪资，岗位名，工作内容，活跃度等简单筛选，还可以使用强大的GPT筛选 ，投递后还能使用GPT招呼语来让Ai总结你对这个岗位的帮助和优势来自动发送招呼语
+
+需要自己写API和提示词，只提供了参考，内部使用模板引擎加岗位数据更自由强大，投递后还能记录上下文，方便本地训练AI
+
+
+
+Github开源地址: https://github.com/ocyss/boos-helper
+greasyfork地址: https://greasyfork.org/zh-CN/scripts/491340
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/55191</guid>
+      <pubDate>Sun, 14 Apr 2024 15:48:31 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】QuickRec，无需第三方驱动即可录制 Mac 系统声音的录屏工具</title>
       <link>https://meta.appinn.net/t/topic/55152</link>
@@ -281,31 +299,6 @@ DS Cloud下载地址
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/54836</guid>
       <pubDate>Sun, 07 Apr 2024 01:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024了，有哪些好用的软件或功能是其他系统还没有的？</title>
-      <link>https://meta.appinn.net/t/topic/54785</link>
-      <description><![CDATA[大家有没有遇到过只在某特定系统上独有，但好用的软件或系统内置功能
-讨论范围
-
-主要是桌面端与桌面端、移动端与移动端对比
-不仅限于独占，比如 Linux 和 Mac 有，但 Windows 没有也算
-同系统不同版本也算，比如 Win7 有，但 Win11 没有
-也许有但可能比较小众没有被发现也算
-也许有&quot;平替&quot;，但&quot;平替&quot;过于简陋或体验太差也算
-交互操作也算
-不考虑：游戏、杀毒、虚拟机
-
-发帖目的
-
-发掘好用的软件或功能
-为体验新系统做准备
-
-无意比较各系统的优劣，因为比较主观所以请大家友善讨论
-3 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/54785</guid>
-      <pubDate>Fri, 05 Apr 2024 06:56:31 GMT</pubDate>
     </item>
     <item>
       <title>老胡的周刊（第100期）</title>
