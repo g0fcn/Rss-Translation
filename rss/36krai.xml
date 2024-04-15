@@ -4,7 +4,14 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Sat, 13 Apr 2024 15:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:21:41 GMT</lastBuildDate>
+    <item>
+      <title>“美版知乎”融资5.3亿打造AI产品，撒钱只为对抗OpenAI</title>
+      <link>https://www.36kr.com/p/2734183227140354</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2734183227140354</guid>
+      <pubDate>Mon, 15 Apr 2024 04:12:10 GMT</pubDate>
+    </item>
     <item>
       <title>奥特曼爆火AI硬件遭差评，ChatGPT版iPhone上市即翻车</title>
       <link>https://www.36kr.com/p/2731450142288388</link>
@@ -114,13 +121,6 @@ OpenAI 发布了 GPT-4 Turbo with Vision 版本，是一种多模态模型，具
 今天，OpenAI 宣布 GPT-4 Turbo with Vision 版（具有视觉功能的最新 GPT-4 Turbo 模型）已经通过 OpenAI API 正式上线。GPT-4 Turbo 是一种强大的多模态模型，能够处理文本和图像输入，并凭借其广泛的常识和先进的推理能力提供准确的输出。 OpenAI 在去年 11 月的 DevDay 期间推出了 GPT-4 Turbo，展示了其增强的功能和截至 2023 年 4 月的扩展知识库。凭借 128k 上下文窗口，该模型可以在单个 Prompt 中处理超过 300 页的文本。时下这个最新的模型保持了原有 GPT-4 Turbo 的 128k 上下文窗口， 模型训练的数据截止日期更新为 2023 年 12 月。而主要更新在于它的视觉功能，可以理解图像和视觉内容。升级后的 GPT-4 Turbo 模型有望提高性能，并且不久之后也将在 ChatGPT 中推出。此前，GPT-4 Turbo 的显著亮点之一是其优化的性能，从而大幅降低用户的成本。与之前的 GPT-4 模型相比，输入 token 的价格现在降低了三倍，而输出 token 的成本则降低了一半，这使得此次升级对不少用户来说既高效又经济，而且还为各种用例打开了新大门。在 X 平台上，OpenAI 也随之分享了一些开发人员使用该模型的具体方法，例如，AI 软件工程助手 Devin 利用 GPT-4 Turbo with Vision 来更好地协助编码。健康和健身应用 Healthify 使用 GPT-4 Turbo with Vision 扫描用户的膳食照片，并通过照片识别提供对营养的见解。Make Real 使用 GPT-4 Turbo with Vision 将用户的草图转换成可运行的网站。一张草图生成一个网站似乎已经逐渐成为了现实。不过就在 GPT-4 Turbo with Vision 正式发布之际，也有一位网友 Paul-Gauthier 对编码功能展开了评测。有些出乎意料的是，Paul-Gauthier 称，「GPT-4 Turbo with Vision 版本在 aider 的编码基准套件中的表现比之前所有的 GPT-4 模型都要差。尤其是，与现有的 GPT-4 Turbo &quot;预览&quot;模型相比，它似乎更容易在编码方面“偷懒”。代码编辑能力Aider 依靠代码编辑基准来定量评估 LLM 对现有代码进行修改的能力。该基准使用 aider 尝试完成 133 个 Exercism Python 编码练习（https://github.com/exercism/python）。对于每个练习，LLM 会尝试两次来解决每个问题：在第一次尝试中，它将获得初始存根代码和编码任务的英文描述。如果测试全部通过，我们就完成了。如果有测试失败，aider 会向 LLM 发送失败的测试输出，并让它进行第二次尝试以完成任务。GPT-4 Turbo with Vision 在这项基准测试中的得分仅为 62%，是现有 GPT-4 模型中得分最低的。其他模型的得分在 63-66% 之间时，这个最新的模型只是稍有退步，与 gpt-4-0613 相比差距并不明显。编码的惰性测试还记得彼时 GPT-4 Turbo preview 模型因在编码时“偷懒”，受到了不少业界开发者的批评。它们经常省略所需的代码，而在注释中留下“在此处实现方法”之类的语句。Aider 使用一个“懒惰”基准套件，旨在激发和量化懒惰编码。它由 89 个 Python 重构任务组成，这些任务往往会让 GPT-4 Turbo 以懒惰的方式编码。新的 GPT-4 Turbo with Vision 模型在 aider 的重构基准测试中只获得了 34% 的分数，是所有 GPT-4 Turbo 模型中最懒惰的编码工具。完整的评测可以详见：https://aider.chat/2024/04/09/gpt-4-turbo.html最后，你是否体验上了 GPT-4 Turbo with Vision 版本，有什么样的感受？来源：https://www.zdnet.com/article/openai-makes-gpt-4-turbo-with-vision-available-for-developers/https://twitter.com/OpenAIDevs/status/1777769468996845718https://aider.chat/2024/04/09/gpt-4-turbo.html本文来自微信公众号“CSDN”（ID:CSDNnews），编译：屠敏 ，36氪经授权发布。]]></description>
       <guid>https://www.36kr.com/p/2727497226904581</guid>
       <pubDate>Wed, 10 Apr 2024 10:47:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>「视觉版」GPT-4 Turbo重磅升级，ChatGPT 40条消息限制或取消</title>
-      <link>https://www.36kr.com/p/2727375750423808</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2727375750423808</guid>
-      <pubDate>Wed, 10 Apr 2024 08:39:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
