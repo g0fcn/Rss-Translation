@@ -4,7 +4,31 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 18 Apr 2024 12:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 15:15:36 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】新百词斩助手浏览器插件</title>
+      <link>https://meta.appinn.net/t/topic/55375</link>
+      <description><![CDATA[功能简介
+新百词斩网页助手，支持取词翻译、收藏单词等操作（可同步至百词斩APP中）
+创作说明
+该插件是【百词斩助手】chrome 插件的重写版本，作者已经开源了这个项目。原来是jQuery UI项目，我将其改造成wxt.dev + Vue，代码组织性更强了，而且还很容易编译支持Firefox平台。
+更多说明
+Learning English begins with mastering vocabulary.
+选词翻译
+
+管理单词本
+
+查看单词详情
+
+官网主页：
+Home - Baicizhan Helper Website (100-words.pages.dev)
+开源地址：
+honwhy/words-100-helper: rewrite of @marmot-z/baicizhan-helper (github.com)
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/55375</guid>
+      <pubDate>Thu, 18 Apr 2024 14:02:36 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】创业零基础自己记账报税软件，自记账app（付费但很实用）</title>
       <link>https://meta.appinn.net/t/topic/55356</link>
@@ -315,13 +339,6 @@ tvOS，PLEX，SMB，等等
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/54868</guid>
       <pubDate>Sun, 07 Apr 2024 15:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】带壳截图神器 NiceShots 迎来重大更新!</title>
-      <link>https://meta.appinn.net/t/topic/54862</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/54862</guid>
-      <pubDate>Sun, 07 Apr 2024 10:54:09 GMT</pubDate>
     </item>
     <item>
       <title>老胡的周刊（第100期）</title>
