@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 19 Apr 2024 06:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 18:17:57 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1781182130266980676#m</link>
@@ -43,8 +43,7 @@
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
       <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
-github.com/alfiecg24/TrollIn…
-]]></description>
+github.com/alfiecg24/TrollIn…]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
     </item>
@@ -126,7 +125,7 @@ libundirect 1.1.6
       <pubDate>Fri, 29 Mar 2024 17:28:40 GMT</pubDate>
     </item>
     <item>
-      <title>AltList 1.0.11 已发布，修复了 lsd 加载时的崩溃问题。显然，在某些情况下，Crane 会将其加载到那里，导致设备在安装后看门狗超时。</title>
+      <title>AltList 1.0.11 已发布，修复了加载 lsd 时出现的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</link>
       <description><![CDATA[AltList 1.0.11 已发布，修复了 lsd 加载时发生的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</guid>
@@ -165,8 +164,7 @@ https://github.com/opa334/Dopamine/releases/tag/2.0.11</title>
 
 修复了在实际未调用重新越狱时自动修复文件 /private/preboot/... 文件权限的代码，呃...
 
-github.com/opa334/Dopamine/r…
-]]></description>
+github.com/opa334/Dopamine/r…]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1766966185059365344#m</guid>
       <pubDate>Sun, 10 Mar 2024 23:15:41 GMT</pubDate>
     </item>
@@ -181,8 +179,7 @@ https://github.com/opa334/Dopamine/releases/tag/2.0.10
 
 github.com/opa334/Dopamine/r…
 
-值得注意的是，所有已知的arm64特定问题现在都应该得到修复，而且即使禁用开发者模式，越狱现在也应该可以工作。
-]]></description>
+值得注意的是，所有已知的arm64特定问题现在都应该得到修复，而且即使禁用开发者模式，越狱现在也应该可以工作。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1765932268025979015#m</guid>
       <pubDate>Fri, 08 Mar 2024 02:47:16 GMT</pubDate>
     </item>
