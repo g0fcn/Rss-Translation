@@ -4,7 +4,7 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 19 Apr 2024 03:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:19:14 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
@@ -49,9 +49,9 @@ CPID:8122 BORD:32 J615AP Mac15,13 MacBook Air（15 英寸，M3，2024）]]></des
       <pubDate>Mon, 04 Mar 2024 18:24:38 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.0 发布了！
+      <title>多巴胺2.0出来了！
 
-祝贺@opa334dev 和@dora2ios 以及所有做出贡献的人，还有所有内部测试人员！</title>
+祝贺 @opa334dev 和 @dora2ios 以及所有做出贡献的人，以及所有内部测试人员！</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1758534363325546713#m</link>
       <description><![CDATA[多巴胺2.0已经出来了！
 
@@ -129,7 +129,8 @@ teddit.net/r/jailbreak/comme…
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
       <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 时可能出现的问题并且设备使用 Palera1n 启动。
 
-如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。]]></description>
+如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</guid>
       <pubDate>Wed, 31 Jan 2024 21:23:45 GMT</pubDate>
     </item>
