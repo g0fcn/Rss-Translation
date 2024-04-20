@@ -4,9 +4,38 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 06 Apr 2024 00:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 18:18:21 GMT</lastBuildDate>
     <item>
-      <title>回到我的时代……关于当时和现在写博客的一些想法</title>
+      <title>对 nvALT 用户的呼吁</title>
+      <link>https://brett.trpstra.net/link/535/16655625/a-plea-to-nvalt-users</link>
+      <description><![CDATA[ nvALT, end of life, modernize, Markdown files, nvUltra
+
+nvALT已经停止更新，目前几乎无法在现代操作系统上正常运行。建议用户将存储方式转为Markdown文件，以便顺利迁移到新的笔记系统。如果笔记存储为富文本文件(RTF)，则需使用其他应用如nvUltra、The Archive或Obsidian。学习Markdown并不难，只需了解一些简单的语法规则。立即将存储方式改为纯文本文件，以免在nvALT无法运行时无法提取笔记。可能会为nvUltra编写导入器，但目前尚未实现。要获取nvUltra测试版，请通过网站联系链接发送邮件。 
+I’ve said this before, but I need to keep repeating it based on the number of queries I get. nvALT is at end of life, unless someone picks up the reigns and modernizes the (open source) code base. As it stands now, nvALT barely functions on modern OSs.
+Fletcher Penney and I have designed nvALT’s successor, nvUltra, to work only with a folder full of Markdown files, which is the only way I recommend using nvALT. If your nvALT files are stored as individual Markdown files, switching to nvUltra is no problem, nor is switching to any other Notational-Velocity-like system. It will even work in Obsidian. But if you store your notes as a database only, you’re screwed when nvALT stops working for you.
+So please, if nvALT is still running for you, go into Preferences-&gt;Notes-&gt;Storage and change “Store and read notes on disk as” to “Plain Text Files.” If your previous storage method was database, all of your notes will be immediately written out as plain text files, safe and secure and easy to port to a new (working) notes system. The files will now be in the same folder nvALT shows in the folder selector at the top of the Notes preference pane.
+
+
+
+
+
+
+
+nvALT is not even working well enough for me to get a full screenshot. But here is my best attempt.
+
+If your notes are stored as Rich Text Files (RTF), you’ll need to convert them to Markdown to make use of other apps like nvUltra, The Archive, or Obsidian. If you don’t know Markdown, don’t sweat it. It’s very easy to learn and it’s really just plain text, so as long as you know how to write, you’re already kind of writing Markdown. It’s only necessary to learn any syntax if you need to do things like create bulleted/numbered lists, add bold or italics, or create links.
+So, again, please immediately switch your storage method to plain text files. The nvALT database format has no easy out for people ready to switch. I may try to write an importer for nvUltra (or generally to output Markdown), but I have not done so yet.
+If you want on the nvUltra beta, email me through the contact link on nvultra.com.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16655625/a-plea-to-nvalt-users</guid>
+      <pubDate>Sat, 20 Apr 2024 14:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>回到我的时代......当时和现在写博客的一些想法</title>
       <link>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</guid>
@@ -270,13 +299,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16588973/dimspire-dot-me</guid>
       <pubDate>Thu, 22 Feb 2024 19:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>保留它——写笔记，保留东西，然后再次找到它们[赞助商]</title>
-      <link>https://brett.trpstra.net/link/535/16588628/keep-it-write-notes-keep-things-and-find-them-again-sponsor</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16588628/keep-it-write-notes-keep-things-and-find-them-again-sponsor</guid>
-      <pubDate>Thu, 22 Feb 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
