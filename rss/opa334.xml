@@ -4,7 +4,15 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 21:13:15 GMT</lastBuildDate>
+    <item>
+      <title>图像</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</link>
+      <description><![CDATA[
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</guid>
+      <pubDate>Sun, 21 Apr 2024 20:09:40 GMT</pubDate>
+    </item>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1781182130266980676#m</link>
@@ -42,7 +50,7 @@
       <title>RT @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
-      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。🔥
+      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
 github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
@@ -169,22 +177,6 @@ github.com/opa334/Dopamine/r…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1766966185059365344#m</guid>
       <pubDate>Sun, 10 Mar 2024 23:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>多巴胺 2.0.10 已发布
-
-https://github.com/opa334/Dopamine/releases/tag/2.0.10
-
-值得注意的是，所有已知的 arm64 特定问题现在都应该得到修复，而且即使禁用开发者模式，越狱现在也应该可以工作。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1765932268025979015#m</link>
-      <description><![CDATA[多巴胺 2.0.10 已推出
-
-github.com/opa334/Dopamine/r…
-
-值得注意的是，所有已知的 arm64 特定问题现在都应该得到修复，而且即使禁用开发者模式，越狱现在也应该可以工作。
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1765932268025979015#m</guid>
-      <pubDate>Fri, 08 Mar 2024 02:47:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

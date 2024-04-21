@@ -4,7 +4,18 @@
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
     <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 21 Apr 2024 15:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 21:12:48 GMT</lastBuildDate>
+    <item>
+      <title>R 致@onejailbreak_：v2.1.1 更新
+- 修复了无法正确加载设置文件的问题。
+- 修复了设置中的重新启动按钮无法正常工作的问题。</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782148935005405583#m</link>
+      <description><![CDATA[v2.1.1 更新
+- 修复了无法正确加载设置文件的问题。
+- 修复了设置中的重新启动按钮无法正常工作的问题。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782148935005405583#m</guid>
+      <pubDate>Sun, 21 Apr 2024 20:46:31 GMT</pubDate>
+    </item>
     <item>
       <title>R 致@onejailbreak_：出色的演示：
 
@@ -17,13 +28,13 @@ i.blackhat.com/Asia-24/Asia-…]]></description>
       <pubDate>Sun, 21 Apr 2024 13:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>🕵️Matthias Frielingsdorf 在新加坡的#BHASIA 上分享了他对 iOS 16（NSExpression Payload）Pegasus Exploit 的分析。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
+      <title>🕵️Matthias Frielingsdorf 在新加坡的#BHASIA 上分享了他对 iOS 16（NSExpression Payload）的 Pegasus 漏洞的分析。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
 
 https://x.com/Helthydriver/status/1781500550342938726
 
 通过@Helthydriver
 
-#jailbreak #iOS16 #Pegasus #security</title>
+#越狱#iOS16 #Pegasus #security</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782041386205765695#m</link>
       <description><![CDATA[🕵️Matthias Frielingsdorf 在 #BHASIA 分享了他对 iOS 16 的 Pegasus 漏洞利用（NSExpression Payload）的分析新加坡。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
 
@@ -102,7 +113,7 @@ https://onejailbreak.com/blog/palera1n-jailbreak/
 
 #palera1n #jailbreak #iPadOS17 #iOS16 #iOS15 #iPhone</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781392698915643392#m</link>
-      <description><![CDATA[📚Palera1n 仍然是最流行的旧设备越狱方法之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
+      <description><![CDATA[📚Palera1n 仍然是旧设备上最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
 
 onejailbreak.com/blog/palera…
 
@@ -212,19 +223,12 @@ https://onejailbreak.com/blog/semaphorin/
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780837870439190718#m</link>
       <description><![CDATA[💻Semaphorin，iOS 7.0.1 - iOS 11.1 A7、A8、A8X 和 A9 的降级工具已更新。新版本修复了 iOS 8.0 beta 4 降级以及 iOS 7 上的手机服务🔥📱
 
-onejailbreak.com/blog/semaph…
+onejailbreak.com/blog/semaph...
 
 #iOS7 #iOS8 #iOS9 #iOS10 #iOS11 #iPhone6 #jailbreak&lt; /a&gt; #downgrade
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780837870439190718#m</guid>
       <pubDate>Thu, 18 Apr 2024 05:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@onejailbreak_：🚨应用程序必须在安装前获得授权，因此不存在像标准 AltStore 版本那样的真正的侧载自由。</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780712039939465561#m</link>
-      <description><![CDATA[🚨应用程序必须在安装前获得授权，因此不存在像标准 AltStore 版本那样的真正的侧载自由。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780712039939465561#m</guid>
-      <pubDate>Wed, 17 Apr 2024 21:36:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
