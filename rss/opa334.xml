@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 21 Apr 2024 09:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 12:25:44 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1781182130266980676#m</link>
@@ -42,7 +42,7 @@
       <title>RT @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
-      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
+      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。🔥
 github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
@@ -126,7 +126,7 @@ libundirect 1.1.6
       <pubDate>Fri, 29 Mar 2024 17:28:40 GMT</pubDate>
     </item>
     <item>
-      <title>AltList 1.0.11 已发布，修复了 lsd 加载时崩溃的问题。显然 Crane 在某些情况下会将其加载到其中，导致设备在安装后出现看门狗超时。</title>
+      <title>AltList 1.0.11 已发布，修复了 lsd 加载时的崩溃问题。显然，在某些情况下，Crane 会将其加载到那里，导致设备在安装后看门狗超时。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</link>
       <description><![CDATA[AltList 1.0.11 已发布，修复了 lsd 加载时发生的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</guid>
@@ -147,7 +147,7 @@ iOS 14.0 - 16.5 (A15 - A16) ✅
       <pubDate>Mon, 25 Mar 2024 00:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @opa334dev：我利用了 MadDirtyCow（CVE-2022-46689）和 2022 CoreTrust 漏洞（CVE-2022-26766），允许在运行 watchOS 8.3 的 Apple Watch 上安装具有任意授权的永久签名应用程序（a-la TrollStore）。 \o/</title>
+      <title>RT @opa334dev：我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 来允许在我的 Apple Watch 上安装具有任意权限的永久签名应用程序（类似 TrollStore），运行 watchOS 8.3。 \o/</title>
       <link>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</link>
       <description><![CDATA[我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 允许在运行 watchOS 的 Apple Watch 上安装具有任意权限的永久签名应用程序（a-la TrollStore） 8.3. \o/
 ]]></description>
