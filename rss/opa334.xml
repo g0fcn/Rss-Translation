@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 21 Apr 2024 03:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 06:19:30 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1781182130266980676#m</link>
@@ -34,7 +34,7 @@
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
       <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
 
-太棒了😄]]></description>
+真是太棒了😄]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
       <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
@@ -43,8 +43,7 @@
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
       <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
-github.com/alfiecg24/TrollIn…
-]]></description>
+github.com/alfiecg24/TrollIn…]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
     </item>
@@ -90,7 +89,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
       <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
+      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的软件包在未来的 RootHide 版本上工作，而无需提供单独的软件包来适应：
 
 1.更新理论
 2.（可选）从rootless.h迁移到libroot.h
@@ -112,7 +111,7 @@ libSandy 1.1.4
 libundirect 1.1.6
 起重机1.3.14-5
 
-正在采用它。</title>
+都打算采用它。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</link>
       <description><![CDATA[libroot 支持现已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
 
@@ -128,7 +127,7 @@ libundirect 1.1.6
     <item>
       <title>AltList 1.0.11 已发布，修复了加载 lsd 时出现的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</link>
-      <description><![CDATA[AltList 1.0.11 已发布，并修复了加载到 lsd 时发生的崩溃问题。显然，Crane 在某些情况下会将其加载到其中，导致设备在安装后出现看门狗超时。]]></description>
+      <description><![CDATA[AltList 1.0.11 已发布，修复了 lsd 加载时发生的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</guid>
       <pubDate>Fri, 29 Mar 2024 17:24:53 GMT</pubDate>
     </item>
