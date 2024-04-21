@@ -3,8 +3,39 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 消息源：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:25:18 GMT</lastBuildDate>
+    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sun, 21 Apr 2024 15:13:39 GMT</lastBuildDate>
+    <item>
+      <title>R 致@onejailbreak_：出色的演示：
+
+https://i.blackhat.com/Asia-24/Asia-24-Frielingsdorf-YouShallNotPassAnalysing.pdf</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782041505328148774#m</link>
+      <description><![CDATA[精彩的演讲：
+
+i.blackhat.com/Asia-24/Asia-…]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782041505328148774#m</guid>
+      <pubDate>Sun, 21 Apr 2024 13:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>🕵️Matthias Frielingsdorf 在新加坡的#BHASIA 上分享了他对 iOS 16（NSExpression Payload）Pegasus Exploit 的分析。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
+
+https://x.com/Helthydriver/status/1781500550342938726
+
+通过@Helthydriver
+
+#jailbreak #iOS16 #Pegasus #security</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782041386205765695#m</link>
+      <description><![CDATA[🕵️Matthias Frielingsdorf 在 #BHASIA 分享了他对 iOS 16 的 Pegasus 漏洞利用（NSExpression Payload）的分析新加坡。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
+
+x.com/Helthydriver/status/17…
+
+作者：@Helthydriver
+
+#jailbreak #iOS16 #Pegasus #security
+nitter.esmailelbob.xyz/Helthydriver/status/1781500550342938726#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782041386205765695#m</guid>
+      <pubDate>Sun, 21 Apr 2024 13:39:09 GMT</pubDate>
+    </item>
     <item>
       <title>🔓HFZ Ramdisk Universal 3.8.6 现在支持所有支持 15-16-17 的 iOS，无需将您的设备恢复到最新版本🔥⚡️
 
@@ -71,7 +102,7 @@ https://onejailbreak.com/blog/palera1n-jailbreak/
 
 #palera1n #jailbreak #iPadOS17 #iOS16 #iOS15 #iPhone</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781392698915643392#m</link>
-      <description><![CDATA[📚Palera1n 仍然是旧设备上最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
+      <description><![CDATA[📚Palera1n 仍然是最流行的旧设备越狱方法之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
 
 onejailbreak.com/blog/palera…
 
@@ -181,7 +212,7 @@ https://onejailbreak.com/blog/semaphorin/
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780837870439190718#m</link>
       <description><![CDATA[💻Semaphorin，iOS 7.0.1 - iOS 11.1 A7、A8、A8X 和 A9 的降级工具已更新。新版本修复了 iOS 8.0 beta 4 降级以及 iOS 7 上的手机服务🔥📱
 
-onejailbreak.com/blog/semaph...
+onejailbreak.com/blog/semaph…
 
 #iOS7 #iOS8 #iOS9 #iOS10 #iOS11 #iPhone6 #jailbreak&lt; /a&gt; #downgrade
 ]]></description>
@@ -194,38 +225,6 @@ onejailbreak.com/blog/semaph...
       <description><![CDATA[🚨应用程序必须在安装前获得授权，因此不存在像标准 AltStore 版本那样的真正的侧载自由。]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780712039939465561#m</guid>
       <pubDate>Wed, 17 Apr 2024 21:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>📰既然 AltStore PAL 在欧盟可用，是时候浏览一下最佳 AltStore 源列表了，这些源提供了 IPA 文件的直接链接以进行侧载 🔥
-
-https://onejailbreak.com/blog/altstore-sources/
-
-#AppStore #AltStore #AltStorePAL #iOS #iPhone</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780701404572860864#m</link>
-      <description><![CDATA[📰现在 AltStore PAL 在欧盟可用，是时候浏览一下最佳 AltStore 源列表了，这些源提供了 IPA 文件的直接链接以进行侧载 🔥
-
-onejailbreak.com/blog/altsto…
-
-#AppStore #AltStore #AltStorePAL #iOS #iPhone
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780701404572860864#m</guid>
-      <pubDate>Wed, 17 Apr 2024 20:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>🕵️PPSSPP 的开发商计划今年在 App Store 上发布这款功能强大且免费的 PSP 模拟器！目前，您只能在 iPhone 上侧载它🗞️🕹️
-
-https://onejailbreak.com/blog/ppsspp-ios/
-
-#iOS17 #AppStore #iPhone #PSP #PPSSPP</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780693743508848776#m</link>
-      <description><![CDATA[🕵️PPSSPP的开发商计划今年在App Store上发布这款功能强大且免费的PSP模拟器！目前，您只能在 iPhone 上侧载它🗞️🕹️
-
-onejailbreak.com/blog/ppsspp…
-
-#iOS17 #AppStore #iPhone #PSP #PPSSPP
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780693743508848776#m</guid>
-      <pubDate>Wed, 17 Apr 2024 20:24:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
