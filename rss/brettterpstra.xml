@@ -4,7 +4,42 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 20 Apr 2024 18:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 18:18:09 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 4 月 22 日网上游览</title>
+      <link>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</link>
+      <description><![CDATA[ Google Cemetery, figlet/toilet ascii art, BetterTouchTool MacOS automation, Marked plugin for Obsidian, NordVPN
+总结:Google Cemetery提供了Google终止的产品列表，其中可能有一些你从未听说过的产品。xero提供了大量figlet/toilet ascii艺术字体。BetterTouchTool是一个可以用JavaScript进行MacOS自动化的工具。作者制作了一个适用于Obsidian的Marked插件。NordVPN不仅可以保护你的网络浏览安全，还可以让你的IP地址看起来来自任何国家。 
+
+
+
+
+
+
+Web excursions brought to you in partnership with NordVPN. Secure your internet browsing effectively and affordably.
+
+Google Graveyard - Killed by Google
+
+
+Killed by Google is the Google Graveyard. A full list of dead products killed by Google in the Google Cemetery. Up-to-date and shocking in scope. I bet there are a few on here you’d never even realized were a thing.
+
+
+xero/figlet-fonts
+A huge collection of figlet/toilet ascii art fonts from xero.
+btt.js
+BetterTouchTool MacOS automation in JS. I haven’t played with this yet but it looks really fun. Let me know if you take it for a spin.
+ttscoff/Marked2-obsidian
+I made a Marked plugin for Obsidian. It’s my first try and I really don’t know what I’m doing, but it seems to work perfectly. Waiting for it to be included in the Community Plugins for easy install (which could have happened by the time this goes live), but you can install from the source if you’re anxious.
+
+NordVPN secures your internet browsing, plus it can make it look to services like you’re coming from any country. Check it out today.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</guid>
+      <pubDate>Mon, 22 Apr 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>对 nvALT 用户的呼吁</title>
       <link>https://brett.trpstra.net/link/535/16655625/a-plea-to-nvalt-users</link>
@@ -273,32 +308,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16590869/dimspirations-in-your-feed</guid>
       <pubDate>Sat, 24 Feb 2024 17:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>昏暗的我</title>
-      <link>https://brett.trpstra.net/link/535/16588973/dimspire-dot-me</link>
-      <description><![CDATA[ Jekyll, insomnia, website, automation, dimspirations
-总结: 这篇文章讲述了作者因失眠而产生创造力，制作了一个名为Dimspirations的网站。网站基于Jekyll架构，具有自动化功能，可以生成不同尺寸的壁纸，包括iPhone版本和方形版本。作者描述了网站的页面结构和功能，包括随机生成Dimspirations的功能和下载按钮的实现方法。作者还提到了对于网站的未来计划。整篇文章表达了作者对于自己创作的热情和对网站的期望。 
-
-
-
-
-
-
-I couldn’t sleep last night. I’m not manic, I’m just going through this months-long bout of insomnia. At least I don’t think I’m manic. It doesn’t have any of the characteristics of my usual mania. And up until last night I wasn’t even getting out of bed when I couldn’t sleep. But last night I did, and I made you a website.
-Introducing Dimspire.me. It’s built on Jekyll and has a bunch of automations. I can essentially create a “dimspiration” using an Affinity Photo template, and then RetroBatch will output wallpaper sizes (including iPhone) and square versions for posting and populating the gallery. Just running rake will find new photos added to the assets folder and generate posts for them, which will then populate the index pages. It should be pretty simple to maintain. All documented in a Howzit notes file, of course.
-The site is pretty simple: a homepage with description and the latest few posts, a “Dimspirations” page that’s essentially a blog post index but done in gallery fashion, and a random dimspiration page that will just throw single random dimspirations at you. Fun stuff.
-When viewing a single Dimspiration (by clicking on any thumbnail), you get some cool UI showing edges of the previous and next Dimspiration. I like it, anyway. There’s still some work to do on certain breakpoints, but overall the styling should work on any device. And every Dimspiration page has a download button, where you can download all available versions of the current Dimspiration. This is accomplished by a Rake task that parses every post, extracts the YAML key that defines the image for the page, then zips up every file in the assets directory that matches it. It creates a manifest table that shows what’s in the zip file, with each individual file linked. So when there are wallpaper versions of a Dimspiration, you can download the set or follow a link to a specific version. Took a little thinking and tweaking, but I think it’s a good solution.
-I hope you enjoy it. It’s cathartic for me to create these, and they’re getting better with time. I’m not going to try to monetize any of this at this point, but I’ve watermarked all the images so if you share them, they should trace back to me. Speaking of, I do still need to consider adding share buttons to these… but it always freaks me out how much data social sites collect when you include their button, so I’ll need to figure out ways around that. We’ll call that “next step.”
-Love always,
-Brett
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16588973/dimspire-dot-me</guid>
-      <pubDate>Thu, 22 Feb 2024 19:43:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
