@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 22 Apr 2024 09:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:28:17 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</link>
@@ -31,8 +31,7 @@
     <item>
       <title>欧盟可以解决这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是哪门子胡说八道？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</link>
-      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？
-nitter.esmailelbob.xyz/Stern_XD/status/1780674880901402986#m]]></description>
+      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</guid>
       <pubDate>Wed, 17 Apr 2024 22:59:52 GMT</pubDate>
     </item>
@@ -43,12 +42,12 @@ nitter.esmailelbob.xyz/Stern_XD/status/1780674880901402986#m]]></description>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
       <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
 
-真是太棒了😄]]></description>
+太棒了😄]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
       <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>RT @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
+      <title>RT by @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。🔥
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
       <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
@@ -99,7 +98,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
       <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
+      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的软件包在未来的 RootHide 版本上工作，而无需提供单独的软件包来适应：
 
 1.更新理论
 2.（可选）从rootless.h迁移到libroot.h
@@ -121,7 +120,7 @@ libSandy 1.1.4
 libundirect 1.1.6
 起重机1.3.14-5
 
-正在采用它。</title>
+都打算采用它。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</link>
       <description><![CDATA[libroot 支持现已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
 
@@ -135,7 +134,7 @@ libundirect 1.1.6
       <pubDate>Fri, 29 Mar 2024 17:28:40 GMT</pubDate>
     </item>
     <item>
-      <title>AltList 1.0.11 已发布，修复了 lsd 加载时崩溃的问题。显然 Crane 在某些情况下会将其加载到其中，导致设备在安装后出现看门狗超时。</title>
+      <title>AltList 1.0.11 已发布，修复了加载 lsd 时出现的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</link>
       <description><![CDATA[AltList 1.0.11 已发布，修复了 lsd 加载时发生的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</guid>
@@ -147,8 +146,8 @@ iOS 14.0 - 16.5.1（A12 - A14）✅
 iOS 14.0 - 16.5（A15 - A16）✅
 剩余版本：⏱️</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1772053689869504553#m</link>
-      <description><![CDATA[iOS 14.0 - 16.6.1（arm64）✅
-iOS 14.0 - 16.5.1（A12 - A14）✅
+      <description><![CDATA[iOS 14.0 - 16.6.1 (arm64) ✅
+iOS 14.0 - 16.5.1 (A12 - A14) ✅
 iOS 14.0 - 16.5 (A15 - A16) ✅
 剩余版本：⏱️
 ]]></description>
@@ -156,7 +155,7 @@ iOS 14.0 - 16.5 (A15 - A16) ✅
       <pubDate>Mon, 25 Mar 2024 00:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>RT @opa334dev：我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 来允许在我的 Apple Watch 上安装具有任意权限的永久签名应用程序（类似 TrollStore），运行 watchOS 8.3。 \o/</title>
+      <title>RT by @opa334dev：我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 来允许在我的 Apple Watch 上安装具有任意权限的永久签名应用程序（类似 TrollStore），运行 watchOS 8.3。 \o/</title>
       <link>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</link>
       <description><![CDATA[我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 允许在运行 watchOS 的 Apple Watch 上安装具有任意权限的永久签名应用程序（a-la TrollStore） 8.3. \o/
 ]]></description>
