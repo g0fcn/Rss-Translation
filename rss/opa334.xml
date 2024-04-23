@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 22 Apr 2024 12:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 01:03:21 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</link>
@@ -31,7 +31,8 @@
     <item>
       <title>欧盟可以解决这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是哪门子胡说八道？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</link>
-      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？]]></description>
+      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？
+nitter.esmailelbob.xyz/Stern_XD/status/1780674880901402986#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</guid>
       <pubDate>Wed, 17 Apr 2024 22:59:52 GMT</pubDate>
     </item>
@@ -47,7 +48,7 @@
       <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。🔥
+      <title>RT @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
       <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
@@ -104,11 +105,11 @@ nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
 2.（可选）从rootless.h迁移到libroot.h
 3.重新编译</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</link>
-      <description><![CDATA[libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包，以适应：
+      <description><![CDATA[libroot 允许您的软件包在运行时获取越狱的根路径。这将允许您的软件包在未来的 RootHide 版本上运行，而无需提供单独的软件包，以适应：
 
-1.更新理论
-2.（可选）从rootless.h迁移到libroot.h
-3.重新编译]]></description>
+1. 更新 theos
+2. （可选）从 rootless.h 迁移到 libroot.h
+3. 重新编译]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</guid>
       <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
