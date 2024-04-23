@@ -4,7 +4,7 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:27:17 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
@@ -129,7 +129,8 @@ teddit.net/r/jailbreak/comme…
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
       <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 时可能出现的问题并且设备使用 Palera1n 启动。
 
-如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。]]></description>
+如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</guid>
       <pubDate>Wed, 31 Jan 2024 21:23:45 GMT</pubDate>
     </item>
