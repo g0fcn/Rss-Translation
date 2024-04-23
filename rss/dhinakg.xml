@@ -4,7 +4,7 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 22 Apr 2024 06:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:14:43 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
@@ -83,7 +83,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>visionOS 1.0.3 版本 (21N333) 已发布。
+      <title>VisionOS 1.0.3 版本 (21N333) 已发布。
 
 “此更新提供了重要的错误修复，并添加了一个在您忘记密码时重置设备的选项。”</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1757104290865332449#m</link>
@@ -115,7 +115,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Sun, 11 Feb 2024 20:20:00 GMT</pubDate>
     </item>
     <item>
-      <title>RT @dhinakg：终于让 NewTerm 工作了，这太棒了！感谢@icrazeios 的帮助！</title>
+      <title>RT by @dhinakg：终于让 NewTerm 工作了，这太棒了！感谢@icrazeios 的帮助！</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1753886999235240120#m</link>
       <description><![CDATA[终于让 NewTerm 工作了，太棒了！感谢 @icrazeios 的帮助！
 ]]></description>
@@ -123,14 +123,13 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Sat, 03 Feb 2024 21:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>ElleKit 1.1.2 现已发布在 https://ellekit.space 上，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 且该设备使用 Palera1n 启动时可能出现的问题。
+      <title>ElleKit 1.1.2 现已发布在 https://ellekit.space 上，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 并且该设备使用 Palera1n 启动时可能出现的问题。
 
 如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
       <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 时可能出现的问题并且设备使用 Palera1n 启动。
 
-如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。
-]]></description>
+如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</guid>
       <pubDate>Wed, 31 Jan 2024 21:23:45 GMT</pubDate>
     </item>
@@ -149,7 +148,7 @@ teddit.net/r/jailbreak/comme…
     </item>
     <item>
       <title>R 致@dhinakg：变更日志：
-- 修复即使在 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
+- 修复即使 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
 - 17.4 beta 1 支持（由 @opa334dev 提供）
 - 改进越狱检测代码</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</link>

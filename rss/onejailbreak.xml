@@ -3,10 +3,26 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:20:43 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 23 Apr 2024 09:14:28 GMT</lastBuildDate>
     <item>
-      <title>RT by @onejailbreak_：📢探索适用于 iOS 17 的 TrollStore 的最佳🔟替代品，支持 IPA 安装📲当无法在 iOS 17.0 上安装 TrollStore 时，这是一个很好的选择📦🔥
+      <title>🧩TrollRecorder 1.7.6 推出了新的“快速录制”和“在锁定屏幕上显示”功能 🔥📢
+
+https://onejailbreak.com/blog/trollrecorder/
+
+#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone #iOS15 #iOS16</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782662479098650772#m</link>
+      <description><![CDATA[🧩TrollRecorder 1.7.6 推出了新的“快速录制”和“在锁定屏幕上显示”功能 🔥📢
+
+onejailbreak.com/blog/trollr…
+
+#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone #iOS15 #iOS16&lt; /a&gt;
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782662479098650772#m</guid>
+      <pubDate>Tue, 23 Apr 2024 06:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @onejailbreak_：📢探索 iOS 17 上 TrollStore 的最佳🔟替代品，支持 IPA 安装📲当无法在 iOS 17.0 上安装 TrollStore 时，这是一个很好的选择📦🔥
 
 https://onejailbreak.com/blog/trollstore-alternatives-for-ios-17/
 
@@ -22,13 +38,13 @@ onejailbreak.com/blog/trolls…
       <pubDate>Mon, 22 Apr 2024 10:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>📢LiveContainer 2.0-2 已发布。此版本具有解决方法，即无 JIT 设置无法找到证书并修复由框架中的权利导致的无效代码签名📦🔥
+      <title>📢LiveContainer 2.0-2 已发布。此版本具有解决方法，即无 JIT 设置无法找到证书并修复由框架中的权利引起的无效代码签名📦🔥
 
 https://onejailbreak.com/blog/livecontainer/
 
 #iOS17 #TrollStore #iPhone #nojailbreak #iOS</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782317484353200360#m</link>
-      <description><![CDATA[📢LiveContainer 2.0-2 已发布。此版本提供了一种解决方法，即无 JIT 设置无法找到证书并修复由框架中的权利导致的无效代码签名📦🔥
+      <description><![CDATA[📢LiveContainer 2.0-2 已发布。此版本具有解决方法，即无 JIT 设置无法找到证书并修复由框架中的权利导致的无效代码签名📦🔥
 
 onejailbreak.com/blog/liveco… 
 
@@ -82,7 +98,7 @@ https://x.com/Helthydriver/status/1781500550342938726
 
 通过@Helthydriver
 
-#越狱#iOS16 #Pegasus #security</title>
+#jailbreak #iOS16 #Pegasus #security</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782041386205765695#m</link>
       <description><![CDATA[🕵️Matthias Frielingsdorf 在 #BHASIA 分享了他对 iOS 16 的 Pegasus 漏洞利用（NSExpression Payload）的分析新加坡。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
 
@@ -213,22 +229,6 @@ onejailbreak.com/blog/liveco…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781311870227345575#m</guid>
       <pubDate>Fri, 19 Apr 2024 13:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔍MVT 是一款旨在查找您的 iPhone 上是否安装了 Pegasus 或其他恶意软件的工具。用它来检查您的 iPhone 是否被黑客入侵。 v2.5.2 发布，更新了短信模块🔥📱
-
-https://onejailbreak.com/blog/mobile-verification-toolkit-mvt/
-
-#nojailbreak #iOS #Pegasus #malware #iPhone</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781093363720049043#m</link>
-      <description><![CDATA[🔍MVT 是一款旨在查找您的 iPhone 上是否安装了 Pegasus 或其他恶意软件的工具。用它来检查您的 iPhone 是否被黑客入侵。 v2.5.2 发布，更新了短信模块🔥📱
-
-onejailbreak.com/blog/mobile…
-
-#nojailbreak #iOS #Pegasus #malware #iPhone
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781093363720049043#m</guid>
-      <pubDate>Thu, 18 Apr 2024 22:52:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

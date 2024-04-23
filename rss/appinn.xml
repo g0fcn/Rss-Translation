@@ -4,7 +4,18 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 21 Apr 2024 15:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:15:03 GMT</lastBuildDate>
+    <item>
+      <title>推荐 Chrome 系浏览器设置流畅浮动滚动条</title>
+      <link>https://meta.appinn.net/t/topic/55561</link>
+      <description><![CDATA[允许以下两个配置即可：
+chrome://flags/#fluent-scrollbars
+chrome://flags/#fluent-overlay-scrollbars
+3 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/55561</guid>
+      <pubDate>Tue, 23 Apr 2024 06:58:20 GMT</pubDate>
+    </item>
     <item>
       <title>[送码] 一款小而美的减压类APP</title>
       <link>https://meta.appinn.net/t/topic/55489</link>
@@ -406,40 +417,6 @@ v1.0.1:
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/54971</guid>
       <pubDate>Wed, 10 Apr 2024 06:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>HamHub iOS播放器 轻松管理阿里云盘及EMBY影视资源！</title>
-      <link>https://meta.appinn.net/t/topic/54876</link>
-      <description><![CDATA[软件名称：
-HamHub 云盘播放器
-应用平台
-
-iOS
-
-推荐类型
-【开发者自荐】
-一句简介
-国内独立开发者开放的“HamHub”iOS播放器已经上架App Store，目前完全免费。开发者也正在频繁更新迭代中。
-应用特点
- 阿里百度云盘直接播放：HamHub允许您绑定阿里和百度云盘官方账户，直接播放云盘内的视频，无需下载。
- 清晰的界面设计：以海报形式自动整理影视内容，界面直观，寻找影片简单快捷。
- AI智能刮削：高效的AI技术确保影片信息准确无误，提升您的观影体验。
- EMBY服务器支持：支持EMBY服务器，方便家庭媒体内容的同步与管理。
- Webdav支持：配合alist，几乎支持所有网盘和NAS内容
- HamHub，让您的云盘和Emby影视资源管理更加高效！
-开发中功能：
-tvOS，PLEX，SMB，等等
-官网：https://www.hamhub.app/
-截图预览：
-
-
-
-
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/54876</guid>
-      <pubDate>Mon, 08 Apr 2024 02:28:34 GMT</pubDate>
     </item>
     <item>
       <title>求对离线网页进行标注并能保存标注的工具</title>
