@@ -4,7 +4,17 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:18:24 GMT</lastBuildDate>
+    <item>
+      <title>如何通过快捷键用不同的软件打开某一个文件</title>
+      <link>https://meta.appinn.net/t/topic/55583</link>
+      <description><![CDATA[如题：在 Mac 系统下有没有一种快捷的方式，来用特定的应用打开某一个文件？
+比如，我有一个 pdf 文件，平常快速阅读的时候用 preview 就够了，但是我想仔细阅读并进行标记的时候，有时候是文献类的 pdf 我需要用文献管理软件打开或者是笔记软件打开，有些是普通的课本 pdf 我只需要用 pdf expert 打开就好。但这样的话就涉及到每次需要在右键菜单中手动指定某一个软件。我想的是普通双击的话用默认软件打开，加 command 双击的话用如 pdf expert 打开，用 control 再双击的话用 papers 打开
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/55583</guid>
+      <pubDate>Tue, 23 Apr 2024 14:56:29 GMT</pubDate>
+    </item>
     <item>
       <title>推荐 Chrome 系浏览器设置流畅浮动滚动条</title>
       <link>https://meta.appinn.net/t/topic/55561</link>
@@ -367,56 +377,6 @@ chromium的开发者模式又蛋疼的天天警告你。而且这类操作没法
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/55011</guid>
       <pubDate>Thu, 11 Apr 2024 03:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】Pixboard: 只是一个能在桌面上放置模拟LED/CRT/VFD复古屏小摆件的App</title>
-      <link>https://meta.appinn.net/t/topic/54971</link>
-      <description><![CDATA[软件名称
-Pixboard
-官网&amp;下载
-官方网站: Pixboard on GitHub
-下载地址: 点此前往
-一句话简介
-这个 App 可以在你的 Mac 屏幕上放一个模拟LED像素屏 / 老式CRT / VFD显像管的小挂件
-更新日志 (2024/04/10)
-v1.0.1:
-
-正式开源, 首次推送代码!
-
-软件特色
-
-
-使用 SwiftUI 编写, 体积小巧轻量化
-
-
-支持多种静态图像格式及 gif 动图, 支持 HDR 显示
-
-
-用心精调的 10 种滤镜效果, 每一种都真的很好看
-
-
-完全免费开源, 代码透明, 不收集上传任何用户隐私
-
-
-使用注意
-
-
-在支持 HDR 显示的屏幕上开启 HDR 可以极大提升显示效果, 拟真度更上一层楼. 但对于分区背光设备, 长时间局部固定位置显示 HDR 可能会导致此区域灯珠寿命消耗加速.
-
-
-这世界上很多事都是说不出什么具体意义的, 这是个纯自娱自乐的项目, 不接受 这个App有什么意义吗? 之类的质疑.
-
-
-软件截图
-
-
-本软件完全开源免费使用. 如果用的顺手, 可以在github页面最底部扫码打赏.
-您的支持是我创造更多开源软件的动力0v0
-
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/54971</guid>
-      <pubDate>Wed, 10 Apr 2024 06:30:08 GMT</pubDate>
     </item>
     <item>
       <title>求对离线网页进行标注并能保存标注的工具</title>
