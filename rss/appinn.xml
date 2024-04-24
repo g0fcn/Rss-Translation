@@ -4,7 +4,90 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Apr 2024 15:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:18:08 GMT</lastBuildDate>
+    <item>
+      <title>【健康与睡眠】StaySleep - 熬夜热力图：iOS 熬夜情况记录与睡眠质量分析</title>
+      <link>https://meta.appinn.net/t/topic/55621</link>
+      <description><![CDATA[软件名称
+StaySleep 睡着了- 熬夜热力图、睡眠监测与睡眠记录
+应用平台
+iOS16及以上
+一句简介
+借助iPhone或AppleWatch记录与分析熬夜、睡眠情况的App。
+迄今为止StaySleep依然是国内较为少见的、专注于熬夜情况分析的一款App。
+虽然不及AutoSleep、Pillow等专业睡眠监测专业的专业程度，但是可以为用户提供简洁直观的方式查看并分析自己的睡眠情况。
+应用简介
+「StaySleep」可以将熬夜与睡眠记录转换为美观、直观的可视化图表。核心功能是鼓励大家改善睡眠质量，并促使睡眠时间更早。
+
+「熬夜热力图」我们的主打功能，灵感来源于经久不衰的「填方格游戏」，我们会读取手机近期的睡眠数据，并将最终的熬夜方格呈现到App中。方格的颜色会随着入睡时间变化而变化，例如当熬夜程度很大的时候，热力图的方格颜色会逐渐变成红色，提醒注意入睡时间。
+「可视化的熬夜图像与表格」App内众多样式的图表，可以从不同的角度与方式展现过往的熬夜情况，这些组件包括：「熬夜日历」、「熬夜趋势」、「熬夜与睡懒觉圆环」
+「桌面与锁屏小组件」提供众多的桌面和锁屏小组件，帮助大家时刻关注睡眠与熬夜情况。
+「熬夜与睡眠质量通知」，这些熬夜与睡眠通知包括「避免熬夜通知」和「睡眠时长通知」，
+「睡眠分析」可以通过这个版块进一步了解睡眠质量与身体指标。可查看的数据包括深睡的时长、睡眠时段、心率、血氧、呼吸等指标
+「多数据来源」覆盖了市面上大部分的智能手环，即使使用其他品牌的手表或者手环，也可以使用StaySleep读取睡眠。
+「一键记录睡眠」专为iPhone用户准备的睡眠计时器，仅需在睡前与起床后点击一下，就会自动记录熬夜情况
+「自定义工作日与休息日」上班或者上学时需要保持良好作息，但是需要在休息日的时候放纵一下。StaySleep支持自定义设置工作日和休息日，分开设定熬夜目标，激励更好的作息
+「自定义方格颜色」如果无法正常识别红色与绿色，或者不喜欢红绿两种颜色的热力图，我们提供了完全自定义的颜色模式
+
+特性介绍
+
+提供多种熬夜与睡眠图表，以及分析方式，可以从多方面分析睡眠情况
+提供以月或者年进行统计的熬夜情况汇总，并支持导出为图片
+易于上手的界面设计
+iOS原生开发，支持众多iOS特性，例如桌面小组件、锁屏小组件等功能
+支持iCloud云同步和数据手动导出，可以自行分析睡眠数据
+支持和其他App联动，例如使用其他App监测睡眠，然后使用StaySleep进行睡眠分析
+完全自动读取数据，得益于苹果的特性，可以不需要后台也可以读取每日睡眠数据
+支持第三方手表与手环。无论是小米手环或者是华为手环都可以正常读取其中的睡眠数据展现在App里
+
+产品截图
+App开屏界面
+
+
+
+
+用户初始化
+
+
+
+
+熬夜热力图主页面和功能
+
+
+
+
+桌面小组件、锁屏小组件和睡眠通知
+
+
+
+
+睡眠计时器
+
+
+
+
+睡眠情况分析
+
+
+
+
+个性化显示和通知
+
+
+
+
+支持设置不同的数据来源
+
+
+
+
+下载地址
+AppStore：‎App Store 上的“StaySleep 睡着了- 熬夜热力图、睡眠监测与睡眠记录”
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/55621</guid>
+      <pubDate>Wed, 24 Apr 2024 11:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>Chrome 有什么推荐的文字朗读插件/脚本？</title>
       <link>https://meta.appinn.net/t/topic/55617</link>
@@ -429,28 +512,6 @@ LL3YFFL66MLJ
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/55133</guid>
       <pubDate>Sat, 13 Apr 2024 02:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】fork 自 Motrix 的全平台下载软件</title>
-      <link>https://meta.appinn.net/t/topic/55081</link>
-      <description><![CDATA[软件名称
-imfile
-应用平台
-Windows / macOS / liunx
-推荐类型
-【开发者自荐】
-一句简介
-fork 自 Motrix 的全平台下载软件，长期维护中
-应用简介
-1.支持全平台
-2.支持哈希直接下载功能
-3.自动保存任务，重启不丢失任务
-4.定期更新维护，更新各种依赖和内核
-GitHub链接：GitHub - imfile-io/imfile-desktop: A full-featured download manager.
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/55081</guid>
-      <pubDate>Fri, 12 Apr 2024 04:43:12 GMT</pubDate>
     </item>
     <item>
       <title>求对离线网页进行标注并能保存标注的工具</title>
