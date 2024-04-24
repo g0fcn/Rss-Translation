@@ -3,8 +3,31 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 24 Apr 2024 01:02:55 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 24 Apr 2024 09:14:19 GMT</lastBuildDate>
+    <item>
+      <title>R 至 @onejailbreak_：文章中更新了新的 LiveContainer IPA，修复了由于 SideStore 捆绑包 ID 格式更改而无法找到证书的问题。</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783039008341180717#m</link>
+      <description><![CDATA[文章中更新了新的 LiveContainer IPA，修复了由于 SideStore 捆绑包 ID 格式更改而无法找到证书的问题。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783039008341180717#m</guid>
+      <pubDate>Wed, 24 Apr 2024 07:43:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>📱Windows 版 Palera1n 从未发布，但是，越狱的一个很好的替代方案是 WinRa1n，支持 iOS 12 – iPadOS 17📢 🔥
+
+https://onejailbreak.com/blog/winra1n-jailbreak/
+
+#jailbreak #palera1n #Windows #iOS15 #iOS16 #iOS17</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783018809370009938#m</link>
+      <description><![CDATA[📱Windows 版 Palera1n 从未发布，但是，越狱的一个很好的替代方案是 WinRa1n，支持 iOS 12 – iPadOS 17📢 🔥
+
+onejailbreak.com/blog/winra1…
+
+#jailbreak #palera1n #Windows #iOS15 #iOS16 #iOS17
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783018809370009938#m</guid>
+      <pubDate>Wed, 24 Apr 2024 06:23:05 GMT</pubDate>
+    </item>
     <item>
       <title>📢LiveContainer 2.0 预发布版已发布。下载适用于 iOS 17 的 TrollStore 替代品的最新版本 📦🔥
 
@@ -42,7 +65,7 @@ onejailbreak.com/blog/iris-t…
       <pubDate>Tue, 23 Apr 2024 15:48:01 GMT</pubDate>
     </item>
     <item>
-      <title>📦SideStore 0.5.6 提供嵌入式配对文件修复和新的 Anisette 服务器。这是使用 TrollStore 的 LiveContainer 替代品所需的基本工具 🔥📢
+      <title>📦SideStore 0.5.6 提供嵌入式配对文件修复和新的 Anisette 服务器。这是使用 TrollStore 的 LiveContainer 替代方案所需的基本工具 🔥📢
 
 https://onejailbreak.com/blog/sidestore/
 
@@ -74,7 +97,7 @@ onejailbreak.com/blog/trollr…
       <pubDate>Tue, 23 Apr 2024 06:47:09 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @onejailbreak_：📢探索适用于 iOS 17 的 TrollStore 的最佳🔟替代品，支持 IPA 安装📲当无法在 iOS 17.0 上安装 TrollStore 时，这是一个很好的选择📦🔥
+      <title>RT by @onejailbreak_：📢探索 iOS 17 上 TrollStore 的最佳🔟替代品，支持 IPA 安装📲当无法在 iOS 17.0 上安装 TrollStore 时，这是一个很好的选择📦🔥
 
 https://onejailbreak.com/blog/trollstore-alternatives-for-ios-17/
 
@@ -96,7 +119,7 @@ https://onejailbreak.com/blog/livecontainer/
 
 #iOS17 #TrollStore #iPhone #nojailbreak #iOS</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782317484353200360#m</link>
-      <description><![CDATA[📢LiveContainer 2.0-2 已发布。此版本具有解决方法，即无 JIT 设置无法找到证书并修复由框架中的权利导致的无效代码签名📦🔥
+      <description><![CDATA[📢LiveContainer 2.0-2 已发布。此版本提供了一种解决方法，即无 JIT 设置无法找到证书并修复由框架中的权利导致的无效代码签名📦🔥
 
 onejailbreak.com/blog/liveco… 
 
@@ -122,9 +145,9 @@ onejailbreak.com/blog/purepk…
       <pubDate>Mon, 22 Apr 2024 06:17:06 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@onejailbreak_：v2.1.1 更新
-- 修复了无法正确加载设置文件的问题。
-- 修复了设置中的重新启动按钮无法正常工作的问题。</title>
+      <title>R 至 @onejailbreak_：v2.1.1 更新
+- 修复无法正确加载设置文件的问题。
+- 修复设置中的重启按钮无法正常工作的问题。</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782148935005405583#m</link>
       <description><![CDATA[v2.1.1 更新
 - 修复了无法正确加载设置文件的问题。
@@ -144,13 +167,13 @@ i.blackhat.com/Asia-24/Asia-…]]></description>
       <pubDate>Sun, 21 Apr 2024 13:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>🕵️Matthias Frielingsdorf 在新加坡的#BHASIA 上分享了他对 iOS 16（NSExpression Payload）Pegasus Exploit 的分析。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
+      <title>🕵️Matthias Frielingsdorf 在新加坡的#BHASIA 上分享了他对 iOS 16（NSExpression Payload）的 Pegasus 漏洞的分析。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
 
 https://x.com/Helthydriver/status/1781500550342938726
 
 通过@Helthydriver
 
-#越狱#iOS16 #Pegasus #security</title>
+#jailbreak #iOS16 #Pegasus #security</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782041386205765695#m</link>
       <description><![CDATA[🕵️Matthias Frielingsdorf 在 #BHASIA 分享了他对 iOS 16 的 Pegasus 漏洞利用（NSExpression Payload）的分析新加坡。 BlastPass 使用恶意 PassKit 文件通过 iMessage 感染设备🗞️
 
@@ -164,7 +187,7 @@ nitter.esmailelbob.xyz/Helthydriver/status/1781500550342938726#m]]></description
       <pubDate>Sun, 21 Apr 2024 13:39:09 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @onejailbreak_：🔓HFZ Ramdisk Universal 3.8.6 现已支持所有 iOS 15-16-17 版本，无需将您的设备恢复到上一个​​版本🔥⚡️
+      <title>RT by @onejailbreak_：🔓HFZ Ramdisk Universal 3.8.6 现在支持所有支持 15-16-17 的 iOS，无需将您的设备恢复到最新版本🔥⚡️
 
 https://onejailbreak.com/blog/hfz-activator-ramdisk/
 
@@ -178,26 +201,6 @@ onejailbreak.com/blog/hfz-ac…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781940462099603788#m</guid>
       <pubDate>Sun, 21 Apr 2024 06:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧩Bloom 1.1 已推出，支持锁定屏幕上的动画、新的本地化、改进的动画和许多错误修复 🔥📢
-
-https://onejailbreak.com/blog/bloom-tweak/
-
-通过@yandevelop
-
-#越狱 #iOS15 #iOS16 #Dopamine2 #palera1n #iPhone15</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781622577657454724#m</link>
-      <description><![CDATA[🧩Bloom 1.1 已推出，支持锁定屏幕上的动画、新的本地化、改进的动画以及许多错误修复 🔥📢
-
-onejailbreak.com/blog/bloom-… 
-
-作者：@yandevelop
-
-#jailbreak #iOS15 #iOS16 #Dopamine2 #palera1n #iPhone15
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781622577657454724#m</guid>
-      <pubDate>Sat, 20 Apr 2024 09:54:58 GMT</pubDate>
     </item>
     <item>
       <title>RT by @onejailbreak_：🧩Speedster 是一个基于旧想法的调整，通过加快应用程序打开、文件夹打开、应用程序切换等来增强用户体验。 v2.1 现在支持加速文件夹动画⚡️
@@ -214,13 +217,6 @@ onejailbreak.com/blog/speeds…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781588010405916677#m</guid>
       <pubDate>Sat, 20 Apr 2024 07:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@onejailbreak_：v2.0-1 附带了修复程序，并且在 LiveContainer 中显示黑屏的应用程序将可以正常工作。立即更新！</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781572482081697811#m</link>
-      <description><![CDATA[v2.0-1 进行了修复，并且在 LiveContainer 中显示黑屏的应用程序将可以正常工作。立即更新！]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781572482081697811#m</guid>
-      <pubDate>Sat, 20 Apr 2024 06:35:54 GMT</pubDate>
     </item>
     <item>
       <title>@onejailbreak_ 转发：📢LiveContainer 2.0 现在提供 iOS 17 兼容性！ v2 是 iOS 17 上 TrollStore 的出色替代品，使您能够安装无限量的应用程序，而无需签名的麻烦🔥 📱
