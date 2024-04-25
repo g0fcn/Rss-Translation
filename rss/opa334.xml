@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 23 Apr 2024 03:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 01:04:50 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</link>
@@ -51,8 +51,7 @@
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
       <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
-github.com/alfiecg24/TrollIn…
-]]></description>
+github.com/alfiecg24/TrollIn…]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
     </item>
@@ -98,7 +97,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
       <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的软件包在未来的 RootHide 版本上工作，而无需提供单独的软件包来适应：
+      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
 
 1.更新理论
 2.（可选）从rootless.h迁移到libroot.h
@@ -146,7 +145,7 @@ iOS 14.0 - 16.5.1（A12 - A14）✅
 iOS 14.0 - 16.5（A15 - A16）✅
 剩余版本：⏱️</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1772053689869504553#m</link>
-      <description><![CDATA[iOS 14.0 - 16.6.1（arm64）✅
+      <description><![CDATA[iOS 14.0 - 16.6.1 (arm64) ✅
 iOS 14.0 - 16.5.1 (A12 - A14) ✅
 iOS 14.0 - 16.5 (A15 - A16) ✅
 剩余版本：⏱️
@@ -157,7 +156,7 @@ iOS 14.0 - 16.5 (A15 - A16) ✅
     <item>
       <title>RT @opa334dev：我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 来允许在我的 Apple Watch 上安装具有任意权限的永久签名应用程序（类似 TrollStore），运行 watchOS 8.3。 \o/</title>
       <link>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</link>
-      <description><![CDATA[我利用了 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust 漏洞 (CVE-2022-26766)，允许在运行 watchOS 8.3 的 Apple Watch 上安装具有任意权利的永久签名应用程序（a-la TrollStore）。 \o/
+      <description><![CDATA[我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 允许在运行 watchOS 的 Apple Watch 上安装具有任意权限的永久签名应用程序（a-la TrollStore） 8.3. \o/
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</guid>
       <pubDate>Sat, 16 Mar 2024 21:57:45 GMT</pubDate>
@@ -173,8 +172,7 @@ https://github.com/opa334/Dopamine/releases/tag/2.0.11</title>
 
 修复了在实际未调用重新越狱时自动修复文件 /private/preboot/... 文件权限的代码，呃...
 
-github.com/opa334/Dopamine/r…
-]]></description>
+github.com/opa334/Dopamine/r…]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1766966185059365344#m</guid>
       <pubDate>Sun, 10 Mar 2024 23:15:41 GMT</pubDate>
     </item>

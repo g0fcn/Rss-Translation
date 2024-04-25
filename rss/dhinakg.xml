@@ -4,7 +4,7 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 01:04:35 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
@@ -83,7 +83,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>VisionOS 1.0.3 版本 (21N333) 已发布。
+      <title>visionOS 1.0.3 版本 (21N333) 已发布。
 
 “此更新提供了重要的错误修复，并添加了一个在您忘记密码时重置设备的选项。”</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1757104290865332449#m</link>
@@ -123,7 +123,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Sat, 03 Feb 2024 21:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>ElleKit 1.1.2 现已发布在 https://ellekit.space 上，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 并且该设备使用 Palera1n 启动时可能出现的问题。
+      <title>ElleKit 1.1.2 现已发布在 https://ellekit.space 上，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 且该设备使用 Palera1n 启动时可能出现的问题。
 
 如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
