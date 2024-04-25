@@ -4,7 +4,16 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Apr 2024 12:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:25:30 GMT</lastBuildDate>
+    <item>
+      <title>黄仁勋亲自给OpenAI送货，全球首台DGX H200开箱了</title>
+      <link>https://www.36kr.com/p/2748530051414789</link>
+      <description><![CDATA[ 黄仁勋、AI芯片、OpenAI、英伟达、合作
+总结：本文介绍了黄仁勋再次送AI芯片给OpenAI的历史性事件，强调了英伟达不断支持AI发展的举措。文章还提及了OpenAI联合创始人Ilya Sutskever的神秘消失以及英伟达投资收购AI基础设施管理平台Run:ai的动向。此外，英伟达对于AI算力的持续支持以及历史上与人工智能先驱Geoffrey Hinton的一段轶事也被提及。最后，强调了英伟达不仅在提供AI算力上有所贡献，同时也在拓展投资领域，持续扩大其AI领域的版图。 
+又是一张历史性大合照。今天，黄仁勋又来送 AI 芯片了，还是超强悍的那种。OpenAI 联合创始人、总裁 Greg Brockman 发推，晒出了自己、OpenAI CEO 奥特曼与英伟达创始人兼 CEO 黄仁勋的合照。他表示，老黄亲自为 OpenAI 送来了全球第一台 Nvidia DGX H200 超级计算机，此举意在双方共同推进 AI、计算和人类的发展。不过，网友更关注的依然是 OpenAI 联合创始人、首席科学家 Ilya Sutskever。自去年 12 月 15 日转推了 OpenAI 的一个帖子以来，他已经在 X 上「消失」了四个多月。有网友调侃到，Ilya 是不是在边上的箱子里呢？还有人 P 了一张 Ilya 与奥特曼搭肩的合照。把最强 AI 算力赠送给业界先进研究机构，这件事英伟达已不是第一次做了。今年 2 月，马斯克还在 X 上回忆了老黄向 OpenAI 捐赠 DGX-1 服务器的那张经典照片。作为 OpenAI 的联合创始人，彼时马斯克还没有因为「利益冲突」和开源等问题与 OpenAI 反目成仇。2016 年，黄仁勋亲自向 OpenAI 赠送了全球第一台 DGX-1，马斯克也在接收现场。或许就是这个举动，催生了 ChatGPT 的到来。DGX-1 被英伟达称作为「AI 超级计算机」，当时捐赠的版本价值 12.9 万美元，集成了 8 块 Tesla P100（Pascal 架构）GPU，整个系统的机器学习算力为 170 teraflops（FP16）。在此之后，英伟达陆续推出了 DGX-2（Volta 架构）、DGX A100 服务器（Ampere 架构），持续引领了 AI 算力的最高水平。今天赠送给 OpenAI 的 DGX H200，是去年 11 月在全球超算大会上推出的最新产品。英伟达在官方博客中曾表示：H200 Tensor Core GPU 具有改变游戏规则的性能和内存功能，可增强生成式 AI 和高性能计算 (HPC) 工作负载。单块 H200 的 FP16 算力是 1979 TFLOPS。作为首款采用 HBM3e 的 GPU，H200 借助更大更快的内存可加速生成式 AI 和大型语言模型 (LLM) 的运行，同时推进 HPC 工作负载的科学计算。老黄送显卡，看来正在成为英伟达的惯例。不过还有一个不得不说的故事，就是神经网络刚刚兴起的时候，英伟达曾经「拒绝」过人工智能先驱 Geoffrey Hinton。2009 年 Hinton 的研究小组在使用英伟达的 CUDA 平台训练神经网络来识别人类语音。他对研究结果的质量感到惊讶，并于当年晚些时候的一次会议上介绍了这些结果。Hinton 联系了英伟达，「我发了一封电子邮件说，听着，我刚刚告诉一千名机器学习研究人员，他们应该去购买英伟达 GPU。你能给我免费寄来一份吗？」结果英伟达拒绝了。尽管受到冷落，Hinton 仍然鼓励他的学生使用 CUDA，其中包括传奇学者 Alex Krizhevsky。2012 年，Krizhevsky 和他的研究伙伴 Ilya Sutskever 在预算紧张的情况下从亚马逊购买了两张 GeForce 显卡，训练视觉识别神经网络，这才有了一代经典 AlexNet。不过在 2018 年 9 月，在一次庆祝英伟达多伦多 AI 实验室（Toronto AI Lab）成立的会上，黄仁勋送给了 Hinton 一块 TITAN V 显卡。这也算是弥补了当初拒绝 Hinton 的遗憾。图源：https://twitter.com/PengDai_ca/status/1043496117244170240除了交付 AI 算力，英伟达在投资领域也有新的动向。本周三据媒体报道，英伟达正式宣布有意收购 AI 基础设施管理平台 Run:ai。该交易的价值并未透露，但估计约为 7 亿美元。Run:ai 由 Omri Geller（首席执行官）和 Ronen Dar （首席技术官）于 2018 年创立。该公司开发了一个并行算力的编排和虚拟化软件层，以满足在 GPU 和类似芯片组上运行的人工智能工作负载的独特需求。Run:ai 基于 Kubernetes 的 AI 云容器平台通过自动分配必要的计算能力（从部分 GPU 到多个 GPU，再到多个 GPU 节点），能够帮助用户有效地池化和共享 GPU。不断扩充朋友圈，同时资助构建 GPU 算力的公司，英伟达的 AI 版图已越来越大。参考内容：https://twitter.com/gdb/status/1783234941842518414https://www.bloomberg.com/news/articles/2024-04-24/nvidia-agrees-to-acquire-israeli-ai-software-provider-run-ai本文来自微信公众号“机器之心”（ID:almosthuman2014），作者：泽南、杜伟，36氪经授权发布。]]></description>
+      <guid>https://www.36kr.com/p/2748530051414789</guid>
+      <pubDate>Thu, 25 Apr 2024 07:37:16 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT一天“吃”50万度电，AI热潮下美国上演电力“抢夺战”，核能、地热和燃料电池成新希望</title>
       <link>https://www.36kr.com/p/2746978573630466</link>
@@ -106,13 +115,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2730340497875969</guid>
       <pubDate>Fri, 12 Apr 2024 11:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI内斗第二弹，Ilya亲信、超级对齐团队2人惨遭开除，被批泄密</title>
-      <link>https://www.36kr.com/p/2730273434199299</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2730273434199299</guid>
-      <pubDate>Fri, 12 Apr 2024 10:26:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
