@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Apr 2024 21:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 21:16:14 GMT</lastBuildDate>
+    <item>
+      <title>标记导体简介</title>
+      <link>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</guid>
+      <pubDate>Thu, 25 Apr 2024 18:27:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 4 月 22 日网上游览</title>
       <link>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</link>
@@ -70,7 +77,7 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Sat, 20 Apr 2024 14:44:00 GMT</pubDate>
     </item>
     <item>
-      <title>回到我的时代......当时和现在写博客的一些想法</title>
+      <title>回到我的时代……关于当时和现在写博客的一些想法</title>
       <link>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</guid>
@@ -274,40 +281,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16596955/dimspire-dot-me-on-product-hunt</guid>
       <pubDate>Thu, 29 Feb 2024 14:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>饲料中的缺陷</title>
-      <link>https://brett.trpstra.net/link/535/16590869/dimspirations-in-your-feed</link>
-      <description><![CDATA[ RSS feed, subscription, email, monetize, political
-
-这是一篇关于Dimspire Me网站的文章，介绍了他们新增了RSS feed订阅和通过邮件订阅的功能。同时作者表示如果网站有商业化可能的话，将通过出售商品来实现，而不是收费订阅。作者还表示会尽量减少涉及政治的内容，因为有些读者对此表示反感。最后作者呼吁读者点赞和分享这篇文章以及支持他们的项目。总结：文章介绍了Dimspire Me网站新增的订阅功能以及未来可能进行商业化运营的打算，同时表示会尽量减少政治相关内容。 
-
-
-
-
-
-
-I’ve added (well, fixed) the RSS feed for Dimspire.me. You can now subscribe via your favorite feed reader at Dimspirations RSS (or just enter https://dimspire.me in your subscribe field, the feeds are discoverable). The feed is available in XML and JSON flavors, and each entry just contains a pithy description and one image.
-You can also sign up to receive Dimspirations in your email, max one email per day, and only when there’s new stuff:
-
-
-Enter your e-mail address:
-
-
-
-
-Dimspire Me
-
-
-Thanks for supporting this little project. I’ve decided if I ever monetize it, it will be through merch (posters, calendars, coffee mugs, etc.). So the wallpapers and dismal inspirations will continue to be free online.
-P.S. I’ve received some flack for occasionally going “political” with the Dimspirations. I don’t think things like being disgusted by a lack of gun control, being anti-genocide, or laughing at manufactured outrage are extreme political views, but I promise to keep those to a minimum. Sometimes I get a little fired up — don’t let it scare you away.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16590869/dimspirations-in-your-feed</guid>
-      <pubDate>Sat, 24 Feb 2024 17:08:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
