@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 03:16:48 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</link>
@@ -31,7 +31,7 @@
     <item>
       <title>欧盟可以解决这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是哪门子胡说八道？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</link>
-      <description><![CDATA[欧盟能不能解决这个垃圾问题？开发者现在在 App Store 上被多收了钱，因为他还在其他商店托管他的应用？这是什么鬼东西？]]></description>
+      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</guid>
       <pubDate>Wed, 17 Apr 2024 22:59:52 GMT</pubDate>
     </item>
@@ -75,9 +75,9 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Thu, 04 Apr 2024 05:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉......）
+      <title>Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
 
-Crane 1.3.14-6 现已发布并修复了该问题。</title>
+Crane 1.3.14-6 现已发布，并已修复此问题。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</link>
       <description><![CDATA[Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
 
@@ -120,7 +120,7 @@ libSandy 1.1.4
 libundirect 1.1.6
 起重机1.3.14-5
 
-正在采用它。</title>
+都打算采用它。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</link>
       <description><![CDATA[libroot 支持现已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
 
@@ -146,8 +146,8 @@ iOS 14.0 - 16.5.1（A12 - A14）✅
 iOS 14.0 - 16.5（A15 - A16）✅
 剩余版本：⏱️</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1772053689869504553#m</link>
-      <description><![CDATA[iOS 14.0 - 16.6.1 (arm64) ✅
-iOS 14.0 - 16.5.1 (A12 - A14) ✅
+      <description><![CDATA[iOS 14.0 - 16.6.1（arm64）✅
+iOS 14.0 - 16.5.1（A12 - A14）✅
 iOS 14.0 - 16.5 (A15 - A16) ✅
 剩余版本：⏱️
 ]]></description>
