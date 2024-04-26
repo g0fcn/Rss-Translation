@@ -4,11 +4,11 @@
     <title>朱心浪 / @xina520</title>
     <link>http://nitter.esmailelbob.xyz/xina520</link>
     <description>Twitter 供稿：@xina520。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 03:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 06:20:04 GMT</lastBuildDate>
     <item>
       <title>R 致@xina520：这些积分属于 KFD Fugu 37c3，与我无关。现在开发越狱的人越来越多，我想有些人需要它</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1744051914462154968#m</link>
-      <description><![CDATA[这些版权属于 KFD Fugu 37c3，与我无关。现在开发越狱的人越来越多，我认为有些人需要它]]></description>
+      <description><![CDATA[这些积分属于KFD Fugu 37c3，与我无关。现在开发越狱的人越来越多，我想有些人需要它]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1744051914462154968#m</guid>
       <pubDate>Sun, 07 Jan 2024 17:42:33 GMT</pubDate>
     </item>
@@ -89,10 +89,10 @@ github.com/zhuxinlang/zhuxin...]]></description>
 一些优化</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1729558572940357933#m</link>
       <description><![CDATA[apt.xina.vip/Xina.kfd.2.0.15…
-修复安全模式下粉屏问题
+修复安全模式粉屏问题
 修复15.2以上bindfs命令粉屏问题
-修复部分人字体被恢复的问题
-一些优化]]></description>
+修复部分用户字体恢复问题
+部分优化]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1729558572940357933#m</guid>
       <pubDate>Tue, 28 Nov 2023 17:51:12 GMT</pubDate>
     </item>
@@ -112,7 +112,7 @@ github.com/zhuxinlang/zhuxin...]]></description>
       <description><![CDATA[apt.xina.vip/Xina.kfd.2.0.13…
 修复手机目录权限问题
 第一次不再需要下载img4文件
-为a14黑屏用户添加延迟弹簧（暂时处理）]]></description>
+为a14黑屏用户添加延迟弹簧（暂已处理）]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1729089660754997364#m</guid>
       <pubDate>Mon, 27 Nov 2023 10:47:54 GMT</pubDate>
     </item>
