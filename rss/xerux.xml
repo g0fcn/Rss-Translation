@@ -4,7 +4,40 @@
     <title>xerus / @xerusdesign</title>
     <link>http://nitter.esmailelbob.xyz/xerusdesign</link>
     <description>Twitter 供稿：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 09:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:16:04 GMT</lastBuildDate>
+    <item>
+      <title>RT by @xerusdesign：请注意，我并不完全确定该问题是否已得到解决，因此在确认之前不想公开谈论此事。如果这两个版本中发生一次自旋锁恐慌，则会立即取消确认，因此请测试并告知我。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</link>
+      <description><![CDATA[请注意，我不完全确定问题是否已得到解决，因此在得到确认之前不想公开谈论任何相关内容。如果这两个版本发生单个自旋锁恐慌，会立即取消确认，所以请测试并告诉我。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @xerusdesign：此外，在最终 2.1 版本发布之前，自旋锁修复可能仍会得到进一步改进，还有许多其他新功能和改进即将推出。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783855060184613233#m</link>
+      <description><![CDATA[此外，在最终 2.1 版本发布之前，自旋锁修复可能仍会得到进一步改进，还有许多其他新功能和改进即将推出。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783855060184613233#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:46:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @xerusdesign：请注意，Dopamine 2.1 仍在开发中，实际发布还需要一些时间，evelynes 推文表示，新的 ellekit 版本也仅添加了 Dopamine 2.1 用于修复它的 API。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783854983307300976#m</link>
+      <description><![CDATA[请注意，Dopamine 2.1 仍在开发中，实际发布还需要一些时间，evelynes 在 Twitter 上表示，新的 ellekit 版本也仅添加了 Dopamine 2.1 用于修复它的 API。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783854983307300976#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT@xerusdesign：https://www.mediafire.com/file/2yl77xit43r3zan/Dopamine-2.1-beta.tipa/file
+
+这条推文中的 ellekit 和这个多巴胺测试版应该可以修复 iOS 15 arm64e 上的自旋锁恐慌。它的工作原理是先将原始页面连接起来，然后再在其顶部应用挂钩。这应该可以防止有错误的代码路径被击中。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m</link>
+      <description><![CDATA[mediafire.com/file/2yl77xit4…
+
+这条推文中的 ellekit 和这个多巴胺测试版应该可以修复 iOS 15 arm64e 上的自旋锁恐慌。它的工作原理是先将原始页面连接起来，然后再在其顶部应用挂钩。这应该可以防止有错误的代码路径被命中。
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:43:50 GMT</pubDate>
+    </item>
     <item>
       <title>RT @xerusdesign：[Zer0Con2024⬛️🟨Speaker#1]
 
@@ -31,7 +64,7 @@
     <item>
       <title>多巴胺 2.0 中的新图标 🔥</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1758531768997511361#m</link>
-      <description><![CDATA[多巴胺 2.0 中的新图标 🔥
+      <description><![CDATA[Dopamine 2.0 中的新图标🔥
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1758531768997511361#m</guid>
       <pubDate>Fri, 16 Feb 2024 16:40:20 GMT</pubDate>
@@ -61,9 +94,9 @@ arm64 支持由 @dora2ios 贡献
 发布帖子：
 https://www.reddit.com/r/jailbreak/comments/1ascjhy/dopamine_20_jailbreak_for_ios_150_1661_a9_and_up/</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</link>
-      <description><![CDATA[Dopamine 2.0 正式发布。支持
+      <description><![CDATA[多巴胺2.0正式发布。支持
 
-15.0 - 16.6.1，arm64（目前为 A9+）
+15.0 - 16.6.1，arm64（目前为A9+）
 15.0 - 16.5.1，A12 - A14
 15.0 - 16.5，A15 - A16
 
@@ -83,7 +116,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>都用完了！我应该在 r/jb Discord 的主题频道中发布更多 Junipero 代码吗？</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1756065001826111614#m</link>
-      <description><![CDATA[都用完了！我应该在 r/jb Discord 的主题频道中发布更多 Junipero 代码吗？]]></description>
+      <description><![CDATA[全部用完！我应该在 r/jb Discord 的主题频道中发布更多 Junipero 代码吗？]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1756065001826111614#m</guid>
       <pubDate>Fri, 09 Feb 2024 21:18:17 GMT</pubDate>
     </item>
@@ -136,54 +169,6 @@ W6QO-7XLQDV-O1DV
       <description><![CDATA[注意！明天我将提交 Junipero 1.2 进行破坏，我只是在推送之前完成了一些事情。我还在处理图标请求，所以如果您有任何需要主题的应用程序，请给我留言！]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1755343179291722214#m</guid>
       <pubDate>Wed, 07 Feb 2024 21:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @xerusdesign：圣诞快乐！ 🎅（有点晚了）
-
-CopyLog TrollStore 版本简介
-
-完整的 CopyLog 体验，无需越狱，
-感谢 TrollStore。
-
-可在 @HavocRepo 上找到，请在此处阅读更多信息：https://tomt.ooo/copylog/trollstore</title>
-      <link>http://nitter.esmailelbob.xyz/tomt000/status/1739774019480457647#m</link>
-      <description><![CDATA[圣诞快乐！ 🎅（有点晚了）
-
-CopyLog TrollStore 版本简介
-
-完整的 CopyLog 体验，无需越狱，
-感谢 TrollStore。
-
-可在 @HavocRepo 上找到，在此处了解更多信息：tomt.ooo/copylog/trollstore
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/tomt000/status/1739774019480457647#m</guid>
-      <pubDate>Tue, 26 Dec 2023 22:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @xerusdesign：第一次看到我和 @EthanWhited 即将推出的礼物🎁。仍然需要解决一些错误并进行更多测试，但已接近完成</title>
-      <link>http://nitter.esmailelbob.xyz/MTAC8/status/1739499643484979596#m</link>
-      <description><![CDATA[第一次看到我和 @EthanWhited 即将推出的礼物🎁。仍然需要解决一些错误并进行更多测试，但已接近完成
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MTAC8/status/1739499643484979596#m</guid>
-      <pubDate>Tue, 26 Dec 2023 04:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @xerusdesign：新 iPhone 即将推出越狱和内核调试功能！ （Apple A12-A16 SoC < iOS 16.6）</title>
-      <link>http://nitter.esmailelbob.xyz/oct0xor/status/1739226290077474983#m</link>
-      <description><![CDATA[新 iPhone 即将推出越狱和内核调试功能！ （Apple A12-A16 SoC 的 
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/oct0xor/status/1739226290077474983#m</guid>
-      <pubDate>Mon, 25 Dec 2023 10:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @xerusdesign：圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备的越狱！
-https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v0.999.3</title>
-      <link>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</link>
-      <description><![CDATA[圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备越狱！
-github.com/KpwnZ/Def1nit3lyN…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</guid>
-      <pubDate>Mon, 25 Dec 2023 06:52:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

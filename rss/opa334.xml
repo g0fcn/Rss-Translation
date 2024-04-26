@@ -4,7 +4,75 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 03:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:16:13 GMT</lastBuildDate>
+    <item>
+      <title>R 致@opa334dev：确认不起作用💔</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
+      <description><![CDATA[确认不起作用💔]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
+      <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @opa334dev：多巴胺 2.1 每晚：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
+Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
+
+请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
+Ellekit 每晚：nightly.link/evelyneee/ellek…
+
+请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</guid>
+      <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>好吧，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</link>
+      <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
+      <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mediafire 认为我上传了恶意软件...请稍等一下，我将用所有内容发布一条新推文...</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783861081519145142#m</link>
+      <description><![CDATA[Mediafire 认为我上传了恶意软件...请稍等一下，我将用所有内容发布一条新推文...
+nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783861081519145142#m</guid>
+      <pubDate>Fri, 26 Apr 2024 14:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@opa334dev：请注意，我不完全确定问题是否已得到解决，因此在得到确认之前不想公开谈论任何相关内容。如果这两个版本发生单个自旋锁恐慌，会立即取消确认，所以请测试并告诉我。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</link>
+      <description><![CDATA[请注意，我不完全确定问题是否已得到解决，因此在得到确认之前不想公开谈论任何相关内容。如果这两个版本发生单个自旋锁恐慌，会立即取消确认，所以请测试并告诉我。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致 @opa334dev：此外，在最终 2.1 版本发布之前，自旋锁修复可能仍会得到进一步改进，还有许多其他新功能和改进即将到来。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783855060184613233#m</link>
+      <description><![CDATA[此外，在最终 2.1 版本发布之前，自旋锁修复可能仍会得到进一步改进，还有许多其他新功能和改进即将推出。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783855060184613233#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:46:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@opa334dev：请注意，Dopamine 2.1 仍在开发中，实际发布还需要一些时间，在 evelynes 推文中，新的 ellekit 版本也只添加了 Dopamine 2.1 用于修复它的 API。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783854983307300976#m</link>
+      <description><![CDATA[请注意，Dopamine 2.1 仍在开发中，实际发布还需要一些时间，evelynes 在 Twitter 上表示，新的 ellekit 版本也仅添加了 Dopamine 2.1 用于修复它的 API。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783854983307300976#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>https://www.mediafire.com/file/2yl77xit43r3zan/Dopamine-2.1-beta.tipa/file
+
+这条推文中的 ellekit 和这个多巴胺测试版应该可以修复 iOS 15 arm64e 上的自旋锁恐慌。它的工作原理是先将原始页面连接起来，然后再在其顶部应用挂钩。这应该可以防止有错误的代码路径被击中。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m</link>
+      <description><![CDATA[mediafire.com/file/2yl77xit4…
+
+这条推文中的 ellekit 和这个多巴胺测试版应该可以修复 iOS 15 arm64e 上的自旋锁恐慌。它的工作原理是先将原始页面连接起来，然后再在其顶部应用挂钩。这应该可以防止有错误的代码路径被命中。
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m</guid>
+      <pubDate>Fri, 26 Apr 2024 13:43:50 GMT</pubDate>
+    </item>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</link>
@@ -42,7 +110,7 @@
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
       <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
 
-真是太棒了😄]]></description>
+太棒了😄]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
       <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
@@ -57,12 +125,12 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>RT @opa334dev：[#Zer0Con2024]
+      <title>RT by @opa334dev: [#Zer0Con2024]
 
-第一次来韩国，非常喜欢这里😆
+第一次来韩国，非常喜欢😆
 
 @opa334dev
-《如何越狱 iOS 16》</title>
+“如何越狱 iOS 16”</title>
       <link>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</link>
       <description><![CDATA[[#Zer0Con2024]
 
@@ -73,110 +141,6 @@ github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</guid>
       <pubDate>Thu, 04 Apr 2024 05:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
-
-Crane 1.3.14-6 现已发布，并已修复此问题。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</link>
-      <description><![CDATA[Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
-
-Crane 1.3.14-6 现已发布并修复了该问题。
-nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</guid>
-      <pubDate>Sun, 31 Mar 2024 00:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 至 @opa334dev：（请注意，这些说明假设您通过宏正确实现了无根支持）
-
-适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</link>
-      <description><![CDATA[（请注意，这些说明假设您通过宏正确实现了无根支持）
-
-适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</guid>
-      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
-
-1.更新理论
-2.（可选）从rootless.h迁移到libroot.h
-3.重新编译</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</link>
-      <description><![CDATA[libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包，以适应：
-
-1.更新理论
-2.（可选）从rootless.h迁移到libroot.h
-3.重新编译]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</guid>
-      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>libroot 支持现在已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
-
-CCS支持1.3.13-2
-libSandy 1.1.4
-libundirect 1.1.6
-起重机1.3.14-5
-
-都打算采用它。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</link>
-      <description><![CDATA[libroot 支持现已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
-
-CCS支持1.3.13-2
-libSandy 1.1.4
-libundirect 1.1.6
-起重机1.3.14-5
-
-打算采用它。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</guid>
-      <pubDate>Fri, 29 Mar 2024 17:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>AltList 1.0.11 已发布，修复了 lsd 加载时的崩溃问题。显然，在某些情况下，Crane 会将其加载到那里，导致设备在安装后看门狗超时。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</link>
-      <description><![CDATA[AltList 1.0.11 已发布，修复了 lsd 加载时发生的崩溃问题。显然，Crane 在某些情况下会将其加载到那里，导致设备在安装后看门狗超时。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773763272677667183#m</guid>
-      <pubDate>Fri, 29 Mar 2024 17:24:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @opa334dev：iOS 14.0 - 16.6.1 (arm64) ✅
-iOS 14.0 - 16.5.1（A12 - A14）✅
-iOS 14.0 - 16.5（A15 - A16）✅
-剩余版本：⏱️</title>
-      <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1772053689869504553#m</link>
-      <description><![CDATA[iOS 14.0 - 16.6.1（arm64）✅
-iOS 14.0 - 16.5.1（A12 - A14）✅
-iOS 14.0 - 16.5 (A15 - A16) ✅
-剩余版本：⏱️
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1772053689869504553#m</guid>
-      <pubDate>Mon, 25 Mar 2024 00:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @opa334dev：我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 来允许在我的 Apple Watch 上安装具有任意权限的永久签名应用程序（类似 TrollStore），运行 watchOS 8.3。 \o/</title>
-      <link>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</link>
-      <description><![CDATA[我利用 MadDirtyCow (CVE-2022-46689) 和 2022 CoreTrust bug (CVE-2022-26766) 允许在运行 watchOS 的 Apple Watch 上安装具有任意权限的永久签名应用程序（a-la TrollStore） 8.3. \o/
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/LIJI32/status/1769120899293159746#m</guid>
-      <pubDate>Sat, 16 Mar 2024 21:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>多巴胺 2.0.11 已发布
-
-修复了在实际未调用重新越狱时自动修复文件 /private/preboot/... 文件权限的代码，呃...
-
-https://github.com/opa334/Dopamine/releases/tag/2.0.11</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1766966185059365344#m</link>
-      <description><![CDATA[多巴胺 2.0.11 已推出
-
-修复了在实际未调用重新越狱时自动修复文件 /private/preboot/... 文件权限的代码，呃...
-
-github.com/opa334/Dopamine/r…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1766966185059365344#m</guid>
-      <pubDate>Sun, 10 Mar 2024 23:15:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
