@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:13:25 GMT</lastBuildDate>
     <item>
       <title>现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</link>
@@ -39,47 +39,6 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mediafire 认为我上传了恶意软件...请稍等一下，我将用所有内容发布一条新推文...</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783861081519145142#m</link>
-      <description><![CDATA[Mediafire 认为我上传了恶意软件...请稍等一下，我将用所有内容发布一条新推文...
-nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783861081519145142#m</guid>
-      <pubDate>Fri, 26 Apr 2024 14:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>回复 @opa334dev：请注意，我并不完全确定该问题是否已得到解决，因此在确认之前不想公开谈论此事。如果这两个版本中发生一次自旋锁恐慌，则会立即取消确认，因此请测试并告知我。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</link>
-      <description><![CDATA[请注意，我不完全确定问题是否已得到解决，因此在得到确认之前不想公开谈论任何相关内容。如果这两个版本发生单个自旋锁恐慌，会立即取消确认，所以请测试并告诉我。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</guid>
-      <pubDate>Fri, 26 Apr 2024 13:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致 @opa334dev：此外，在最终 2.1 版本发布之前，自旋锁修复可能仍会得到进一步改进，还有许多其他新功能和改进即将到来。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783855060184613233#m</link>
-      <description><![CDATA[此外，在最终 2.1 版本发布之前，自旋锁修复可能仍会得到进一步改进，还有许多其他新功能和改进即将推出。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783855060184613233#m</guid>
-      <pubDate>Fri, 26 Apr 2024 13:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@opa334dev：请注意，Dopamine 2.1 仍在开发中，实际发布还需要一些时间，在 evelynes 推文中，新的 ellekit 版本也只添加了 Dopamine 2.1 用于修复它的 API。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783854983307300976#m</link>
-      <description><![CDATA[请注意，Dopamine 2.1 仍在开发中，实际发布还需要一些时间，evelynes 在 Twitter 上表示，新的 ellekit 版本也仅添加了 Dopamine 2.1 用于修复它的 API。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783854983307300976#m</guid>
-      <pubDate>Fri, 26 Apr 2024 13:45:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>https://www.mediafire.com/file/2yl77xit43r3zan/Dopamine-2.1-beta.tipa/file
-
-这条推文中的 ellekit 和这个多巴胺测试版应该可以修复 iOS 15 arm64e 上的自旋锁恐慌。它的工作原理是先将原始页面连接起来，然后再在其顶部应用挂钩。这应该可以防止有错误的代码路径被击中。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m</link>
-      <description><![CDATA[mediafire.com/file/2yl77xit4…
-
-这条推文中的 ellekit 和这个多巴胺测试版应该可以修复 iOS 15 arm64e 上的自旋锁恐慌。它的工作原理是先将原始页面连接起来，然后再在其顶部应用挂钩。这应该可以防止有错误的代码路径被命中。
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m</guid>
-      <pubDate>Fri, 26 Apr 2024 13:43:50 GMT</pubDate>
     </item>
     <item>
       <title>图像</title>
@@ -131,6 +90,83 @@ github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @opa334dev：[#Zer0Con2024]
+
+第一次来韩国，非常喜欢这里😆
+
+@opa334dev
+《如何越狱 iOS 16》</title>
+      <link>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</link>
+      <description><![CDATA[[#Zer0Con2024]
+
+第一次来韩国，非常喜欢😆
+
+@opa334dev
+“如何越狱 iOS 16”
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</guid>
+      <pubDate>Thu, 04 Apr 2024 05:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉......）
+
+Crane 1.3.14-6 现已发布并修复了该问题。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</link>
+      <description><![CDATA[Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
+
+Crane 1.3.14-6 现已发布并修复了该问题。
+nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</guid>
+      <pubDate>Sun, 31 Mar 2024 00:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @opa334dev：（请注意，这些说明假设您通过宏正确实现了无根支持）
+
+适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</link>
+      <description><![CDATA[（请注意，这些说明假设您通过宏正确实现了无根支持）
+
+适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</guid>
+      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
+
+1.更新理论
+2.（可选）从rootless.h迁移到libroot.h
+3.重新编译</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</link>
+      <description><![CDATA[libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包，以适应：
+
+1.更新理论
+2.（可选）从rootless.h迁移到libroot.h
+3.重新编译]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</guid>
+      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>libroot 支持现在已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
+
+CCS支持1.3.13-2
+libSandy 1.1.4
+libundirect 1.1.6
+起重机1.3.14-5
+
+正在采用它。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</link>
+      <description><![CDATA[libroot 支持现已完全集成到 theos 中（尽管我对旧的 abi 支持的 PR 仍在等待中）并且
+
+CCS支持1.3.13-2
+libSandy 1.1.4
+libundirect 1.1.6
+起重机1.3.14-5
+
+打算采用它。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m</guid>
+      <pubDate>Fri, 29 Mar 2024 17:28:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
