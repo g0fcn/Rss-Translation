@@ -4,7 +4,15 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:18:45 GMT</lastBuildDate>
+    <item>
+      <title>现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</link>
+      <description><![CDATA[现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(
+nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</guid>
+      <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
+    </item>
     <item>
       <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
@@ -41,7 +49,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783854502535205082#m]]></description>
       <pubDate>Fri, 26 Apr 2024 14:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：请注意，我不完全确定问题是否已得到解决，因此在得到确认之前不想公开谈论任何相关内容。如果这两个版本发生单个自旋锁恐慌，会立即取消确认，所以请测试并告诉我。</title>
+      <title>回复 @opa334dev：请注意，我并不完全确定该问题是否已得到解决，因此在确认之前不想公开谈论此事。如果这两个版本中发生一次自旋锁恐慌，则会立即取消确认，因此请测试并告知我。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</link>
       <description><![CDATA[请注意，我不完全确定问题是否已得到解决，因此在得到确认之前不想公开谈论任何相关内容。如果这两个版本发生单个自旋锁恐慌，会立即取消确认，所以请测试并告诉我。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783856982841065723#m</guid>
@@ -123,24 +131,6 @@ github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @opa334dev: [#Zer0Con2024]
-
-第一次来韩国，非常喜欢😆
-
-@opa334dev
-“如何越狱 iOS 16”</title>
-      <link>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</link>
-      <description><![CDATA[[#Zer0Con2024]
-
-第一次来韩国，非常喜欢它😆
-
-@opa334dev
-“如何越狱 iOS 16”
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</guid>
-      <pubDate>Thu, 04 Apr 2024 05:08:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
