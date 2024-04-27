@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:17:09 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784207886773535030#m</link>
@@ -29,10 +29,10 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：多巴胺 2.1 每晚：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
-Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
+      <title>R 至 @opa334dev：Dopamine 2.1 Nightly：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
+Ellekit Nightly：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
 
-请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
+请注意，如果这些方法无法解决问题，则该问题不太可能完全解决，因为这是我最后的想法。有关内存布线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
       <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
 Ellekit 每晚：nightly.link/evelyneee/ellek…
@@ -94,8 +94,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
       <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
-github.com/alfiecg24/TrollIn…
-]]></description>
+github.com/alfiecg24/TrollIn…]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
     </item>
@@ -134,9 +133,9 @@ nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
 
 适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</link>
-      <description><![CDATA[（请注意，这些说明假设您通过宏正确实现了无根支持）
+      <description><![CDATA[（请注意，这些说明假设您已通过宏正确实现了无根支持）
 
-适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。]]></description>
+在您调整 libroot 后，您的软件包将在所有过去的越狱上运行（即使在 XinaA15 1.x 上），但 RootHide 除外，因为 RootHide 仍需要更新以调整 libroot。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</guid>
       <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
