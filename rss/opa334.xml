@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:17:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:14:08 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784207886773535030#m</link>
@@ -29,10 +29,10 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：多巴胺 2.1 每晚：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
-Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
+      <title>R 至 @opa334dev：Dopamine 2.1 Nightly：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
+Ellekit Nightly：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
 
-请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
+请注意，如果这些方法无法解决问题，则该问题不太可能完全解决，因为这是我最后的想法。有关内存布线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
       <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
 Ellekit 每晚：nightly.link/evelyneee/ellek…
@@ -93,7 +93,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <title>RT @opa334dev：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
-      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
+      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。🔥
 github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
@@ -124,7 +124,7 @@ Crane 1.3.14-6 现已发布并修复了该问题。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</link>
       <description><![CDATA[Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
 
-Crane 1.3.14-6 现已发布并修复了该问题。
+Crane 1.3.14-6 现已发布，并修复了该问题。
 nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</guid>
       <pubDate>Sun, 31 Mar 2024 00:33:12 GMT</pubDate>
