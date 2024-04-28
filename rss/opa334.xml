@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 27 Apr 2024 21:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 01:07:53 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784207886773535030#m</link>
@@ -22,7 +22,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：确认不起作用💔</title>
+      <title>R 至@opa334dev：确认无法正常工作💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
       <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
@@ -34,7 +34,7 @@ Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
-      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
 Ellekit 每晚：nightly.link/evelyneee/ellek…
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
@@ -72,10 +72,9 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <pubDate>Wed, 17 Apr 2024 23:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟能不能解决这个垃圾问题？开发者现在在 App Store 上被多收了钱，因为他还在其他商店托管他的应用？这是什么鬼东西？</title>
+      <title>欧盟可以解决这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是哪门子胡说八道？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</link>
-      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？
-nitter.esmailelbob.xyz/Stern_XD/status/1780674880901402986#m]]></description>
+      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</guid>
       <pubDate>Wed, 17 Apr 2024 22:59:52 GMT</pubDate>
     </item>
@@ -86,7 +85,7 @@ nitter.esmailelbob.xyz/Stern_XD/status/1780674880901402986#m]]></description>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
       <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
 
-太棒了😄]]></description>
+真是太棒了😄]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
       <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
@@ -125,7 +124,7 @@ Crane 1.3.14-6 现已发布并修复了该问题。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</link>
       <description><![CDATA[Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
 
-Crane 1.3.14-6 现已发布，并修复了该问题。
+Crane 1.3.14-6 现已发布并修复了该问题。
 nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</guid>
       <pubDate>Sun, 31 Mar 2024 00:33:12 GMT</pubDate>
@@ -142,7 +141,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
       <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
+      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的软件包在未来的 RootHide 版本上工作，而无需提供单独的软件包来适应：
 
 1.更新理论
 2.（可选）从rootless.h迁移到libroot.h
