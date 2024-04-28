@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 28 Apr 2024 01:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 18:17:38 GMT</lastBuildDate>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784207886773535030#m</link>
@@ -22,7 +22,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>R 至@opa334dev：确认无法正常工作💔</title>
+      <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
       <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
@@ -34,7 +34,7 @@ Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
-      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
 Ellekit 每晚：nightly.link/evelyneee/ellek…
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
@@ -141,7 +141,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
       <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的软件包在未来的 RootHide 版本上工作，而无需提供单独的软件包来适应：
+      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
 
 1.更新理论
 2.（可选）从rootless.h迁移到libroot.h
