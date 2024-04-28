@@ -4,7 +4,7 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 03:16:25 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
@@ -148,14 +148,14 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Mon, 29 Jan 2024 22:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @dhinakg：变更日志：
-- 修复即使 .ekenablelogging 不存在也能启用日志记录的问题（这会导致 palera1n 上的日志文件过大）
+      <title>R 致@dhinakg：变更日志：
+- 修复即使 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
 - 17.4 beta 1 支持（由 @opa334dev 提供）
 - 改进越狱检测代码</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</link>
       <description><![CDATA[变更日志：
-- 修复即使 .ekenablelogging 不存在也会启用日志记录的问题（这会导致 palera1n 上的日志文件过大）
-- 17.4 beta 1 支持（由 @opa334dev 提供）
+- 修复即使在 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
+- 17.4 beta 1 支持（由@opa334dev）
 - 改进越狱检测代码]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</guid>
       <pubDate>Mon, 29 Jan 2024 22:10:18 GMT</pubDate>
