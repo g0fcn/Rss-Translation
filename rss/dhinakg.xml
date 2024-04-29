@@ -4,13 +4,13 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:27:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 21:14:11 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
 https://github.com/dhinakg/partial</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1775681040369229963#m</link>
-      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在此过程中我学到了很多有关 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！ 
+      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件（主要是 Apple 的 OTA 和 IPSW）中抓取文件，在此过程中我学到了很多有关 ZIP 文件的知识。它仍然不够完善，但我希望您能看看！
 
 github.com/dhinakg/partial
 ]]></description>
@@ -28,7 +28,7 @@ github.com/dhinakg/partial
     <item>
       <title>RT by @dhinakg：向拥有黄色 iPhone 14 或 14 Plus 的人寻求帮助，了解其预装版本 (20D50)，无论是安装了 TrollStore 还是越狱。如果您有这样的设备，请回复此推文。</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1769503407931293837#m</link>
-      <description><![CDATA[寻求拥有黄色 iPhone 14 或 14 Plus 的人的帮助，这些设备是预装版本 (20D50)，已安装 TrollStore 或已越狱。如果您有这样的设备，请回复此推文。]]></description>
+      <description><![CDATA[正在向拥有黄色 iPhone 14 或 14 Plus 的用户寻求帮助，了解其预装版本 (20D50)，无论是安装了 TrollStore 还是已越狱。如果您有这样的设备，请回复此推文。]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1769503407931293837#m</guid>
       <pubDate>Sun, 17 Mar 2024 23:17:42 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>visionOS 1.0.3 版本 (21N333) 已发布。
 
-“此更新提供了重要的错误修复，并添加了一个选项，可以在您忘记密码时重置您的设备。”</title>
+“此更新提供了重要的错误修复，并添加了一个在您忘记密码时重置设备的选项。”</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1757104290865332449#m</link>
       <description><![CDATA[visionOS 1.0.3 版本 (21N333) 已发布。
 
@@ -149,7 +149,7 @@ teddit.net/r/jailbreak/comme…
     </item>
     <item>
       <title>R 致@dhinakg：变更日志：
-- 修复即使在 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
+- 修复即使 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
 - 17.4 beta 1 支持（由 @opa334dev 提供）
 - 改进越狱检测代码</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</link>

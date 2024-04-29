@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:28:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 21:14:46 GMT</lastBuildDate>
     <item>
       <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
@@ -15,7 +15,7 @@
     <item>
       <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
     <item>
       <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
-      <description><![CDATA[确认不起作用💔]]></description>
+      <description><![CDATA[确认不工作💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
@@ -67,7 +67,7 @@ Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
-      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
 Ellekit 每晚：nightly.link/evelyneee/ellek…
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
@@ -77,7 +77,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
     <item>
       <title>好吧，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</link>
-      <description><![CDATA[好的，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该可以修复，至少在理论上/可能。请记住，我对导致这种情况的原因仍然了解有限，因此我修复它的所有尝试都做出了可能不正确的假设。]]></description>
+      <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
     </item>
@@ -107,7 +107,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
     <item>
       <title>欧盟可以解决这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是哪门子胡说八道？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</link>
-      <description><![CDATA[欧盟能不能解决这个垃圾问题？开发者现在在 App Store 上被多收了钱，因为他还在其他商店托管他的应用？这是什么鬼东西？]]></description>
+      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</guid>
       <pubDate>Wed, 17 Apr 2024 22:59:52 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
       <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
 
-真是太棒了😄]]></description>
+太棒了😄]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
       <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
