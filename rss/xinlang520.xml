@@ -4,20 +4,20 @@
     <title>朱心浪 / @xina520</title>
     <link>http://nitter.esmailelbob.xyz/xina520</link>
     <description>Twitter 供稿：@xina520。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 03:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:27:31 GMT</lastBuildDate>
     <item>
       <title>R 致@xina520：这些积分属于 KFD Fugu 37c3，与我无关。现在开发越狱的人越来越多，我想有些人需要它</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1744051914462154968#m</link>
-      <description><![CDATA[这些版权属于 KFD Fugu 37c3，与我无关。现在开发越狱的人越来越多，我认为有些人需要它]]></description>
+      <description><![CDATA[这些积分属于KFD Fugu 37c3，与我无关。现在开发越狱的人越来越多，我想有些人需要它]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1744051914462154968#m</guid>
       <pubDate>Sun, 07 Jan 2024 17:42:33 GMT</pubDate>
     </item>
     <item>
       <title>ml_dbgwrap_halt_cpu 新值：800000ff
 dma_ctrl_1 新值：8000000000070e01
-kernel_addr phys_addr：fffffff14eca99d0 91db959d0
+内核地址 phys_地址：ffffffff14eca99d0 91db959d0
 dma_ctrl_1 旧值：70e00
-fffffff14eca99d0 : 4141414141414141
+ffffffff14eca99d0 : 4141414141414141
 https://github.com/zhuxinlang/zhuxinlang.github.io/blob/main/GPU_CoreSight.m</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1744041080780431519#m</link>
       <description><![CDATA[ml_dbgwrap_halt_cpu 新值：800000ff
@@ -75,7 +75,7 @@ github.com/zhuxinlang/zhuxin...]]></description>
       <pubDate>Fri, 01 Dec 2023 17:22:20 GMT</pubDate>
     </item>
     <item>
-      <title>https://apt.xina.vip/ 2.0.16</title>
+      <title>https://apt.xina.vip/2.0.16</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1730256806457573709#m</link>
       <description><![CDATA[apt.xina.vip/ 2.0.16]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1730256806457573709#m</guid>
@@ -97,7 +97,7 @@ github.com/zhuxinlang/zhuxin...]]></description>
       <pubDate>Tue, 28 Nov 2023 17:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>添加源 http://apt.xina.vip 安装 XinaBlackList 可能会解决一些问题，因为我已经在上面放置了一些补丁。</title>
+      <title>添加源 http://apt.xina.vip 安装 XinaBlackList 可能会解决一些问题，因为我已经对其安装了一些补丁。</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1729110866078105975#m</link>
       <description><![CDATA[添加源apt.xina.vip 安装 XinaBlackList 可能会解决一些问题，因为我已经在上面打了一些补丁。]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1729110866078105975#m</guid>

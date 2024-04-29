@@ -4,7 +4,40 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 01:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:28:11 GMT</lastBuildDate>
+    <item>
+      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
+      <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
+      <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
+      <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
+      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</guid>
+      <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
+
+它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
+      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
+
+它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
+      <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
+    </item>
     <item>
       <title>图像</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784207886773535030#m</link>
@@ -24,7 +57,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
     <item>
       <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
-      <description><![CDATA[确认不工作💔]]></description>
+      <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
@@ -44,7 +77,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
     <item>
       <title>好吧，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</link>
-      <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
+      <description><![CDATA[好的，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该可以修复，至少在理论上/可能。请记住，我对导致这种情况的原因仍然了解有限，因此我修复它的所有尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
     </item>
@@ -74,18 +107,18 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
     <item>
       <title>欧盟可以解决这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是哪门子胡说八道？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</link>
-      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？]]></description>
+      <description><![CDATA[欧盟能不能解决这个垃圾问题？开发者现在在 App Store 上被多收了钱，因为他还在其他商店托管他的应用？这是什么鬼东西？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</guid>
       <pubDate>Wed, 17 Apr 2024 22:59:52 GMT</pubDate>
     </item>
     <item>
-      <title>感谢@POC_Crew 让我参加#Zer0Con2024
+      <title>感谢 @POC_Crew 让我参加 #Zer0Con2024
 
 真是太棒了😄</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
       <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
 
-太棒了😄]]></description>
+真是太棒了😄]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
       <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
@@ -98,62 +131,6 @@ github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
       <pubDate>Thu, 04 Apr 2024 18:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @opa334dev：[#Zer0Con2024]
-
-第一次来韩国，非常喜欢这里😆
-
-@opa334dev
-《如何越狱 iOS 16》</title>
-      <link>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</link>
-      <description><![CDATA[[#Zer0Con2024]
-
-第一次来韩国，非常喜欢它😆
-
-@opa334dev
-“如何越狱 iOS 16”
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/POC_Crew/status/1775752185214894157#m</guid>
-      <pubDate>Thu, 04 Apr 2024 05:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉......）
-
-Crane 1.3.14-6 现已发布并修复了该问题。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</link>
-      <description><![CDATA[Crane 1.3.14-5 破坏了快捷方式集成，因为我在切换到 libroot 时忘记验证它（对此感到抱歉...）
-
-Crane 1.3.14-6 现已发布并修复了该问题。
-nitter.esmailelbob.xyz/opa334dev/status/1773764225300607055#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1774233448669962345#m</guid>
-      <pubDate>Sun, 31 Mar 2024 00:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 至 @opa334dev：（请注意，这些说明假设您通过宏正确实现了无根支持）
-
-适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</link>
-      <description><![CDATA[（请注意，这些说明假设您通过宏正确实现了无根支持）
-
-适应 libroot 后，您的软件包将适用于除 RootHide 之外的所有过去的越狱（甚至在 XinaA15 1.x 上），因为 RootHide 仍需要更新以适应 libroot。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764228886732883#m</guid>
-      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 至 @opa334dev：libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包来适应：
-
-1.更新理论
-2.（可选）从rootless.h迁移到libroot.h
-3.重新编译</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</link>
-      <description><![CDATA[libroot 允许您的包在运行时获取越狱的根路径。这将允许您的包在未来的 RootHide 版本上工作，而无需提供单独的包，以适应：
-
-1.更新理论
-2.（可选）从rootless.h迁移到libroot.h
-3.重新编译]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1773764227028656565#m</guid>
-      <pubDate>Fri, 29 Mar 2024 17:28:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
