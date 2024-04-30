@@ -4,7 +4,7 @@
     <title>AltStore.io / @altstoreio</title>
     <link>http://nitter.esmailelbob.xyz/altstoreio</link>
     <description>Twitter 供稿：@altstoreio。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 21:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:15:38 GMT</lastBuildDate>
     <item>
       <title>对于那些询问 iPad 版本 AltStore PAL 的人来说，好消息是：Apple 很快将被要求支持 iPad 上的替代应用程序市场 🥳
 
@@ -26,7 +26,7 @@ AltStore 用户可以立即从“我的应用程序”选项卡进行更新（�
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1783559880336396555#m</link>
       <description><![CDATA[🚀 Delta 1.5.2 现已推出！此更新包括一些快速的生活质量改进和错误修复，我们即将推出更多内容 🙂
 
-AltStore 用户可以立即从“我的应用程序”选项卡更新（应用程序商店版本目前正在审核中）
+AltStore 用户现在可以从“我的应用程序”选项卡更新（应用程序商店版本目前正在审核中）
 
 完整发行说明：faq.deltaemulator.com/releas...
 ]]></description>
@@ -34,13 +34,13 @@ AltStore 用户可以立即从“我的应用程序”选项卡更新（应用�
       <pubDate>Thu, 25 Apr 2024 18:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@altstoreio：自 PAL 推出以来，我们也收到了大量支持请求，因此我们正在尽最大努力尽快做出回应，但可能仍需要一些时间。
+      <title>R 致 @altstoreio：自 PAL 推出以来，我们也收到了大量支持请求，因此我们正在尽最大努力尽快做出回应，但可能仍需要一些时间。
 
 我们感谢大家的耐心 🙂</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1782498449297973516#m</link>
       <description><![CDATA[自 PAL 推出以来，我们也收到了大量的支持请求，因此我们正在尽最大努力尽快做出响应，但这仍然可能需要一些时间。
 
-感谢大家的耐心 🙂]]></description>
+感谢你们的耐心 🙂]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1782498449297973516#m</guid>
       <pubDate>Mon, 22 Apr 2024 19:55:22 GMT</pubDate>
     </item>
@@ -49,7 +49,7 @@ AltStore 用户可以立即从“我的应用程序”选项卡更新（应用�
 
 我们正在研究这个问题，但目前如果您需要切换安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们将为您提供帮助！</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1782498383095095540#m</link>
-      <description><![CDATA[似乎存在一个问题，导致 AltStore PAL 无法通过单个订阅安装到多个设备上。
+      <description><![CDATA[似乎存在一个问题，无法通过单个订阅将 AltStore PAL 安装到多个设备上。
 
 我们正在研究这个问题，但目前如果您需要切换安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们将为您提供帮助！]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1782498383095095540#m</guid>
@@ -65,7 +65,7 @@ AltStore 用户可以立即从“我的应用程序”选项卡更新（应用�
     <item>
       <title>⚠️ 如果您在下载 AltStore PAL 时遇到问题，请尝试从 http://altstore.io 主页重新开始该过程。
 
-输入电子邮件后，Stripe 将自动检测您的订阅并将您重定向到下载页面 - 您无需重新购买。</title>
+输入您的电子邮件后，Stripe 将自动检测您的订阅并将您重定向到下载页面 - 您无需重新购买。</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1780646495701656008#m</link>
       <description><![CDATA[⚠️ 如果您在下载 AltStore PAL 时遇到问题，请尝试从 altstore.io 主页重新开始该过程。
 
@@ -125,7 +125,7 @@ nitter.esmailelbob.xyz/altstoreio/status/1780634838187315358#m]]></description>
       <pubDate>Wed, 17 Apr 2024 16:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>R 致 @altstoreio：AltStore PAL 是一个面向独立开发者的开源众筹应用商店 👩‍💻
+      <title>R 致@altstoreio：AltStore PAL 是一个面向独立开发者的开源众筹应用商店 👩‍💻
 
 分发应用程序是完全免费的，开发人员可以选择通过我们的 Patreon 集成仅分发给他们的订阅者
 

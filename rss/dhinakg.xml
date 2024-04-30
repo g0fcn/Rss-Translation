@@ -4,13 +4,13 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 21:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:16:16 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
 https://github.com/dhinakg/partial</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1775681040369229963#m</link>
-      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件（主要是 Apple 的 OTA 和 IPSW）中抓取文件，在此过程中我学到了很多有关 ZIP 文件的知识。它仍然不够完善，但我希望您能看看！
+      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在此过程中我学到了很多有关 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！ 
 
 github.com/dhinakg/partial
 ]]></description>
@@ -28,7 +28,7 @@ github.com/dhinakg/partial
     <item>
       <title>RT by @dhinakg：向拥有黄色 iPhone 14 或 14 Plus 的人寻求帮助，了解其预装版本 (20D50)，无论是安装了 TrollStore 还是越狱。如果您有这样的设备，请回复此推文。</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1769503407931293837#m</link>
-      <description><![CDATA[正在向拥有黄色 iPhone 14 或 14 Plus 的用户寻求帮助，了解其预装版本 (20D50)，无论是安装了 TrollStore 还是已越狱。如果您有这样的设备，请回复此推文。]]></description>
+      <description><![CDATA[寻求拥有黄色 iPhone 14 或 14 Plus 的人的帮助，这些设备是预装版本 (20D50)，已安装 TrollStore 或已越狱。如果您有这样的设备，请回复此推文。]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1769503407931293837#m</guid>
       <pubDate>Sun, 17 Mar 2024 23:17:42 GMT</pubDate>
     </item>
@@ -49,9 +49,9 @@ CPID:8122 BORD:32 J615AP Mac15,13 MacBook Air（15 英寸，M3，2024）]]></des
       <pubDate>Mon, 04 Mar 2024 18:24:38 GMT</pubDate>
     </item>
     <item>
-      <title>多巴胺2.0出来了！
+      <title>Dopamine 2.0 发布了！
 
-祝贺 @opa334dev 和 @dora2ios 以及所有做出贡献的人，以及所有内部测试人员！</title>
+祝贺@opa334dev 和@dora2ios 以及所有做出贡献的人，还有所有内部测试人员！</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1758534363325546713#m</link>
       <description><![CDATA[多巴胺2.0已经出来了！
 
@@ -61,11 +61,11 @@ CPID:8122 BORD:32 J615AP Mac15,13 MacBook Air（15 英寸，M3，2024）]]></des
       <pubDate>Fri, 16 Feb 2024 16:50:38 GMT</pubDate>
     </item>
     <item>
-      <title>RT @dhinakg：多巴胺 2.0 正式发布。支持
+      <title>RT by @dhinakg：Dopamine 2.0 正式发布。支持
 
-15.0 - 16.6.1，arm64（目前为 A9+）
-15.0 - 16.5.1, A12 - A14
-15.0 - 16.5, A15 - A16
+15.0 - 16.6.1，arm64（目前支持 A9+）
+15.0 - 16.5.1，A12 - A14
+15.0 - 16.5，A15 - A16
 
 发布帖子：
 https://www.reddit.com/r/jailbreak/comments/1ascjhy/dopamine_20_jailbreak_for_ios_150_1661_a9_and_up/</title>
@@ -149,7 +149,7 @@ teddit.net/r/jailbreak/comme…
     </item>
     <item>
       <title>R 致@dhinakg：变更日志：
-- 修复即使 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
+- 修复即使在 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
 - 17.4 beta 1 支持（由 @opa334dev 提供）
 - 改进越狱检测代码</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</link>
