@@ -3,14 +3,101 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 30 Apr 2024 09:15:48 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 30 Apr 2024 15:12:24 GMT</lastBuildDate>
     <item>
-      <title>🧌适用于 iOS 的 UTM 支持在 iPhone 或 iPad 上运行 Windows 或 Linux 等桌面操作系统🖥️
+      <title>📰多巴胺2.1正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
+
+- 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
+- 添加了multicast_bytecopy和weightBufs漏洞
+- 添加了“允许应用程序中的 JIT”选项
+- 允许通过 jbctl 进行 trustcache 管理
+- 添加了更改手机密码的返回选项
+
+https://github.com/opa334/Dopamine/tree/2.1
+
+#多巴胺2 #越狱 #iOS15 #iOS16 #iPhone15</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</link>
+      <description><![CDATA[📰多巴胺 2.1 正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
+
+- 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
+- 添加了multicast_bytecopy和weightBufs漏洞
+- 添加了“允许应用程序中的 JIT”选项
+- 允许通过 jbctl 进行 trustcache 管理
+- 新增更改手机密码的返回选项
+
+github.com/opa334/Dopamine/t…
+
+#Dopamine2 #jailbreak #iOS15 #iOS16 #iPhone15]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</guid>
+      <pubDate>Tue, 30 Apr 2024 14:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>⬇️Gopeed（全称Go Speed）是一款支持（HTTP、BitTorrent、Magnet）协议的iOS设备高速下载器📦🚀
+
+https://github.com/GopeedLab/gopeed
+
+📰版本 1.5.6 已发布，修复了错误！下载最新的 IPA 进行侧面加载 📱
+
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785311930711699867#m</link>
+      <description><![CDATA[⬇️Gopeed（全称 Go Speed）是一款支持（HTTP、BitTorrent、Magnet）协议的 iOS 设备高速下载器📦🚀
+
+github.com/GopeedLab/gopeed
+
+📰版本 1.5.6 已发布，修复了错误！下载最新的 IPA 进行侧面加载 📱
+
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple #nojailbreak
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785311930711699867#m</guid>
+      <pubDate>Tue, 30 Apr 2024 14:15:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>🧌Helium 是一款在 iOS 15 到最新 17.0 上将小部件直接集成到状态栏的工具🗣️
+
+https://onejailbreak.com/blog/helium-trollstore/
+
+👨‍💻AsakuraFuuko 负责维护应用程序并添加新功能和改进。新的测试版本附带天气 API 🚀
+
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</link>
+      <description><![CDATA[🧌Helium 是一款在 iOS 15 到最新 17.0 上将小部件直接集成到状态栏的工具🗣️
+
+onejailbreak.com/blog/helium…
+
+👨‍💻AsakuraFuuko 负责维护应用程序并添加新功能和改进。新的测试版本附带天气 API 🚀
+
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple #nojailbreak
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</guid>
+      <pubDate>Tue, 30 Apr 2024 14:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>🧩Translomatic 是 FoxFortMobile 推出的一项令人惊叹的越狱调整，它允许用户快速翻译屏幕上显示的任何选定文本🗣️
+
+https://onejailbreak.com/blog/translomatic-tweak/
+
+📰Translomatic 2.18.19 发布，修复了 Youtube v19.16.3 评论的重叠按钮。
+
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785300201806209498#m</link>
+      <description><![CDATA[🧩Translomatic 是 FoxFortMobile 推出的一项令人惊叹的越狱调整，它允许用户快速翻译屏幕上显示的任何选定文本🗣️
+
+onejailbreak.com/blog/transl…
+
+📰Translomatic 2.18.19 发布，修复了 Youtube v19.16.3 评论的重叠按钮。
+
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785300201806209498#m</guid>
+      <pubDate>Tue, 30 Apr 2024 13:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @onejailbreak_：🧌UTM for iOS 支持在 iPhone 或 iPad 上运行 Windows 或 Linux 等桌面操作系统 🖥️
 
 https://onejailbreak.com/blog/utm/
 
-🚀UTM 4.5.2 已提供错误修复，并计划将其作为免费应用程序在 App Store 中发布！
+🚀UTM 4.5.2 现已发布，提供错误修复，并计划将其作为免费应用发布在 App Store 中！
 
 #iOS #Windows #Linux #TrollStore2 #jailbreak #iPhone #iOS17 #iOS16</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785208531848712292#m</link>
@@ -49,13 +136,13 @@ onejailbreak.com/blog/charge…
       <pubDate>Mon, 29 Apr 2024 17:22:10 GMT</pubDate>
     </item>
     <item>
-      <title>📢LiveContainer 已更新，修复了在 LiveContainer 中运行时的 CydiaSubstrate 问题 🔥
+      <title>📢LiveContainer 已更新，修复了在 LiveContainer 中运行时 CydiaSubstrate 的问题🔥
 
 http://onejailbreak.com/blog/livecontainer/
 
-uYou+ 等经过调整的应用程序现在应该可以使用了。下载适用于 iOS 15 – iOS 17 的 TrollStore 替代方案的最新版本 📦🚀
+调整后的应用程序（如 uYou+ 等）现在应该可以正常工作了。下载适用于 iOS 15 – iOS 17 的 TrollStore 替代品的最新版本 📦🚀
 
-通过@TranKha50277352
+作者：@TranKha50277352
 
 #iOS17 #TrollStore #iPhone #nojailbreak #iOS #iOS15</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784959322989928573#m</link>
@@ -80,92 +167,56 @@ uYou+ 等经过调整的应用程序现在应该可以使用了。下载适用�
       <pubDate>Mon, 29 Apr 2024 13:20:30 GMT</pubDate>
     </item>
     <item>
-      <title>📦SideStore 是一款基于 AltStore 的流行设备上 IPA 签名应用程序。下一个版本将包括 Stossy11 Anisette 服务器，但您已经可以使用它了！ 📢
+      <title>RT @onejailbreak_：📢RootHide Jailbreak 有了新的更新 – 1.0.8。此版本隐藏了更多越狱痕迹，允许您努力运行应用程序以使其无法在越狱环境中运行🔥
 
-网址：https://anisette.stossy11.com
+https://onejailbreak.com/blog/roothide-jailbreak/
 
-https://onejailbreak.com/blog/sidestore/
+通过@roothideDev
 
-#iOS17 #SideStore #iPhone #nojailbreak #iOS #LiveContainer</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784932729181684188#m</link>
-      <description><![CDATA[📦SideStore 是一款基于 AltStore 的流行设备上 IPA 签名应用程序。下一个版本将包括 Stossy11 Anisette 服务器，但您已经可以使用它了！ 📢
+#iOS15 #RootHide #jailbreak #iPhone #Dopamine</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783192878035956012#m</link>
+      <description><![CDATA[📢RootHide Jailbreak 获得了新的更新 – 1.0.8。此版本隐藏了更多越狱痕迹，让您可以运行应用程序，努力使它们在越狱环境中无法运行🔥
 
-网址：anisette.stossy11.com
+onejailbreak.com/blog/roothi…
 
-onejailbreak.com/blog/sidest…
+by @roothideDev
 
-#iOS17 #SideStore #iPhone #nojailbreak #iOS #LiveContainer
+#iOS15 #RootHide #jailbreak #iPhone #Dopamine
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784932729181684188#m</guid>
-      <pubDate>Mon, 29 Apr 2024 13:08:19 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783192878035956012#m</guid>
+      <pubDate>Wed, 24 Apr 2024 17:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>🧩Misaki 是针对现代越狱的定制 iOS 调整。 2.0.5 版本提供了一个专门的应用程序切换器部分，其中有很多选项 🔥
+      <title>RT @onejailbreak_：📚Palera1n 仍然是旧设备上最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
 
-https://onejailbreak.com/blog/misaki-tweak/
+https://onejailbreak.com/blog/palera1n-jailbreak/
 
-#越狱 #iOS15 #iOS16 #iPhone #Dopamine #Palera1n</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784927292252115061#m</link>
-      <description><![CDATA[🧩Misaki 是针对现代越狱的定制 iOS 调整。 2.0.5 版本提供了一个专门的应用程序切换器部分，其中有很多选项 🔥
+#palera1n #jailbreak #iPadOS17 #iOS16 #iOS15 #iPhone</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781392698915643392#m</link>
+      <description><![CDATA[📚Palera1n 仍然是旧设备上最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
 
-onejailbreak.com/blog/misaki…
+onejailbreak.com/blog/palera…
 
-#jailbreak #iOS15 #iOS16 #iPhone #Dopamine #Palera1n
+#palera1n #jailbreak #iPadOS17 #iOS16 #iOS15 #iPhone
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784927292252115061#m</guid>
-      <pubDate>Mon, 29 Apr 2024 12:46:43 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781392698915643392#m</guid>
+      <pubDate>Fri, 19 Apr 2024 18:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>💻pymobiledevice3 v4.5 发布，整体改进。使用此工具可以创建 iOS 备份、更新固件、模拟 GPS、嗅探网络、转发 TCP、查看日志、启用 JIT 等等 🔥📢
+      <title>RT by @onejailbreak_：🔥了解如何在 iPhone 上安装 AltStore PAL，并发现市场限制和有关侧载的重要信息。不是你想的那样📚
 
-https://github.com/doronz88/pymobiledevice3/
+https://onejailbreak.com/blog/how-to-install-altstore-pal/
 
-通过@doronz88
+#AppStore #AltStore #AltStorePAL #iOS #iPhone</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</link>
+      <description><![CDATA[🔥了解如何在 iPhone 上安装 AltStore PAL，并了解市场限制和有关侧面加载的重要信息。事情不是你想的那样📚
 
-#nojailbreak #iOS #iPhone #iOS17 #jailbreak</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784923652309332110#m</link>
-      <description><![CDATA[💻pymobiledevice3 v4.5 发布，整体改进。使用此工具可以创建 iOS 备份、更新固件、模拟 GPS、嗅探网络、转发 TCP、查看日志、启用 JIT 等等 🔥📢
+onejailbreak.com/blog/how-to…
 
-github.com/doronz88/pymobile…
-
-作者：@doronz88
-
-#nojailbreak #iOS #iPhone #iOS17 #jailbreak
+#AppStore #AltStore #AltStorePAL #iOS #iPhone
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784923652309332110#m</guid>
-      <pubDate>Mon, 29 Apr 2024 12:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔓HFZ iHello for Windows 是一款新的 iCloud 旁路工具，专为 iOS 15 – iOS 16 和 iPadOS 17 设计，支持 SIGNAL。 v1.2 已发布，修复了整体错误📶📱
-
-https://onejailbreak.com/blog/ihello-hfz/
-
-#iCloudUnlock #iOS15 #iOS16 #iPhoneX #iPhone6 #iPhone8</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784915169782399102#m</link>
-      <description><![CDATA[🔓HFZ iHello for Windows 是一款新的 iCloud 旁路工具，专为 iOS 15 – iOS 16 和 iPadOS 17 设计，支持 SIGNAL。 v1.2 已发布，全面修复错误📶📱
-
-onejailbreak.com/blog/ihello...
-
-#iCloudUnlock #iOS15 #iOS16 #iPhoneX #iPhone6 #iPhone8
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784915169782399102#m</guid>
-      <pubDate>Mon, 29 Apr 2024 11:58:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @onejailbreak_：📢探索适用于 iOS 17 的 TrollStore 的最佳🔟替代品，支持 IPA 安装📲当无法在 iOS 17.0 上安装 TrollStore 时，这是一个很好的选择📦🔥
-
-https://onejailbreak.com/blog/trollstore-alternatives-for-ios-17/
-
-#TrollStore2 #TrollStore #iOS17 #AppStore #alternative</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782348765275299959#m</link>
-      <description><![CDATA[📢探索 iOS 17 上支持 IPA 安装的 TrollStore 的最佳🔟替代品📲 当无法在 iOS 17.0 上安装 TrollStore 时，这是一个很好的选择 📦🔥
-
-onejailbreak.com/blog/trolls…
-
-#TrollStore2 #TrollStore #iOS17 #AppStore #alternative
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1782348765275299959#m</guid>
-      <pubDate>Mon, 22 Apr 2024 10:00:34 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</guid>
+      <pubDate>Thu, 18 Apr 2024 07:22:58 GMT</pubDate>
     </item>
     <item>
       <title>RT @onejailbreak_：💻Futurerestore 一直是使用 blob 将 iOS 降级为未签名固件的首选解决方案。但随着最近 Deleo 的出现，这一领域正在迅速发展🚀🔥
@@ -214,46 +265,18 @@ AltStore 源由 JSON 文件组成，其中包含 IPA 文件的直接链接和附
 
 #iOS #iOS16 #iOS15 #iOS14 #jailbreak #nojailbreak #xinaa15 #palera1n #unc0ver #checkra1n #altstore #trollstore #iPhone #iPad</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1643513313924460544#m</link>
-      <description><![CDATA[✅2023 年最佳 AltStore 源和存储库。
+      <description><![CDATA[✅2023 年最佳 AltStore 来源和存储库。
 
 onejailbreak.com/blog/altsto…
 
-AltStore 源由 JSON 文件组成，其中包含指向 IPA 文件的直接链接和其他信息。 
+AltStore 源由 JSON 文件组成，其中包含 IPA 文件的直接链接和附加信息。 
 
-我整理了一份 AltStore 源列表，但如果您有任何自己的建议，请随时发表推文。
+我已经整理了 AltStore 来源列表，但如果您有任何自己的建议，请随时留言。
 
-#iOS #iOS16 #iOS15 #iOS14 #jailbreak #nojailbreak #xinaa15 #palera1n #unc0ver #checkra1n #altstore #trollstore #iPhone #iPad
+#iOS #iOS16 #iOS15 #iOS14 #jailbreak #nojailbreak #xinaa15&lt; /a&gt; #palera1n #unc0ver #checkra1n #altstore #trollstore #iPhone  #iPad
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1643513313924460544#m</guid>
       <pubDate>Wed, 05 Apr 2023 07:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @onejailbreak_： ✅最佳 iCloud 绕过工具：适用于 macOS、Linux 和 Windows 的免费激活锁删除软件。
-
-#iPhoneX #iPhone #iOS #jailbreak #checkra1n #iOS14 #XinaA15 #iOS12 #iOS13 #iPhone7 #iPhone #iRa1n #checkm8 #iOS15 #iOS16
-https://onejailbreak.com/blog/icloud-bypass/</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1626210880034844680#m</link>
-      <description><![CDATA[✅最佳 iCloud 绕过工具：适用于 macOS、Linux 和 Windows 的免费激活锁删除软件。
-
-#iPhoneX #iPhone #iOS #jailbreak #checkra1n #iOS14 #XinaA15&lt; /a&gt; #iOS12 #iOS13 #iPhone7 #iPhone #iRa1n #checkm8  #iOS15 #iOS16
-onejailbreak.com/blog/icloud…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1626210880034844680#m</guid>
-      <pubDate>Thu, 16 Feb 2023 13:24:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @onejailbreak_：✅适用于 iOS 14 - iOS 16 的最佳 MacDirtyCow 工具和应用程序列表，可用于增强和调整您的 iPhone 或 iPad，无需越狱。
-
-#trollstore #altstore #MacDirtyCow #XinaA15 #nojailbreak #iOS16 #iOS15 #iOS14 #iPhone #palera1n #unc0ver
-https://onejailbreak.com/blog/macdirtycow-tools/</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1624038388801085441#m</link>
-      <description><![CDATA[✅适用于 iOS 14 - iOS 16 的最佳 MacDirtyCow 工具和应用程序列表，可用于增强和调整您的 iPhone 或 iPad，无需越狱。 
-
-#trollstore #altstore #MacDirtyCow #XinaA15 #nojailbreak #iOS16 #iOS15&lt; /a&gt; #iOS14 #iPhone #palera1n #unc0ver
-onejailbreak.com/blog/macdir…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1624038388801085441#m</guid>
-      <pubDate>Fri, 10 Feb 2023 13:31:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
