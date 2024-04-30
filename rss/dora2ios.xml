@@ -4,7 +4,19 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 30 Apr 2024 09:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 21:15:11 GMT</lastBuildDate>
+    <item>
+      <title>RT @dora2ios：Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
+
+https://www.reddit.com/r/jailbreak/comments/1cgy7cy/dopamine_21_a8x_support_and_other_improvements/</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m</link>
+      <description><![CDATA[Dopamine 2.1 现已推出，具有 A8(X) 支持和其他改进。
+
+teddit.net/r/jailbreak/comme…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m</guid>
+      <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
+    </item>
     <item>
       <title>？ʕ•̫͡•ʕ•̫͡•ʔ？</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1785228993551319523#m</link>
@@ -23,7 +35,7 @@
 - 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
 - (BFU) FSUntether 的东西并没有被考虑作为一种 untether 的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最晚的 untether）
 - 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些组的最佳越狱类型）
-- Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx）
+- untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx）
 - 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
 现在，进入这个巨大的帖子：
@@ -75,7 +87,7 @@ PAC 旁路 (A12+)：
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
-- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
 - (arm64e) dmaFail PPL 绕过 untether
@@ -100,7 +112,7 @@ PAC 旁路 (A12+)：
 - 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
 - (BFU) FSUntether 的东西不被视为一种不受束缚的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最迟的不受束缚）
 - 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些分组的最佳越狱类型）
-- untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
+- Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
 - 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
 现在，进入这个巨大的帖子：
@@ -271,18 +283,6 @@ Gochiusa 第二季 ED 故事板视频
 抄送 @wh1te4ever]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1763524092953755774#m</guid>
       <pubDate>Fri, 01 Mar 2024 11:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @dora2ios：Dopamine 2.0.9 已发布 https://github.com/opa334/Dopamine/releases/tag/2.0.9
-
-由于在此版本中发现并修复了一个严重的安全问题，所有以前的 2.x 都已被撤回，不再建议任何人使用。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1763193057724215386#m</link>
-      <description><![CDATA[Dopamine 2.0.9 已发布 github.com/opa334/Dopamine/r…
-
-由于在此版本中发现并修复了一个严重的安全问题，所有之前的 2.x 版本均已撤出，不再建议任何人使用。
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1763193057724215386#m</guid>
-      <pubDate>Thu, 29 Feb 2024 13:22:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

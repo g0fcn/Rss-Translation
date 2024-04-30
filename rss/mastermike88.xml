@@ -3,8 +3,8 @@
   <channel>
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
-    <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 30 Apr 2024 18:20:48 GMT</lastBuildDate>
+    <description>Twitter 消息源：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 30 Apr 2024 21:15:04 GMT</lastBuildDate>
     <item>
       <title>R 致@MasterMike88：提前为它看起来有多糟糕表示歉意（这就是当你将一个方法从死亡中拖出来时会发生的情况）
 
@@ -37,12 +37,12 @@
 - TrollInstallerMDC 正在为 A8 15.5-15.7.1 恢复
 - A8 15.7.2+ 最终将被定向到 Sideloadly 指南（因为我厌倦了 TrollMisaka 的存在）</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1785361493803897266#m</link>
-      <description><![CDATA[Dopamine 2.1 已发布 - 不错的版本。
+      <description><![CDATA[多巴胺 2.1 已发布 - 不错的版本。
 
-指南将在大约一小时内更新（当我真正在家时），但指南中需要注意以下几点：
-- TrollInstallerX 尚未更新 A8 对 15.2+ 的支持（并且很可能在更新之前会稍微更新一下）
-- TrollInstallerMDC 将为 A8 15.5-15.7.1 重新推出
-- A8 15.7.2+ 最终将被引导至 Sideloadly 指南（因为我厌倦了 TrollMisaka 的存在）
+指南将在大约一个小时内更新（当我实际在家时），但指南的注意事项：
+- TrollInstallerX 尚未更新为 A8 对 15.2+ 的支持（并且在更新之前可能还需要一点点）
+- TrollInstallerMDC 正在为 A8 15.5-15.7.1 重新推出
+- A8 15.7.2+ 最终将被定向到 Sideloadly 指南（因为我厌倦了 TrollMisaka 的存在）
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1785361493803897266#m</guid>
       <pubDate>Tue, 30 Apr 2024 17:32:05 GMT</pubDate>
@@ -254,7 +254,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m]]></description>
     <item>
       <title>R 致@MasterMike88：（如果你听不懂我的意思，Apple 事件对于整体越狱来说没有任何意义）</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1782793704547221705#m</link>
-      <description><![CDATA[（如果您不明白我的意思，Apple 活动对于越狱整体而言毫无意义）]]></description>
+      <description><![CDATA[（如果你不明白我的意思，Apple 事件对于整体越狱来说没有任何意义）]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1782793704547221705#m</guid>
       <pubDate>Tue, 23 Apr 2024 15:28:36 GMT</pubDate>
     </item>
@@ -282,9 +282,9 @@ nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m]]></description>
 
 试图转到 15.0.1 来测试某些东西，在 Legacy iOS Kit 真正最终工作之前，需要使用三种不同的工具并进行 10 次不同的尝试。</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1781771643888542092#m</link>
-      <description><![CDATA[尝试将 SE1 从 15.3.1 恢复到 15.0.1 是世界上最烦人的过程吗？
+      <description><![CDATA[尝试将 SE1 从 15.3.1 恢复到 15.0.1 是地球上最烦人的过程。
 
-尝试转到 15.0.1 进行测试，在 Legacy iOS Kit 真正开始工作之前，我使用了三种不同的工具，尝试了 10 次。]]></description>
+试图转到 15.0.1 来测试某些东西，在旧版 iOS Kit 真正最终工作之前，需要使用三种不同的工具并进行 10 次不同的尝试。]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1781771643888542092#m</guid>
       <pubDate>Sat, 20 Apr 2024 19:47:18 GMT</pubDate>
     </item>
@@ -353,11 +353,11 @@ nitter.esmailelbob.xyz/mysk_co/status/1781003845759299711#m
 
 我赞扬莱利尽最大努力让它发挥作用，尽管雷区的设置让他的任务变得困难。我们已经看到苹果的态度有所缓和，现在允许直接从网络下载应用程序，所以也许这毕竟是值得的。我们看看会发生什么……</title>
       <link>http://nitter.esmailelbob.xyz/hbkirb/status/1780792377235640665#m</link>
-      <description><![CDATA[快速提醒一下，AltStore PAL 已在欧盟推出，它充当 iOS 应用市场 API 的通用安装程序。应用程序仍然需要得到苹果的批准。他们称之为“公证”，但事实并非如此。它的应用程序评论（几乎）就像在 App Store 上一样。
+      <description><![CDATA[现在，AltStore PAL 已在欧盟推出，它充当 iOS 应用市场 API 的通用安装程序。应用程序仍需获得 Apple 批准。他们称之为“公证”，但事实并非如此。它几乎就像 App Store 上的 App Review。
 
-这么说并不是为了贬低 Riley 和他的扎实工作，但我个人对看到这个发布并受到如此关注有点不高兴，因为这意味着对苹果故意妥协的欧盟解决方案的支持。这些条款的目的是让苹果看起来像是在做正确的事情，但同时又做出了如此妥协，以至于很少有开发者愿意使用它。但也许它确实存在以突出其缺陷是一件好事，就像我们在下面看到的那样。
+我这样说并不是要贬低 Riley 和他的扎实工作，但我个人对看到这个发布并受到如此关注感到有点不高兴，因为它暗示支持 Apple 故意妥协的欧盟解决方案。这些条款旨在让 Apple 看起来在做正确的事情，但妥协程度如此之高，以至于很少有开发人员愿意使用它。但也许它的存在是为了突出其缺陷，就像我们在下面看到的一样。
 
-我赞扬莱利尽最大努力让它发挥作用，尽管雷区的设置让他的任务变得困难。我们已经看到苹果的态度有所缓和，现在允许直接从网络下载应用程序，所以也许这毕竟是值得的。我们会看看会发生什么......
+我赞扬 Riley 尽最大努力让它发挥作用，尽管设置了雷区使他的任务变得困难。而且我们已经看到苹果有所让步，现在允许直接从网络下载应用程序，所以也许这毕竟是值得的。我们拭目以待吧……
 nitter.esmailelbob.xyz/luciascarlet/status/1780738568316440741#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/hbkirb/status/1780792377235640665#m</guid>
       <pubDate>Thu, 18 Apr 2024 02:56:02 GMT</pubDate>
