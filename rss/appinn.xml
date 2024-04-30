@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 09:16:37 GMT</lastBuildDate>
     <item>
       <title>开源免费的全平台服务器监控及SSH客户端</title>
       <link>https://meta.appinn.net/t/topic/55805</link>
@@ -422,49 +422,6 @@ honwhy/words-100-helper: rewrite of @marmot-z/baicizhan-helper (github.com)
       <pubDate>Thu, 18 Apr 2024 14:02:36 GMT</pubDate>
     </item>
     <item>
-      <title>【自荐】创业零基础自己记账报税软件，自记账app（付费但很实用）</title>
-      <link>https://meta.appinn.net/t/topic/55356</link>
-      <description><![CDATA[软件名称：
-自记账-企业做账不找代理记账。零基础自己记账报税
-应用平台：
-
-
-安卓
-
-
-iOS
-
-
-推荐类型：
-【开发者自荐】
-一句简介：
-适用于创业初期，注册公司、需要零申报业务的创业者，自己做老板，自己记账，自动报税，实时查看企业盈亏报表。
-应用简介：
-曾经，中小企业个体户想要记账报税，必须通过代理记账。一年几千元的费用，让绝大多数刚起步的企业负担沉重。很多人希望可以自己完成记账报税，但是大家苦于没有专业的会计知识，哪怕想合法的零申报，都必须要通过代理记账。现在，终于有一个产品，可以让大家可以零基础自己完成记账报税了。
-开发中功能：
-软件优化
-截图预览：
-!!
-官方网站：
-
-
-
-zijizhang.com
-
-
-自记账-零基础自己记账报税，做账报税无需代理记账
-做账无需请代理记账公司，零基础自己记账报税，自记账App能自助完成工资单、社保公积金缴纳，缩减90%公司维护成本,自记账软件专为中小微企业、个体户设计，免费支持旧账导入
-
-
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/55356</guid>
-      <pubDate>Thu, 18 Apr 2024 08:05:44 GMT</pubDate>
-    </item>
-    <item>
       <title>请问这个搜索提示如何去掉</title>
       <link>https://meta.appinn.net/t/topic/44764</link>
       <description><![CDATA[请问在chrome浏览器中，将默认搜索引擎设置为谷歌，然后新打开一个标签页，这时候就会出现历史搜索记录，怎么样才能不让这里展示默认搜索记录（可以在设置里进行设置吗）
@@ -503,6 +460,64 @@ treesheets主页及下载：
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/34715</guid>
       <pubDate>Fri, 29 Jul 2022 08:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】简单易用的书签管理器 - Ease Bookmarks</title>
+      <link>https://meta.appinn.net/t/topic/29473</link>
+      <description><![CDATA[
+Ease Bookmarks
+Ease Bookmarks 是一款为了替代浏览器原有书签栏的扩展
+在此基础上，尽可能满足各类 书签使用习惯 用户的需求
+特点：简单易用，支持多列
+
+主要功能
+
+修改书签的默认打开方式
+对书签的各种基本操作（编辑、删除、移动等）
+书签多列显示
+在未使用本扩展时，不占用后台
+
+另外，本扩展对 JS 小书签 进行了特别支持~
+
+使用快捷键
+打开/关闭 本扩展
+默认快捷键是 Ctrl + Q，你可以在如下管理页面进行修改：
+
+Chrome：chrome://extensions/shortcuts
+
+Edge：edge://extensions/shortcuts
+
+
+功能键
+
+Ctrl：在 当前标签/新标签 打开页面
+Shift：是否在后台打开页面
+
+
+自定义
+
+别名（书签栏和其他书签，其他语言可能会需要）
+自定义样式（popup 页面，DOM 结构可在 header 区域 右键 -&gt; 检查 查看）
+
+
+截图
+
+
+
+
+
+
+更新日志
+ChangeLog.md
+
+其他
+源代码：GitHub
+Chrome 商店：Ease Bookmarks
+Edge 商店：Ease Bookmarks
+7 个帖子 - 5 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/29473</guid>
+      <pubDate>Wed, 26 Jan 2022 05:48:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
