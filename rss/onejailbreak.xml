@@ -3,8 +3,47 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:12:24 GMT</lastBuildDate>
+    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 30 Apr 2024 18:20:07 GMT</lastBuildDate>
+    <item>
+      <title>🤔这里有人是 http://fosstodon.org 的会员吗？我很想收到邀请🤠</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785372089072971864#m</link>
+      <description><![CDATA[🤔这里有人是 fosstodon.org 的会员吗？我渴望收到邀请🤠]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785372089072971864#m</guid>
+      <pubDate>Tue, 30 Apr 2024 18:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔥PPPwn 是适用于 PlayStation 4 FW 11.00 之前的内核远程代码执行漏洞。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快就可以使用 stage2.bin 负载实现 🎮
+
+https://github.com/TheOfficialFloW/PPPwn
+
+#PS4 #PlayStation #PlayStation4 #expliot #jailbreak #PPPwn</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785368806526697687#m</link>
+      <description><![CDATA[🔥PPPwn 是适用于 PlayStation 4 固件版本 11.00 及更高版本的内核远程代码执行漏洞。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快就可以使用 stage2.bin 负载实现 🎮
+
+github.com/TheOfficialFloW/P…
+
+#PS4 #PlayStation #PlayStation4 #expliot #jailbreak #PPPwn
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785368806526697687#m</guid>
+      <pubDate>Tue, 30 Apr 2024 18:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀Dopamine 2.1 已推出，支持 A8(X) 设备并进行其他改进 🗣️🔥
+
+https://onejailbreak.com/blog/dopamine-jailbreak/
+
+#越狱 #iOS15 #iOS16 #Dopamine #Dopamine2</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785359090463780918#m</link>
+      <description><![CDATA[🚀Dopamine 2.1 已推出，支持 A8(X) 设备并进行其他改进 🗣️🔥
+
+onejailbreak.com/blog/dopami…
+
+#jailbreak #iOS15 #iOS16 #Dopamine #Dopamine2
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785359090463780918#m</guid>
+      <pubDate>Tue, 30 Apr 2024 17:22:32 GMT</pubDate>
+    </item>
     <item>
       <title>📰多巴胺2.1正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
 
@@ -18,7 +57,7 @@ https://github.com/opa334/Dopamine/tree/2.1
 
 #多巴胺2 #越狱 #iOS15 #iOS16 #iPhone15</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</link>
-      <description><![CDATA[📰多巴胺 2.1 正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
+      <description><![CDATA[📰多巴胺2.1正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
 
 - 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
 - 添加了multicast_bytecopy和weightBufs漏洞
@@ -93,11 +132,11 @@ onejailbreak.com/blog/transl…
       <pubDate>Tue, 30 Apr 2024 13:28:32 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @onejailbreak_：🧌UTM for iOS 支持在 iPhone 或 iPad 上运行 Windows 或 Linux 等桌面操作系统 🖥️
+      <title>RT by @onejailbreak_：🧌iOS 版 UTM 支持在 iPhone 或 iPad 上运行 Windows 或 Linux 等桌面操作系统🖥️
 
 https://onejailbreak.com/blog/utm/
 
-🚀UTM 4.5.2 现已发布，提供错误修复，并计划将其作为免费应用发布在 App Store 中！
+🚀UTM 4.5.2 已提供错误修复，并计划将其作为免费应用程序在 App Store 中发布！
 
 #iOS #Windows #Linux #TrollStore2 #jailbreak #iPhone #iOS17 #iOS16</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785208531848712292#m</link>
@@ -136,13 +175,13 @@ onejailbreak.com/blog/charge…
       <pubDate>Mon, 29 Apr 2024 17:22:10 GMT</pubDate>
     </item>
     <item>
-      <title>📢LiveContainer 已更新，修复了在 LiveContainer 中运行时 CydiaSubstrate 的问题🔥
+      <title>📢LiveContainer 已更新，修复了在 LiveContainer 中运行时的 CydiaSubstrate 问题 🔥
 
 http://onejailbreak.com/blog/livecontainer/
 
-调整后的应用程序（如 uYou+ 等）现在应该可以正常工作了。下载适用于 iOS 15 – iOS 17 的 TrollStore 替代品的最新版本 📦🚀
+uYou+ 等经过调整的应用程序现在应该可以使用了。下载适用于 iOS 15 – iOS 17 的 TrollStore 替代方案的最新版本 📦🚀
 
-作者：@TranKha50277352
+通过@TranKha50277352
 
 #iOS17 #TrollStore #iPhone #nojailbreak #iOS #iOS15</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784959322989928573#m</link>
@@ -160,13 +199,6 @@ uYou+ 等经过调整的应用程序现在应该可以使用了。下载适用�
       <pubDate>Mon, 29 Apr 2024 14:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>📣 2024 年你还在使用 RSS 吗？ 🤔</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784935792365760966#m</link>
-      <description><![CDATA[📣 2024 年你还在使用 RSS 吗？ 🤔]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784935792365760966#m</guid>
-      <pubDate>Mon, 29 Apr 2024 13:20:30 GMT</pubDate>
-    </item>
-    <item>
       <title>RT @onejailbreak_：📢RootHide Jailbreak 有了新的更新 – 1.0.8。此版本隐藏了更多越狱痕迹，允许您努力运行应用程序以使其无法在越狱环境中运行🔥
 
 https://onejailbreak.com/blog/roothide-jailbreak/
@@ -175,11 +207,11 @@ https://onejailbreak.com/blog/roothide-jailbreak/
 
 #iOS15 #RootHide #jailbreak #iPhone #Dopamine</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783192878035956012#m</link>
-      <description><![CDATA[📢RootHide Jailbreak 获得了新的更新 – 1.0.8。此版本隐藏了更多越狱痕迹，让您可以运行应用程序，努力使它们在越狱环境中无法运行🔥
+      <description><![CDATA[📢RootHide Jailbreak 有了新的更新 – 1.0.8。此版本隐藏了更多越狱痕迹，允许您努力运行应用程序，使其无法在越狱环境中运行🔥
 
 onejailbreak.com/blog/roothi…
 
-by @roothideDev
+作者：@roothideDev
 
 #iOS15 #RootHide #jailbreak #iPhone #Dopamine
 ]]></description>
@@ -227,56 +259,16 @@ https://onejailbreak.com/blog/deleo/
 
 #iOS7 #iOS13 #iOS14 #iOS15 #SHSH #downgrade</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1775460157251559722#m</link>
-      <description><![CDATA[💻Futurerestore 是使用 blob 将 iOS 降级为未签名固件的首选解决方案。但随着最近 Deleo 的出现，这一领域正在迅速发展🚀🔥
+      <description><![CDATA[💻Futurerestore 一直是使用 blob 将 iOS 降级为未签名固件的首选解决方案。但随着 Deleo 的出现，形势正在迅速变化🚀🔥
 
 onejailbreak.com/blog/deleo/
 
-作者：@_m1sta
+by @_m1sta
 
 #iOS7 #iOS13 #iOS14 #iOS15 #SHSH #downgrade
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1775460157251559722#m</guid>
       <pubDate>Wed, 03 Apr 2024 09:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @onejailbreak_：📚有很多可以与多巴胺一起使用的无根调整。发现您今天可以安装的最佳产品！ 🔥
-
-https://onejailbreak.com/blog/jailbreak-tweaks-dopamine/
-
-#越狱 #Dopamine2 #Dopamine #iOS15 #iOS16</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1758545218075316259#m</link>
-      <description><![CDATA[📚有很多可与多巴胺配合使用的无根调整。发现您今天可以安装的最佳产品！ 🔥
-
-onejailbreak.com/blog/jailbr…
-
-#jailbreak #Dopamine2 #Dopamine #iOS15 #iOS16
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1758545218075316259#m</guid>
-      <pubDate>Fri, 16 Feb 2024 17:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @onejailbreak_：✅2023 年最佳 AltStore 来源和存储库。
-
-https://onejailbreak.com/blog/altstore-sources/
-
-AltStore 源由 JSON 文件组成，其中包含 IPA 文件的直接链接和附加信息。
-
-我已经编制了 AltStore 来源列表，但如果您有任何自己的建议，请随时留下推文。
-
-#iOS #iOS16 #iOS15 #iOS14 #jailbreak #nojailbreak #xinaa15 #palera1n #unc0ver #checkra1n #altstore #trollstore #iPhone #iPad</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1643513313924460544#m</link>
-      <description><![CDATA[✅2023 年最佳 AltStore 来源和存储库。
-
-onejailbreak.com/blog/altsto…
-
-AltStore 源由 JSON 文件组成，其中包含 IPA 文件的直接链接和附加信息。 
-
-我已经整理了 AltStore 来源列表，但如果您有任何自己的建议，请随时留言。
-
-#iOS #iOS16 #iOS15 #iOS14 #jailbreak #nojailbreak #xinaa15&lt; /a&gt; #palera1n #unc0ver #checkra1n #altstore #trollstore #iPhone  #iPad
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1643513313924460544#m</guid>
-      <pubDate>Wed, 05 Apr 2023 07:18:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
