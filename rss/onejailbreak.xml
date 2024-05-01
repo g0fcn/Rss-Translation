@@ -3,10 +3,33 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 06:20:49 GMT</lastBuildDate>
+    <description>Twitter 消息源：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 01 May 2024 09:16:42 GMT</lastBuildDate>
     <item>
-      <title>🤔这里有人是 http://fosstodon.org 的会员吗？我很想收到邀请🤠</title>
+      <title>关注我，了解越狱新闻、最新应用程序和调整以及其他相关 iOS 内容。</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785596523406819668#m</link>
+      <description><![CDATA[关注我，了解越狱新闻、最新应用和调整以及其他相关 iOS 内容。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785596523406819668#m</guid>
+      <pubDate>Wed, 01 May 2024 09:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。 1.8版本上线，微信助手功能和物理音量键快速录音功能🚀🔥
+
+https://onejailbreak.com/blog/trollrecorder/
+
+#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone #iOS15 #iOS16 #iOS17</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785559876049015038#m</link>
+      <description><![CDATA[🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。 1.8版本上线，新增微信助手功能和实体音量键快速录音功能🚀🔥
+
+onejailbreak.com/blog/trollr…
+
+#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone #iOS15 #iOS16&lt; /a&gt; #iOS17
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785559876049015038#m</guid>
+      <pubDate>Wed, 01 May 2024 06:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>🤔这里有人是 http://fosstodon.org 的会员吗？我迫不及待地想收到邀请🤠</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785372089072971864#m</link>
       <description><![CDATA[🤔这里有人是 fosstodon.org 的成员吗？我渴望收到邀请🤠]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785372089072971864#m</guid>
@@ -29,13 +52,13 @@ github.com/TheOfficialFloW/P…
       <pubDate>Tue, 30 Apr 2024 18:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>🚀Dopamine 2.1 现已推出，支持 A8(X) 设备并进行其他改进 🗣️🔥
+      <title>🚀Dopamine 2.1 已推出，支持 A8(X) 设备并进行其他改进 🗣️🔥
 
 https://onejailbreak.com/blog/dopamine-jailbreak/
 
-#jailbreak #iOS15 #iOS16 #Dopamine #Dopamine2</title>
+#越狱 #iOS15 #iOS16 #Dopamine #Dopamine2</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785359090463780918#m</link>
-      <description><![CDATA[🚀Dopamine 2.1 现已推出，支持 A8(X) 设备和其他改进 🗣️🔥
+      <description><![CDATA[🚀Dopamine 2.1 已推出，支持 A8(X) 设备并进行其他改进 🗣️🔥
 
 onejailbreak.com/blog/dopami…
 
@@ -57,7 +80,7 @@ https://github.com/opa334/Dopamine/tree/2.1
 
 #多巴胺2 #越狱 #iOS15 #iOS16 #iPhone15</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</link>
-      <description><![CDATA[📰多巴胺 2.1 正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
+      <description><![CDATA[📰多巴胺2.1正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
 
 - 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
 - 添加了multicast_bytecopy和weightBufs漏洞
@@ -100,13 +123,13 @@ https://onejailbreak.com/blog/helium-trollstore/
 
 #jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</link>
-      <description><![CDATA[🧌Helium 是一款将小部件直接集成到 iOS 15 至最新 17.0🗣️ 状态栏的工具
+      <description><![CDATA[🧌Helium 是一款在 iOS 15 到最新 17.0 上将小部件直接集成到状态栏的工具🗣️
 
 onejailbreak.com/blog/helium…
 
-👨‍💻AsakuraFuuko 正在通过维护应用程序并添加新功能和改进来掌控全局。新的测试版本附带天气 API 🚀
+👨‍💻AsakuraFuuko 负责维护应用程序并添加新功能和改进。新的测试版本附带天气 API 🚀
 
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple #nojailbreak
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</guid>
       <pubDate>Tue, 30 Apr 2024 14:11:19 GMT</pubDate>
@@ -120,13 +143,13 @@ https://onejailbreak.com/blog/translomatic-tweak/
 
 #jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785300201806209498#m</link>
-      <description><![CDATA[🧩Translomatic 是 FoxFortMobile 推出的一款出色的越狱插件，可让用户快速翻译屏幕上显示的任何选定文本 🗣️
+      <description><![CDATA[🧩Translomatic 是 FoxFortMobile 推出的一项令人惊叹的越狱调整，它允许用户快速翻译屏幕上显示的任何选定文本🗣️
 
 onejailbreak.com/blog/transl…
 
-📰Translomatic 2.18.19 已发布，它修复了 Youtube v19.16.3 评论的重叠按钮。
+📰Translomatic 2.18.19 发布，修复了 Youtube v19.16.3 评论的重叠按钮。
 
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785300201806209498#m</guid>
       <pubDate>Tue, 30 Apr 2024 13:28:32 GMT</pubDate>
@@ -170,33 +193,9 @@ onejailbreak.com/blog/charge…
     <item>
       <title>嘿！ 👋如果您看到此内容，请通过点赞或评论来表明您的存在！ 📣 我目前正在测试你们中有多少人在自己的动态中看到我的帖子 👨‍💼 这次 Twitter Premium 处于活动状态 📈</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784996609735979090#m</link>
-      <description><![CDATA[嘿那里！ 👋如果您看到此内容，请通过点赞或评论来表明您的存在！ 📣 我目前正在测试你们中有多少人在自己的 Feed 中看到了我的帖子 👨‍💼 这次 Twitter Premium 处于活动状态 📈]]></description>
+      <description><![CDATA[嘿那里！ 👋如果您看到此内容，请通过点赞或评论来表明您的存在！ 📣 我目前正在测试你们中有多少人在您的 Feed 中看到我的帖子 👨‍💼 这次 Twitter Premium 处于活动状态 📈]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784996609735979090#m</guid>
       <pubDate>Mon, 29 Apr 2024 17:22:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>📢LiveContainer 已更新，修复了在 LiveContainer 中运行时的 CydiaSubstrate 问题 🔥
-
-http://onejailbreak.com/blog/livecontainer/
-
-uYou+ 等经过调整的应用程序现在应该可以使用了。下载适用于 iOS 15 – iOS 17 的 TrollStore 替代方案的最新版本 📦🚀
-
-通过@TranKha50277352
-
-#iOS17 #TrollStore #iPhone #nojailbreak #iOS #iOS15</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784959322989928573#m</link>
-      <description><![CDATA[📢LiveContainer 已更新，修复了在 LiveContainer 中运行时的 CydiaSubstrate 问题 🔥
-
-onejailbreak.com/blog/liveco…
-
-uYou+ 等经过调整的应用程序现在应该可以使用了。下载适用于 iOS 15 的 TrollStore 替代方案的最新版本 - iOS 17 📦🚀
-
-作者：@TranKha50277352
-
-#iOS17 #TrollStore #iPhone #nojailbreak #iOS #iOS15
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1784959322989928573#m</guid>
-      <pubDate>Mon, 29 Apr 2024 14:54:00 GMT</pubDate>
     </item>
     <item>
       <title>RT @onejailbreak_：📢RootHide Jailbreak 有了新的更新 – 1.0.8。此版本隐藏了更多越狱痕迹，允许您努力运行应用程序以使其无法在越狱环境中运行🔥
@@ -219,7 +218,7 @@ onejailbreak.com/blog/roothi…
       <pubDate>Wed, 24 Apr 2024 17:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>RT @onejailbreak_：📚Palera1n 仍然是旧设备上最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
+      <title>RT by @onejailbreak_：📚Palera1n 仍然是旧设备最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
 
 https://onejailbreak.com/blog/palera1n-jailbreak/
 
@@ -241,7 +240,7 @@ https://onejailbreak.com/blog/how-to-install-altstore-pal/
 
 #AppStore #AltStore #AltStorePAL #iOS #iPhone</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</link>
-      <description><![CDATA[🔥了解如何在您的 iPhone 上安装 AltStore PAL 并发现市场限制和有关侧载的重要信息。它不是你想象的那样 📚
+      <description><![CDATA[🔥了解如何在 iPhone 上安装 AltStore PAL，并了解市场限制和有关侧面加载的重要信息。事情不是你想的那样📚
 
 onejailbreak.com/blog/how-to…
 
@@ -249,26 +248,6 @@ onejailbreak.com/blog/how-to…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</guid>
       <pubDate>Thu, 18 Apr 2024 07:22:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @onejailbreak_：💻Futurerestore 一直是使用 blob 将 iOS 降级为未签名固件的首选解决方案。但随着最近 Deleo 的出现，这一领域正在迅速发展🚀🔥
-
-https://onejailbreak.com/blog/deleo/
-
-通过@_m1sta
-
-#iOS7 #iOS13 #iOS14 #iOS15 #SHSH #downgrade</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1775460157251559722#m</link>
-      <description><![CDATA[💻Futurerestore 是使用 blob 将 iOS 降级为未签名固件的首选解决方案。但随着最近 Deleo 的出现，这一领域正在迅速发展🚀🔥
-
-onejailbreak.com/blog/deleo/
-
-作者：@_m1sta
-
-#iOS7 #iOS13 #iOS14 #iOS15 #SHSH #downgrade
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1775460157251559722#m</guid>
-      <pubDate>Wed, 03 Apr 2024 09:47:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
