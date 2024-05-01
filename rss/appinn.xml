@@ -4,7 +4,17 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 09:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:13:25 GMT</lastBuildDate>
+    <item>
+      <title>有没有在singlefile保存前全部展开知乎所有回答和所有评论的脚本？</title>
+      <link>https://meta.appinn.net/t/topic/55912</link>
+      <description><![CDATA[知乎现在不能用waybackmarchine做archive了，只好用singlefile
+目前遇到的问题是评论要点个按钮才能全部展开，而且页面是翻到底部才加载下一页
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/55912</guid>
+      <pubDate>Wed, 01 May 2024 18:05:56 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】摄影 App 胶片拾光，五一促销：1元买断</title>
       <link>https://meta.appinn.net/t/topic/55899</link>
@@ -424,32 +434,6 @@ X7WEJA4KWAX7
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/55489</guid>
       <pubDate>Sun, 21 Apr 2024 11:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>求一个可自定义的多引擎信息整合搜索工具</title>
-      <link>https://meta.appinn.net/t/topic/55458</link>
-      <description><![CDATA[需求是把某个关键词相关的搜索信息同时呈现，以全面获取信息，并且尽最大可能去掉繁琐的手动操作
-想要解决的问题：由于人懒而错过很多重要信息，用多引擎搜索相同的内容耗费大量输入和拖动/切换窗口的时间
-适合的人群：创意研究人士，信息收集爱好者，普通大众
-额外功能可以包括：
-提供信息源库供选择
-自定义的搜索引擎库，调用网站内置搜索
-调用chatgpt等AI引擎
-在某个搜索列表中自动打开展示第一个条目，类似google手气不错
-UA切换
-搜索剪切板内容
-调用本机外部程序进行本地搜索，比如everything
-自动用关联程序打开everything结果的第一个条目
-自动排版和手动拖动排版
-可切换的引擎组合配置，并行使用多个配置
-配置和引擎的导出/导入/共享
-触发的方式可以是选中词语之后按快捷键，或者选中词语后自动搜索，鼠标停留超时触发等等
-类似于下面的样子，不知道有没有现成的工具，或者有没有朋友有兴趣实现
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/55458</guid>
-      <pubDate>Sat, 20 Apr 2024 14:29:25 GMT</pubDate>
     </item>
     <item>
       <title>请问这个搜索提示如何去掉</title>
