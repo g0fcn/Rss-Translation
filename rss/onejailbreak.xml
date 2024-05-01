@@ -3,12 +3,12 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 30 Apr 2024 18:20:07 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 01 May 2024 03:18:45 GMT</lastBuildDate>
     <item>
-      <title>🤔这里有人是 http://fosstodon.org 的会员吗？我很想收到邀请🤠</title>
+      <title>🤔这里有人是 http://fosstodon.org 的会员吗？我迫不及待地想收到邀请🤠</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785372089072971864#m</link>
-      <description><![CDATA[🤔这里有人是 fosstodon.org 的会员吗？我渴望收到邀请🤠]]></description>
+      <description><![CDATA[🤔这里有人是 fosstodon.org 的成员吗？我渴望收到邀请🤠]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785372089072971864#m</guid>
       <pubDate>Tue, 30 Apr 2024 18:14:11 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@ https://github.com/opa334/Dopamine/tree/2.1
 
 #多巴胺2 #越狱 #iOS15 #iOS16 #iPhone15</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</link>
-      <description><![CDATA[📰多巴胺2.1正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
+      <description><![CDATA[📰多巴胺 2.1 正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
 
 - 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
 - 添加了multicast_bytecopy和weightBufs漏洞
@@ -72,11 +72,11 @@ github.com/opa334/Dopamine/t…
       <pubDate>Tue, 30 Apr 2024 14:26:20 GMT</pubDate>
     </item>
     <item>
-      <title>⬇️Gopeed（全称Go Speed）是一款支持（HTTP、BitTorrent、Magnet）协议的iOS设备高速下载器📦🚀
+      <title>⬇️Gopeed（全名 Go Speed）是一款高速下载器，支持 iOS 设备的（HTTP、BitTorrent、Magnet）协议 📦🚀
 
 https://github.com/GopeedLab/gopeed
 
-📰版本 1.5.6 已发布，修复了错误！下载最新的 IPA 进行侧面加载 📱
+📰1.5.6 版发布，修复了错误！下载最新的 IPA 进行侧载 📱
 
 #jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785311930711699867#m</link>
@@ -92,21 +92,21 @@ github.com/GopeedLab/gopeed
       <pubDate>Tue, 30 Apr 2024 14:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>🧌Helium 是一款在 iOS 15 到最新 17.0 上将小部件直接集成到状态栏的工具🗣️
+      <title>🧌Helium 是一款将小部件直接集成到 iOS 15 到最新 17.0 的状态栏中的工具🗣️
 
 https://onejailbreak.com/blog/helium-trollstore/
 
-👨‍💻AsakuraFuuko 负责维护应用程序并添加新功能和改进。新的测试版本附带天气 API 🚀
+👨‍💻AsakuraFuuko 正在通过维护应用程序并添加新功能和改进来掌控全局。新的测试版本附带天气 API 🚀
 
 #jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</link>
-      <description><![CDATA[🧌Helium 是一款在 iOS 15 到最新 17.0 上将小部件直接集成到状态栏的工具🗣️
+      <description><![CDATA[🧌Helium 是一款将小部件直接集成到 iOS 15 至最新 17.0🗣️ 状态栏的工具
 
 onejailbreak.com/blog/helium…
 
-👨‍💻AsakuraFuuko 负责维护应用程序并添加新功能和改进。新的测试版本附带天气 API 🚀
+👨‍💻AsakuraFuuko 正在通过维护应用程序并添加新功能和改进来掌控全局。新的测试版本附带天气 API 🚀
 
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple #nojailbreak
+#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</guid>
       <pubDate>Tue, 30 Apr 2024 14:11:19 GMT</pubDate>
@@ -152,7 +152,7 @@ onejailbreak.com/blog/utm/
       <pubDate>Tue, 30 Apr 2024 07:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>🧌ChargeLimiter 有助于避免长时间过度充电对 iPhone 电池造成的不利影响。 v1.6 针对电流管理能力较差的电池添加了电流限制模式🔋🪫
+      <title>🧌ChargeLimiter 有助于避免长时间过度充电对 iPhone 电池造成的不利影响。v1.6 增加了电流限制模式，适用于电流管理能力较差的电池🔋🪫
 
 https://onejailbreak.com/blog/chargelimiter-tweak/
 
@@ -259,11 +259,11 @@ https://onejailbreak.com/blog/deleo/
 
 #iOS7 #iOS13 #iOS14 #iOS15 #SHSH #downgrade</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1775460157251559722#m</link>
-      <description><![CDATA[💻Futurerestore 一直是使用 blob 将 iOS 降级为未签名固件的首选解决方案。但随着 Deleo 的出现，形势正在迅速变化🚀🔥
+      <description><![CDATA[💻Futurerestore 是使用 blob 将 iOS 降级为未签名固件的首选解决方案。但随着最近 Deleo 的出现，这一领域正在迅速发展🚀🔥
 
 onejailbreak.com/blog/deleo/
 
-by @_m1sta
+作者：@_m1sta
 
 #iOS7 #iOS13 #iOS14 #iOS15 #SHSH #downgrade
 ]]></description>

@@ -3,8 +3,37 @@
   <channel>
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
-    <description>Twitter 消息源：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 30 Apr 2024 18:20:59 GMT</lastBuildDate>
+    <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 01 May 2024 03:19:45 GMT</lastBuildDate>
+    <item>
+      <title>显然，要在没有回归的情况下发布多巴胺主要版本是非常困难的:(
+
+也就是说，2.1.1 已经解决了这些问题
+https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
+      <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
+
+也就是说，2.1.1 已经解决了这些问题
+github.com/opa334/Dopamine/r…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</guid>
+      <pubDate>Tue, 30 Apr 2024 23:51:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>R to @opa334dev：（由于这个问题只影响 OTA 更新，所以没有必要推送新版本，已经更新的人不需要担心这个新版本）</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</link>
+      <description><![CDATA[（由于此问题仅影响 OTA 更新，因此没有必要推送新版本，已更新的人无需担心此新版本）]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</guid>
+      <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
+      <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
+nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</guid>
+      <pubDate>Tue, 30 Apr 2024 21:15:38 GMT</pubDate>
+    </item>
     <item>
       <title>Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
 
@@ -25,9 +54,9 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
+      <title>回复 @opa334dev：呃，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱时启动应用程序是可行的……</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......]]></description>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
@@ -44,9 +73,9 @@ teddit.net/r/jailbreak/comme…
 
 它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
-      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我试图调查导致它的原因...
+      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
-它是用 Swift 编写的，所以不幸的是我无法找出导致它的原因&gt;。&lt; 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
     </item>
@@ -67,9 +96,9 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：确认不起作用💔</title>
+      <title>R 至@opa334dev：确认无法正常工作💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
-      <description><![CDATA[确认不工作💔]]></description>
+      <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
@@ -79,10 +108,10 @@ Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
-      <description><![CDATA[Dopamine 2.1 Nightly：nightly.link/opa334/Dopamine…
-Ellekit Nightly：nightly.link/evelyneee/ellek…
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
+Ellekit 每晚：nightly.link/evelyneee/ellek…
 
-请注意，如果这些方法无法解决问题，则该问题不太可能完全解决，因为这是我的最后想法。有关内存布线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
+请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</guid>
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
     </item>
@@ -108,31 +137,6 @@ Ellekit Nightly：nightly.link/evelyneee/ellek…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1781182130266980676#m</guid>
       <pubDate>Fri, 19 Apr 2024 04:44:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@opa334dev：你真丢脸，@Apple</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780733082229731716#m</link>
-      <description><![CDATA[你真丢脸，@Apple]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780733082229731716#m</guid>
-      <pubDate>Wed, 17 Apr 2024 23:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟可以解决这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是哪门子胡说八道？</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</link>
-      <description><![CDATA[欧盟可以修复这些垃圾吗？一名开发人员现在在 App Store 上被收取过高的费用，因为他还在其他商店上托管他的应用程序？这是什么鬼话？]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1780732944212210117#m</guid>
-      <pubDate>Wed, 17 Apr 2024 22:59:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>感谢 @POC_Crew 让我参加 #Zer0Con2024
-
-真是太棒了😄</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</link>
-      <description><![CDATA[感谢@POC_Crew邀请我参加#Zer0Con2024 
-
-太棒了😄]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1777561301226574071#m</guid>
-      <pubDate>Tue, 09 Apr 2024 04:56:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
