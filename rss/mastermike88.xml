@@ -4,7 +4,19 @@
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
     <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 03:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:21:31 GMT</lastBuildDate>
+    <item>
+      <title>有趣的统计异常
+
+（是的，我正在再次研究这个）</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1785543746773242137#m</link>
+      <description><![CDATA[有趣的统计异常
+
+（是的，我正在再次努力）
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1785543746773242137#m</guid>
+      <pubDate>Wed, 01 May 2024 05:36:17 GMT</pubDate>
+    </item>
     <item>
       <title>有趣的https://twitter.com/i/trending/1785468144326414428</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1785475577727586571#m</link>
@@ -59,7 +71,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
     <item>
       <title>向那些熟悉multicast_bytecopy的人随机提问（我不是因为在15.0-15.1.1上没有A10+设备） - 相对而言它有多可靠？</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1785146196014637235#m</link>
-      <description><![CDATA[向那些熟悉multicast_bytecopy的人随机提问（我不是因为在15.0-15.1.1上没有A10+设备） - 相对而言它有多可靠？]]></description>
+      <description><![CDATA[向熟悉 multicast_bytecopy 的人提出一个随机问题（我不是因为在 15.0-15.1.1 上没有 A10+ 设备） - 相对而言它有多可靠？]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1785146196014637235#m</guid>
       <pubDate>Tue, 30 Apr 2024 03:16:34 GMT</pubDate>
     </item>
@@ -79,82 +91,82 @@ nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
       <pubDate>Mon, 29 Apr 2024 17:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>一次又一次，我们总是会想到“我们假设在 [此处插入 iOS 版本/设备组合] 上可以实现的最佳越狱是什么”。
+      <title>一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
-所以我决定编制一份清单（其中包含来自多位其他开发人员的一些见解），列出我们可以实现的最佳越狱，现在我们做到了。
+因此，我决定编制一个列表（包含来自多个其他开发人员的一些见解），说明我们可以实现的最佳目标是什么，我们就在这里。
 
-注意：
-- 这仅适用于 arm64 和 arm64e - 我不包含 32 位
-- 因为目标是“最佳”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 旁路，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 旁路和 15.0 及更高版本上的 PPL 旁路
-- (BFU) FSUntether 的东西不被视为 untether 的东西，因为是否有人真的想实现它还悬而未决（这是您可能拥有的最晚的 untether）
-- 我们假设 14 及更早版本是 rootful，15 及更高版本是 rootless（这些客观上分别是这些分组的最佳越狱类型）
-- untether 错误没有被直接列出（如果要列出，实际上应该是 7.0 - 9.1 daibutsu， 9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx)
-- 有几处我不太确定，所以当这适用时，您会看到一条评论
+笔记：
+- 这仅适用于arm64和arm64e - 我这里不包括32位
+- 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
+- (BFU) FSUntether 的东西并没有被考虑作为一种 untether 的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最晚的 untether）
+- 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些组的最佳越狱类型）
+- Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx）
+- 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
-现在，进入这篇大帖子：
+现在，进入这个巨大的帖子：
 
 内核漏洞：
-7.0 - 12.2 / 12.4：sock_port/SockPuppet 内容
-12.3.x / 12.4.1 - 13.3：time_waste 内容或 kfd 内容（不完全确定这里哪个更好）
-13.3.1 - 14.1 / 14.6 - 16.6.1：kfd 内容
-14.2 - 14.5.1：kfd 内容或（至少在 arm64e 上？ （虽然不完全确定这个错误是否只存在于 arm64e）Fugu14 的 DriverKit 错误
+7.0 - 12.2 / 12.4：sock_port/SockPuppet 的东西
+12.3.x / 12.4.1 - 13.3：time_waste 的东西或 kfd 的东西（不完全确定这里哪个更好）
+13.3.1 - 14.1 / 14.6 - 16.6.1：kfd 的东西
+14.2 - 14.5.1：kfd 的东西或者（至少在arm64e上？不完全确定这个bug是否只是arm64e）Fugu14的DriverKit bug
 
-KPP 绕过（A7 - A9(X)）：
+KPP 旁路（A7 - A9(X)）：
 9.0 - 9.3.5：
--（A7 - A8(X)）完全 KPP 绕过
--（A9(X)）yalu102 KPP 绕过
+- (A7 - A8(X)) 完全 KPP 旁路
+- (A9(X)) yalu102 KPP 旁路
 10.0 - 10.3.3：yalu102 KPP 绕过
 
-KTRR 绕过（A10+）：
+KTRR 旁路 (A10+)：
 10.0 - 10.1.1：仅数据 KTRR 绕过
 
-PPL 绕过（A12+）：
-（实际上只使用 dmaFail）
+PPL 绕过 (A12+)：
+（实际上只是使用 dmaFail）
 12.0 - 16.5：dmaFail PPL 绕过
 16.5.1：
--（A12 - A14 / M1）：dmaFail PPL 绕过
+- (A12 - A14 / M1)：dmaFail PPL 绕过
 
-PAC 绕过（A12+）：
-14.0 - 14.5.1： Fugu14 PAC 绕过
+PAC 旁路 (A12+)：
+14.0 - 14.5.1：Fugu14 PAC 绕过
 15.0 - 15.4.1：badRecovery PAC 绕过
 
 越狱结果：
 7.0 - 8.4.1：
-- 正常解绑（无需特殊操作）
+- 正常的解绑（没有什么特别需要）
 9.0 - 9.3.4：
-- (A7 - A8(X)) 完整 KPP 绕过解绑
+- (A7 - A8(X)) 全 KPP 旁路解绑
 - (A9(X)) yalu102 KPP 绕过解绑
 9.3.5：
-- (A7 - A8(X)) 完整 KPP 绕过半解绑
-- (A9(X)) yalu102 KPP 绕过半解绑
+- (A7 - A8(X)) 全 KPP 旁路半解链
+- (A9(X)) yalu102 KPP 旁路半解链
 10.0 - 10.1.1：
-- (A7 - A9(X)) yalu102 KPP 绕过半解绑
-- (A10) 仅数据 KTRR 绕过半解绑
+- (A7 - A9(X)) yalu102 KPP 旁路半解链
+- (A10) 仅数据 KTRR 绕过半解链
 10.2 - 10.3.3：
-- (A7 - A9(X)) yalu102 KPP 旁路半解绑
-- (A10(X)) 无 KTRR 半解绑
-11.0 - 11.4.1:
-- 无 KPP/无 KTRR 解绑
-12.0 - 13.7（这个不是 100% 确定）：
-- (arm64) 无 KPP/无 KTRR 半解绑
-- (arm64e) dmaFail PPL 旁路半解绑
-14.0 - 14.5.1:
-- (arm64) 无 KPP/无 KTRR 解绑
-- (arm64e) Fugu14 PAC 旁路 + dmaFail PPL 旁路解绑
-14.6 - 14.8.1:
-- (arm64) 无 KPP/无 KTRR 解绑
-- (arm64e) dmaFail PPL 旁路解绑
-15.0 - 15.4.1:
-- (arm64) KPP-less/KTRR-less 半解绑
-- (arm64e) badRecovery PAC 旁路 + dmaFail PPL 旁路半解绑
-15.5 - 16.5:
-- (arm64) KPP-less/KTRR-less 半解绑
-- (arm64e) dmaFail PPL 旁路半解绑
-16.5.1:
-- (arm64) KPP-less/KTRR-less 半解绑
-- (A12 - A14 / M1) dmaFail PPL 旁路半解绑
-16.6 - 16.6.1:
-- (arm64) KPP-less/KTRR-less 半解绑</title>
+- (A7 - A9(X)) yalu102 KPP 旁路半解链
+- (A10(X)) 无 KTRR 半解链
+11.0 - 11.4.1：
+- 无 KPP/KTRR 无束缚
+12.0 - 13.7（这一点不是 100% 确定）：
+- (arm64) 无 KPP/KTRR 半解链
+- (arm64e) dmaFail PPL 绕过半解绑
+14.0 - 14.5.1：
+- (arm64) 无 KPP/KTRR 无束缚
+- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+14.6 - 14.8.1：
+- (arm64) 无 KPP/KTRR 无束缚
+- (arm64e) dmaFail PPL 绕过 untether
+15.0 - 15.4.1：
+- (arm64) 无 KPP/KTRR 半解链
+- (arm64e) badRecovery PAC 绕过 + dmaFail PPL 绕过半解绑
+15.5 - 16.5：
+- (arm64) 无 KPP/KTRR 半解链
+- (arm64e) dmaFail PPL 绕过半解绑
+16.5.1：
+- (arm64) 无 KPP/KTRR 半解链
+- (A12 - A14 / M1) dmaFail PPL 绕过半解链
+16.6 - 16.6.1：
+- (arm64) 无 KPP/KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
       <description><![CDATA[一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
@@ -263,7 +275,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m]]></description>
     <item>
       <title>R 致@MasterMike88：（如果你听不懂我的意思，Apple 事件对于整体越狱来说没有任何意义）</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1782793704547221705#m</link>
-      <description><![CDATA[（如果你不明白我的意思，Apple 事件对于整体越狱来说没有任何意义）]]></description>
+      <description><![CDATA[（如果您不明白我的意思，Apple 活动对于越狱整体而言毫无意义）]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1782793704547221705#m</guid>
       <pubDate>Tue, 23 Apr 2024 15:28:36 GMT</pubDate>
     </item>
@@ -287,13 +299,13 @@ nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m]]></description>
       <pubDate>Tue, 23 Apr 2024 15:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>尝试将 SE1 从 15.3.1 恢复到 15.0.1 是世界上最烦人的过程。
+      <title>尝试将 SE1 从 15.3.1 恢复到 15.0.1 是地球上最烦人的过程。
 
-尝试转到 15.0.1 进行测试，在 Legacy iOS Kit 真正开始工作之前，我使用了三种不同的工具，进行了 10 次不同的尝试。</title>
+试图转到 15.0.1 来测试某些东西，在 Legacy iOS Kit 真正最终工作之前，需要使用三种不同的工具并进行 10 次不同的尝试。</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1781771643888542092#m</link>
-      <description><![CDATA[尝试将 SE1 从 15.3.1 恢复到 15.0.1 是世界上最烦人的过程吗？
+      <description><![CDATA[尝试将 SE1 从 15.3.1 恢复到 15.0.1 是地球上最烦人的过程。
 
-尝试转到 15.0.1 进行测试，在 Legacy iOS Kit 真正开始工作之前，我使用了三种不同的工具，尝试了 10 次。]]></description>
+试图转到 15.0.1 来测试某些东西，在旧版 iOS Kit 真正最终工作之前，需要使用三种不同的工具并进行 10 次不同的尝试。]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1781771643888542092#m</guid>
       <pubDate>Sat, 20 Apr 2024 19:47:18 GMT</pubDate>
     </item>
@@ -316,23 +328,23 @@ nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m]]></description>
 
 我敢打赌，苹果会利用这些缺陷向当局辩称，嘿，看，没有人使用这个。用户讨厌它，唯一积极的用户体验是我们的应用商店。你能放弃这些规定和诉讼吗？</title>
       <link>http://nitter.esmailelbob.xyz/hbkirb/status/1781180942406869070#m</link>
-      <description><![CDATA[整个市场流程是一场灾难。虽然 AltStore 本身似乎存在大量问题（主要是由于支付系统似乎非常匆忙 - 嘿 Riley，你的人给我的人打电话了吗？🔥），但大多数问题都出在 Apple 的实施中。
+      <description><![CDATA[整个市场流程都是一场灾难。虽然 AltStore 本身似乎存在大量问题（主要是由于支付系统似乎非常仓促 - 嘿 Riley，让你的人给我的人打电话？🔥），但大多数问题都出在 Apple 的实施上。
 
-应用安装没有进度提示。网站用来告诉 iOS 开始安装市场应用程序的 app-marketplace:// URL 方案显示零进度。它只能显示错误消息，例如告诉您不符合资格（不在欧盟），或者您需要转到“设置”才能安装该应用程序。当然，没有任何按钮可以带您进入“设置”，也没有任何说明您在那里做什么。
+应用安装没有进度提示。网站用来告诉 iOS 开始安装市场应用的 app-marketplace:// URL 方案显示零进度。它只能显示错误消息，例如告诉您您不符合条件（不在欧盟），或者您需要转到“设置”以允许安装应用。当然，没有按钮可以带您进入“设置”，也没有任何解释说明您在那里做什么。
 
-进入“设置”后，您的 Apple ID 名称下方会出现一个后续按钮。点击“允许”只会消除提示。没有迹象表明接下来会发生什么。答案是——什么也没有发生。您需要返回 Safari 并再次启动安装。然后，您会收到另一个全屏提示，然后是警报提示。然后应用程序开始下载，但没有任何信息告诉您。点击下载按钮现在没有任何反应。您最终只是想转到主屏幕并找到该应用程序。
+进入“设置”后，Apple ID 名称下方会出现一个后续按钮。点击“允许”只会忽略提示。没有任何迹象表明接下来会发生什么。答案是 - 什么都没有发生。您需要返回 Safari 并再次启动安装。然后，您会收到另一个全屏提示，然后是警报提示。然后应用程序开始下载，但没有任何提示。点击下载按钮现在没有任何反应。您最终只是想转到主屏幕并找到应用程序。
 
-太棒了，我们终于到了！呃，差不多了。现在您找到了想要从市场安装的应用程序，因此您可以这样做。首先，你会在屏幕底部四分之一处看到一个相当难看的提示 - 不清楚这是来自 AltStore 还是 iOS。我的意思是，是的，我点击了安装按钮，我当然确定。然后，您会看到另一个像上面那样的全屏提示（我用完了图像，但布局相同，只是措辞不同，例如“AltStore 希望安装应用程序”）。值得赞扬的是，我使用的是 AltStore 进入欧盟的缓慢 VPN，所以我不知道前几秒缺乏进度指示是他们的错还是我的错。但最终它会显示一个进度条。
+太棒了，我们终于到了！呃，差不多了。现在您找到了一个想要从市场安装的应用程序，所以您这样做了。首先，您会在屏幕的下四分之一处看到一个相当丑陋的提示 - 不清楚这是来自 AltStore 还是 iOS。我的意思是，是的，我点击了安装按钮，当然我确定。然后您会得到另一个像上面那样的全屏提示（我用完了图片，但它是相同的布局，只是措辞不同，例如“AltStore 想要安装应用程序”）。值得称赞的是，我在欧盟使用了一个速度很慢的 VPN，所以我不知道最初几秒钟没有进度指示是他们的错还是我的错。但最终它显示了一个进度条。
 
-（由于我真正希望的是 AltStore 错误而不是 Apple 错误，所以我无法检查该应用程序是否在主屏幕上显示进度条。我卸载了 Delta，现在我无法再安装它！它仍然认为它已安装。）
+（由于我真的希望这是一个 AltStore 错误而不是 Apple 错误，我无法检查应用程序是否在主屏幕上显示进度条。我卸载了 Delta，现在我无法再安装它了！它仍然认为它已经安装好了。）
 
-最后，应用程序安装完毕！我们打开它吧！点击“打开”按钮现在会显示另一个像上面一样的四分之一屏幕弹出提示，询问我是否确定要打开该应用程序。 🙄 哦，好吧，我们终于到了。
+最后，应用程序安装好了！让我们打开它！点击“打开”按钮现在会显示另一个像上面一样的四分之一屏幕弹出提示，询问我是否确定要打开该应用程序。🙄 哦，好吧，我们最终到了那里。
 
-这可以追溯到我对我们目前的处境感到矛盾的时候。我都不喜欢 AltStore 与 Apple 合作，好像是为了表明我们可以接受这个解决方案，但同时，展示 Apple 的解决方案到底有多糟糕也很重要。
+这又让我对我们所处的位置感到矛盾。我既不喜欢 AltStore 与 Apple 合作，好像是为了表明我们认可这个解决方案，但同时，也需要表明 Apple 的解决方案到底有多糟糕。
 
-毫无疑问，如果一个青少年能够在 iOS 4.3（2011！）上构建一个越狱程序，在主屏幕上放置一个带有下载进度条的 Cydia 图标，那么 Apple 可以在这方面做得更好。他们知道自己在做什么。整个过程的草率是故意的，AltStore 每年需要收取 1.5 欧元的费用，这是苹果完全有意强加给市场的障碍。 
+毫无疑问，如果一个青少年能够构建越狱，在 iOS 4.3（2011 年！）的主屏幕上放置一个 Cydia 图标，并带有下载进度条，那么 Apple 可以在这方面做得更好。他们知道自己在做什么。整个过程的草率是故意的，而 AltStore 需要收取 1.50 欧元/年的费用是 Apple 完全打算强加给市场的障碍。
 
-我敢打赌，苹果会利用这些缺陷向当局辩称，嘿，看，没有人使用这个。用户讨厌它，唯一积极的用户体验是我们的应用商店。你能放弃这些规定和诉讼吗？
+我敢打赌，Apple 会利用这些缺点向当局争辩说，嘿，看，没有人使用这个。用户讨厌它，唯一积极的用户体验是我们的应用商店。你能放弃这些规定和诉讼吗？
 nitter.esmailelbob.xyz/mysk_co/status/1781003845759299711#m
 
 
@@ -340,13 +352,6 @@ nitter.esmailelbob.xyz/mysk_co/status/1781003845759299711#m
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/hbkirb/status/1781180942406869070#m</guid>
       <pubDate>Fri, 19 Apr 2024 04:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我觉得我刚刚遇到了可能存在的最糟糕的道德困境，我真的不知道该怎么办。</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1780859142862778868#m</link>
-      <description><![CDATA[我觉得我刚刚遇到了可能是最糟糕的道德困境，我真的不知道该怎么办。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1780859142862778868#m</guid>
-      <pubDate>Thu, 18 Apr 2024 07:21:21 GMT</pubDate>
     </item>
     <item>
       <title></title>
