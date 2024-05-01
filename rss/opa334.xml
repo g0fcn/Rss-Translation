@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 03:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 12:27:40 GMT</lastBuildDate>
     <item>
       <title>显然，要在没有回归的情况下发布多巴胺主要版本是非常困难的:(
 
@@ -27,7 +27,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
+      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上的 OTA 更新（Dopamine 2.0.x -> 2.1）期间出现的恐慌进行了小修复。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
       <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
@@ -47,14 +47,14 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
+      <title>R 至@opa334dev：问题是，这次崩溃并不是立即发生的，而是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
       <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>回复 @opa334dev：呃，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱时启动应用程序是可行的……</title>
+      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
       <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
@@ -69,13 +69,13 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
+      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试查找导致该问题的原因......
 
 它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
-      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
+      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我试图调查导致它的原因...
 
-它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+它是用 Swift 编写的，所以不幸的是我无法找出导致它的原因&gt;。&lt; 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
     </item>
@@ -96,7 +96,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>R 至@opa334dev：确认无法正常工作💔</title>
+      <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
       <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
@@ -108,7 +108,7 @@ Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
-      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
 Ellekit 每晚：nightly.link/evelyneee/ellek…
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
