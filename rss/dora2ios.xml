@@ -4,7 +4,7 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 09:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:27:42 GMT</lastBuildDate>
     <item>
       <title>RT @dora2ios：Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
 
@@ -48,7 +48,7 @@ teddit.net/r/jailbreak/comme…
 
 KPP 旁路（A7 - A9(X)）：
 9.0 - 9.3.5：
-- (A7 - A8(X)) 全 KPP 旁路
+- (A7 - A8(X)) 完全 KPP 旁路
 - (A9(X)) yalu102 KPP 旁路
 10.0 - 10.3.3：yalu102 KPP 绕过
 
@@ -110,7 +110,7 @@ PAC 旁路 (A12+)：
 备注：
 - 这仅适用于arm64和arm64e - 我这里不包括32位
 - 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
-- (BFU) FSUntether 的东西并没有被考虑作为一种不受束缚的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最迟的不受束缚）
+- (BFU) FSUntether 的东西不被视为一种不受束缚的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最迟的不受束缚）
 - 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些分组的最佳越狱类型）
 - Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
 - 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
@@ -200,7 +200,7 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Fri, 29 Mar 2024 14:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>如果你把车停在街上，你就是那种会说其他汽车也在做同样事情的人。</title>
+      <title>如果你在街上被拦住，你就是那种会说其他汽车也在做同样事情的人。</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1771709421531390189#m</link>
       <description><![CDATA[这种人如果把车停在路上，会告诉你其他汽车也在做同样的事情。
 ]]></description>

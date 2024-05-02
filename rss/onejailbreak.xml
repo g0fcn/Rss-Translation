@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>onejailbreak/@onejailbreak_</title>
+    <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 09:15:18 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Thu, 02 May 2024 12:27:20 GMT</lastBuildDate>
     <item>
-      <title>📰 任天堂正在努力完成所有涉及为其游戏机创建模拟器的项目。他们确实拒绝了很多项目，最近他们也推出了 Provenance-Emu。Delta 肯定是下一个 🕹️
+      <title>📢LiveContainer 已更新，改进了错误报告、切换到 Procursus 和 iPhoneOS16.5.sdk 支持。获取适用于 iOS 17 的最新 TrollStore 替代方案 🔥
+
+http://onejailbreak.com/blog/livecontainer/
+
+通过@TranKha50277352
+
+#iOS17 #TrollStore #iPhone #nojailbreak #iOS16 #iOS15</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785970732150739083#m</link>
+      <description><![CDATA[📢LiveContainer 已更新，改进了错误报告，切换到 Procursus 并支持 iPhoneOS16.5.sdk。获取适用于 iOS 17 的最新 TrollStore 替代品🔥
+
+onejailbreak.com/blog/liveco…
+
+by @TranKha50277352
+
+#iOS17 #TrollStore #iPhone #nojailbreak #iOS16 #iOS15
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785970732150739083#m</guid>
+      <pubDate>Thu, 02 May 2024 09:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@onejailbreak_：你们中的一些人仍在使用这项技术。我会在周末为你添加 RSS Feed 🆕🗞️</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785965139620995533#m</link>
+      <description><![CDATA[你们中的一些人仍在使用这项技术。我会在周末为您添加 RSS Feed 🆕🗞️]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785965139620995533#m</guid>
+      <pubDate>Thu, 02 May 2024 09:30:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>📰 任天堂正在努力开展所有涉及为其游戏机创建模拟器的项目。他们确实击落了很多项目，最近他们还击中了 Provenance-Emu。达美航空肯定是下一个🕹️
 
 https://x.com/provenanceapp/status/1785776471174176898
 
@@ -22,13 +49,13 @@ nitter.esmailelbob.xyz/provenanceapp/status/1785776471174176898#m]]></descriptio
       <pubDate>Thu, 02 May 2024 07:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>🧩Always120 已更新至 1.1.7 版，支持 iOS 原生键盘或第三方中文输入法，如微信/搜狗/百度📱 
+      <title>🧩Always120更新至1.1.7版本，支持iOS原生键盘，或微信/搜狗/百度等第三方中文输入法📱
 
 https://onejailbreak.com/blog/always120-tweak/
 
-作者：@Somnusix 
+通过@Somnusix
 
-#jailbreak #iPhone13 #iPhone14 #iOS15 #iOS16 #palera1n #Dopamine2</title>
+#越狱 #iPhone13 #iPhone14 #iOS15 #iOS16 #palera1n #Dopamine2</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785925182298734975#m</link>
       <description><![CDATA[🧩Always120更新至1.1.7版本，支持iOS原生键盘，或微信/搜狗/百度等第三方中文输入法📱
 
@@ -42,15 +69,15 @@ onejailbreak.com/blog/always…
       <pubDate>Thu, 02 May 2024 06:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 许多设备都可以越狱。最近，发布了一个新的漏洞利用 DejaVuln 来 root webOS 电视并设置 Homebrew Channel。该工具可以root LG电视并自动安装Homebrew Channel 📺
+      <title>🚀 许多设备都可以越狱。最近，发布了一个新的漏洞，可以使用 DejaVuln 获取 webOS 电视的 root 权限并设置 Homebrew 频道。此工具可以获取 LG 电视的 root 权限并自动安装 Homebrew 频道 📺
 
-https://github.com/throtaway96/dejavuln-autoroot
+https://github.com/throwaway96/dejavuln-autoroot
 
 #jailbreak #TV #webOS #LG #Homebrew</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785923340781187529#m</link>
-      <description><![CDATA[🚀 许多设备都可以越狱。最近，发布了一个新的漏洞利用 DejaVuln 来 root webOS 电视并设置 Homebrew Channel。该工具可以root LG电视并自动安装Homebrew Channel 📺
+      <description><![CDATA[🚀 许多设备都可以越狱。最近，发布了一种新漏洞，可使用 DejaVuln 获取 webOS 电视的 root 权限并设置 Homebrew 频道。此工具可以 root LG 电视并自动安装 Homebrew Channel 📺
 
-github.com/throtaway96/dejav…
+github.com/throwaway96/dejav…
 
 #jailbreak #TV #webOS #LG #Homebrew
 ]]></description>
@@ -58,7 +85,7 @@ github.com/throtaway96/dejav…
       <pubDate>Thu, 02 May 2024 06:44:39 GMT</pubDate>
     </item>
     <item>
-      <title>☁️#007 Ramdisk 是一款免费的 iCloud Bypass，具有 Hello Screen 和 Passcode Bypass + Purple Mode。如果您需要这种软件，绝对值得一试 🚀 📱
+      <title>☁️#007 Ramdisk 是一款免费的 iCloud 绕过工具，具有 Hello Screen 和密码绕过 + 紫色模式。如果你需要这样的软件，绝对值得一试🚀📱
 
 https://onejailbreak.com/blog/007-ramdisk-tool/
 
@@ -87,11 +114,11 @@ https://onejailbreak.com/blog/trollrecorder/
 
 #jailbreak #nojailbreak #TrollStore2 #iOS #iPhone #iOS15 #iOS16 #iOS17</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785559876049015038#m</link>
-      <description><![CDATA[🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。 1.8版本上线，新增微信助手功能和实体音量键快速录音功能🚀🔥
+      <description><![CDATA[🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。 1.8 版已发布，具有微信助手功能和通过物理音量按钮激活的快速录音功能🚀🔥
 
 onejailbreak.com/blog/trollr…
 
-#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone #iOS15 #iOS16&lt; /a&gt; #iOS17
+#jailbreak #nojailbreak #TrollStore2 #iOS #iPhone #iOS15 #iOS16 #iOS17
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785559876049015038#m</guid>
       <pubDate>Wed, 01 May 2024 06:40:23 GMT</pubDate>
@@ -104,7 +131,7 @@ onejailbreak.com/blog/trollr…
       <pubDate>Tue, 30 Apr 2024 18:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>🔥PPPwn 是 PlayStation 4 的一个内核远程代码执行漏洞，最高支持 FW 11.00。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快它就可以用 stage2.bin 有效载荷来实现 🎮
+      <title>🔥PPPwn 是适用于 PlayStation 4 FW 11.00 之前的内核远程代码执行漏洞。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快就可以使用 stage2.bin 负载实现 🎮
 
 https://github.com/TheOfficialFloW/PPPwn
 
@@ -134,53 +161,6 @@ onejailbreak.com/blog/dopami…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785359090463780918#m</guid>
       <pubDate>Tue, 30 Apr 2024 17:22:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>📰多巴胺2.1正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
-
-- 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
-- 添加了multicast_bytecopy和weightBufs漏洞
-- 添加了“允许应用程序中的 JIT”选项
-- 允许通过 jbctl 进行 trustcache 管理
-- 添加了更改手机密码的返回选项
-
-https://github.com/opa334/Dopamine/tree/2.1
-
-#多巴胺2 #越狱 #iOS15 #iOS16 #iPhone15</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</link>
-      <description><![CDATA[📰多巴胺 2.1 正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
-
-- 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
-- 添加了multicast_bytecopy和weightBufs漏洞
-- 添加了“允许应用程序中的 JIT”选项
-- 允许通过 jbctl 进行 trustcache 管理
-- 新增更改手机密码的返回选项
-
-github.com/opa334/Dopamine/t…
-
-#Dopamine2 #jailbreak #iOS15 #iOS16 #iPhone15]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</guid>
-      <pubDate>Tue, 30 Apr 2024 14:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>⬇️Gopeed（全称Go Speed）是一款支持（HTTP、BitTorrent、Magnet）协议的iOS设备高速下载器📦🚀
-
-https://github.com/GopeedLab/gopeed
-
-📰版本 1.5.6 已发布，修复了错误！下载最新的 IPA 进行侧面加载 📱
-
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785311930711699867#m</link>
-      <description><![CDATA[⬇️Gopeed（全称 Go Speed）是一款支持（HTTP、BitTorrent、Magnet）协议的 iOS 设备高速下载器📦🚀
-
-github.com/GopeedLab/gopeed
-
-📰版本 1.5.6 已发布，修复了错误！下载最新的 IPA 进行侧面加载 📱
-
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple #nojailbreak
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785311930711699867#m</guid>
-      <pubDate>Tue, 30 Apr 2024 14:15:08 GMT</pubDate>
     </item>
     <item>
       <title>RT by @onejailbreak_：🧌iOS 版 UTM 支持在 iPhone 或 iPad 上运行 Windows 或 Linux 等桌面操作系统🖥️
@@ -245,7 +225,7 @@ https://onejailbreak.com/blog/how-to-install-altstore-pal/
 
 #AppStore #AltStore #AltStorePAL #iOS #iPhone</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</link>
-      <description><![CDATA[🔥了解如何在您的 iPhone 上安装 AltStore PAL 并发现市场限制和有关侧载的重要信息。它不是你想象的那样 📚
+      <description><![CDATA[🔥了解如何在 iPhone 上安装 AltStore PAL，并了解市场限制和有关侧面加载的重要信息。事情不是你想的那样📚
 
 onejailbreak.com/blog/how-to…
 

@@ -4,7 +4,14 @@
     <title>少数派 -- 首页</title>
     <link>https://sspai.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 May 2024 09:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:29:07 GMT</lastBuildDate>
+    <item>
+      <title>我在五台山做义工</title>
+      <link>https://sspai.com/post/88078</link>
+      <description><![CDATA[]]></description>
+      <guid>https://sspai.com/post/88078</guid>
+      <pubDate>Thu, 02 May 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>用 Keyboard Maestro 增强浏览器使用体验</title>
       <link>https://sspai.com/post/83865</link>
@@ -106,13 +113,6 @@ LaTeX 从入门到精通栏目设置限时免费活动，教授如何创建美�
       <description><![CDATA[]]></description>
       <guid>https://sspai.com/post/88419</guid>
       <pubDate>Mon, 29 Apr 2024 00:42:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始</title>
-      <link>https://sspai.com/post/88325</link>
-      <description><![CDATA[]]></description>
-      <guid>https://sspai.com/post/88325</guid>
-      <pubDate>Sun, 28 Apr 2024 03:29:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
