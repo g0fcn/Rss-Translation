@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>onejailbreak / @onejailbreak_</title>
+    <title>onejailbreak/@onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 06:18:54 GMT</lastBuildDate>
+    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Thu, 02 May 2024 09:15:18 GMT</lastBuildDate>
     <item>
-      <title>☁️#007 Ramdisk 是一款免费的 iCloud 绕过工具，具有 Hello Screen 和密码绕过 + 紫色模式。如果你需要这样的软件，绝对值得一试🚀📱
+      <title>📰 任天堂正在努力完成所有涉及为其游戏机创建模拟器的项目。他们确实拒绝了很多项目，最近他们也推出了 Provenance-Emu。Delta 肯定是下一个 🕹️
+
+https://x.com/provenanceapp/status/1785776471174176898
+
+#nintendo #emulators #iOS #iPhone #N64 #GBA #GBC #NES #Delta</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785932967396725210#m</link>
+      <description><![CDATA[📰 任天堂正在努力开展所有涉及为其游戏机创建模拟器的项目。他们确实击落了很多项目，最近他们还击中了 Provenance-Emu。达美航空肯定是下一个🕹️
+
+x.com/provenanceapp/status/1…
+
+#nintendo #emulators #iOS #iPhone #N64 #GBA #GBC&lt; /a&gt; #NES #Delta
+nitter.esmailelbob.xyz/provenanceapp/status/1785776471174176898#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785932967396725210#m</guid>
+      <pubDate>Thu, 02 May 2024 07:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>🧩Always120 已更新至 1.1.7 版，支持 iOS 原生键盘或第三方中文输入法，如微信/搜狗/百度📱 
+
+https://onejailbreak.com/blog/always120-tweak/
+
+作者：@Somnusix 
+
+#jailbreak #iPhone13 #iPhone14 #iOS15 #iOS16 #palera1n #Dopamine2</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785925182298734975#m</link>
+      <description><![CDATA[🧩Always120更新至1.1.7版本，支持iOS原生键盘，或微信/搜狗/百度等第三方中文输入法📱
+
+onejailbreak.com/blog/always…
+
+作者：@Somnusix 
+
+#jailbreak #iPhone13 #iPhone14 #iOS15 #iOS16 #palera1n #Dopamine2&lt; /a&gt;
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785925182298734975#m</guid>
+      <pubDate>Thu, 02 May 2024 06:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 许多设备都可以越狱。最近，发布了一个新的漏洞利用 DejaVuln 来 root webOS 电视并设置 Homebrew Channel。该工具可以root LG电视并自动安装Homebrew Channel 📺
+
+https://github.com/throtaway96/dejavuln-autoroot
+
+#jailbreak #TV #webOS #LG #Homebrew</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785923340781187529#m</link>
+      <description><![CDATA[🚀 许多设备都可以越狱。最近，发布了一个新的漏洞利用 DejaVuln 来 root webOS 电视并设置 Homebrew Channel。该工具可以root LG电视并自动安装Homebrew Channel 📺
+
+github.com/throtaway96/dejav…
+
+#jailbreak #TV #webOS #LG #Homebrew
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785923340781187529#m</guid>
+      <pubDate>Thu, 02 May 2024 06:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>☁️#007 Ramdisk 是一款免费的 iCloud Bypass，具有 Hello Screen 和 Passcode Bypass + Purple Mode。如果您需要这种软件，绝对值得一试 🚀 📱
 
 https://onejailbreak.com/blog/007-ramdisk-tool/
 
@@ -52,7 +104,7 @@ onejailbreak.com/blog/trollr…
       <pubDate>Tue, 30 Apr 2024 18:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>🔥PPPwn 是适用于 PlayStation 4 FW 11.00 之前的内核远程代码执行漏洞。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快就可以使用 stage2.bin 负载实现 🎮
+      <title>🔥PPPwn 是 PlayStation 4 的一个内核远程代码执行漏洞，最高支持 FW 11.00。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快它就可以用 stage2.bin 有效载荷来实现 🎮
 
 https://github.com/TheOfficialFloW/PPPwn
 
@@ -74,7 +126,7 @@ https://onejailbreak.com/blog/dopamine-jailbreak/
 
 #越狱 #iOS15 #iOS16 #Dopamine #Dopamine2</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785359090463780918#m</link>
-      <description><![CDATA[🚀Dopamine 2.1 现已推出，支持 A8(X) 设备和其他改进 🗣️🔥
+      <description><![CDATA[🚀Dopamine 2.1 已推出，支持 A8(X) 设备并进行其他改进 🗣️🔥
 
 onejailbreak.com/blog/dopami…
 
@@ -96,7 +148,7 @@ https://github.com/opa334/Dopamine/tree/2.1
 
 #多巴胺2 #越狱 #iOS15 #iOS16 #iPhone15</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785314749455941637#m</link>
-      <description><![CDATA[📰多巴胺2.1正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
+      <description><![CDATA[📰多巴胺 2.1 正在积极开发中。这种流行的无根越狱的下一个版本将提供各种错误修复和改进：
 
 - 优先使用 physpuppet 而不是multicast_bytecopy，因为multicast_bytecopy 的兼容性不确定
 - 添加了multicast_bytecopy和weightBufs漏洞
@@ -131,46 +183,6 @@ github.com/GopeedLab/gopeed
       <pubDate>Tue, 30 Apr 2024 14:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>🧌Helium 是一款在 iOS 15 到最新 17.0 上将小部件直接集成到状态栏的工具🗣️
-
-https://onejailbreak.com/blog/helium-trollstore/
-
-👨‍💻AsakuraFuuko 负责维护应用程序并添加新功能和改进。新的测试版本附带天气 API 🚀
-
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple #nojailbreak</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</link>
-      <description><![CDATA[🧌Helium 是一款在 iOS 15 到最新 17.0 上将小部件直接集成到状态栏的工具🗣️
-
-onejailbreak.com/blog/helium…
-
-👨‍💻AsakuraFuuko 负责维护应用程序并添加新功能和改进。新的测试版本附带天气 API 🚀
-
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple #nojailbreak
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785310970274873458#m</guid>
-      <pubDate>Tue, 30 Apr 2024 14:11:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧩Translomatic 是 FoxFortMobile 推出的一项令人惊叹的越狱调整，它允许用户快速翻译屏幕上显示的任何选定文本🗣️
-
-https://onejailbreak.com/blog/translomatic-tweak/
-
-📰Translomatic 2.18.19 发布，修复了 Youtube v19.16.3 评论的重叠按钮。
-
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS #Apple</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785300201806209498#m</link>
-      <description><![CDATA[🧩Translomatic 是 FoxFortMobile 推出的一项令人惊叹的越狱调整，它允许用户快速翻译屏幕上显示的任何选定文本🗣️
-
-onejailbreak.com/blog/transl…
-
-📰Translomatic 2.18.19 发布，修复了 Youtube v19.16.3 评论的重叠按钮。
-
-#jailbreak #iOS13 #iOS16 #Dopamine #Palera1n #iPhone #iOS&lt; /a&gt; #Apple
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785300201806209498#m</guid>
-      <pubDate>Tue, 30 Apr 2024 13:28:32 GMT</pubDate>
-    </item>
-    <item>
       <title>RT by @onejailbreak_：🧌iOS 版 UTM 支持在 iPhone 或 iPad 上运行 Windows 或 Linux 等桌面操作系统🖥️
 
 https://onejailbreak.com/blog/utm/
@@ -191,27 +203,11 @@ onejailbreak.com/blog/utm/
       <pubDate>Tue, 30 Apr 2024 07:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>🧌ChargeLimiter 有助于避免长时间过度充电对 iPhone 电池造成的不利影响。 v1.6 针对电流管理能力较差的电池添加了电流限制模式🔋🪫
-
-https://onejailbreak.com/blog/chargelimiter-tweak/
-
-#Dopamine2 #jailbreak #TrollStore2 #iOS #iPhone #palera1n #iOS16 #iOS15 #nojailbreak</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785005609269522929#m</link>
-      <description><![CDATA[🧌ChargeLimiter 有助于避免长时间过度充电对 iPhone 电池造成的不利影响。 v1.6针对电流管理能力较差的电池增加了电流限制模式🔋🪫
-
-onejailbreak.com/blog/charge…
-
-#Dopamine2 #jailbreak #TrollStore2 #iOS #iPhone #palera1n #iOS16&lt; /a&gt; #iOS15 #nojailbreak
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785005609269522929#m</guid>
-      <pubDate>Mon, 29 Apr 2024 17:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @onejailbreak_：📢RootHide Jailbreak 获得了新更新 - 1.0.8。此版本隐藏了更多越狱痕迹，让您可以运行应用程序，努力使它们在越狱环境中无法运行🔥
+      <title>RT @onejailbreak_：📢RootHide Jailbreak 有了新的更新 – 1.0.8。此版本隐藏了更多越狱痕迹，允许您努力运行应用程序以使其无法在越狱环境中运行🔥
 
 https://onejailbreak.com/blog/roothide-jailbreak/
 
-by @roothideDev
+通过@roothideDev
 
 #iOS15 #RootHide #jailbreak #iPhone #Dopamine</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1783192878035956012#m</link>
@@ -249,7 +245,7 @@ https://onejailbreak.com/blog/how-to-install-altstore-pal/
 
 #AppStore #AltStore #AltStorePAL #iOS #iPhone</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</link>
-      <description><![CDATA[🔥了解如何在 iPhone 上安装 AltStore PAL，并了解市场限制和有关侧面加载的重要信息。事情不是你想的那样📚
+      <description><![CDATA[🔥了解如何在您的 iPhone 上安装 AltStore PAL 并发现市场限制和有关侧载的重要信息。它不是你想象的那样 📚
 
 onejailbreak.com/blog/how-to…
 
