@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>xerus / @xerusdesign</title>
+    <title>xerus/@xerusdesign</title>
     <link>http://nitter.esmailelbob.xyz/xerusdesign</link>
     <description>Twitter 供稿：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 09:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:19:55 GMT</lastBuildDate>
     <item>
       <title>RT @xerusdesign：[Zer0Con2024⬛️🟨Speaker#1]
 
@@ -41,9 +41,9 @@
 新主题图标设计由@xerusdesign 设计
 arm64 支持由 @dora2ios 贡献</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758527800045183070#m</link>
-      <description><![CDATA[新 UI 由 @tomt000 开发 
+      <description><![CDATA[新 UI 已由 @tomt000 开发 
 新主题图标设计由 @xerusdesign 
-arm64 支持由 @dora2ios 提供&gt;
+arm64 支持由 @dora2ios 贡献
 
 
 
@@ -61,9 +61,9 @@ arm64 支持由 @dora2ios 提供&gt;
 发布帖子：
 https://www.reddit.com/r/jailbreak/comments/1ascjhy/dopamine_20_jailbreak_for_ios_150_1661_a9_and_up/</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</link>
-      <description><![CDATA[多巴胺2.0正式发布。支持
+      <description><![CDATA[Dopamine 2.0 正式发布。支持
 
-15.0 - 16.6.1，arm64（目前为A9+）
+15.0 - 16.6.1，arm64（目前为 A9+）
 15.0 - 16.5.1，A12 - A14
 15.0 - 16.5，A15 - A16
 
@@ -76,7 +76,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>D👴⛏ 很快就两点O？？？</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1756805826172403840#m</link>
-      <description><![CDATA[D👴⛏很快就两点O？？？]]></description>
+      <description><![CDATA[D👴⛏ Two Point O 即将到来？]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1756805826172403840#m</guid>
       <pubDate>Sun, 11 Feb 2024 22:22:03 GMT</pubDate>
     </item>
@@ -138,23 +138,23 @@ W6QO-7XLQDV-O1DV
       <pubDate>Wed, 07 Feb 2024 21:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>RT @xerusdesign：圣诞快乐！ 🎅（有点晚了）
-
-CopyLog TrollStore 版本简介
-
-完整的 CopyLog 体验，无需越狱，
-感谢 TrollStore。
-
-可在 @HavocRepo 上找到，请在此处阅读更多信息：https://tomt.ooo/copylog/trollstore</title>
-      <link>http://nitter.esmailelbob.xyz/tomt000/status/1739774019480457647#m</link>
-      <description><![CDATA[圣诞快乐！ 🎅（有点晚了）
+      <title>RT by @xerusdesign：圣诞快乐！🎅（有点晚了）
 
 推出 CopyLog TrollStore 版
 
 无需越狱即可获得完整的 CopyLog 体验，
 感谢 TrollStore。
 
-可在 @HavocRepo 上获取，在此处了解更多信息：tomt.ooo/copylog/trollstore
+可在 @HavocRepo 上获取，在此处了解更多信息：https://tomt.ooo/copylog/trollstore</title>
+      <link>http://nitter.esmailelbob.xyz/tomt000/status/1739774019480457647#m</link>
+      <description><![CDATA[圣诞快乐！ 🎅（有点晚了）
+
+CopyLog TrollStore 版本简介
+
+完整的 CopyLog 体验，无需越狱，
+感谢 TrollStore。
+
+可在 @HavocRepo 上找到，在此处了解更多信息：tomt.ooo/copylog/trollstore
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/tomt000/status/1739774019480457647#m</guid>
       <pubDate>Tue, 26 Dec 2023 22:23:44 GMT</pubDate>
@@ -176,7 +176,7 @@ CopyLog TrollStore 版本简介
       <pubDate>Mon, 25 Dec 2023 10:07:15 GMT</pubDate>
     </item>
     <item>
-      <title>RT @xerusdesign：圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备的越狱！
+      <title>RT by @xerusdesign：圣诞快乐！所有 arm64 iOS 16.0 至 iOS 16.5 设备均可越狱！
 https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v0.999.3</title>
       <link>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</link>
       <description><![CDATA[圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备越狱！
