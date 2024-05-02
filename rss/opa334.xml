@@ -4,13 +4,13 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 18:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 21:13:39 GMT</lastBuildDate>
     <item>
-      <title>多巴胺 2.1.2 即将修复 2.1 的另一项回归
+      <title>Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
-      <description><![CDATA[Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
+      <description><![CDATA[多巴胺 2.1.2 即将修复 2.1 的另一项回归
 
 github.com/opa334/Dopamine/r…
 ]]></description>
@@ -34,7 +34,7 @@ github.com/opa334/Dopamine/r…
     <item>
       <title>R to @opa334dev：（由于这个问题只影响 OTA 更新，所以没有必要推送新版本，已经更新的人不需要担心这个新版本）</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</link>
-      <description><![CDATA[（由于此问题仅影响 OTA 更新，因此没有必要推送新版本，已更新的人无需担心此新版本）]]></description>
+      <description><![CDATA[（由于此问题仅影响 OTA 更新，因此无需推送新版本，已更新的人无需担心此新版本）]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</guid>
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
@@ -59,16 +59,16 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，而是在刷新票证时发生，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
+      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
-      <description><![CDATA[问题是，这个崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
+      <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
       <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......]]></description>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
@@ -81,7 +81,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试查找导致该问题的原因......
+      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
 它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
@@ -110,17 +110,17 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
     <item>
       <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
-      <description><![CDATA[确认不工作💔]]></description>
+      <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：Dopamine 2.1 Nightly：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
-Ellekit Nightly：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
+      <title>R 至 @opa334dev：多巴胺 2.1 每晚：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
+Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
 
-请注意，如果这些方法无法解决问题，则该问题不太可能完全解决，因为这是我最后的想法。有关内存布线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
+请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
-      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
 Ellekit 每晚：nightly.link/evelyneee/ellek…
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
