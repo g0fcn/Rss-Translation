@@ -4,7 +4,43 @@
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
     <description>Twitter 消息源：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 18:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:19:44 GMT</lastBuildDate>
+    <item>
+      <title>📢RootHide Jailbreak 有了新的更新 – 1.0.9。此版本修复了在越狱状态下运行应用程序的问题，修复了一些可能无法在非越狱状态下启动的库存应用程序的问题，等等 🔥🚀
+
+https://onejailbreak.com/blog/roothide-jailbreak/
+
+通过@roothideDev
+
+#iOS15 #RootHide #jailbreak #iPhone #Dopamine</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786277696982446503#m</link>
+      <description><![CDATA[📢RootHide Jailbreak 有了新的更新 – 1.0.9。此版本修复了在越狱状态下运行应用程序的问题，修复了一些在非越狱状态下可能无法启动的库存应用程序的问题，等等 🔥🚀
+
+onejailbreak.com/blog/roothi…
+
+作者：@roothideDev
+
+#iOS15 #RootHide #jailbreak #iPhone #Dopamine
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786277696982446503#m</guid>
+      <pubDate>Fri, 03 May 2024 06:12:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>📱Dopamine Jailbreak 频繁更新。新版本 2.1.2 提供了一个修复的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且 Sandbox 现在允许在系统范围内写入 /var/jb/ var/mobile 🔥🚀
+
+https://onejailbreak.com/blog/dopamine-jailbreak/
+
+#jailbreak #iOS15 #iOS16 #Dopamine #Dopamine2 #iPhone6 #iPhone14 #iPhone #iPad</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786276371557240981#m</link>
+      <description><![CDATA[📱多巴胺越狱得到频繁更新。新版本 2.1.2 提供了一个固定的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且沙箱现在允许写入 /var/jb/ var/mobile 系统范围 🔥🚀
+
+onejailbreak.com/blog/dopami…
+
+#jailbreak #iOS15 #iOS16 #Dopamine #Dopamine2 #iPhone6 #iPhone14&lt; /a&gt; #iPhone #iPad
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786276371557240981#m</guid>
+      <pubDate>Fri, 03 May 2024 06:07:29 GMT</pubDate>
+    </item>
     <item>
       <title>🕵️iLEAPP 已更新至版本 1.19.3，提供更新的脚本和语言。这是一个 Python 3 脚本，将所有数字取证和事件响应脚本 (DFIR) 合并到一个有用的包中 🗞️
 
@@ -107,11 +143,11 @@ https://onejailbreak.com/blog/007-ramdisk-tool/
 
 #iCloudUnlock #jailbreak #iOS15 #iOS16 #iPhone #checkm8 #iOS16 #windows #palera1n #Apple #iRa1n #iSkip #iOS</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785752592439476509#m</link>
-      <description><![CDATA[☁️#007 Ramdisk 是一款免费的 iCloud Bypass，带有 Hello Screen &amp; Passcode Bypass + 紫色模式。如果你需要这种软件，绝对值得一试🚀📱
+      <description><![CDATA[☁️#007 Ramdisk 是一款免费的 iCloud 绕过工具，具有 Hello Screen 和密码绕过 + 紫色模式。如果你需要这样的软件，绝对值得一试🚀 📱
 
 onejailbreak.com/blog/007-ra…
 
-#iCloudUnlock #jailbreak #iOS15 #iOS16 #iPhone #checkm8 #iOS16 #windows #palera1n #Apple #iRa1n #iSkip #iOS
+#iCloudUnlock #jailbreak #iOS15 #iOS16 #iPhone #checkm8 #iOS16&lt; /a&gt; #windows #palera1n #Apple #iRa1n #iSkip #iOS
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785752592439476509#m</guid>
       <pubDate>Wed, 01 May 2024 19:26:10 GMT</pubDate>
@@ -147,7 +183,7 @@ onejailbreak.com/blog/trollr…
       <pubDate>Tue, 30 Apr 2024 18:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>🔥PPPwn 是 PlayStation 4 的一个内核远程代码执行漏洞，最高支持 FW 11.00。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快它就可以用 stage2.bin 有效载荷来实现 🎮
+      <title>🔥PPPwn 是适用于 PlayStation 4 至固件 11.00 的内核远程代码执行漏洞。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快就可以使用 stage2.bin 负载实现 🎮
 
 https://github.com/TheOfficialFloW/PPPwn
 
@@ -197,38 +233,6 @@ onejailbreak.com/blog/utm/
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785208531848712292#m</guid>
       <pubDate>Tue, 30 Apr 2024 07:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @onejailbreak_：📚Palera1n 仍然是旧设备上最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
-
-https://onejailbreak.com/blog/palera1n-jailbreak/
-
-#palera1n #jailbreak #iPadOS17 #iOS16 #iOS15 #iPhone</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781392698915643392#m</link>
-      <description><![CDATA[📚Palera1n 仍然是旧设备上最受欢迎的越狱之一。我最近更新了安装指南，其中包含一些您不想错过的关键亮点📢
-
-onejailbreak.com/blog/palera…
-
-#palera1n #jailbreak #iPadOS17 #iOS16 #iOS15 #iPhone
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1781392698915643392#m</guid>
-      <pubDate>Fri, 19 Apr 2024 18:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @onejailbreak_：🔥了解如何在 iPhone 上安装 AltStore PAL，并发现市场限制和有关侧载的重要信息。不是你想的那样📚
-
-https://onejailbreak.com/blog/how-to-install-altstore-pal/
-
-#AppStore #AltStore #AltStorePAL #iOS #iPhone</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</link>
-      <description><![CDATA[🔥了解如何在您的 iPhone 上安装 AltStore PAL 并发现市场限制和有关侧载的重要信息。它不是你想象的那样 📚
-
-onejailbreak.com/blog/how-to…
-
-#AppStore #AltStore #AltStorePAL #iOS #iPhone
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1780859552847610218#m</guid>
-      <pubDate>Thu, 18 Apr 2024 07:22:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
