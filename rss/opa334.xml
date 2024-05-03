@@ -4,13 +4,13 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 03 May 2024 18:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 21:13:22 GMT</lastBuildDate>
     <item>
       <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
-      <description><![CDATA[多巴胺 2.1.2 即将修复 2.1 的另一项回归
+      <description><![CDATA[Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
 
 github.com/opa334/Dopamine/r…
 ]]></description>
@@ -41,7 +41,7 @@ github.com/opa334/Dopamine/r…
     <item>
       <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
-      <description><![CDATA[重新上传了 2.1 (T)IPA，并对 15.x arm64 上的 OTA 更新（Dopamine 2.0.x -&gt; 2.1）期间的恐慌进行了小修复。
+      <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</guid>
       <pubDate>Tue, 30 Apr 2024 21:15:38 GMT</pubDate>
@@ -75,7 +75,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
-      <description><![CDATA[它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？
+      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
@@ -102,7 +102,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</link>
-      <description><![CDATA[现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(
+      <description><![CDATA[现在就放弃吧，我真的应该停止尝试从用户空间修复内核错误，我们只需要接受 iOS 15 arm64e 本质上是不稳定的 :(
 nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</guid>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
@@ -110,15 +110,15 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
     <item>
       <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
-      <description><![CDATA[确认不工作💔]]></description>
+      <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>R 至 @opa334dev：Dopamine 2.1 Nightly：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
-Ellekit Nightly：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
+      <title>R 至@opa334dev：多巴胺 2.1 每晚：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
+Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
 
-请注意，如果这些方法无法解决问题，则该问题不太可能完全解决，因为这是我最后的想法。有关内存布线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
+请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
       <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
 Ellekit 每晚：nightly.link/evelyneee/ellek…
@@ -128,7 +128,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>好吧，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。</title>
+      <title>好的，使用以下版本时，iOS 15 arm64e 上的 spinlock panic 应该可以修复，至少在理论上/可能。请记住，我对导致这种情况的原因仍然了解有限，因此我修复它的所有尝试都做出了可能不正确的假设。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</link>
       <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>

@@ -3,10 +3,12 @@
   <channel>
     <title>AltStore.io / @altstoreio</title>
     <link>http://nitter.esmailelbob.xyz/altstoreio</link>
-    <description>Twitter 消息源：@altstoreio。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 18:21:28 GMT</lastBuildDate>
+    <description>Twitter 供稿：@altstoreio。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 03 May 2024 21:12:58 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>R 致@altstoreio：一如既往，您可以在我们的 Patreon 上找到这些测试版的完整发行说明：https://www.patreon.com/posts/delta-1-6b-clip-103415994
+
+展望未来，我们的首要任务是尽快将第 3 方应用程序添加到 AltStore PAL - 所以请继续关注未来的公告！</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1785734553782394984#m</link>
       <description><![CDATA[与往常一样，您可以在我们的 Patreon 上找到这些测试版的完整发行说明：patreon。 com/posts/delta-1-6b…
 
@@ -16,11 +18,13 @@
       <pubDate>Wed, 01 May 2024 18:14:29 GMT</pubDate>
     </item>
     <item>
-      <title></title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1785734301021045177#m</link>
-      <description><![CDATA[别忘了 Clip 1.2b，它有一个让我们非常兴奋的主要功能 - 自定义键盘 ⌨️
+      <title>R 致@altstoreio：别忘了 Clip 1.2b，它有一个让我们非常兴奋的主要功能 - 自定义键盘 ⌨️
 
-不再需要每次粘贴时都打开 Clip；只需从任何文本字段切换到 Clip 的键盘并粘贴即可 📋
+不再需要每次粘贴时都打开 Clip；只需从任何文本字段切换到 Clip 的键盘并粘贴即可 📋</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1785734301021045177#m</link>
+      <description><![CDATA[别忘了 Clip 1.2b，它有一个让我们非常兴奋的主要功能 - 自定义键盘⌨️
+
+您不再需要在每次要粘贴时打开 Clip；只需从任何文本字段切换到 Clip 的键盘并粘贴即可 📋
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1785734301021045177#m</guid>
       <pubDate>Wed, 01 May 2024 18:13:29 GMT</pubDate>
@@ -91,9 +95,9 @@
 
 一旦有更多细节公布，我们将宣布更多信息——敬请期待！</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1785000364518883383#m</link>
-      <description><![CDATA[对于那些询问 iPad 版 AltStore PAL 的人，好消息是：Apple 很快将被要求在 iPad 上支持替代应用市场 🥳
+      <description><![CDATA[对于那些询问 iPad 版本 AltStore PAL 的人来说，好消息是：Apple 很快就会被要求支持 iPad 上的替代应用程序市场 🥳
 
-一旦有更多详细信息可用，我们将宣布更多信息 - 敬请期待！
+一旦有更多详细信息，我们将宣布更多信息 - 敬请期待！
 nitter.esmailelbob.xyz/EU_Commission/status/1784884274606346346#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1785000364518883383#m</guid>
       <pubDate>Mon, 29 Apr 2024 17:37:05 GMT</pubDate>
@@ -137,16 +141,16 @@ AltStore 用户现在可以从“我的应用程序”选项卡更新（应用�
       <pubDate>Mon, 22 Apr 2024 19:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>显然，第三方浏览器暂时不支持安装替代市场 — — 因此，在此期间，你可以将下载页面的 URL 复制粘贴到 Safari 中 🧭</title>
+      <title>显然，第 3 方浏览器尚不支持安装替代市场 — 因此，您可以将下载页面中的 URL 复制并粘贴到 Safari 中 🧭</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1780661828592267424#m</link>
-      <description><![CDATA[显然，第 3 方浏览器尚不支持安装替代市场 - 因此，您可以将下载页面中的 URL 复制并粘贴到 Safari 中🧭]]></description>
+      <description><![CDATA[显然，第 3 方浏览器尚不支持安装替代市场 — 因此，您可以将下载页面中的 URL 复制并粘贴到 Safari 中🧭]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1780661828592267424#m</guid>
       <pubDate>Wed, 17 Apr 2024 18:17:17 GMT</pubDate>
     </item>
     <item>
       <title>⚠️ 如果您在下载 AltStore PAL 时遇到问题，请尝试从 http://altstore.io 主页重新开始该过程。
 
-输入您的电子邮件后，Stripe 将自动检测您的订阅并将您重定向到下载页面 - 您无需重新购买。</title>
+输入电子邮件后，Stripe 将自动检测您的订阅并将您重定向到下载页面 - 您无需重新购买。</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1780646495701656008#m</link>
       <description><![CDATA[⚠️ 如果您在下载 AltStore PAL 时遇到问题，请尝试从 altstore.io 主页重新开始该过程。
 
@@ -156,11 +160,11 @@ nitter.esmailelbob.xyz/altstoreio/status/1780634838187315358#m]]></description>
       <pubDate>Wed, 17 Apr 2024 17:16:22 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@altstoreio：Delta - 启动这一切的应用程序 - 现已在 App Store 中提供！
+      <title>R 致@altstoreio：Delta — 开启一切的应用程序 — 现已在 App Store 上架！
 
-是的，你没有看错：我们长期被拒绝的游戏模拟器已经获得苹果自己的认可🍎
+是的，你没看错：我们长期被拒绝的游戏模拟器已获得 Apple 的批准 🍎
 
-如果您居住在欧盟境外，请立即从 App Store 下载 — 无需 DMA https://apps.apple.com/app/delta-game-emulator/id1048524688</title>
+如果你居住在欧盟以外，请立即从 App Store 下载 — 无需 DMA https://apps.apple.com/app/delta-game-emulator/id1048524688</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1780635918589669861#m</link>
       <description><![CDATA[Delta - 开启这一切的应用程序 - 现已在 App Store 中提供！
 
