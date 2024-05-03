@@ -4,9 +4,16 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 30 Apr 2024 01:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 01:06:21 GMT</lastBuildDate>
     <item>
-      <title>Conductor 修复和改进</title>
+      <title>WriteMapper - 用思维导图写作</title>
+      <link>https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps</guid>
+      <pubDate>Thu, 02 May 2024 20:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>导体修复和改进</title>
       <link>https://brett.trpstra.net/link/535/16667786/conductor-fixes-and-improvements</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16667786/conductor-fixes-and-improvements</guid>
@@ -216,7 +223,7 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Fri, 22 Mar 2024 16:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 3 月 19 日网上游览</title>
+      <title>2024 年 3 月 19 日网络游览</title>
       <link>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</link>
       <description><![CDATA[ Deckset, Markdown, OCR, Ground News, CleanShot X
 总结:
@@ -280,38 +287,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16598996/dimspirations-merch</guid>
       <pubDate>Sat, 02 Mar 2024 16:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 2 月 29 日网上游览</title>
-      <link>https://brett.trpstra.net/link/535/16597352/web-excursions-for-february-29-2024</link>
-      <description><![CDATA[ Alfred, Bunch, Colorful nihilist memes, Hyper Key, Backblaze
-总结:
-Alfred的workflow Cluster与Bunch紧密集成，使生活变得更加轻松。还有色彩缤纷的虚无主义迷因来提高心情。此外，还有macOS上简单而强大的键盘增强工具，Backblaze可安全可靠地将整个计算机数据备份到云端。 Matt Webb的帖子谈论了科技走入了一个令人不安的境地，但或许这并不是件坏事。 
-
-
-
-
-
-
-Web excursions brought to you in partnership with Backblaze. Back up everything.
-
-Cluster (for Bunch)
-Cluster is an Alfred workflow for use with Bunch, written by Stephen Millard. Closely integrates Bunch functionality with Alfred to make life even easier. I’m not an Alfred user myself, so I haven’t stress tested it, but if you are, please do and let Stephen and I know how it goes!
-Nihilisa Frank on Tumblr
-Colorful nihilist memes to make your day. Thanks to @adamrice for pointing this out.
-Superkey
-Simple and powerful keyboard enhancement on macOS. Want to add the Hyper Key with no fuss? Want to navigate your screen without touching your trackpad/mouse? This app looks really great at $16. h/t Mike Harahan on the forum.
-Tech has graduated from the Star Trek era to the Douglas Adams age (Interconnected)
-This post from Matt Webb speaks to me. Yes, tech has gone into a wobbly place better envisioned by Douglas Adams than by Gene Roddenberry, but maybe that’s an ok thing.
-
-Backblaze securely backs up your entire computer to the cloud, affordably and reliably. I trust it with all my data. Check it out today.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16597352/web-excursions-for-february-29-2024</guid>
-      <pubDate>Thu, 29 Feb 2024 21:04:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
