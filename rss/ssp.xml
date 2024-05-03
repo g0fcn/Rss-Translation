@@ -4,7 +4,14 @@
     <title>少数派 -- 首页</title>
     <link>https://sspai.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 May 2024 12:29:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:17:59 GMT</lastBuildDate>
+    <item>
+      <title>本周看什么 | 最近值得一看的 11 部作品</title>
+      <link>https://sspai.com/post/88518</link>
+      <description><![CDATA[]]></description>
+      <guid>https://sspai.com/post/88518</guid>
+      <pubDate>Fri, 03 May 2024 06:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>我在五台山做义工</title>
       <link>https://sspai.com/post/88078</link>
@@ -101,18 +108,17 @@ LaTeX 从入门到精通栏目设置限时免费活动，教授如何创建美�
       <pubDate>Mon, 29 Apr 2024 09:44:34 GMT</pubDate>
     </item>
     <item>
-      <title>为即将到来的出境游做好准备：这些经验让你少踩坑</title>
-      <link>https://sspai.com/post/88394</link>
-      <description><![CDATA[]]></description>
-      <guid>https://sspai.com/post/88394</guid>
-      <pubDate>Mon, 29 Apr 2024 03:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>派早报：字节跳动称无计划出售 TikTok</title>
-      <link>https://sspai.com/post/88419</link>
-      <description><![CDATA[]]></description>
-      <guid>https://sspai.com/post/88419</guid>
-      <pubDate>Mon, 29 Apr 2024 00:42:59 GMT</pubDate>
+      <title>12.5 GPT 与进阶技巧：AI 内容检测</title>
+      <link>https://sspai.com/post/85766</link>
+      <description><![CDATA[ 方法、技巧、识别、GPT生成的文本、人工观察、专业工具
+
+总结:
+本文介绍了如何识别GPT生成的文本。首先，可以通过人工观察文本内容和语言风格来判断是否由GPT生成。其次，使用专业工具如OpenAI的文本生成模型来检测文本的生成来源。这些方法和技巧可以帮助用户更好地辨别由GPT生成的文本，提高信息辨识能力。 
+这篇文章详细介绍了如何识别 GPT 生成的文本，包括人工观察方法和使用专业工具的技巧等。
+
+想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 别再当麻瓜了，深度剖析 GPT 的原理、现状与前景》]]></description>
+      <guid>https://sspai.com/post/85766</guid>
+      <pubDate>Fri, 12 Jan 2024 08:39:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

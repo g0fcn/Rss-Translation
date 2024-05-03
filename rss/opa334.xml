@@ -4,9 +4,9 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 21:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:16:37 GMT</lastBuildDate>
     <item>
-      <title>Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
+      <title>多巴胺 2.1.2 即将修复 2.1 的另一项回归
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
@@ -73,7 +73,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
+      <title>回复 @opa334dev：它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
       <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？
 ]]></description>
