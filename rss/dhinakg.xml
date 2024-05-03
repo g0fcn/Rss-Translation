@@ -4,15 +4,16 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 03 May 2024 15:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 18:18:30 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
 https://github.com/dhinakg/partial</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1775681040369229963#m</link>
-      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件（主要是 Apple 的 OTA 和 IPSW）中抓取文件，在此过程中我学到了很多有关 ZIP 文件的知识。它仍然不够完善，但我希望您能看看！
+      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在此过程中我学到了很多有关 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！ 
 
-github.com/dhinakg/partial]]></description>
+github.com/dhinakg/partial
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1775681040369229963#m</guid>
       <pubDate>Thu, 04 Apr 2024 00:25:25 GMT</pubDate>
     </item>
@@ -27,14 +28,14 @@ github.com/dhinakg/partial]]></description>
     <item>
       <title>RT by @dhinakg：向拥有黄色 iPhone 14 或 14 Plus 的人寻求帮助，了解其预装版本 (20D50)，无论是安装了 TrollStore 还是越狱。如果您有这样的设备，请回复此推文。</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1769503407931293837#m</link>
-      <description><![CDATA[寻求拥有黄色 iPhone 14 或 14 Plus 的人的帮助，这些设备是预装版本 (20D50)，已安装 TrollStore 或已越狱。如果您有这样的设备，请回复此推文。]]></description>
+      <description><![CDATA[向拥有黄色 iPhone 14 或 14 Plus 的用户寻求帮助，了解其预装版本 (20D50)，无论是安装了 TrollStore 还是已越狱。如果您有这样的设备，请回复此推文。]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1769503407931293837#m</guid>
       <pubDate>Sun, 17 Mar 2024 23:17:42 GMT</pubDate>
     </item>
     <item>
       <title>为什么你很难找到时间去做你想做的事情，但当你找到时间的时候，你却又不想做</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1769391950430429626#m</link>
-      <description><![CDATA[为什么你很难找到时间去做你想做的事情，但当你找到时间的时候，你又不想做]]></description>
+      <description><![CDATA[为什么找时间做自己想做的事情这么难，但是当你找到时间时，你却不想做呢]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1769391950430429626#m</guid>
       <pubDate>Sun, 17 Mar 2024 15:54:49 GMT</pubDate>
     </item>
@@ -42,8 +43,8 @@ github.com/dhinakg/partial]]></description>
       <title>CPID:8122 BORD:30 J613AP Mac15,12 MacBook Air（13 英寸，M3，2024）
 CPID:8122 BORD:32 J615AP Mac15,13 MacBook Air（15 英寸，M3，2024）</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1764718611870986425#m</link>
-      <description><![CDATA[CPID：8122 BORD：30 J613AP Mac15,12 MacBook Air（13 英寸，M3，2024）
-CPID：8122 BORD：32 J615AP Mac15,13 MacBook Air（15 英寸，M3，2024）]]></description>
+      <description><![CDATA[CPID:8122 BORD:30 J613AP Mac15,12 MacBook Air（13 英寸，M3，2024）
+CPID:8122 BORD:32 J615AP Mac15,13 MacBook Air（15 英寸，M3，2024）]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1764718611870986425#m</guid>
       <pubDate>Mon, 04 Mar 2024 18:24:38 GMT</pubDate>
     </item>
@@ -76,7 +77,8 @@ https://www.reddit.com/r/jailbreak/comments/1ascjhy/dopamine_20_jailbreak_for_io
 15.0 - 16.5，A15 - A16
 
 发布帖子：
-teddit.net/r/jailbreak/comme…]]></description>
+teddit.net/r/jailbreak/comme…
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1758526765981487226#m</guid>
       <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
     </item>
@@ -92,7 +94,7 @@ teddit.net/r/jailbreak/comme…]]></description>
       <pubDate>Mon, 12 Feb 2024 18:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>感谢您参与我们的社会实验。</title>
+      <title>感谢您参加我们的社会实验。</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1756790218286301355#m</link>
       <description><![CDATA[感谢您参与我们的社交实验。]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1756790218286301355#m</guid>
@@ -115,7 +117,7 @@ teddit.net/r/jailbreak/comme…]]></description>
     <item>
       <title>RT by @dhinakg：终于让 NewTerm 工作了，这太棒了！感谢@icrazeios 的帮助！</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1753886999235240120#m</link>
-      <description><![CDATA[终于让 NewTerm 运行起来了，太棒了！感谢 @icrazeios 的帮助！
+      <description><![CDATA[终于让 NewTerm 工作了，太棒了！感谢 @icrazeios 的帮助！
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1753886999235240120#m</guid>
       <pubDate>Sat, 03 Feb 2024 21:03:40 GMT</pubDate>
@@ -127,7 +129,8 @@ teddit.net/r/jailbreak/comme…]]></description>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
       <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 时可能出现的问题并且设备使用 Palera1n 启动。
 
-如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。]]></description>
+如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</guid>
       <pubDate>Wed, 31 Jan 2024 21:23:45 GMT</pubDate>
     </item>
