@@ -3,8 +3,8 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 03 May 2024 12:25:44 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 03 May 2024 15:15:47 GMT</lastBuildDate>
     <item>
       <title>🤔你愿意在 TikTok 上关注我吗？ 📸</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786330315218125162#m</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 03 May 2024 09:41:50 GMT</pubDate>
     </item>
     <item>
-      <title>📢RootHide Jailbreak 有了新的更新 – 1.0.9。此版本修复了在越狱状态下运行应用程序的问题，修复了一些可能无法在非越狱状态下启动的库存应用程序的问题，等等 🔥🚀
+      <title>RT @onejailbreak_：📢RootHide Jailbreak 有了新的更新 – 1.0.9。此版本修复了在越狱状态下运行应用程序的问题，修复了一些可能无法在非越狱状态下启动的库存应用程序的问题，等等 🔥🚀
 
 https://onejailbreak.com/blog/roothide-jailbreak/
 
@@ -33,13 +33,13 @@ onejailbreak.com/blog/roothi…
       <pubDate>Fri, 03 May 2024 06:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>📱多巴胺越狱频繁更新。新版本 2.1.2 提供了一个固定的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且沙盒现在允许写入 /var/jb/var/mobile 系统范围 🔥🚀
+      <title>RT @onejailbreak_：📱Dopamine Jailbreak 经常更新。新版本 2.1.2 提供了一个固定的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且沙箱现在允许写入 /var/jb/ var/mobile 系统范围 🔥🚀
 
 https://onejailbreak.com/blog/dopamine-jailbreak/
 
 #越狱 #iOS15 #iOS16 #Dopamine #Dopamine2 #iPhone6 #iPhone14 #iPhone #iPad</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786276371557240981#m</link>
-      <description><![CDATA[📱多巴胺越狱得到频繁更新。新版本 2.1.2 提供了一个固定的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且沙箱现在允许写入 /var/jb/ var/mobile 系统范围 🔥🚀
+      <description><![CDATA[📱多巴胺越狱得到频繁更新。新版本 2.1.2 提供了一个固定的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且沙箱现在允许在系统范围内写入 /var/jb/ var/mobile 🔥🚀
 
 onejailbreak.com/blog/dopami…
 
@@ -49,11 +49,11 @@ onejailbreak.com/blog/dopami…
       <pubDate>Fri, 03 May 2024 06:07:29 GMT</pubDate>
     </item>
     <item>
-      <title>🕵️iLEAPP 已更新至版本 1.19.3，提供更新的脚本和语言。这是一个 Python 3 脚本，将所有数字取证和事件响应脚本 (DFIR) 合并到一个有用的包中 🗞️
+      <title>🕵️iLEAPP 已更新至 1.19.3 版，提供更新的脚本和语言。这是一个 Python 3 脚本，将所有数字取证和事件响应脚本 (DFIR) 合并到一个有用的包中 🗞️
 
 https://github.com/abrignoni/iLEAPP
 
-#Windows #mscOS #Linux #iOS #iPhone #安全</title>
+#Windows #mscOS #Linux #iOS #iPhone #Security</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786046830314201565#m</link>
       <description><![CDATA[🕵️iLEAPP 已更新至版本 1.19.3，提供更新的脚本和语言。这是一个 Python 3 脚本，将所有数字取证和事件响应脚本 (DFIR) 合并到一个有用的包中🗞️
 
@@ -128,9 +128,9 @@ onejailbreak.com/blog/always…
       <pubDate>Thu, 02 May 2024 06:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 许多设备都可以越狱。最近，发布了一个新的漏洞利用 DejaVuln 来 root webOS 电视并设置 Homebrew Channel。该工具可以root LG电视并自动安装Homebrew Channel 📺
+      <title>🚀 许多设备都可以越狱。最近，发布了一个新的漏洞，可以使用 DejaVuln 获取 webOS 电视的 root 权限并设置 Homebrew 频道。此工具可以获取 LG 电视的 root 权限并自动安装 Homebrew 频道 📺
 
-https://github.com/throtaway96/dejavuln-autoroot
+https://github.com/throwaway96/dejavuln-autoroot
 
 #jailbreak #TV #webOS #LG #Homebrew</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785923340781187529#m</link>
@@ -167,7 +167,7 @@ onejailbreak.com/blog/007-ra…
       <pubDate>Wed, 01 May 2024 09:06:00 GMT</pubDate>
     </item>
     <item>
-      <title>🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。 1.8版本上线，微信助手功能和物理音量键快速录音功能🚀🔥
+      <title>🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。 1.8版本上线，新增微信助手功能和物理音量键快速录音功能🚀🔥
 
 https://onejailbreak.com/blog/trollrecorder/
 
@@ -196,7 +196,7 @@ https://github.com/TheOfficialFloW/PPPwn
 
 #PS4 #PlayStation #PlayStation4 #expliot #jailbreak #PPPwn</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1785368806526697687#m</link>
-      <description><![CDATA[🔥PPPwn 是适用于 PlayStation 4 固件版本 11.00 及更高版本的内核远程代码执行漏洞。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快就可以使用 stage2.bin 负载实现 🎮
+      <description><![CDATA[🔥PPPwn 是针对 PlayStation 4 FW 11.00 及以下版本的内核远程代码执行漏洞。此漏洞是 CVE-2006-4304 的概念验证 🚀 很快它就可以用 stage2.bin 有效载荷实现 🎮
 
 github.com/TheOfficialFloW/P…
 
