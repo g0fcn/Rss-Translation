@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 04 May 2024 01:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 03:17:47 GMT</lastBuildDate>
     <item>
       <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
 
@@ -23,9 +23,9 @@ github.com/opa334/Dopamine/r…
 也就是说，2.1.1 已经解决了这些问题
 https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
-      <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
+      <description><![CDATA[显然，在没有回归的情况下发布 Dopamine 主要版本非常困难 :(
 
-也就是说，2.1.1 已经解决了这些问题
+也就是说，2.1.1 是为了修复这些问题
 github.com/opa334/Dopamine/r…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</guid>
@@ -39,7 +39,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
+      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上的 OTA 更新（Dopamine 2.0.x -> 2.1）期间出现的恐慌进行了小修复。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
       <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
@@ -47,14 +47,13 @@ nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
       <pubDate>Tue, 30 Apr 2024 21:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1 现已推出，具有 A8(X) 支持和其他改进。
+      <title>Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
 
 https://www.reddit.com/r/jailbreak/comments/1cgy7cy/dopamine_21_a8x_support_and_other_improvements/</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m</link>
       <description><![CDATA[Dopamine 2.1 现已推出，具有 A8(X) 支持和其他改进。
 
-teddit.net/r/jailbreak/comme…
-]]></description>
+teddit.net/r/jailbreak/comme…]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m</guid>
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
@@ -75,7 +74,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
-      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
+      <description><![CDATA[它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
