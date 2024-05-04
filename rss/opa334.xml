@@ -4,13 +4,13 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 03 May 2024 21:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 01:02:34 GMT</lastBuildDate>
     <item>
       <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
-      <description><![CDATA[Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
+      <description><![CDATA[多巴胺 2.1.2 即将修复 2.1 的另一项回归
 
 github.com/opa334/Dopamine/r…
 ]]></description>
@@ -47,7 +47,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
       <pubDate>Tue, 30 Apr 2024 21:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
+      <title>Dopamine 2.1 现已推出，具有 A8(X) 支持和其他改进。
 
 https://www.reddit.com/r/jailbreak/comments/1cgy7cy/dopamine_21_a8x_support_and_other_improvements/</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m</link>
@@ -102,7 +102,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</link>
-      <description><![CDATA[现在就放弃吧，我真的应该停止尝试从用户空间修复内核错误，我们只需要接受 iOS 15 arm64e 本质上是不稳定的 :(
+      <description><![CDATA[现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(
 nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</guid>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
@@ -110,7 +110,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
     <item>
       <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
-      <description><![CDATA[确认不起作用💔]]></description>
+      <description><![CDATA[确认不工作💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
@@ -128,7 +128,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>好的，使用以下版本时，iOS 15 arm64e 上的 spinlock panic 应该可以修复，至少在理论上/可能。请记住，我对导致这种情况的原因仍然了解有限，因此我修复它的所有尝试都做出了可能不正确的假设。</title>
+      <title>好吧，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</link>
       <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
