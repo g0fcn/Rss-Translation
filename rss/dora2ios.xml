@@ -4,7 +4,7 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 04 May 2024 06:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:15:32 GMT</lastBuildDate>
     <item>
       <title>RT @dora2ios：Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
 
@@ -86,7 +86,7 @@ PAC 旁路 (A12+)：
 - (arm64) 无 KPP/KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
-- (arm64) 无 KPP/KTRR 无限制
+- (arm64) 无 KPP/KTRR 无束缚
 - (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
