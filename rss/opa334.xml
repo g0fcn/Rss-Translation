@@ -4,9 +4,9 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 04 May 2024 21:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 01:07:19 GMT</lastBuildDate>
     <item>
-      <title>Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
+      <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
@@ -18,14 +18,14 @@ github.com/opa334/Dopamine/r…
       <pubDate>Thu, 02 May 2024 17:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>显然，很难在没有回归的情况下发布 Dopamine 主要版本 :(
-
-话虽如此，2.1.1 是为了修复这些问题
-https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
-      <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
+      <title>显然，要在没有回归的情况下发布多巴胺主要版本是非常困难的:(
 
 也就是说，2.1.1 已经解决了这些问题
+https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
+      <description><![CDATA[显然，在没有回归的情况下发布 Dopamine 主要版本非常困难 :(
+
+也就是说，2.1.1 是为了修复这些问题
 github.com/opa334/Dopamine/r…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</guid>
@@ -66,22 +66,22 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
+      <title>回复 @opa334dev：呃，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱时启动应用程序是可行的……</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
       <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
+      <title>回复 @opa334dev：它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
-      <description><![CDATA[它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？
+      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试查找导致该问题的原因......
+      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
 它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
@@ -128,7 +128,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>好的，使用以下版本时，iOS 15 arm64e 上的 spinlock panic 应该可以修复，至少在理论上/可能。请记住，我对导致这种情况的原因仍然了解有限，因此我修复它的所有尝试都做出了可能不正确的假设。</title>
+      <title>好吧，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</link>
       <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
