@@ -4,13 +4,13 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 05 May 2024 15:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:20:25 GMT</lastBuildDate>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
 https://github.com/dhinakg/partial</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1775681040369229963#m</link>
-      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在此过程中我学到了很多有关 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！ 
+      <description><![CDATA[我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件（主要是 Apple 的 OTA 和 IPSW）中抓取文件，在此过程中我学到了很多有关 ZIP 文件的知识。它仍然不够完善，但我希望您能看看！
 
 github.com/dhinakg/partial
 ]]></description>
@@ -127,10 +127,9 @@ teddit.net/r/jailbreak/comme…
 
 如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
-      <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了如果 palera1n 和 meowbrek2 同时用于同一台设备且设备使用 palera1n 启动时可能出现的问题。
+      <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了如果 palera1n 和 meowbrek2 同时用于同一台设备且该设备使用 palera1n 启动时可能出现的问题。
 
-如果您使用的是 1.1.1 并遇到问题，请使用 meowbrek2 进行越狱并更新。
-]]></description>
+如果您使用的是 1.1.1 并遇到问题，请使用 meowbrek2 进行越狱并更新。]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</guid>
       <pubDate>Wed, 31 Jan 2024 21:23:45 GMT</pubDate>
     </item>
