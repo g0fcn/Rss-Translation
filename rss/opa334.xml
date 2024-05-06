@@ -4,9 +4,9 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 06 May 2024 06:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 09:17:05 GMT</lastBuildDate>
     <item>
-      <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
+      <title>多巴胺 2.1.2 即将修复 2.1 的又一回归
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
@@ -32,7 +32,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Tue, 30 Apr 2024 23:51:42 GMT</pubDate>
     </item>
     <item>
-      <title>R to @opa334dev：（由于这个问题只影响 OTA 更新，所以没有必要推送新版本，已经更新的人不需要担心这个新版本）</title>
+      <title>R to @opa334dev：（由于这个问题只影响OTA更新，所以没有必要推送新版本，已经更新的人不需要担心这个新版本）</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</link>
       <description><![CDATA[（由于此问题仅影响 OTA 更新，因此没有必要推送新版本，已更新的人无需担心此新版本）]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</guid>
@@ -59,23 +59,23 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
+      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
-      <description><![CDATA[问题是，这个崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
+      <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>回复 @opa334dev：呃，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱时启动应用程序是可行的……</title>
+      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[唉，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这一点，但显然在未越狱时启动应用程序是可行的……]]></description>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
     <item>
       <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
-      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
+      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
@@ -87,7 +87,7 @@ teddit.net/r/jailbreak/comme…
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
       <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
-它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+它是用 Swift 编写的，所以不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
     </item>
@@ -102,7 +102,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</link>
-      <description><![CDATA[现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(
+      <description><![CDATA[现在就放弃吧，我真的应该停止尝试从用户空间修复内核错误，我们只需要接受 iOS 15 arm64e 本质上是不稳定的 :(
 nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</guid>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
@@ -115,10 +115,10 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>R 至@opa334dev：多巴胺 2.1 每晚：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
-Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
+      <title>R 至 @opa334dev：Dopamine 2.1 Nightly：https://nightly.link/opa334/Dopamine/actions/runs/8849664817/Dopamine.zip
+Ellekit Nightly：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/release%20package.zip
 
-请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
+请注意，如果这些方法无法解决问题，则该问题不太可能完全解决，因为这是我最后的想法。有关内存布线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
       <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
 Ellekit 每晚：nightly.link/evelyneee/ellek…
@@ -128,7 +128,7 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>好吧，使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。</title>
+      <title>好的，使用以下版本时，iOS 15 arm64e 上的 spinlock panic 应该可以修复，至少在理论上/可能。请记住，我对导致这种情况的原因仍然了解有限，因此我修复它的所有尝试都做出了可能不正确的假设。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</link>
       <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
