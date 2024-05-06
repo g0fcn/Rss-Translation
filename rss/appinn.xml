@@ -4,7 +4,18 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 05 May 2024 21:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 01:04:41 GMT</lastBuildDate>
+    <item>
+      <title>求一个支持 GPT3.5 的翻译输入法</title>
+      <link>https://meta.appinn.net/t/topic/56030</link>
+      <description><![CDATA[最近用的搜狗输入法的翻译，但是翻译似乎看起来始终不及 ChatGPT 的准确
+所以，寻找翻译输入法的应用，它可以支持配置 API
+至于为什么要求输入法带翻译，这样可以不必切换到其它的应用
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/56030</guid>
+      <pubDate>Mon, 06 May 2024 00:00:25 GMT</pubDate>
+    </item>
     <item>
       <title>【限时内购免费】要做Bartender平替的那个Barbee菜单栏管理软件限时内购免费啦</title>
       <link>https://meta.appinn.net/t/topic/56027</link>
@@ -350,57 +361,6 @@ Read Aloud   问题：功能太少+操作不方便
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/55617</guid>
       <pubDate>Wed, 24 Apr 2024 10:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】QuickRecorder: 开源免费的轻量化多功能 macOS 录屏工具</title>
-      <link>https://meta.appinn.net/t/topic/55611</link>
-      <description><![CDATA[软件名称
-QuickRecorder
-系统要求
-仅支持 macOS 13 或以上版本
-官网&amp;下载
-官方网站: QuickRecorder
-下载地址: 点此前往
-一句话简介
-基于 ScreenCapture Kit 开发的多功能、轻量化、高性能开源 macOS 屏幕录制工具
-软件特色
-
-
-使用 SwiftUI 编写, 功能专一, 体积小巧 (仅不到5M)
-
-
-支持全屏,区域,单/多窗口,单/多App等录制模式
-
-
-支持免驱动内录系统声音, 独立录制程序/窗口声音
-
-
-完全免费开源, 代码透明, 不收集上传任何用户隐私
-
-
-
-PS: 这个 App 的开发契机是我看不惯有的混子开发者把 SC API 最基础的录制功能包装一下就上架 App Store 卖 38 块钱, 纯坑小白… 你让我觉得不爽, 那我就砸你饭碗, 我把你敝帚自珍的东西直接开源免费, 而且软件写的比你付费版的更好用, 功能更多. 不服憋着!
-
-使用注意
-
-同时录制程序声音和麦克风的情况下, QuickRecorder会将麦克风声音录制到新的额外音轨, 而不是和程序声音混缩在同一条音轨上. 部分视频播放软件可能不支持将两条音轨同时播放.
-
-软件截图
-
-更新日志 (2024/04/24)
-v1.0.5:
-
-添加了 App 排除列表 功能, 可在全屏录制或区域录制时忽略某些 App
-改进了偏好设置面板的布局
-
-
-本软件完全开源免费使用. 如果用的顺手, 可以在github页面最底部扫码打赏.
-您的支持是我创造更多开源软件的动力0v0
-
-7 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/55611</guid>
-      <pubDate>Wed, 24 Apr 2024 08:32:44 GMT</pubDate>
     </item>
     <item>
       <title>请问这个搜索提示如何去掉</title>
