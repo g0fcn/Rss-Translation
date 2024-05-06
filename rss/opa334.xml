@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 06 May 2024 15:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 18:21:57 GMT</lastBuildDate>
     <item>
       <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
 
@@ -59,9 +59,9 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
+      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，而是在刷新票证时发生，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
-      <description><![CDATA[问题是，这个崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
+      <description><![CDATA[问题是，这次崩溃并不是立即发生的，而是在刷新票证时发生的，所以我认为这是应用程序中的一个错误……这样做真的很愚蠢……]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
@@ -75,7 +75,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
-      <description><![CDATA[它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？
+      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
@@ -85,9 +85,9 @@ teddit.net/r/jailbreak/comme…
 
 它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
-      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我试图调查导致它的原因...
+      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
-它是用 Swift 编写的，所以不幸的是我无法找出导致它的原因&gt;。&lt; 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
     </item>
@@ -102,7 +102,7 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</link>
-      <description><![CDATA[现在就放弃吧，我真的应该停止尝试从用户空间修复内核错误，我们只需要接受 iOS 15 arm64e 本质上是不稳定的 :(
+      <description><![CDATA[现在放弃这个吧，我真的应该停止尝试修复用户空间的内核错误，我们只需要接受 iOS 15 arm64e 本质上不稳定的事实:(
 nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783901650647695517#m</guid>
       <pubDate>Fri, 26 Apr 2024 16:51:11 GMT</pubDate>
