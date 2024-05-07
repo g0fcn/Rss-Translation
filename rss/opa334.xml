@@ -3,8 +3,16 @@
   <channel>
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
-    <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 06 May 2024 18:21:57 GMT</lastBuildDate>
+    <description>Twitter 消息源：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 07 May 2024 01:04:07 GMT</lastBuildDate>
+    <item>
+      <title>Dopamine 2.1.3 已发布，修复了随机系统死锁，导致某些设备上出现 watchdogd 恐慌，同时还修复了其他小问题 https://github.com/opa334/Dopamine/releases/tag/2.1.3</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787633116191793636#m</link>
+      <description><![CDATA[Dopamine 2.1.3 已发布，修复了随机系统死锁导致某些设备上出现 watchdogd 恐慌的问题，同时还修复了其他一些小问题 github.com/opa334/Dopamine/r...
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1787633116191793636#m</guid>
+      <pubDate>Mon, 06 May 2024 23:58:42 GMT</pubDate>
+    </item>
     <item>
       <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
 
@@ -18,9 +26,9 @@ github.com/opa334/Dopamine/r…
       <pubDate>Thu, 02 May 2024 17:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>显然，要在没有回归的情况下发布多巴胺主要版本是非常困难的:(
+      <title>显然，很难在没有回归的情况下发布 Dopamine 主要版本 :(
 
-也就是说，2.1.1 已经解决了这些问题
+话虽如此，2.1.1 是为了修复这些问题
 https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
       <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
@@ -34,12 +42,12 @@ github.com/opa334/Dopamine/r…
     <item>
       <title>R to @opa334dev：（由于这个问题只影响 OTA 更新，所以没有必要推送新版本，已经更新的人不需要担心这个新版本）</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</link>
-      <description><![CDATA[（由于此问题仅影响 OTA 更新，因此没有必要推送新版本，已更新的人无需担心此新版本）]]></description>
+      <description><![CDATA[（由于该问题仅影响 OTA 更新，因此无需推送新版本，已更新的用户无需担心此新版本）]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</guid>
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上的 OTA 更新（Dopamine 2.0.x -> 2.1）期间出现的恐慌进行了小修复。</title>
+      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
       <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
@@ -59,16 +67,16 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，而是在刷新票证时发生，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
+      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
-      <description><![CDATA[问题是，这次崩溃并不是立即发生的，而是在刷新票证时发生的，所以我认为这是应用程序中的一个错误……这样做真的很愚蠢……]]></description>
+      <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
       <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[唉，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这一点，但显然在未越狱时启动应用程序是可行的……]]></description>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
@@ -120,7 +128,7 @@ Ellekit 每晚：https://nightly.link/evelyneee/ellekit/actions/runs/8848428321/
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783864423095914775#m</link>
-      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine…
+      <description><![CDATA[多巴胺 2.1 每晚：nightly.link/opa334/Dopamine...
 Ellekit 每晚：nightly.link/evelyneee/ellek…
 
 请注意，如果这些不能解决问题，则问题不太可能*根本*可以解决，因为这是我的最后一个想法。有关内存接线的日志正在写入 /var/mobile/launchd_dsc_lock.log。]]></description>
@@ -133,14 +141,6 @@ Ellekit 每晚：nightly.link/evelyneee/ellek…
       <description><![CDATA[好吧，在使用以下版本时，iOS 15 arm64e 上的自旋锁恐慌应该得到修复，至少在理论上/也许是这样。请记住，我对导致这种情况的原因仍然了解有限，因此我所有修复此问题的尝试都做出了可能不正确的假设。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783864421351063984#m</guid>
       <pubDate>Fri, 26 Apr 2024 14:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</link>
-      <description><![CDATA[
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1782139663207051623#m</guid>
-      <pubDate>Sun, 21 Apr 2024 20:09:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
