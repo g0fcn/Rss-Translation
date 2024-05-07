@@ -3,8 +3,8 @@
   <channel>
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
-    <description>Twitter 消息源：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 01:04:07 GMT</lastBuildDate>
+    <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 07 May 2024 03:17:29 GMT</lastBuildDate>
     <item>
       <title>Dopamine 2.1.3 已发布，修复了随机系统死锁，导致某些设备上出现 watchdogd 恐慌，同时还修复了其他小问题 https://github.com/opa334/Dopamine/releases/tag/2.1.3</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787633116191793636#m</link>
@@ -26,9 +26,9 @@ github.com/opa334/Dopamine/r…
       <pubDate>Thu, 02 May 2024 17:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>显然，很难在没有回归的情况下发布 Dopamine 主要版本 :(
+      <title>显然，要在没有回归的情况下发布多巴胺主要版本是非常困难的:(
 
-话虽如此，2.1.1 是为了修复这些问题
+也就是说，2.1.1 已经解决了这些问题
 https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
       <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
@@ -42,7 +42,7 @@ github.com/opa334/Dopamine/r…
     <item>
       <title>R to @opa334dev：（由于这个问题只影响 OTA 更新，所以没有必要推送新版本，已经更新的人不需要担心这个新版本）</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</link>
-      <description><![CDATA[（由于该问题仅影响 OTA 更新，因此无需推送新版本，已更新的用户无需担心此新版本）]]></description>
+      <description><![CDATA[（由于此问题仅影响 OTA 更新，因此没有必要推送新版本，已更新的人无需担心此新版本）]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</guid>
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
