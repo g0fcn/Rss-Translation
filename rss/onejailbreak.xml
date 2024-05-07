@@ -3,11 +3,44 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 12:26:38 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 07 May 2024 15:13:58 GMT</lastBuildDate>
     <item>
-      <title>📢ONE Jailbreak 现已在 Facebook 上线 🚀
-感谢您的支持 🫂
+      <title>💻Legacy iOS Kit 是一款用于恢复、降级、保存 SHSH blob、激活和越狱旧版 iOS 设备的一体化解决方案 🚀
+
+https://onejailbreak.com/blog/legacy-ios-kit/
+
+📰新版本提供针对 A8 和更新的 32 位 SSHRD 的基带检查。
+
+#iOS7 #iOS13 #iOS14 #iOS15 #iPhone3G #iPhone7</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787825728622371272#m</link>
+      <description><![CDATA[💻Legacy iOS Kit 是一款一体化解决方案，用于恢复、降级、保存 SHSH blob、激活和越狱旧版 iOS 设备🚀
+
+onejailbreak.com/blog/legacy…
+
+📰新版本提供 A8 和更新的 32 位 SSHRD 的基带检查。
+
+#iOS7 #iOS13 #iOS14 #iOS15 #iPhone3G #iPhone7
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787825728622371272#m</guid>
+      <pubDate>Tue, 07 May 2024 12:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 致@onejailbreak_：v2.1.4 已发布，链接在文章中🔥
+
+- 仅自动修复 /var/jb/var/mobile 内相关目录的权限，而不是整个目录的权限
+- 如果 /var/jb/var 或 /var/jb/var/mobile 是符号链接，则跳过权限修复</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787824425775034396#m</link>
+      <description><![CDATA[v2.1.4 已出，链接在文章🔥
+
+- 仅自动修复 /var/jb/var/mobile 内相关目录的权限，而不是整个目录的权限
+- 如果 /var/jb/var 或 /var/jb/var/mobile 是符号链接，则跳过权限修复]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787824425775034396#m</guid>
+      <pubDate>Tue, 07 May 2024 12:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>📢ONE Jailbreak 现已登陆 Facebook 🚀
+感谢您的支持🫂
 
 https://www.facebook.com/onejailbreak
 
@@ -96,17 +129,17 @@ https://onejailbreak.com/blog/ppsspp-ios/enable-ppsspp-jit/
 
 #jailbreak #nojailbreak #dopamine #fugu15max #iPhoneXS #iPhone14 #palera1n #checkra1n #iOS #iPhone #rootless #XinaA15 #PSP #iOS17 #iPad</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787459240367382987#m</link>
-      <description><![CDATA[🕹️使用 SideJITServer 之类的工具，您可以在 iOS 17 上为 PPSSPP 模拟器启用 JIT。因此，您可以将游戏 FPS 提高 2-5 倍 🚀📱
+      <description><![CDATA[🕹️使用 SideJITServer 这样的工具，您可以在 iOS 17 上为 PPSSPP 模拟器启用 JIT。因此，您可以将游戏 FPS 提高 2-5 倍🚀📱
 
 onejailbreak.com/blog/ppsspp…
 
-#jailbreak #nojailbreak #dopamine #fugu15max #iPhoneXS #iPhone14 #palera1n #checkra1n #iOS #iPhone #rootless #XinaA15 #PSP #iOS17 #iPad
+#jailbreak #nojailbreak #dopamine #fugu15max #iPhoneXS #iPhone14 #palera1n&lt; /a&gt; #checkra1n #iOS #iPhone #rootless #XinaA15 #PSP  #iOS17 #iPad
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787459240367382987#m</guid>
       <pubDate>Mon, 06 May 2024 12:27:46 GMT</pubDate>
     </item>
     <item>
-      <title>🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。1.8.2 版推出了一个新选项，允许您在应用程序处于后台时访问 WebDAV 服务器🔥🎙️
+      <title>🧩TrollRecorder 可能是 iOS 上更新最频繁的应用程序。版本 1.8.2 推出了一个新选项，允许您在应用程序处于后台时访问 WebDAV 服务器🔥🎙️
 
 https://onejailbreak.com/blog/trollrecorder/
 
@@ -158,11 +191,11 @@ onejailbreak.com/blog/glance…
       <pubDate>Sun, 05 May 2024 07:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>🕹️PPSSPP 应用程序在 App Store 上发布还需要一些时间。与此同时，我们可以在 iPhone 上侧载经典的 PSP 模拟器📱
+      <title>🕹️PPSSPP应用程序在App Store上发布还需要一段时间。与此同时，我们可以在 iPhone 上旁加载经典的 PSP 模拟器📱
 
 https://onejailbreak.com/blog/ppsspp-ios/
 
-最终版本于 2 月发布，但现在刚刚发布了新的测试版本。很火爆！🔥
+最终版本于二月份发布，但新的测试版本现在刚刚发布。很热！ 🔥
 
 #jailbreak #nojailbreak #dopamine #iOS15 #fugu15 #unc0ver #fugu15max #iPhoneXS #iPhone14 #palera1n #checkra1n #iOS #iPhone #rootless #XinaA15 #iOS16 #PSP #iOS17 #iPad</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786686098971693556#m</link>
@@ -178,7 +211,7 @@ onejailbreak.com/blog/ppsspp…
       <pubDate>Sat, 04 May 2024 09:15:35 GMT</pubDate>
     </item>
     <item>
-      <title>🧩BatteryBuddy 仍然是我最喜欢的调整之一，它带来了电池幸福度的可爱脸部指示器🔋
+      <title>🧩BatteryBuddy 仍然是我最喜欢的调整之一，它带来了电池快乐程度的可爱脸部指示器🔋
 
 https://onejailbreak.com/blog/batterybuddy-tweak/
 
@@ -215,50 +248,14 @@ https://onejailbreak.com/blog/best-ipa-installers/
 
 #TrollStore2 #TrollStore #iOS16 #iOS17 #AppStore #alternative #iPhone #nojailbreak #iOS #Windows #Mac #Linux</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786466207547162698#m</link>
-      <description><![CDATA[📢不仅仅是TrollStore可以安装IPA文件。在这里您可以找到我最喜欢的 iOS 16 和 iOS 17 IPA 安装程序列表。目前，总共有 16 个应用程序🔥 
+      <description><![CDATA[📢不仅TrollStore可以安装IPA文件。在这里，您可以找到我最喜欢的 iOS 16 和 iOS 17 IPA 安装程序列表。目前，总共有 16 个应用程序🔥 
 
 onejailbreak.com/blog/best-i…
 
-#TrollStore2 #TrollStore #iOS16 #iOS17 #AppStore #alternative #iPhone&lt; /a&gt; #nojailbreak #iOS #Windows #Mac #Linux
+#TrollStore2 #TrollStore #iOS16 #iOS17 #AppStore #alternative #iPhone #nojailbreak #iOS #Windows #Mac #Linux
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786466207547162698#m</guid>
       <pubDate>Fri, 03 May 2024 18:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @onejailbreak_：📢RootHide Jailbreak 有了新的更新 – 1.0.9。此版本修复了在越狱状态下运行应用程序的问题，修复了一些可能无法在非越狱状态下启动的库存应用程序的问题，等等 🔥🚀
-
-https://onejailbreak.com/blog/roothide-jailbreak/
-
-通过@roothideDev
-
-#iOS15 #RootHide #jailbreak #iPhone #Dopamine</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786277696982446503#m</link>
-      <description><![CDATA[📢RootHide Jailbreak 有了新的更新 – 1.0.9。此版本修复了在越狱状态下运行应用程序的问题，修复了一些在非越狱状态下可能无法启动的库存应用程序的问题，等等 🔥🚀
-
-onejailbreak.com/blog/roothi…
-
-作者：@roothideDev
-
-#iOS15 #RootHide #jailbreak #iPhone #Dopamine
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786277696982446503#m</guid>
-      <pubDate>Fri, 03 May 2024 06:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @onejailbreak_：📱Dopamine Jailbreak 经常更新。新版本 2.1.2 提供了一个固定的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且沙箱现在允许写入 /var/jb/ var/mobile 系统范围 🔥🚀
-
-https://onejailbreak.com/blog/dopamine-jailbreak/
-
-#越狱 #iOS15 #iOS16 #Dopamine #Dopamine2 #iPhone6 #iPhone14 #iPhone #iPad</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786276371557240981#m</link>
-      <description><![CDATA[📱多巴胺越狱得到频繁更新。新版本 2.1.2 提供了一个固定的应用程序切换器，在某些情况下不显示越狱应用程序的预览图像 [2.1 回归]，并且沙盒现在允许写入 /var/jb/ var/mobile 系统范围 🔥🚀
-
-onejailbreak.com/blog/dopami…
-
-#jailbreak #iOS15 #iOS16 #Dopamine #Dopamine2 #iPhone6 #iPhone14&lt; /a&gt; #iPhone #iPad
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786276371557240981#m</guid>
-      <pubDate>Fri, 03 May 2024 06:07:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
