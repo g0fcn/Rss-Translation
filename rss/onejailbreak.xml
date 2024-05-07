@@ -3,14 +3,30 @@
   <channel>
     <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 15:13:58 GMT</lastBuildDate>
+    <description>Twitter 供稿：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 07 May 2024 21:12:58 GMT</lastBuildDate>
     <item>
-      <title>💻Legacy iOS Kit 是一款用于恢复、降级、保存 SHSH blob、激活和越狱旧版 iOS 设备的一体化解决方案 🚀
+      <title>💻Semaphorin 命令行版本已更新，增加了对 iOS 10.3.3+8.2 的 iPhone 6 支持，以及 10.3.3+9.3 双启动支持🔥🚀
+
+https://onejailbreak.com/blog/semaphorin/
+
+#iOS7 #iOS8 #iOS9 #iOS10 #iOS11 #iPhone6 #jailbreak #downgrade</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787926318283202890#m</link>
+      <description><![CDATA[💻Semaphorin 命令行版本已更新，添加了对 iOS 10.3.3+8.2 的 iPhone 6 支持，以及 10.3.3+9.3 双启动支持 🔥🚀
+
+onejailbreak.com/blog/semaph…
+
+#iOS7 #iOS8 #iOS9 #iOS10 #iOS11 #iPhone6 #jailbreak&lt; /a&gt; #downgrade
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787926318283202890#m</guid>
+      <pubDate>Tue, 07 May 2024 19:23:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>💻Legacy iOS Kit 是一款一体化解决方案，用于恢复、降级、保存 SHSH blob、激活和越狱旧版 iOS 设备 🚀
 
 https://onejailbreak.com/blog/legacy-ios-kit/
 
-📰新版本提供针对 A8 和更新的 32 位 SSHRD 的基带检查。
+📰新版本提供 A8 和更新的 32 位 SSHRD 的基带检查。
 
 #iOS7 #iOS13 #iOS14 #iOS15 #iPhone3G #iPhone7</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787825728622371272#m</link>
@@ -31,16 +47,16 @@ onejailbreak.com/blog/legacy…
 - 仅自动修复 /var/jb/var/mobile 内相关目录的权限，而不是整个目录的权限
 - 如果 /var/jb/var 或 /var/jb/var/mobile 是符号链接，则跳过权限修复</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787824425775034396#m</link>
-      <description><![CDATA[v2.1.4 已出，链接在文章🔥
+      <description><![CDATA[v2.1.4 已发布，链接见文章🔥
 
-- 仅自动修复 /var/jb/var/mobile 内相关目录的权限，而不是整个目录的权限
+- 仅自动修复 /var/jb/var/mobile 内相关目录的权限，而不是全部
 - 如果 /var/jb/var 或 /var/jb/var/mobile 是符号链接，则跳过权限修复]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1787824425775034396#m</guid>
       <pubDate>Tue, 07 May 2024 12:38:53 GMT</pubDate>
     </item>
     <item>
       <title>📢ONE Jailbreak 现已登陆 Facebook 🚀
-感谢您的支持🫂
+谢谢您的支持🫂
 
 https://www.facebook.com/onejailbreak
 
@@ -211,13 +227,13 @@ onejailbreak.com/blog/ppsspp…
       <pubDate>Sat, 04 May 2024 09:15:35 GMT</pubDate>
     </item>
     <item>
-      <title>🧩BatteryBuddy 仍然是我最喜欢的调整之一，它带来了电池快乐程度的可爱脸部指示器🔋
+      <title>🧩BatteryBuddy 仍然是我最喜欢的调整之一，它带来了电池幸福度的可爱脸部指示器🔋
 
 https://onejailbreak.com/blog/batterybuddy-tweak/
 
 #jailbreak #iOS #iPhone #Dopamine #Palera1n #tweak</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786673987705004403#m</link>
-      <description><![CDATA[🧩BatteryBuddy 仍然是我最喜欢的调整之一，它带来了电池幸福度的可爱面部指示器🔋
+      <description><![CDATA[🧩BatteryBuddy 仍然是我最喜欢的调整之一，它带来了一个可爱的电池电量指示灯🔋
 
 onejailbreak.com/blog/batter…
 
@@ -240,22 +256,6 @@ flipboard.com/@onejailbreak
 #Flipboard #iOS #iPhone #jailbreak #tweaks #news]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786669290298441944#m</guid>
       <pubDate>Sat, 04 May 2024 08:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>📢不仅仅是TrollStore可以安装IPA文件。在这里您可以找到我最喜欢的 iOS 16 和 iOS 17 IPA 安装程序列表。目前，总共有 16 个应用程序🔥
-
-https://onejailbreak.com/blog/best-ipa-installers/
-
-#TrollStore2 #TrollStore #iOS16 #iOS17 #AppStore #alternative #iPhone #nojailbreak #iOS #Windows #Mac #Linux</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786466207547162698#m</link>
-      <description><![CDATA[📢不仅TrollStore可以安装IPA文件。在这里，您可以找到我最喜欢的 iOS 16 和 iOS 17 IPA 安装程序列表。目前，总共有 16 个应用程序🔥 
-
-onejailbreak.com/blog/best-i…
-
-#TrollStore2 #TrollStore #iOS16 #iOS17 #AppStore #alternative #iPhone #nojailbreak #iOS #Windows #Mac #Linux
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1786466207547162698#m</guid>
-      <pubDate>Fri, 03 May 2024 18:41:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
