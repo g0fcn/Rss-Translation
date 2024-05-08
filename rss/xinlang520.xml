@@ -4,7 +4,7 @@
     <title>朱心浪 / @xina520</title>
     <link>http://nitter.esmailelbob.xyz/xina520</link>
     <description>Twitter 供稿：@xina520。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 15:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 12:28:44 GMT</lastBuildDate>
     <item>
       <title>R 致@xina520：这些积分属于 KFD Fugu 37c3，与我无关。现在开发越狱的人越来越多，我想有些人需要它</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1744051914462154968#m</link>
@@ -21,11 +21,11 @@ ffffffff14eca99d0 : 4141414141414141
 https://github.com/zhuxinlang/zhuxinlang.github.io/blob/main/GPU_CoreSight.m</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1744041080780431519#m</link>
       <description><![CDATA[ml_dbgwrap_halt_cpu 新值：800000ff
-dma_ctrl_1新值：8000000000070e01
-kernel_addr phys_addr: fffffff14eca99d0 91db959d0
+dma_ctrl_1 新值：8000000000070e01
+kernel_addr phys_addr：fffffff14eca99d0 91db959d0
 dma_ctrl_1 旧值：70e00
-ffffffff14eca99d0 : 4141414141414141
-github.com/zhuxinlang/zhuxin...
+fffffff14eca99d0 : 4141414141414141
+github.com/zhuxinlang/zhuxin…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1744041080780431519#m</guid>
       <pubDate>Sun, 07 Jan 2024 16:59:31 GMT</pubDate>
@@ -33,7 +33,7 @@ github.com/zhuxinlang/zhuxin...
     <item>
       <title>大家圣诞快乐！</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1739374844540858391#m</link>
-      <description><![CDATA[祝大家圣诞快乐！
+      <description><![CDATA[大家圣诞快乐！
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/xina520/status/1739374844540858391#m</guid>
       <pubDate>Mon, 25 Dec 2023 19:57:33 GMT</pubDate>
@@ -84,10 +84,10 @@ github.com/zhuxinlang/zhuxin...
     </item>
     <item>
       <title>https://apt.xina.vip/Xina.kfd.2.0.15.ipa
-修复了安全模式下粉红色屏幕的问题
+修复安全模式粉屏
 修复15.2以上bindfs命令粉屏问题
-修复部分人字体被恢复的问题
-一些优化</title>
+修复部分用户字体恢复问题
+部分优化</title>
       <link>http://nitter.esmailelbob.xyz/xina520/status/1729558572940357933#m</link>
       <description><![CDATA[apt.xina.vip/Xina.kfd.2.0.15…
 修复安全模式下粉屏问题
