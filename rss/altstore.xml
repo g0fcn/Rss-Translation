@@ -4,11 +4,11 @@
     <title>AltStore.io / @altstoreio</title>
     <link>http://nitter.esmailelbob.xyz/altstoreio</link>
     <description>Twitter 供稿：@altstoreio。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 08 May 2024 18:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 21:15:47 GMT</lastBuildDate>
     <item>
-      <title>⚠️ 今天的服务器问题导致 AltStore PAL 和随其分发的应用程序无法下载。我们刚刚部署了修复程序，一切都应该再次正常工作。对于给您带来的不便，我们深表歉意。
+      <title>⚠️ 今天的服务器问题导致 AltStore PAL 及其分发的应用程序无法下载。我们刚刚部署了一个修复程序，一切都应该可以正常工作了。对于给您带来的不便，我们深表歉意。
 
-如果您需要重新下载 PAL 的帮助，请参阅我们的常见问题解答：https://faq.altstore.io/altstore-pal/reinstalling-pal</title>
+如果您需要帮助重新下载 PAL，请参阅我们的常见问题解答：https://faq.altstore.io/altstore-pal/reinstalling-pal</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1787607520770499050#m</link>
       <description><![CDATA[⚠️ 今天的服务器问题导致 AltStore PAL 和随其分发的应用程序无法下载。我们刚刚部署了修复程序，一切都应该再次正常工作。对于给您带来的不便，我们深表歉意。
 
@@ -46,24 +46,24 @@
 
 此外，您还可以启用贡献者添加的一系列“实验功能”，例如可自定义的 FF 速度和游戏内屏幕截图 📸</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1785734111769829697#m</link>
-      <description><![CDATA[此测试版还包括所有现有的 Delta 测试版功能，包括对我们的第一个新系统 — Sega Genesis 🦔的初步支持
+      <description><![CDATA[此测试版还包含所有现有的 Delta 测试版功能，包括对我们的第一个新系统 — Sega Genesis 的初步支持 🦔
 
-此外，您还可以启用贡献者添加的一系列“实验功能”，例如可自定义的 FF 速度和游戏内屏幕截图📸
+此外，您还可以启用贡献者添加的一系列“实验性功能”，例如可自定义的 FF 速度和游戏内屏幕截图 📸
 
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1785734111769829697#m</guid>
       <pubDate>Wed, 01 May 2024 18:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>R 致 @altstoreio：测试版中有什么内容？
+      <title>R 致@altstoreio：那么测试版中有哪些内容？
 
-在 Delta 1.6b 中，我们添加了全新的手势，使常见操作更加方便！
+在 Delta 1.6b 中，我们添加了全新的手势，让常用操作更加方便！
 
 要激活，请按住菜单按钮，然后：
 ⏩ 向左/向右滑动（快进）
 👇 点击按钮（按住按钮）
 
-让我们知道您接下来想看到什么操作！</title>
+让我们知道您接下来希望看到什么行动！</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1785733610810614227#m</link>
       <description><![CDATA[那么测试版中有哪些内容？
 
@@ -115,11 +115,11 @@ nitter.esmailelbob.xyz/EU_Commission/status/1784884274606346346#m]]></descriptio
       <pubDate>Mon, 29 Apr 2024 17:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 Delta 1.5.2 现已推出！此更新包括一些快速的生活质量改进和错误修复，我们即将推出更多内容 🙂
+      <title>🚀 Delta 1.5.2 现已推出！此更新包括一些快速的 QoL 改进和错误修复，我们还有更多即将推出的功能 🙂
 
-AltStore 用户可以立即从“我的应用程序”选项卡进行更新（应用程序商店版本目前正在审核中）
+AltStore 用户现在可以从“我的应用”选项卡进行更新（App Store 版本目前正在审核中）
 
-完整发行说明：https://faq.deltaemulator.com/release-notes</title>
+完整发布说明：https://faq.deltaemulator.com/release-notes</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1783559880336396555#m</link>
       <description><![CDATA[🚀 Delta 1.5.2 现已推出！此更新包括一些快速的生活质量改进和错误修复，我们即将推出更多内容 🙂
 
@@ -137,25 +137,25 @@ AltStore 用户可以立即从“我的应用程序”选项卡更新（应用�
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1782498449297973516#m</link>
       <description><![CDATA[自 PAL 推出以来，我们也收到了大量的支持请求，因此我们正在尽最大努力尽快做出响应，但这仍然可能需要一些时间。
 
-感谢大家的耐心 🙂]]></description>
+感谢你们的耐心 🙂]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1782498449297973516#m</guid>
       <pubDate>Mon, 22 Apr 2024 19:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>似乎存在一个问题，导致 AltStore PAL 无法通过单个订阅安装到多个设备上。
+      <title>似乎存在一个问题，导致无法通过单个订阅将 AltStore PAL 安装到多台设备上。
 
-我们正在研究这个问题，但目前如果您需要切换安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们将为您提供帮助！</title>
+我们正在调查此问题，但目前如果您需要切换要安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们会为您提供帮助！</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1782498383095095540#m</link>
-      <description><![CDATA[似乎存在一个问题，无法通过单个订阅将 AltStore PAL 安装到多个设备上。
+      <description><![CDATA[似乎存在一个问题，导致无法通过单个订阅将 AltStore PAL 安装到多台设备上。
 
-我们正在研究这个问题，但目前如果您需要切换安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们将为您提供帮助！]]></description>
+我们正在调查此事，但目前如果您需要切换要安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们会为您提供帮助！]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1782498383095095540#m</guid>
       <pubDate>Mon, 22 Apr 2024 19:55:06 GMT</pubDate>
     </item>
     <item>
       <title>显然，第 3 方浏览器尚不支持安装替代市场 — 因此，您可以将下载页面中的 URL 复制并粘贴到 Safari 中 🧭</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1780661828592267424#m</link>
-      <description><![CDATA[显然，第 3 方浏览器尚不支持安装替代市场 — 因此，您可以将下载页面中的 URL 复制并粘贴到 Safari 中🧭]]></description>
+      <description><![CDATA[显然，第三方浏览器暂时不支持安装替代市场 - 因此，在此期间，你可以将下载页面的 URL 复制并粘贴到 Safari 中 🧭]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1780661828592267424#m</guid>
       <pubDate>Wed, 17 Apr 2024 18:17:17 GMT</pubDate>
     </item>
@@ -188,11 +188,11 @@ nitter.esmailelbob.xyz/altstoreio/status/1780634838187315358#m]]></description>
       <pubDate>Wed, 17 Apr 2024 16:34:20 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@altstoreio：还有很多我们没有提到的内容，所以我们还写了一篇博客文章，里面有你需要知道的一切：https://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/
+      <title>R 致@altstoreio：还有很多我们没有提到的内容，因此我们还写了一篇博客文章，其中包含您需要了解的所有内容：https://rileytestut.com/blog/2024/04/17/introducing-altstore-pal /
 
-感谢在这段旅程中支持我们的所有人，你们都是最好的💚
+感谢这段旅程中所有支持我们的人，你们都是最棒的💚
 
-哦，对于欧盟以外的朋友，还有一件事……</title>
+哦，对于欧盟以外的朋友来说，还有一件事......</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1780635672933441590#m</link>
       <description><![CDATA[还有很多我们没有提到的内容，所以我们还写了一篇博客文章，其中包含您需要了解的所有内容：rileytestut.com/blog/2024/04…
 

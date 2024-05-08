@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 08 May 2024 18:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 21:16:30 GMT</lastBuildDate>
     <item>
       <title>RT @opa334dev：激动人心的更新！
 我们已经从 Lisp 过渡到 C 来反编译沙箱配置文件，从而提高了准确性和可读性。
@@ -18,9 +18,10 @@ https://github.com/cellebrite-labs/sandblaster</title>
 我们已经从 Lisp 过渡到 C 来反编译沙箱配置文件，从而提高了准确性和可读性。
 我们的 SandBlaster 分支还改进了 iOS 17 支持。
 
-向 @yarden_ha 和 @LIJI32 感谢他们的贡献！
+强烈感谢 @yarden_ha 和 @LIJI32 感谢他们的贡献！
 
-github.com/cellebrite-labs/s...]]></description>
+github.com/cellebrite-labs/s...
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/CellebriteLabs/status/1787842456223961292#m</guid>
       <pubDate>Tue, 07 May 2024 13:50:32 GMT</pubDate>
     </item>
@@ -37,9 +38,10 @@ github.com/opa334/Dopamine/r…
       <pubDate>Tue, 07 May 2024 12:21:31 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1.3 已发布，修复了随机系统死锁，导致某些设备上出现 watchdogd 恐慌，同时还修复了其他小问题 https://github.com/opa334/Dopamine/releases/tag/2.1.3</title>
+      <title>Dopamine 2.1.3 已经发布，它修复了随机系统死锁导致某些设备出现 watchdogd 恐慌的问题，同时还修复了其他一些小问题 https://github.com/opa334/Dopamine/releases/tag/2.1.3</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787633116191793636#m</link>
-      <description><![CDATA[Dopamine 2.1.3 已发布，修复了随机系统死锁导致某些设备上出现 watchdogd 恐慌的问题，同时还修复了其他一些小问题 github.com/opa334/Dopamine/r...]]></description>
+      <description><![CDATA[Dopamine 2.1.3 已发布，修复了随机系统死锁导致某些设备上出现 watchdogd 恐慌的问题，同时还修复了其他一些小问题 github.com/opa334/Dopamine/r...
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1787633116191793636#m</guid>
       <pubDate>Mon, 06 May 2024 23:58:42 GMT</pubDate>
     </item>
@@ -48,9 +50,10 @@ github.com/opa334/Dopamine/r…
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
-      <description><![CDATA[多巴胺 2.1.2 即将修复 2.1 的另一项回归
+      <description><![CDATA[Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
 
-github.com/opa334/Dopamine/r…]]></description>
+github.com/opa334/Dopamine/r…
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</guid>
       <pubDate>Thu, 02 May 2024 17:29:36 GMT</pubDate>
     </item>
@@ -60,17 +63,18 @@ github.com/opa334/Dopamine/r…]]></description>
 也就是说，2.1.1 已经解决了这些问题
 https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
-      <description><![CDATA[显然，很难在没有回归的情况下发布 Dopamine 主要版本 :(
+      <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
 
-话虽如此，2.1.1 是为了修复这些问题
-github.com/opa334/Dopamine/r…]]></description>
+也就是说，2.1.1 已经解决了这些问题
+github.com/opa334/Dopamine/r…
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</guid>
       <pubDate>Tue, 30 Apr 2024 23:51:42 GMT</pubDate>
     </item>
     <item>
       <title>R to @opa334dev：（由于这个问题只影响 OTA 更新，所以没有必要推送新版本，已经更新的人不需要担心这个新版本）</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</link>
-      <description><![CDATA[（由于此问题仅影响 OTA 更新，因此无需推送新版本，已更新的人无需担心此新版本）]]></description>
+      <description><![CDATA[（由于此问题仅影响 OTA 更新，因此没有必要推送新版本，已更新的人无需担心此新版本）]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417929875415524#m</guid>
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
@@ -97,14 +101,14 @@ teddit.net/r/jailbreak/comme…
     <item>
       <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
-      <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
+      <description><![CDATA[问题是，这次崩溃并不是立即发生的，而是在刷新票证时发生的，所以我认为这是应用程序中的一个错误……这样做真的很愚蠢……]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
+      <title>回复 @opa334dev：呃，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱时启动应用程序是可行的……</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......]]></description>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
@@ -123,7 +127,7 @@ teddit.net/r/jailbreak/comme…
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
       <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
-它是用 Swift 编写的，所以不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
     </item>
@@ -146,7 +150,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m]]></description>
     <item>
       <title>R 致@opa334dev：确认不起作用💔</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</link>
-      <description><![CDATA[确认不工作💔]]></description>
+      <description><![CDATA[确认不起作用💔]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783873981835084020#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:01:14 GMT</pubDate>
     </item>
