@@ -4,7 +4,38 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 08 May 2024 06:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:16:17 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】京东价格保护助手，一个可以帮你赚钱的工具（付费）</title>
+      <link>https://meta.appinn.net/t/topic/56221</link>
+      <description><![CDATA[产品描述：
+京东价格保护助手是一个帮助用户省钱的插件，通过定时自动申请价格保护，为您提供赚钱机会。无需手动操作，让您轻松享受购物乐趣。
+下载地址：
+
+
+
+京东价格保护助手
+
+
+
+京东价格保护助手
+一个可以帮你赚钱的插件，可以定时自动帮你申请价格保护的插件。
+
+
+
+
+
+功能特点：
+自动申请京东价格保护：定时自动提交价格保护申请，省时省力。
+赚钱机会：帮助您轻松获取价格降价时的差价，让您的购物更划算。
+用户友好：简单易用的插件界面，让您无需专业技能即可享受价格保护的便利。
+
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/56221</guid>
+      <pubDate>Thu, 09 May 2024 07:57:33 GMT</pubDate>
+    </item>
     <item>
       <title>Android图标生成器(PC工具) 开源,免费</title>
       <link>https://meta.appinn.net/t/topic/56163</link>
@@ -359,26 +390,6 @@ GitHub - lollipopkit/flutter_server_box
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/55805</guid>
       <pubDate>Mon, 29 Apr 2024 01:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现了DwarFS的一个彩蛋功能</title>
-      <link>https://meta.appinn.net/t/topic/55703</link>
-      <description><![CDATA[用DwarFS把文件夹压成mp4格式
-mkdwarfs -i path -o file.mp4
-
-之后上传到阿里云盘
-你就可以分享压缩包了
-这个包里你压缩啥都能分享出去，简直神器！
-接收者直接
-dwarfs file.mp4 P:
-
-就能挂载，都不用改后缀
-方便大家接收后挂载，我把必要的文件打包了，压缩的话自行解决
-https://www.alipan.com/s/jpBCYuuoWBc
-6 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/55703</guid>
-      <pubDate>Fri, 26 Apr 2024 10:44:50 GMT</pubDate>
     </item>
     <item>
       <title>Mac有自媒体一文多发工具吗？</title>
