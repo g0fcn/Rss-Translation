@@ -4,23 +4,29 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 消息源：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 09 May 2024 18:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 21:15:44 GMT</lastBuildDate>
     <item>
-      <title>啊，如果每个月有3000日元的话，那不是就全部消失了吗？</title>
-      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1787892090464256342#m</link>
-      <description><![CDATA[啊，如果每个月3000日元的话，那不是就全部消失了吗？]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1787892090464256342#m</guid>
-      <pubDate>Tue, 07 May 2024 17:07:46 GMT</pubDate>
+      <title>R 致@dora2ios：测试设备是 iPhone 5s，iOS 9.3.1</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788669440051352048#m</link>
+      <description><![CDATA[测试设备为iPhone 5s，iOS 9.3.1]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1788669440051352048#m</guid>
+      <pubDate>Thu, 09 May 2024 20:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>更新后，每次我将广告静音时都会出现此问题，这很烦人。
-即使你付了钱，也不会抹掉所有的东西吧？看起来就是这样🫨</title>
-      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1787891973803884554#m</link>
-      <description><![CDATA[更新后，每次我将广告静音时都很烦人
-即使你付了钱，也不会抹掉所有的东西吧？看起来就是这样🫨
+      <title>最后，我和@imnotclarity 和@staturnzdev 在arm64 iOS 9.2 - 9.3.4 上实现了不受限制的越狱：3
+没有预计到达时间。
+
+（jsc untether 作者：@ staturnzdev，kexploit/pwnkc 作者：@imnotclarity 和我）
+*此帖子不得在 YouTube 上用于产生广告收入。</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m</link>
+      <description><![CDATA[最后我和@imnotclarity和@staturnzdev 在arm64 iOS 9.2 - 9.3.4 上实现了不受限制的越狱：3
+没有预计到达时间。
+
+（jsc untether by @ staturnzdev，kexploit/pwnkc by @ imnotclarity 和我）
+*此帖子不得在 YouTube 上用于产生广告收入。
 ]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1787891973803884554#m</guid>
-      <pubDate>Tue, 07 May 2024 17:07:18 GMT</pubDate>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m</guid>
+      <pubDate>Thu, 09 May 2024 20:34:45 GMT</pubDate>
     </item>
     <item>
       <title>RT @dora2ios：Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
@@ -43,82 +49,82 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 08:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @dora2ios：我们一次又一次地想到“我们假设在 [此处插入 iOS 版本/设备组合] 上可以实现的最佳越狱是什么”。
+      <title>RT @dora2ios：一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
-所以我决定编制一份清单（结合多位其他开发人员的一些见解），列出我们可以实现的最佳越狱，现在我们做到了。
+因此，我决定编制一个列表（包含来自多个其他开发人员的一些见解），说明我们可以实现的最佳目标是什么，我们就在这里。
 
-注意：
-- 这仅适用于 arm64 和 arm64e - 我不包含 32 位
-- 因为目标是“最佳”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 旁路，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 旁路和 15.0 及更高版本上的 PPL 旁路
-- (BFU) FSUntether 的东西不被视为 untether 的东西，因为是否有人真的想实现它还悬而未决（这是您可能拥有的最晚的 untether）
-- 我们假设 14 及更早版本是 rootful，15 及更高版本是 rootless（这些客观上分别是这些分组的最佳越狱类型）
-- untether 错误没有被直接列出（如果要列出，实际上应该是 7.0 - 9.1 daibutsu， 9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx)
-- 有几处我不太确定，所以当这适用时，您会看到一条评论
+笔记：
+- 这仅适用于arm64和arm64e - 我这里不包括32位
+- 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
+- (BFU) FSUntether 的东西并没有被考虑作为一种 untether 的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的 untether 的最晚的）
+- 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些组的最佳越狱类型）
+- untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx）
+- 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
-现在，进入这篇大帖子：
+现在，进入这个巨大的帖子：
 
 内核漏洞：
-7.0 - 12.2 / 12.4：sock_port/SockPuppet 内容
-12.3.x / 12.4.1 - 13.3：time_waste 内容或 kfd 内容（不完全确定这里哪个更好）
-13.3.1 - 14.1 / 14.6 - 16.6.1：kfd 内容
-14.2 - 14.5.1：kfd 内容或（至少在 arm64e 上？ （虽然不完全确定这个错误是否只存在于 arm64e）Fugu14 的 DriverKit 错误
+7.0 - 12.2 / 12.4：sock_port/SockPuppet 的东西
+12.3.x / 12.4.1 - 13.3：time_waste 的东西或 kfd 的东西（不完全确定这里哪个更好）
+13.3.1 - 14.1 / 14.6 - 16.6.1：kfd 的东西
+14.2 - 14.5.1：kfd 的东西或者（至少在arm64e上？不完全确定这个bug是否只是arm64e）Fugu14的DriverKit bug
 
-KPP 绕过（A7 - A9(X)）：
+KPP 旁路（A7 - A9(X)）：
 9.0 - 9.3.5：
--（A7 - A8(X)）完全 KPP 绕过
--（A9(X)）yalu102 KPP 绕过
+- (A7 - A8(X)) 完全 KPP 旁路
+- (A9(X)) yalu102 KPP 旁路
 10.0 - 10.3.3：yalu102 KPP 绕过
 
-KTRR 绕过（A10+）：
+KTRR 旁路 (A10+)：
 10.0 - 10.1.1：仅数据 KTRR 绕过
 
-PPL 绕过（A12+）：
-（实际上只使用 dmaFail）
+PPL 绕过 (A12+)：
+（实际上只是使用 dmaFail）
 12.0 - 16.5：dmaFail PPL 绕过
 16.5.1：
--（A12 - A14 / M1）：dmaFail PPL 绕过
+- (A12 - A14 / M1)：dmaFail PPL 绕过
 
-PAC 绕过（A12+）：
-14.0 - 14.5.1： Fugu14 PAC 绕过
+PAC 旁路 (A12+)：
+14.0 - 14.5.1：Fugu14 PAC 绕过
 15.0 - 15.4.1：badRecovery PAC 绕过
 
 越狱结果：
 7.0 - 8.4.1：
-- 正常解绑（无需特殊操作）
+- 正常的解绑（没有什么特别需要）
 9.0 - 9.3.4：
-- (A7 - A8(X)) 完整 KPP 绕过解绑
+- (A7 - A8(X)) 全 KPP 旁路解绑
 - (A9(X)) yalu102 KPP 绕过解绑
 9.3.5：
-- (A7 - A8(X)) 完整 KPP 绕过半解绑
-- (A9(X)) yalu102 KPP 绕过半解绑
+- (A7 - A8(X)) 全 KPP 旁路半解链
+- (A9(X)) yalu102 KPP 旁路半解链
 10.0 - 10.1.1：
-- (A7 - A9(X)) yalu102 KPP 绕过半解绑
-- (A10) 仅数据 KTRR 绕过半解绑
+- (A7 - A9(X)) yalu102 KPP 旁路半解链
+- (A10) 仅数据 KTRR 绕过半解链
 10.2 - 10.3.3：
-- (A7 - A9(X)) yalu102 KPP 旁路半解绑
-- (A10(X)) 无 KTRR 半解绑
-11.0 - 11.4.1:
-- 无 KPP/无 KTRR 解绑
-12.0 - 13.7（这个不是 100% 确定）：
-- (arm64) 无 KPP/无 KTRR 半解绑
-- (arm64e) dmaFail PPL 旁路半解绑
-14.0 - 14.5.1:
-- (arm64) 无 KPP/无 KTRR 解绑
-- (arm64e) Fugu14 PAC 旁路 + dmaFail PPL 旁路解绑
-14.6 - 14.8.1:
-- (arm64) 无 KPP/无 KTRR 解绑
-- (arm64e) dmaFail PPL 旁路解绑
-15.0 - 15.4.1:
-- (arm64) KPP-less/KTRR-less 半解绑
-- (arm64e) badRecovery PAC 旁路 + dmaFail PPL 旁路半解绑
-15.5 - 16.5:
-- (arm64) KPP-less/KTRR-less 半解绑
-- (arm64e) dmaFail PPL 旁路半解绑
-16.5.1:
-- (arm64) KPP-less/KTRR-less 半解绑
+- (A7 - A9(X)) yalu102 KPP 旁路半解链
+- (A10(X)) 无 KTRR 半解链
+11.0 - 11.4.1：
+- 无 KPP/KTRR 无束缚
+12.0 - 13.7（这一点不是 100% 确定）：
+- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64e) dmaFail PPL 绕过半解绑
+14.0 - 14.5.1：
+- (arm64) 无 KPP/KTRR 无束缚
+- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+14.6 - 14.8.1：
+- (arm64) 无 KPP/KTRR 无束缚
+- (arm64e) dmaFail PPL 绕过 untether
+15.0 - 15.4.1：
+- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64e) badRecovery PAC 绕过 + dmaFail PPL 绕过半解绑
+15.5 - 16.5：
+- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64e) dmaFail PPL 绕过半解绑
+16.5.1：
+- (arm64) 无 KPP/无 KTRR 半解链
 - (A12 - A14 / M1) dmaFail PPL 旁路半解绑
-16.6 - 16.6.1:
-- (arm64) KPP-less/KTRR-less 半解绑</title>
+16.6 - 16.6.1：
+- (arm64) 无 KPP/无 KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
       <description><![CDATA[一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
@@ -203,7 +209,7 @@ PAC 旁路 (A12+)：
       <title>来自@dora2ios 的转发：TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
 https://github.com/alfiecg24/TrollInstallerX</title>
       <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</link>
-      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。🔥
+      <description><![CDATA[TrollInstallerX 现已推出，支持 iOS 14.0 - 16.6.1 的几乎所有设备。它快速、简单且极其可靠。 🔥
 github.com/alfiecg24/TrollIn…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1775953992066990489#m</guid>
@@ -217,40 +223,11 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Fri, 29 Mar 2024 14:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>如果你在街上被拦住，你就是那种会说其他汽车也在做同样事情的人。</title>
-      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1771709421531390189#m</link>
-      <description><![CDATA[这种人如果把车停在路上，会告诉你其他汽车也在做同样的事情。
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1771709421531390189#m</guid>
-      <pubDate>Sun, 24 Mar 2024 01:23:37 GMT</pubDate>
-    </item>
-    <item>
       <title>RT by @dora2ios：在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。</title>
       <link>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</link>
       <description><![CDATA[在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</guid>
       <pubDate>Thu, 21 Mar 2024 09:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我真的希望这些家伙能让我休息一下。</title>
-      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1770215141235470464#m</link>
-      <description><![CDATA[我真的希望这些人能让我休息一下]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1770215141235470464#m</guid>
-      <pubDate>Tue, 19 Mar 2024 22:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @dora2ios：川口库尔德问题 审视朝日、共同社等的报道情况。事件报道较少，对事件的看法良好
-https://www.sankei.com/article/20240316-4G6I7KUVAJO6BPNHSJYYHAB4LM/
-
-本月7日，除了《产经新闻》之外，只有两家报纸报道了一名库尔德男子因涉嫌与一名女初中生发生非自愿性行为而被捕的性犯罪案件。</title>
-      <link>http://nitter.esmailelbob.xyz/Sankei_news/status/1768852803798380724#m</link>
-      <description><![CDATA[川口库尔德问题审视朝日、共同社等的报道情况，对该事件的报道很少，但事件是积极的
-sankei.com/article/20240316-…
-
-本月7日，除了《产经新闻》之外，只有两家报纸报道了一名库尔德男子因涉嫌与一名女初中生发生非自愿性行为而被捕的性犯罪案件。 
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/Sankei_news/status/1768852803798380724#m</guid>
-      <pubDate>Sat, 16 Mar 2024 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>哇</title>
@@ -284,6 +261,34 @@ Gochiusa 第二季 ED 故事板视频
       <description><![CDATA[10.0 没有固件，所以这是一个问题]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1766412954596221284#m</guid>
       <pubDate>Sat, 09 Mar 2024 10:37:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>看起来很冷</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1764769790634451305#m</link>
+      <description><![CDATA[看起来很冷]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1764769790634451305#m</guid>
+      <pubDate>Mon, 04 Mar 2024 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>vnodebypass 不应将 libkrw0-dopamine 作为依赖项
+抄送@wh1te4ever</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1763524092953755774#m</link>
+      <description><![CDATA[vnodebypass 不应将 libkrw0-dopamine 作为依赖项
+抄送 @wh1te4ever]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1763524092953755774#m</guid>
+      <pubDate>Fri, 01 Mar 2024 11:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @dora2ios：Dopamine 2.0.9 已发布 https://github.com/opa334/Dopamine/releases/tag/2.0.9
+
+由于在此版本中发现并修复了一个严重的安全问题，所有以前的 2.x 都已被撤回，不再建议任何人使用。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1763193057724215386#m</link>
+      <description><![CDATA[Dopamine 2.0.9 已发布github.com/opa334/Dopamine/r…&lt; br/&gt;
+
+由于在此版本中发现并修复了一个严重的安全问题，所有以前的 2.x 都已被撤回，并且不再建议任何人使用。
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1763193057724215386#m</guid>
+      <pubDate>Thu, 29 Feb 2024 13:22:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
