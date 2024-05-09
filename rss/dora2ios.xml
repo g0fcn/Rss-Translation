@@ -4,7 +4,7 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 09 May 2024 01:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 15:16:52 GMT</lastBuildDate>
     <item>
       <title>啊，如果每个月有3000日元的话，那不是就全部消失了吗？</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1787892090464256342#m</link>
@@ -17,7 +17,7 @@
 即使你付了钱，也不会抹掉所有的东西吧？看起来就是这样🫨</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1787891973803884554#m</link>
       <description><![CDATA[更新后，每次我将广告静音时都很烦人
-即使你付了钱，也不会抹掉所有的东西吧？看起来就是这样的🫨
+即使你付了钱，也不会抹掉所有的东西吧？看起来就是这样🫨
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1787891973803884554#m</guid>
       <pubDate>Tue, 07 May 2024 17:07:18 GMT</pubDate>
@@ -65,7 +65,7 @@ teddit.net/r/jailbreak/comme…
 
 KPP 旁路（A7 - A9(X)）：
 9.0 - 9.3.5：
-- (A7 - A8(X)) 全 KPP 旁路
+- (A7 - A8(X)) 完全 KPP 旁路
 - (A9(X)) yalu102 KPP 旁路
 10.0 - 10.3.3：yalu102 KPP 绕过
 
@@ -104,7 +104,7 @@ PAC 旁路 (A12+)：
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
-- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
 - (arm64e) dmaFail PPL 绕过 untether
@@ -112,13 +112,13 @@ PAC 旁路 (A12+)：
 - (arm64) 无 KPP/KTRR 半解链
 - (arm64e) badRecovery PAC 绕过 + dmaFail PPL 绕过半解绑
 15.5 - 16.5：
-- (arm64) 无 KPP/KTRR 半解链
+- (arm64) 无 KPP/无 KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 16.5.1：
 - (arm64) 无 KPP/KTRR 半解链
-- (A12 - A14 / M1) dmaFail PPL 绕过半解链
+- (A12 - A14 / M1) dmaFail PPL 旁路半解绑
 16.6 - 16.6.1：
-- (arm64) 无 KPP/KTRR 半解链</title>
+- (arm64) 无 KPP/无 KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
       <description><![CDATA[一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
@@ -129,7 +129,7 @@ PAC 旁路 (A12+)：
 - 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
 - (BFU) FSUntether 的东西不被视为一种不受束缚的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最迟的不受束缚）
 - 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些分组的最佳越狱类型）
-- Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
+- untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
 - 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
 现在，进入这个巨大的帖子：
@@ -217,7 +217,7 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Fri, 29 Mar 2024 14:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>如果你把车停在街上，你就是那种会说其他汽车也在做同样事情的人。</title>
+      <title>如果你在街上被拦住，你就是那种会说其他汽车也在做同样事情的人。</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1771709421531390189#m</link>
       <description><![CDATA[这种人如果把车停在路上，会告诉你其他汽车也在做同样的事情。
 ]]></description>
@@ -239,7 +239,7 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Tue, 19 Mar 2024 22:25:53 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @dora2ios：川口库尔德问题 审视朝日、共同社等的报道情况。事件报道较少，对事件的看法良好
+      <title>RT @dora2ios：川口库尔德问题 审视朝日、共同社等的报道情况。事件报道较少，对事件的看法良好
 https://www.sankei.com/article/20240316-4G6I7KUVAJO6BPNHSJYYHAB4LM/
 
 本月7日，除了《产经新闻》之外，只有两家报纸报道了一名库尔德男子因涉嫌与一名女初中生发生非自愿性行为而被捕的性犯罪案件。</title>
@@ -265,7 +265,7 @@ Gochiusa 第二季 ED 故事板视频
 #Gochiusa #Tokimeki Poporon</title>
       <link>http://nitter.esmailelbob.xyz/tensho_tw/status/1767079850463117633#m</link>
       <description><![CDATA[好久才发现(^^)
-GochiUsa 第二季 ED 故事板视频
+Gochiusa 第二季 ED 故事板视频
 #Gochiusa #Tokimeki Poporon
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/tensho_tw/status/1767079850463117633#m</guid>
