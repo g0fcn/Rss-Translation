@@ -3,10 +3,17 @@
   <channel>
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
-    <description>Twitter 消息源：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 09 May 2024 21:15:44 GMT</lastBuildDate>
+    <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 10 May 2024 03:16:33 GMT</lastBuildDate>
     <item>
-      <title>R 致@dora2ios：测试设备是 iPhone 5s，iOS 9.3.1</title>
+      <title>引用的时候遵循X的规则就可以了。</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788744693528011237#m</link>
+      <description><![CDATA[引用时遵循X的规则就可以了🤪]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1788744693528011237#m</guid>
+      <pubDate>Fri, 10 May 2024 01:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至@dora2ios: 测试设备是 iPhone 5s，iOS 9.3.1</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788669440051352048#m</link>
       <description><![CDATA[测试设备为iPhone 5s，iOS 9.3.1]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1788669440051352048#m</guid>
@@ -277,18 +284,6 @@ Gochiusa 第二季 ED 故事板视频
 抄送 @wh1te4ever]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1763524092953755774#m</guid>
       <pubDate>Fri, 01 Mar 2024 11:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @dora2ios：Dopamine 2.0.9 已发布 https://github.com/opa334/Dopamine/releases/tag/2.0.9
-
-由于在此版本中发现并修复了一个严重的安全问题，所有以前的 2.x 都已被撤回，不再建议任何人使用。</title>
-      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1763193057724215386#m</link>
-      <description><![CDATA[Dopamine 2.0.9 已发布github.com/opa334/Dopamine/r…&lt; br/&gt;
-
-由于在此版本中发现并修复了一个严重的安全问题，所有以前的 2.x 都已被撤回，并且不再建议任何人使用。
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1763193057724215386#m</guid>
-      <pubDate>Thu, 29 Feb 2024 13:22:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
