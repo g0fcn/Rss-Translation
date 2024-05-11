@@ -4,7 +4,7 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 11 May 2024 12:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 15:13:57 GMT</lastBuildDate>
     <item>
       <title>引用的时候遵循X的规则就可以了。</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788744693528011237#m</link>
@@ -113,7 +113,7 @@ PAC 旁路 (A12+)：
 11.0 - 11.4.1：
 - 无 KPP/KTRR 无束缚
 12.0 - 13.7（这一点不是 100% 确定）：
-- (arm64) 无 KPP/KTRR 半解链
+- (arm64) 无 KPP/无 KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
@@ -125,10 +125,10 @@ PAC 旁路 (A12+)：
 - (arm64) 无 KPP/无 KTRR 半解链
 - (arm64e) badRecovery PAC 绕过 + dmaFail PPL 绕过半解绑
 15.5 - 16.5：
-- (arm64) 无 KPP/KTRR 半解链
+- (arm64) 无 KPP/无 KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 16.5.1：
-- (arm64) 无 KPP/KTRR 半解链
+- (arm64) 无 KPP/无 KTRR 半解链
 - (A12 - A14 / M1) dmaFail PPL 旁路半解绑
 16.6 - 16.6.1：
 - (arm64) 无 KPP/无 KTRR 半解链</title>
