@@ -4,7 +4,7 @@
     <title>xerus / @xerusdesign</title>
     <link>http://nitter.esmailelbob.xyz/xerusdesign</link>
     <description>Twitter 供稿：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 11 May 2024 03:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 09:15:49 GMT</lastBuildDate>
     <item>
       <title>RT by @xerusdesign：Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/ ，可能会导致引导循环jb/var/mobile 到 /var/mobile
 
