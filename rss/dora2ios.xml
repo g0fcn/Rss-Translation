@@ -4,7 +4,7 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 11 May 2024 15:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 01:09:00 GMT</lastBuildDate>
     <item>
       <title>引用的时候遵循X的规则就可以了。</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788744693528011237#m</link>
@@ -113,25 +113,25 @@ PAC 旁路 (A12+)：
 11.0 - 11.4.1：
 - 无 KPP/KTRR 无束缚
 12.0 - 13.7（这一点不是 100% 确定）：
-- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64) 无 KPP/KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
-- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
 - (arm64e) dmaFail PPL 绕过 untether
 15.0 - 15.4.1：
-- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64) 无 KPP/KTRR 半解链
 - (arm64e) badRecovery PAC 绕过 + dmaFail PPL 绕过半解绑
 15.5 - 16.5：
-- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64) 无 KPP/KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 16.5.1：
-- (arm64) 无 KPP/无 KTRR 半解链
-- (A12 - A14 / M1) dmaFail PPL 旁路半解绑
+- (arm64) 无 KPP/KTRR 半解链
+- (A12 - A14 / M1) dmaFail PPL 绕过半解链
 16.6 - 16.6.1：
-- (arm64) 无 KPP/无 KTRR 半解链</title>
+- (arm64) 无 KPP/KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
       <description><![CDATA[一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
@@ -142,7 +142,7 @@ PAC 旁路 (A12+)：
 - 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
 - (BFU) FSUntether 的东西不被视为一种不受束缚的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最迟的不受束缚）
 - 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些分组的最佳越狱类型）
-- untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
+- Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
 - 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
 现在，进入这个巨大的帖子：
@@ -230,9 +230,9 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Fri, 29 Mar 2024 14:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @dora2ios：在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。</title>
+      <title>RT by @dora2ios：在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。换句话说，和平。请保持这样。</title>
       <link>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</link>
-      <description><![CDATA[在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。 ]]></description>
+      <description><![CDATA[在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。换句话说，和平。请保持这样。 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</guid>
       <pubDate>Thu, 21 Mar 2024 09:39:39 GMT</pubDate>
     </item>
