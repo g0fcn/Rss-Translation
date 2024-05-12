@@ -4,7 +4,33 @@
     <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 12 May 2024 12:27:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 18:20:29 GMT</lastBuildDate>
+    <item>
+      <title>R 至 @dora2ios：信息：</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789711338576720372#m</link>
+      <description><![CDATA[信息：
+nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1789711338576720372#m</guid>
+      <pubDate>Sun, 12 May 2024 17:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 9.2-9.3.4 不受限制的arm64越狱演示
+
+除 geosn*w 外均可用
+预计到达时间：？？？
+
+https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m</link>
+      <description><![CDATA[iOS 9.2-9.3.4 不受限制的arm64越狱演示
+
+除了 geosn*w 之外，这将可用
+预计到达时间：???
+
+piped.video/Nj-SPyNhoJ8?si=ac71…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m</guid>
+      <pubDate>Sun, 12 May 2024 17:36:16 GMT</pubDate>
+    </item>
     <item>
       <title>引用的时候遵循X的规则就可以了。</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788744693528011237#m</link>
@@ -29,7 +55,7 @@
       <description><![CDATA[最后我和@imnotclarity和@staturnzdev 在arm64 iOS 9.2 - 9.3.4 上实现了不受限制的越狱：3
 没有预计到达时间。
 
-（jsc untether by @ staturnzdev，kexploit/pwnkc by @ imnotclarity 和我）
+（jsc untether 作者：@ staturnzdev，kexploit/pwnkc 作者：@imnotclarity 和我）
 *此帖子不得在 YouTube 上用于产生广告收入。
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m</guid>
@@ -113,23 +139,23 @@ PAC 旁路 (A12+)：
 11.0 - 11.4.1：
 - 无 KPP/KTRR 无束缚
 12.0 - 13.7（这一点不是 100% 确定）：
-- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64) 无 KPP/KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
-- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
 - (arm64e) dmaFail PPL 绕过 untether
 15.0 - 15.4.1：
-- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64) 无 KPP/KTRR 半解链
 - (arm64e) badRecovery PAC 绕过 + dmaFail PPL 绕过半解绑
 15.5 - 16.5：
-- (arm64) 无 KPP/无 KTRR 半解链
+- (arm64) 无 KPP/KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 16.5.1：
-- (arm64) 无 KPP/无 KTRR 半解链
-- (A12 - A14 / M1) dmaFail PPL 旁路半解绑
+- (arm64) 无 KPP/KTRR 半解链
+- (A12 - A14 / M1) dmaFail PPL 绕过半解链
 16.6 - 16.6.1：
 - (arm64) 无 KPP/无 KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
@@ -142,7 +168,7 @@ PAC 旁路 (A12+)：
 - 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
 - (BFU) FSUntether 的东西不被视为一种不受束缚的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最迟的不受束缚）
 - 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些分组的最佳越狱类型）
-- untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
+- Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
 - 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
 现在，进入这个巨大的帖子：
@@ -230,9 +256,9 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Fri, 29 Mar 2024 14:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @dora2ios：在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。</title>
+      <title>RT by @dora2ios：在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。换句话说，和平。请保持这样。</title>
       <link>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</link>
-      <description><![CDATA[在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。 ]]></description>
+      <description><![CDATA[在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。换句话说，和平。请保持这样。 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</guid>
       <pubDate>Thu, 21 Mar 2024 09:39:39 GMT</pubDate>
     </item>
@@ -268,22 +294,6 @@ GochiUsa 第二季 ED 故事板视频
       <description><![CDATA[10.0 没有固件，所以这是一个问题]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1766412954596221284#m</guid>
       <pubDate>Sat, 09 Mar 2024 10:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>看起来很冷</title>
-      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1764769790634451305#m</link>
-      <description><![CDATA[看起来很冷]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1764769790634451305#m</guid>
-      <pubDate>Mon, 04 Mar 2024 21:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>vnodebypass 不应将 libkrw0-dopamine 作为依赖项
-抄送@wh1te4ever</title>
-      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1763524092953755774#m</link>
-      <description><![CDATA[vnodebypass 不应将 libkrw0-dopamine 作为依赖项
-抄送 @wh1te4ever]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1763524092953755774#m</guid>
-      <pubDate>Fri, 01 Mar 2024 11:18:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
