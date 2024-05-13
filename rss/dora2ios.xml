@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>鄙视天才的小苏打小孩的角色/@dora2ios</title>
+    <title>猫/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 12 May 2024 18:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 01:06:16 GMT</lastBuildDate>
+    <item>
+      <title>Twitter 和 YouTube 不适合那些获得印象的人。</title>
+      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789788968147427729#m</link>
+      <description><![CDATA[Twitter 和 YouTube 不适合那些获得展示的人。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1789788968147427729#m</guid>
+      <pubDate>Sun, 12 May 2024 22:45:17 GMT</pubDate>
+    </item>
     <item>
       <title>R 至 @dora2ios：信息：</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789711338576720372#m</link>
@@ -16,27 +23,20 @@ nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m]]></description>
     <item>
       <title>iOS 9.2-9.3.4 不受限制的arm64越狱演示
 
-除 geosn*w 外均可用
+除了 geosn*w 之外，这将可用
 预计到达时间：？？？
 
 https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m</link>
       <description><![CDATA[iOS 9.2-9.3.4 不受限制的arm64越狱演示
 
-除了 geosn*w 之外，这将可用
+除 geosn*w 外，此功能均可用
 预计到达时间：???
 
 piped.video/Nj-SPyNhoJ8?si=ac71…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m</guid>
       <pubDate>Sun, 12 May 2024 17:36:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>引用的时候遵循X的规则就可以了。</title>
-      <link>http://nitter.esmailelbob.xyz/dora2ios/status/1788744693528011237#m</link>
-      <description><![CDATA[引用时遵循X的规则就可以了🤪]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1788744693528011237#m</guid>
-      <pubDate>Fri, 10 May 2024 01:35:42 GMT</pubDate>
     </item>
     <item>
       <title>R 致@dora2ios：测试设备是 iPhone 5s，iOS 9.3.1</title>
@@ -55,7 +55,7 @@ piped.video/Nj-SPyNhoJ8?si=ac71…
       <description><![CDATA[最后我和@imnotclarity和@staturnzdev 在arm64 iOS 9.2 - 9.3.4 上实现了不受限制的越狱：3
 没有预计到达时间。
 
-（jsc untether 作者：@ staturnzdev，kexploit/pwnkc 作者：@imnotclarity 和我）
+（jsc untether by @ staturnzdev，kexploit/pwnkc by @ imnotclarity 和我）
 *此帖子不得在 YouTube 上用于产生广告收入。
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m</guid>
@@ -157,7 +157,7 @@ PAC 旁路 (A12+)：
 - (arm64) 无 KPP/KTRR 半解链
 - (A12 - A14 / M1) dmaFail PPL 绕过半解链
 16.6 - 16.6.1：
-- (arm64) 无 KPP/无 KTRR 半解链</title>
+- (arm64) 无 KPP/KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
       <description><![CDATA[一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
