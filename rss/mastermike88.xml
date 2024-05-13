@@ -4,7 +4,38 @@
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
     <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 12 May 2024 21:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:18:13 GMT</lastBuildDate>
+    <item>
+      <title>很高兴看到我们可能会在 17.5 中修复错误的 PoC
+
+但值得注意的是：
+- PoC（概念验证）不是一种漏洞利用
+- 即使开发或发布了漏洞，内核漏洞也不足以越狱arm64e设备
+
+澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（注意你还没有出来），那么现在允许的绝对是：
+- 在 16.7 RC/17.0 上针对arm64e安装TrollStore（+在这些版本上针对arm64设备进行非checkm8安装）
+- 适用于 17.4.1 及以下版本的 arm64 设备的半自由越狱</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790082140341739938#m</link>
+      <description><![CDATA[很高兴看到我们可能会在 17.5 中修复错误的 PoC
+
+但值得注意的是：
+- PoC（概念证明）不是一种利用
+- 即使开发或发布了漏洞，内核漏洞也不足以越狱arm64e设备
+
+澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（注意你还没有出来），那么现在允许的绝对是：
+- 在 16.7 RC/17.0 上针对arm64e安装TrollStore（+在这些版本上针对arm64设备进行非checkm8安装）
+- 适用于 17.4.1 及以下版本的 arm64 设备的半自由越狱
+nitter.esmailelbob.xyz/R00tkitSMM/status/1790076101672284594#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790082140341739938#m</guid>
+      <pubDate>Mon, 13 May 2024 18:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>出于显而易见的原因，请保留 17.4.1 或更早版本</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790080142376681686#m</link>
+      <description><![CDATA[出于显而易见的原因，请保留 17.4.1 或更早版本]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790080142376681686#m</guid>
+      <pubDate>Mon, 13 May 2024 18:02:18 GMT</pubDate>
+    </item>
     <item>
       <title>好吧，诚实的问题：在不看其他地方的情况下，你会怎么称呼越狱的定义（在 iOS 环境中）</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1789757076702429664#m</link>
@@ -15,14 +46,14 @@
     <item>
       <title>RT by @MasterMike88：iOS 9.2-9.3.4 Untethered arm64 越狱演示
 
-除了 geosn*w 之外，这将可用
+除 geosn*w 外均可用
 预计到达时间：？？？
 
 https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m</link>
       <description><![CDATA[iOS 9.2-9.3.4 不受限制的arm64越狱演示
 
-除 geosn*w 外，此功能均可用
+除了 geosn*w 之外，这将可用
 预计到达时间：???
 
 piped.video/Nj-SPyNhoJ8?si=ac71…
@@ -60,7 +91,7 @@ nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m]]></description>
       <pubDate>Thu, 09 May 2024 05:04:51 GMT</pubDate>
     </item>
     <item>
-      <title>我知道有人说这与 API 内容有关，但说实话，这感觉更像是“API 内容导致部分已设置为被终止的功能更早被终止”，而不是“由于 API 内容而被终止的功能”
+      <title>我知道有人说这与 API 内容有关，但说实话，这感觉更像是“API 内容导致部分已经设置为被终止的功能更早被终止”，而不是“由于 API 内容而被终止的功能”
 
 我的证据：</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1788434936891851133#m</link>
@@ -83,7 +114,7 @@ nitter.esmailelbob.xyz/NintendoAmerica/status/1788375084886892947#m
     <item>
       <title>不过，关于新款 M4 iPad Pro，我真正感兴趣的有两点：
 1. 它们是PPL还是SPTM（M2基于A15，但PPL与A15不同）？
-2. 天哪，这个规范方案有多复杂？</title>
+2. 这个规范方案有多复杂，天哪。</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1787866994718441627#m</link>
       <description><![CDATA[关于新款 M4 iPad Pro，我真正感兴趣的两件事是：
 1. 它们是PPL还是SPTM（M2基于A15，但PPL与A15不同）？
@@ -172,33 +203,6 @@ Apple 活动开始时间：上午 9:00 (CDT)
 - Xbox 360 NFS：最高通缉 (2012)]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787188836981686497#m</guid>
       <pubDate>Sun, 05 May 2024 18:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@MasterMike88：根据记录，这张卡 100% 工作正常（支付此帐户的高级订阅费用，也适用于 eBay 和实体商店）
-
-在这种特殊情况下，我想通过亚马逊，因为它会更快到达，而且我有大约 5 美元的折扣
-
-显然他们不想要我的生意</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1787003822906216449#m</link>
-      <description><![CDATA[郑重声明，这张卡 100% 工作正常（支付该帐户的高级订阅费用，也适用于 eBay 和实体店）
-
-在这种特殊情况下，我想通过亚马逊，因为它会更快到达，而且我有大约 5 美元的折扣
-
-显然他们不想要我的生意]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787003822906216449#m</guid>
-      <pubDate>Sun, 05 May 2024 06:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些小事情被推迟了，因为亚马逊很糟糕
-
-谢谢亚马逊，10/10 公司太可怕了</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1787003107458601241#m</link>
-      <description><![CDATA[一些小事情被推迟了，因为亚马逊很糟糕
-
-谢谢亚马逊，10/10 公司的可怕
-nitter.esmailelbob.xyz/MasterOfMike88/status/1787000505551532423#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787003107458601241#m</guid>
-      <pubDate>Sun, 05 May 2024 06:15:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
