@@ -4,7 +4,7 @@
     <title>猫/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 14 May 2024 09:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 15:17:20 GMT</lastBuildDate>
     <item>
       <title>R 致@dora2ios：还需要注意的是，KPP 绕过在 iOS 9.3.4 中成为永久性的。 A7-A8X可以消除，但A9就没有办法了。
 也许可以将其设为 KPPLess，但目前还没有计划。</title>
@@ -42,7 +42,7 @@ nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m]]></description>
     <item>
       <title>iOS 9.2-9.3.4 不受限制的arm64越狱演示
 
-除了 geosn*w 之外，这将可用
+除 geosn*w 外均可用
 预计到达时间：？？？
 
 https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
@@ -161,7 +161,7 @@ PAC 旁路 (A12+)：
 - (arm64) 无 KPP/KTRR 半解链
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
-- (arm64) 无 KPP/KTRR 无限制
+- (arm64) 无 KPP/KTRR 无束缚
 - (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
