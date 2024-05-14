@@ -4,7 +4,43 @@
     <title>迪纳克 G / @dhinakg</title>
     <link>http://nitter.esmailelbob.xyz/dhinakg</link>
     <description>Twitter 供稿：@dhinakg。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 13 May 2024 21:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 03:17:40 GMT</lastBuildDate>
+    <item>
+      <title>R 至 @dhinakg: CPID:8132 BOARD:0C J720AP iPad16.5 iPad Pro 13 英寸 (M4) [Wi-Fi]
+CPID:8132 主板:0E J721AP iPad16.6 iPad Pro 13 英寸 (M4) [Wi-Fi + 蜂窝网络]</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1790191477823340715#m</link>
+      <description><![CDATA[CPID:8132 BORD:0C J720AP iPad16.5 iPad Pro 13 英寸 (M4) [Wi-Fi]
+CPID:8132 BORD:0E J721AP iPad16,6 iPad Pro 13 英寸 (M4) [Wi-Fi + 蜂窝网络]]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1790191477823340715#m</guid>
+      <pubDate>Tue, 14 May 2024 01:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @dhinakg: CPID:8132 BOARD:08 J717AP iPad16.3 iPad Pro 11 英寸 (M4) [Wi-Fi]
+CPID:8132 主板:0A J718AP iPad16.4 iPad Pro 11 英寸 (M4) [Wi-Fi + 蜂窝网络]</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1790191476774666590#m</link>
+      <description><![CDATA[CPID:8132 BOARD:08 J717AP iPad16.3 iPad Pro 11 英寸 (M4) [Wi-Fi]
+CPID:8132 主板:0A J718AP iPad16.4 iPad Pro 11 英寸 (M4) [Wi-Fi + 蜂窝网络]]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1790191476774666590#m</guid>
+      <pubDate>Tue, 14 May 2024 01:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>R 至 @dhinakg: CPID:8112 BORD:14 J537AP iPad14,10 iPad Air 13 英寸 (M2) [Wi-Fi]
+CPID:8112 BORD:16 J538AP iPad14,11 iPad Air 13 英寸 (M2) [Wi-Fi + 蜂窝网络]</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1790191475768058158#m</link>
+      <description><![CDATA[CPID:8112 BORD:14 J537AP iPad14,10 iPad Air 13英寸(M2) [Wi-Fi]
+CPID:8112 BORD:16 J538AP iPad14,11 iPad Air 13 英寸 (M2) [Wi-Fi + 蜂窝网络]]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1790191475768058158#m</guid>
+      <pubDate>Tue, 14 May 2024 01:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>CPID:8112 BORD:10 J507AP iPad14,8 iPad Air 11 英寸 (M2) [Wi-Fi]
+CPID:8112 BORD:12 J508AP iPad14,9 iPad Air 11 英寸 (M2) [Wi-Fi + 蜂窝网络]</title>
+      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1790191474782437698#m</link>
+      <description><![CDATA[CPID:8112 BORD:10 J507AP iPad14,8 iPad Air 11 英寸 (M2) [Wi-Fi]
+CPID:8112 BORD:12 J508AP iPad14,9 iPad Air 11 英寸 (M2) [Wi-Fi + 蜂窝网络]]]></description>
+      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1790191474782437698#m</guid>
+      <pubDate>Tue, 14 May 2024 01:24:42 GMT</pubDate>
+    </item>
     <item>
       <title>我今天发布了 (lib)partial，这是一个小型 Objective-C 库，用于从远程 ZIP 文件中抓取文件，主要是 Apple 的 OTA 和 IPSW，在这个过程中我学到了很多关于 ZIP 文件的知识。它的边缘仍然很粗糙，但我希望你能检查一下！
 
@@ -113,52 +149,6 @@ teddit.net/r/jailbreak/comme…
       <description><![CDATA[🤔]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1756775112601186693#m</guid>
       <pubDate>Sun, 11 Feb 2024 20:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @dhinakg：终于让 NewTerm 工作了，这太棒了！感谢@icrazeios 的帮助！</title>
-      <link>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1753886999235240120#m</link>
-      <description><![CDATA[终于让 NewTerm 工作了，太棒了！感谢 @icrazeios 的帮助！
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/alfiecg_dev/status/1753886999235240120#m</guid>
-      <pubDate>Sat, 03 Feb 2024 21:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>ElleKit 1.1.2 现已发布在 https://ellekit.space 上，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 且该设备使用 Palera1n 启动时可能出现的问题。
-
-如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。</title>
-      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</link>
-      <description><![CDATA[ElleKit 1.1.2 现已在 ellekit.space 上发布，并修复了在同一设备上同时使用 Palera1n 和 meowbrek2 时可能出现的问题并且设备使用 Palera1n 启动。
-
-如果您使用的是 1.1.1 并且遇到问题，请使用 meowbrek2 越狱并更新。
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752804890068361490#m</guid>
-      <pubDate>Wed, 31 Jan 2024 21:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 至 @dhinakg：- 将安全模式警报更改为“退出安全模式”和“关闭”（由 @icrazeios 提供）
-- 点击 SpringBoard 上的状态栏时显示安全模式警报（由 @icrazeios 提供）
-- 安装/升级 ElleKit 时删除日志文件（如果存在）
-- 修复 rootful 上的日志路径</title>
-      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091829107888258#m</link>
-      <description><![CDATA[- 将安全模式警报更改为“退出安全模式”和“关闭”（作者：@icrazeios） 
-- 点击 SpringBoard 上的状态栏时显示安全模式警报（作者：@icrazeios）
-- 安装/升级 ElleKit 时删除日志文件（如果存在）
-- 修复 rootful 上的日志路径]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091829107888258#m</guid>
-      <pubDate>Mon, 29 Jan 2024 22:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@dhinakg：变更日志：
-- 修复即使 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
-- 17.4 beta 1 支持（由 @opa334dev 提供）
-- 改进越狱检测代码</title>
-      <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</link>
-      <description><![CDATA[变更日志：
-- 修复即使在 .ekenablelogging 不存在时也启用日志记录的问题（这可能会导致 Palera1n 上出现巨大的日志文件）
-- 17.4 beta 1 支持（由@opa334dev）
-- 改进越狱检测代码]]></description>
-      <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091827883184287#m</guid>
-      <pubDate>Mon, 29 Jan 2024 22:10:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
