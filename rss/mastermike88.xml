@@ -4,7 +4,30 @@
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
     <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 14 May 2024 12:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 18:19:34 GMT</lastBuildDate>
+    <item>
+      <title>PoC（又名概念验证）已发布
+
+不错的 PoC，尽管说实话，从中产生任何有用的东西的可能性非常低*充其量*</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790403823288082491#m</link>
+      <description><![CDATA[PoC（又名概念验证）已推出
+
+不错的 PoC，尽管说实话，从中产生任何有用的东西的可能性非常低*充其量*
+nitter.esmailelbob.xyz/R00tkitSMM/status/1790391961737711697#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790403823288082491#m</guid>
+      <pubDate>Tue, 14 May 2024 15:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @MasterMike88：我想说，有 90% 的可能性这绝对不会导致任何结果，有 10% 的可能性它将导致 17.0 TrollStore 安装程序。
+
+如果没有新的/独特的技术，血清素将无法在 17.0 SPTM 设备上工作。</title>
+      <link>http://nitter.esmailelbob.xyz/opa334dev/status/1790377982915117272#m</link>
+      <description><![CDATA[我想说，有 90% 的可能性这绝对不会导致任何结果，有 10% 的可能性它将导致 17.0 TrollStore 安装程序。
+
+如果没有新的/独特的技术，血清素将无法在 17.0 SPTM 设备上工作。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1790377982915117272#m</guid>
+      <pubDate>Tue, 14 May 2024 13:45:49 GMT</pubDate>
+    </item>
     <item>
       <title>R 致@MasterMike88：哦，这是修补后的
 
@@ -12,7 +35,7 @@
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790285208211587525#m</link>
       <description><![CDATA[哦，这是修补后的
 
-苹果只是想要免费的安全报告，而不需要真正的支付]]></description>
+苹果只是想要免费的安全报告，而不需要真正的付费]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790285208211587525#m</guid>
       <pubDate>Tue, 14 May 2024 07:37:10 GMT</pubDate>
     </item>
@@ -21,9 +44,9 @@
 
 天啊，那里发生了什么——这个人绝对应该得到某种奖励，但却被告知这不符合他们的标准（尽管他们的错误似乎很可能满足它）</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790284819798122968#m</link>
-      <description><![CDATA[苹果确实很出色。
+      <description><![CDATA[Apple 确实很出色。
 
-天哪，那里发生了什么 - 这个人绝对应该得到某种奖励，但却被告知这不符合他们的标准（尽管他们的错误似乎很可能满足它）
+天啊，那里发生了什么 - 这个人绝对应该得到某种奖励，但却被告知这不符合他们的标准（尽管他们的错误似乎很可能满足它）
 nitter.esmailelbob.xyz/R00tkitSMM/status/1790269915028467800#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790284819798122968#m</guid>
       <pubDate>Tue, 14 May 2024 07:35:37 GMT</pubDate>
@@ -57,7 +80,7 @@ SPTM：A15-A17/M4]]></description>
 - PoC（概念验证）不是一种漏洞利用
 - 即使开发或发布了漏洞，内核漏洞也不足以越狱arm64e设备
 
-澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（注意你还没有出来），那么现在允许的绝对是：
+澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（请注意，你甚至还没有出来），那么现在允许的绝对是：
 - 在 16.7 RC/17.0 上针对arm64e安装TrollStore（+在这些版本上针对arm64设备进行非checkm8安装）
 - 适用于 17.4.1 及以下版本的 arm64 设备的半自由越狱</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790082140341739938#m</link>
@@ -91,7 +114,7 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790076101672284594#m]]></description>
     <item>
       <title>RT by @MasterMike88：iOS 9.2-9.3.4 Untethered arm64 越狱演示
 
-除了 geosn*w 之外，这将可用
+除 geosn*w 外均可用
 预计到达时间：？？？
 
 https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
@@ -117,7 +140,7 @@ nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m]]></description>
     <item>
       <title>USPS 的经历（我快要疯了）：
 - 包裹显示将于 5 月 8 日送达，但自 5 月 6 日起一直没有超过“已接受”状态（现在是 5 月 9 日）
-- 其他所有 USPS 包裹是否因“无法访问投递地点”而失败（可以访问投递地点）
+- 所有其他 USPS 包裹均因“无法访问递送位置”而失败（可以访问递送位置）
 - 尝试承诺包裹将在 x 时间（例如下午 5 点）送达，然后在 4 小时后（例如晚上 9 点）送达</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1788621046720913748#m</link>
       <description><![CDATA[USPS 的经历（我快要疯了）：
@@ -136,7 +159,7 @@ nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m]]></description>
       <pubDate>Thu, 09 May 2024 05:04:51 GMT</pubDate>
     </item>
     <item>
-      <title>我知道有人说这与 API 内容有关，但说实话，这感觉更像是“API 内容导致部分已经设置为被终止的功能更早被终止”，而不是“由于 API 内容而被终止的功能”
+      <title>我知道有人说这与 API 内容有关，但说实话，这感觉更像是“API 内容导致部分已设置为被终止的功能更早被终止”，而不是“由于 API 内容而被终止的功能”
 
 我的证据：</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1788434936891851133#m</link>
@@ -155,43 +178,6 @@ nitter.esmailelbob.xyz/NintendoAmerica/status/1788375084886892947#m
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/DylanMcD8/status/1787908350635589997#m</guid>
       <pubDate>Tue, 07 May 2024 18:12:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>不过，关于新款 M4 iPad Pro，我真正感兴趣的有两点：
-1. 它们是PPL还是SPTM（M2基于A15，但PPL与A15不同）？
-2. 这个规范方案有多复杂，天哪。</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1787866994718441627#m</link>
-      <description><![CDATA[关于新款 M4 iPad Pro，我真正感兴趣的两件事是：
-1. 它们是PPL还是SPTM（M2基于A15，但PPL与A15不同）？
-2. 天哪，这个规范方案有多复杂。
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787866994718441627#m</guid>
-      <pubDate>Tue, 07 May 2024 15:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>人：“嗨，我有第一代 iPad Pro”
-
-苹果：
-- iPad Pro 12.9 英寸（第一代）
-- iPad Pro 9.7 英寸
-- iPad Pro 10.5 英寸
-- iPad Pro 11 英寸（第一代）
-- iPad Pro 13 英寸（第一代）
-
-结论：我们在做什么</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1787866583177593197#m</link>
-      <description><![CDATA[人：“嗨，我有第一代 iPad Pro”
-
-苹果：
-- iPad Pro 12.9 英寸（第一代）
-- iPad Pro 9.7 英寸
-- iPad Pro 10.5 英寸
-- iPad Pro 11&quot;（第一代）
-- iPad Pro 13 英寸（第一代）
-
-结论：我们在做什么]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787866583177593197#m</guid>
-      <pubDate>Tue, 07 May 2024 15:26:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
