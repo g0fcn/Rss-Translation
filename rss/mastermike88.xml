@@ -4,9 +4,31 @@
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
     <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 14 May 2024 03:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:21:45 GMT</lastBuildDate>
     <item>
-      <title>很高兴看到我们可能会在 17.5 中修复错误的 PoC
+      <title>R 致@MasterMike88：感谢@riscv64 对此进行了研究并解决了这个问题</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790232305237217662#m</link>
+      <description><![CDATA[感谢@riscv64对此进行调查并弄清楚这一点出]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790232305237217662#m</guid>
+      <pubDate>Tue, 14 May 2024 04:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>回答大家一直想知道的问题：M4 iPad Pros 使用 SPTM
+
+所以现在我们有：
+PPL：A12-A14/M1-M2
+SPTM：A15-A17/M4</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790232303970488395#m</link>
+      <description><![CDATA[回答大家都想知道的问题：M4 iPad Pro 使用 SPTM
+
+所以现在我们有：
+PPL：A12-A14/M1-M2
+SPTM：A15-A17/M4]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790232303970488395#m</guid>
+      <pubDate>Tue, 14 May 2024 04:06:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT by @MasterMike88：很高兴看到我们可能会得到 17.5 中修复的错误的 PoC
 
 但值得注意的是：
 - PoC（概念验证）不是一种漏洞利用
@@ -46,14 +68,14 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790076101672284594#m]]></description>
     <item>
       <title>RT by @MasterMike88：iOS 9.2-9.3.4 Untethered arm64 越狱演示
 
-除了 geosn*w 之外，这将可用
+除 geosn*w 外均可用
 预计到达时间：？？？
 
 https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m</link>
       <description><![CDATA[iOS 9.2-9.3.4 不受限制的arm64越狱演示
 
-除 geosn*w 外，此功能均可用
+除了 geosn*w 之外，这将可用
 预计到达时间：???
 
 piped.video/Nj-SPyNhoJ8?si=ac71…
@@ -171,38 +193,6 @@ Apple 活动开始时间：上午 9:00 (CDT)
       <description><![CDATA[请注意，从技术上讲，这并不是令人震惊的消息，CoolStar 在上月初的 r/jailbreak Discord 中提到她将被苹果公司聘用。]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787354318661648445#m</guid>
       <pubDate>Mon, 06 May 2024 05:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>CoolStar（Taurine、Anemone 和其他几种越狱/调整的开发者）正在被 Apple 聘用
-
-恭喜你被 Apple 聘用，我祝愿 CS 在 Apple 的努力一切顺利。
-
-[回复有限，因为我不想让这成为一个抨击CS的污水池]</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1787354315490824273#m</link>
-      <description><![CDATA[CoolStar（Taurine、Anemone 和其他几个越狱/调整的开发者）被 Apple 聘用
-
-恭喜你被苹果公司录用，我祝愿 CS 在苹果公司的努力一切顺利。
-
-[回复有限，因为我不希望这成为一个攻击 CS 的污水池]
-
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787354315490824273#m</guid>
-      <pubDate>Mon, 06 May 2024 05:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题：这一切值 70 美元吗？
-- Apple TV 第三代（但没有遥控器）
-- Xbox 360（我认为有 RROD 风险的旧型号）
-- Xbox 360 控制器
-- Xbox 360 NFS：最高通缉 (2012)</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1787188836981686497#m</link>
-      <description><![CDATA[问题：这一切值 70 美元吗：
-- Apple TV 第三代（不过没有遥控器）
-- Xbox 360（我认为有 RROD 风险的旧型号）
-- Xbox 360 控制器
-- Xbox 360 NFS：最高通缉 (2012)]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1787188836981686497#m</guid>
-      <pubDate>Sun, 05 May 2024 18:33:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
