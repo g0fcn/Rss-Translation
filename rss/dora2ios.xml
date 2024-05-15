@@ -4,7 +4,7 @@
     <title>猫/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 14 May 2024 18:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 03:19:49 GMT</lastBuildDate>
     <item>
       <title>R 致@dora2ios：还需要注意的是，KPP 绕过在 iOS 9.3.4 中成为永久性的。 A7-A8X可以消除，但A9就没有办法了。
 也许可以将其设为 KPPLess，但目前还没有计划。</title>
@@ -49,7 +49,7 @@ https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m</link>
       <description><![CDATA[iOS 9.2-9.3.4 不受限制的arm64越狱演示
 
-除了 geosn*w 之外，这将可用
+除 geosn*w 外，此功能均可用
 预计到达时间：???
 
 piped.video/Nj-SPyNhoJ8?si=ac71…
@@ -162,7 +162,7 @@ PAC 旁路 (A12+)：
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
-- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
 - (arm64e) dmaFail PPL 绕过 untether
@@ -174,7 +174,7 @@ PAC 旁路 (A12+)：
 - (arm64e) dmaFail PPL 绕过半解绑
 16.5.1：
 - (arm64) 无 KPP/KTRR 半解链
-- (A12 - A14 / M1) dmaFail PPL 旁路半解绑
+- (A12 - A14 / M1) dmaFail PPL 绕过半解链
 16.6 - 16.6.1：
 - (arm64) 无 KPP/KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
@@ -219,7 +219,7 @@ PAC 旁路 (A12+)：
 
 越狱结果：
 7.0 - 8.4.1：
-- 正常的解绑（不需要什么特别的）
+- 正常的解绑（没有什么特别需要）
 9.0 - 9.3.4：
 - (A7 - A8(X)) 完全 KPP 旁路解绑
 - (A9(X)) yalu102 KPP 绕过解绑
@@ -275,9 +275,9 @@ github.com/alfiecg24/TrollIn…
       <pubDate>Fri, 29 Mar 2024 14:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @dora2ios：在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。</title>
+      <title>RT by @dora2ios：在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。换句话说，和平。请保持这样。</title>
       <link>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</link>
-      <description><![CDATA[在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。这意味着和平。请保持这样。 ]]></description>
+      <description><![CDATA[在日本，当我们想到战争时，我们会想到“蘑菇和竹笋战争”，当我们想到恐怖主义时，我们会想到“粮食恐怖主义”。换句话说，和平。请保持这样。 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/TeimurazLezhava/status/1770747087501570236#m</guid>
       <pubDate>Thu, 21 Mar 2024 09:39:39 GMT</pubDate>
     </item>
