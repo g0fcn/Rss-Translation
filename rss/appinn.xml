@@ -4,7 +4,66 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 14 May 2024 21:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 12:29:38 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】Subtitle Renamer —— 支持简繁识别的多平台字幕重命名工具</title>
+      <link>https://meta.appinn.net/t/topic/56465</link>
+      <description><![CDATA[软件名称
+Subtitle Renamer
+应用平台
+
+Windows
+MacOS
+Linux
+
+推荐类型
+【开发者自荐】
+一句简介
+跨平台的动画字幕重命名工具，支持简繁识别、自定义后缀、编码转换等功能
+应用简介
+基于Python的又一款字幕重命名软件，解决了我自己其他软件的多种痛点：
+
+多平台支持：Windows，macOS 和 Linux
+自动识别字幕语言为简体还是繁体，并增加语言后缀
+可以选转换字幕至 UTF-8/UTF-8-SIG
+重命名完成后允许删除不需要的字幕
+移动字幕至视频文件夹
+
+使用方式
+
+拖入待更名的视频与字幕文件，需保持字幕与视频数量相等
+使用左下角的简体或繁体来选择字幕语言
+在设置中配置重命名时的可选项
+点击重命名
+完成！
+
+截图预览
+
+如需要更多功能支持，请在 Github 的 Issues 中提出，酌情添加
+如遇到程序错误，请在 Issues 中详细描述，并附上视频、字幕的文件名，以及出错的字幕文件，便于本地复现排查问题
+
+截图预览
+
+官方网站
+
+
+
+GitHub
+
+
+
+GitHub - nuthx/subtitle-renamer: 跨平台的字幕重命名工具 —— 支持简繁识别、自定义后缀、编码转换等功能
+跨平台的字幕重命名工具 —— 支持简繁识别、自定义后缀、编码转换等功能. Contribute to nuthx/subtitle-renamer development by creating an account on GitHub.
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/56465</guid>
+      <pubDate>Wed, 15 May 2024 09:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>第三方的chrome插件库有哪些？</title>
       <link>https://meta.appinn.net/t/topic/56427</link>
@@ -341,13 +400,6 @@ https://juejin.cn/post/6959025873433559070
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/56027</guid>
       <pubDate>Sun, 05 May 2024 18:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】人生之书，写一本指引你生活的书</title>
-      <link>https://meta.appinn.net/t/topic/55985</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/55985</guid>
-      <pubDate>Sat, 04 May 2024 09:30:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
