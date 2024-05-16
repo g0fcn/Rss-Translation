@@ -4,7 +4,7 @@
     <title>猫/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 15 May 2024 21:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 09:16:18 GMT</lastBuildDate>
     <item>
       <title>R 致@dora2ios：还需要注意的是，KPP 绕过在 iOS 9.3.4 中成为永久性的。 A7-A8X可以消除，但A9就没有办法了。
 也许可以将其设为 KPPLess，但目前还没有计划。</title>
@@ -142,7 +142,7 @@ PAC 旁路 (A12+)：
 
 越狱结果：
 7.0 - 8.4.1：
-- 正常的解绑（没有什么特别需要的）
+- 正常的解绑（没有什么特别需要）
 9.0 - 9.3.4：
 - (A7 - A8(X)) 全 KPP 旁路解绑
 - (A9(X)) yalu102 KPP 绕过解绑
@@ -162,9 +162,9 @@ PAC 旁路 (A12+)：
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
-- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
-- (arm64) 无 KPP/KTRR 无束缚
+- (arm64) 无 KPP/KTRR 无限制
 - (arm64e) dmaFail PPL 绕过 untether
 15.0 - 15.4.1：
 - (arm64) 无 KPP/KTRR 半解链
@@ -294,7 +294,7 @@ Gochiusa 第二季 ED 故事板视频
 #Gochiusa #Tokimeki Poporon</title>
       <link>http://nitter.esmailelbob.xyz/tensho_tw/status/1767079850463117633#m</link>
       <description><![CDATA[好久才发现(^^)
-GochiUsa 第二季 ED 故事板视频
+Gochiusa 第二季 ED 故事板视频
 #Gochiusa #Tokimeki Poporon
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/tensho_tw/status/1767079850463117633#m</guid>
