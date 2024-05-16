@@ -3,8 +3,8 @@
   <channel>
     <title>xerus / @xerusdesign</title>
     <link>http://nitter.esmailelbob.xyz/xerusdesign</link>
-    <description>Twitter 供稿：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 16 May 2024 15:15:32 GMT</lastBuildDate>
+    <description>Twitter 消息源：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Thu, 16 May 2024 21:15:05 GMT</lastBuildDate>
     <item>
       <title>RT by @xerusdesign：Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/ ，可能会导致引导循环jb/var/mobile 到 /var/mobile
 
@@ -24,7 +24,7 @@ github.com/opa334/Dopamine/r…
 
 #Zer0Con2024</title>
       <link>http://nitter.esmailelbob.xyz/POC_Crew/status/1762396596275482864#m</link>
-      <description><![CDATA[[Zer0Con2024⬛️🟨演讲者#1]
+      <description><![CDATA[[Zer0Con2024⬛️🟨发言人#1]
 
 🙋‍♂️@opa334dev - 如何越狱 iOS 16
 
@@ -41,7 +41,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Fri, 16 Feb 2024 18:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>多巴胺 2.0 中的新图标 🔥</title>
+      <title>Dopamine 2.0 中的新图标🔥</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1758531768997511361#m</link>
       <description><![CDATA[多巴胺 2.0 中的新图标 🔥
 ]]></description>
@@ -53,9 +53,9 @@ github.com/opa334/Dopamine/r…
 新主题图标设计由@xerusdesign 设计
 arm64 支持由 @dora2ios 贡献</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758527800045183070#m</link>
-      <description><![CDATA[新 UI 已由 @tomt000 开发 
-新主题图标设计由 @xerusdesign 
-arm64 支持由 @dora2ios 贡献
+      <description><![CDATA[新 UI 由 @tomt000 开发 
+新主题图标设计由 @xerusdesign 设计 
+arm64 支持由 @dora2ios 提供&gt;
 
 
 
@@ -180,7 +180,7 @@ CopyLog TrollStore 版本简介
       <pubDate>Tue, 26 Dec 2023 04:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>RT @xerusdesign：圣诞快乐！所有arm64 iOS 16.0到iOS 16.5设备的越狱！
+      <title>RT by @xerusdesign：圣诞快乐！所有 arm64 iOS 16.0 至 iOS 16.5 设备均可越狱！
 https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v0.999.3</title>
       <link>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</link>
       <description><![CDATA[圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备越狱！
