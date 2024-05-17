@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>onejailbreak / @onejailbreak_</title>
+    <title>onejailbreak/@onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 消息源：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 17 May 2024 12:26:48 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 17 May 2024 18:19:55 GMT</lastBuildDate>
     <item>
-      <title>感谢 18,000 名粉丝 🙏
+      <title>📺Yattee 是适用于 iOS 和 tvOS 的 YouTube 应用的注重隐私的替代品。 1.5.2-182 已发布，主要提供错误修复。立即下载 IPA！ 🔥
 
-请向您的朋友推荐我们 📢
+https://onejailbreak.com/blog/yattee/
 
-#FolloMe #关注 #感谢 #转发 #点赞 #越狱</title>
+#nojailbreak #iOS #iPhone #YouTube #tvOS #TrollStore2 #TrollStore #AltStore</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791529266720444528#m</link>
+      <description><![CDATA[📺Yattee 是适用于 iOS 和 tvOS 的 YouTube 应用的注重隐私的替代方案。 1.5.2-182 已发布，主要提供错误修复。立即下载 IPA！ 🔥
+
+onejailbreak.com/blog/yattee…
+
+#nojailbreak #iOS #iPhone #YouTube #tvOS #TrollStore2 #TrollStore&lt; /a&gt; #AltStore
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791529266720444528#m</guid>
+      <pubDate>Fri, 17 May 2024 18:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>👀Frida 是一个工具包，用于对 iOS、tvOS 和 watchOS 应用程序进行逆向工程、注入脚本、挂钩任何函数或监视 API。版本 16.2.2 发布，提供各种稳定性改进和错误修复👨‍💻🔥
+
+https://onejailbreak.com/blog/frida-for-ios/
+
+#iOS #jailbreak #nojailbreak #iPhone #iOS17 #Frida</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791528243733950549#m</link>
+      <description><![CDATA[👀Frida 是一个工具包，用于对 iOS、tvOS 和 watchOS 应用程序进行逆向工程、注入脚本、挂钩任何函数或监视 API。版本 16.2.2 发布，提供各种稳定性改进和错误修复👨‍💻🔥
+
+onejailbreak.com/blog/frida-…
+
+#iOS #jailbreak #nojailbreak #iPhone #iOS17 #Frida
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791528243733950549#m</guid>
+      <pubDate>Fri, 17 May 2024 17:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>感谢18,000名粉丝的关注🙏
+
+请把我们推荐给您的朋友📢
+
+#FolloMe #follow #ThankYou #retweet #like #jailbreak</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791162564111442324#m</link>
-      <description><![CDATA[感谢18,000名粉丝🙏
+      <description><![CDATA[感谢 18,000 名粉丝🙏
 
 请向您的朋友推荐我们📢
 
@@ -23,7 +55,7 @@
     </item>
     <item>
       <title>📢ONE Jailbreak 现已在 Pinterest 上发布 🚀
-感谢您的支持🫂
+谢谢您的支持🫂
 
 https://www.pinterest.com/onejailbreak/
 
@@ -67,7 +99,7 @@ onejailbreak.com/blog/ppsspp…
       <pubDate>Wed, 15 May 2024 17:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>🧩Ryan Nair 更新了 Mitsuha 调整并将名称更改为 Mitsuha Six。这个全新版本终于支持iOS 15 – iOS 16无root越狱🔥
+      <title>🧩Ryan Nair 更新了 Mitsuha 调整并将名称更改为 Mitsuha Six。这个全新版本终于支持 iOS 15 – iOS 16 上的无根越狱🔥
 
 https://onejailbreak.com/blog/mitsuha-forever/mitsuha-6-tweak/
 
@@ -130,7 +162,7 @@ onejailbreak.com/blog/classi…
       <pubDate>Mon, 13 May 2024 22:14:44 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @onejailbreak_：📢如果你希望有好事发生，请保持在 iOS 17.5 以下。 POC 即将发布🚀🔥
+      <title>RT by @onejailbreak_：📢如果你希望有好事发生，请保持在 iOS 17.5 以下。 POC即将发布🚀🔥
 
 https://x.com/R00tkitSMM/status/1790076101672284594
 
@@ -168,7 +200,7 @@ https://onejailbreak.com/blog/semaphorin/
 
 #降级 #iOS16 #iOS12 #iOS11 #iPhone8</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790117426052374683#m</link>
-      <description><![CDATA[📰 Semaphorin 的下一次更新将允许 iPhone 8 从 16.7.7 降级至 12.1。一旦开发人员将 iOS 11 的 vm_fault_enter 补丁移植到 A11，它也将在 iOS 11.3 上运行🕵️
+      <description><![CDATA[📰 Semaphorin 的下一次更新将允许 iPhone 8 从 16.7.7 降级到 12.1。一旦开发人员将 iOS 11 的 vm_fault_enter 补丁移植到 A11🕵️，它也将在 iOS 11.3 上运行
 
 onejailbreak.com/blog/semaph…
 
@@ -176,22 +208,6 @@ onejailbreak.com/blog/semaph…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790117426052374683#m</guid>
       <pubDate>Mon, 13 May 2024 20:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔥iRemoval PRO 2.0 发布。此版本的 iCloud 绕过激活工具兼容从 XS 到 13 Pro Max 的 iPhone，运行 iOS 15、iOS 16，现在还支持 iOS 17 📶📱 📢
-
-https://onejailbreak.com/blog/iremoval-pro-premium-edition/
-
-#iCloudUnlock #iOS15 #iOS16 #iPhone #iOS17 #Windows #WinRa1n #checkra1n #iPhone13pro #iPhone11 #iPhone12</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790117057800884282#m</link>
-      <description><![CDATA[🔥iRemoval PRO 2.0 发布。此版本的 iCloud 绕过激活工具兼容从 XS 到 13 Pro Max 的 iPhone，运行 iOS 15、iOS 16，现在还支持 iOS 17 📶📱 📢
-
-onejailbreak.com/blog/iremov…
-
-#iCloudUnlock #iOS15 #iOS16 #iPhone #iOS17 #Windows #WinRa1n&lt; /a&gt; #checkra1n #iPhone13pro #iPhone11 #iPhone12
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790117057800884282#m</guid>
-      <pubDate>Mon, 13 May 2024 20:29:00 GMT</pubDate>
     </item>
     <item>
       <title>RT @onejailbreak_：🧩Navale 调整已更新。此调整允许用户在 iOS 15 – iOS 16 越狱上为 Dock 启用可自定义的渐变 🔥
@@ -212,21 +228,6 @@ onejailbreak.com/blog/navale…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790108279563022443#m</guid>
       <pubDate>Mon, 13 May 2024 19:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>📢iOS 17.5 已发布。您可以通过“iOS 签名状态”检查签名固件的实际状态。还有一个下载 IPSW 图像的选项 🔥
-
-https://onejailbreak.com/ios-signing-status/
-
-#iOS17 #iOS175 #iPhone #iPad #iOS #update #iPhoneXS #iphone15promax #iphone14pro</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790106187037302942#m</link>
-      <description><![CDATA[📢iOS 17.5 已发布。您可以通过“iOS 签名状态”检查签名固件的实际状态。还有一个下载 IPSW 图像的选项🔥
-
-onejailbreak.com/ios-signing…
-
-#iOS17 #iOS175 #iPhone #iPad #iOS #update #iPhoneXS&lt; /a&gt; #iphone15promax #iphone14pro]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790106187037302942#m</guid>
-      <pubDate>Mon, 13 May 2024 19:45:48 GMT</pubDate>
     </item>
     <item>
       <title>RT @onejailbreak_：🧹使用 Wipera1n 应用程序擦除您的 iPhone，而无需升级到最新的 iOS 版本。您可以保留当前安装的 iOS（未签名）进行越狱，不需要任何 blob 🔥📢

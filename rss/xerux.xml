@@ -4,13 +4,13 @@
     <title>xerus / @xerusdesign</title>
     <link>http://nitter.esmailelbob.xyz/xerusdesign</link>
     <description>Twitter 供稿：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 17 May 2024 01:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 18:20:51 GMT</lastBuildDate>
     <item>
       <title>来自 @xerusdesign 的 RT：Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/ ，可能会导致引导循环jb/var/mobile 到 /var/mobile
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.4</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787820054504935824#m</link>
-      <description><![CDATA[Dopamine 2.1.4 旨在解决自动 /var/jb/var/mobile 权限修复的一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或将 /var/jb/var/mobile 符号链接到 /var/mobile，则可能导致引导循环
+      <description><![CDATA[Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/jb/ ，可能会导致引导循环var/mobile 到 /var/mobile
 
 github.com/opa334/Dopamine/r…
 ]]></description>
@@ -49,10 +49,9 @@ github.com/opa334/Dopamine/r…
       <pubDate>Fri, 16 Feb 2024 16:40:20 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @xerusdesign：@tomt000 开发了新 UI 
-
-@xerusdesign 设计了新主题图标 
-@dora2ios 提供了 arm64 支持</title>
+      <title>RT by @xerusdesign：新 UI 已由 @tomt000 开发
+新主题图标设计由@xerusdesign 设计
+arm64 支持由 @dora2ios 贡献</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758527800045183070#m</link>
       <description><![CDATA[新 UI 已由 @tomt000 开发 
 新主题图标设计由 @xerusdesign 
@@ -87,9 +86,9 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>D👴⛏ 很快就两点O了？？？</title>
+      <title>D👴⛏ 很快会有 Two Point O？？？</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1756805826172403840#m</link>
-      <description><![CDATA[D👴⛏很快就两点O？？？]]></description>
+      <description><![CDATA[D👴⛏ Two Point O 即将到来？]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1756805826172403840#m</guid>
       <pubDate>Sun, 11 Feb 2024 22:22:03 GMT</pubDate>
     </item>
@@ -137,7 +136,7 @@ W6QO-7XLQDV-O1DV
       <pubDate>Thu, 08 Feb 2024 16:55:21 GMT</pubDate>
     </item>
     <item>
-      <title>Felicity Pro 很快也会有一个较小的更新，添加一些图标以与时俱进😌</title>
+      <title>Felicity Pro 很快也会有一个较小的更新，添加一些图标以跟上时代的步伐 😌</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1755343951505113596#m</link>
       <description><![CDATA[Felicity Pro 很快也会有一个较小的更新，添加一些图标以跟上时代的步伐 😌]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1755343951505113596#m</guid>
@@ -184,7 +183,7 @@ CopyLog TrollStore 版本简介
       <title>RT @xerusdesign：圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备的越狱！
 https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v0.999.3</title>
       <link>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</link>
-      <description><![CDATA[圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备越狱！
+      <description><![CDATA[圣诞快乐！所有 arm64 iOS 16.0 至 iOS 16.5 设备均可越狱！
 github.com/KpwnZ/Def1nit3lyN…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</guid>
