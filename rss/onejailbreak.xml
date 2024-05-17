@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>onejailbreak/@onejailbreak_</title>
+    <title>onejailbreak / @onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
     <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 17 May 2024 18:19:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 21:13:14 GMT</lastBuildDate>
+    <item>
+      <title>📦RootHideDev 发布了 Sileo 的另一个非官方 arm64e 版本，支持 Serotonin 和 RootHide 越狱。此版本修复了自 2.5-12 以来的内存泄漏错误（特别是如果您添加数百个存储库）🔥
+
+https://onejailbreak.com/blog/roothide-jailbreak/sileo-roothide-jailbreak/
+
+作者 @roothideDev
+
+#iOS15 #iOS16 #RootHide #jailbreak #iPhone #Dopamine #Serotonin</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791570916196970755#m</link>
+      <description><![CDATA[📦RootHideDev 发布了适用于 arm64e 的 Sileo 的另一个非官方版本，支持 Serotonin 和 RootHide Jailbreaks。此版本修复了自 2.5-12 以来的内存泄漏错误（特别是如果您添加数百个存储库）🔥
+
+onejailbreak.com/blog/roothi…
+
+作者：@roothideDev
+
+#iOS15 #iOS16 #RootHide #jailbreak #iPhone #多巴胺 #Serotonin&lt; /a&gt;
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791570916196970755#m</guid>
+      <pubDate>Fri, 17 May 2024 20:46:06 GMT</pubDate>
+    </item>
     <item>
       <title>📺Yattee 是适用于 iOS 和 tvOS 的 YouTube 应用的注重隐私的替代品。 1.5.2-182 已发布，主要提供错误修复。立即下载 IPA！ 🔥
 
@@ -44,7 +64,7 @@ onejailbreak.com/blog/frida-…
 
 #FolloMe #follow #ThankYou #retweet #like #jailbreak</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791162564111442324#m</link>
-      <description><![CDATA[感谢 18,000 名粉丝🙏
+      <description><![CDATA[感谢18,000名粉丝🙏
 
 请向您的朋友推荐我们📢
 
@@ -99,7 +119,7 @@ onejailbreak.com/blog/ppsspp…
       <pubDate>Wed, 15 May 2024 17:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>🧩Ryan Nair 更新了 Mitsuha 调整并将名称更改为 Mitsuha Six。这个全新版本终于支持 iOS 15 – iOS 16 上的无根越狱🔥
+      <title>🧩Ryan Nair 更新了 Mitsuha 调整并将名称更改为 Mitsuha Six。这个全新版本终于支持iOS 15 – iOS 16无root越狱🔥
 
 https://onejailbreak.com/blog/mitsuha-forever/mitsuha-6-tweak/
 
@@ -162,7 +182,7 @@ onejailbreak.com/blog/classi…
       <pubDate>Mon, 13 May 2024 22:14:44 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @onejailbreak_：📢如果你希望有好事发生，请保持在 iOS 17.5 以下。 POC即将发布🚀🔥
+      <title>RT by @onejailbreak_：📢如果您希望发生好事，请保持在 iOS 17.5 以下。POC 即将发布 🚀🔥
 
 https://x.com/R00tkitSMM/status/1790076101672284594
 
@@ -184,7 +204,7 @@ https://x.com/dora2ios/status/1789711202282791365
 
 #iOS9 #越狱 #untethered</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790119435900006631#m</link>
-      <description><![CDATA[📰iOS 9.2 – iOS 9.3.4 Untethered arm64 Jailbreak 演示已退出。没有预计到达时间，但它肯定会来🔥
+      <description><![CDATA[📰iOS 9.2 – iOS 9.3.4 Untethered arm64 越狱演示已退出。没有预计到达时间，但肯定会到来🔥
 
 x.com/dora2ios/status/178971…
 
@@ -192,22 +212,6 @@ x.com/dora2ios/status/178971…
 nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790119435900006631#m</guid>
       <pubDate>Mon, 13 May 2024 20:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>📰 Semaphorin 的下一次更新将允许 iPhone 8 从 16.7.7 降级至 12.1。一旦开发人员将 iOS 11 的 vm_fault_enter 补丁移植到 A11，它也将在 iOS 11.3 上运行🕵️
-
-https://onejailbreak.com/blog/semaphorin/
-
-#降级 #iOS16 #iOS12 #iOS11 #iPhone8</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790117426052374683#m</link>
-      <description><![CDATA[📰 Semaphorin 的下一次更新将允许 iPhone 8 从 16.7.7 降级到 12.1。一旦开发人员将 iOS 11 的 vm_fault_enter 补丁移植到 A11🕵️，它也将在 iOS 11.3 上运行
-
-onejailbreak.com/blog/semaph…
-
-#downgrade #iOS16 #iOS12 #iOS11 #iPhone8
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790117426052374683#m</guid>
-      <pubDate>Mon, 13 May 2024 20:30:27 GMT</pubDate>
     </item>
     <item>
       <title>RT @onejailbreak_：🧩Navale 调整已更新。此调整允许用户在 iOS 15 – iOS 16 越狱上为 Dock 启用可自定义的渐变 🔥
