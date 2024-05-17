@@ -4,7 +4,21 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 16 May 2024 18:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 03:16:39 GMT</lastBuildDate>
+    <item>
+      <title>Chrome 125.0.6422.61 改老UI</title>
+      <link>https://meta.appinn.net/t/topic/56528</link>
+      <description><![CDATA[chrome  125.0.6422.61 修改为老UI
+chrome快捷方式 &gt;属性
+在目标&quot;C:\Program Files\Google\Chrome\Application\chrome.exe&quot;
+引号后加上：
+空格 --disable-features=CustomizeChromeSidePanel
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/56528</guid>
+      <pubDate>Fri, 17 May 2024 01:08:34 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】桌面时钟 & 数字时钟——两款个性化极简时钟</title>
       <link>https://meta.appinn.net/t/topic/56517</link>
@@ -413,45 +427,6 @@ https://apps.apple.com/app/id6501973975
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/56064</guid>
       <pubDate>Mon, 06 May 2024 14:08:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chromium 内核浏览器通过链接定位页面文本且高亮的小技巧</title>
-      <link>https://meta.appinn.net/t/topic/56058</link>
-      <description><![CDATA[Chromium 内核浏览器通过链接定位页面文本且高亮的小技巧
-找资料时偶然发现的
-在链接尾部追加#:~:text=文本，比如：https://www.appinn.com/#:~:text=最近 30 天的热门内容
-www.appinn.com
- 
-
-
-
-当然也可以选中内容后在右键菜单中选择复制指向突出的内容的链接
- 
-
-
-
-完整语法：#:~:text=[prefix-,]start[,end][,-suffix]
-如果有重复文本可以指定范围匹配
-只匹配“热门”：#:~:text=天的,热门,内容
-如果页面内容是动态加载的则无法定位
-具体介绍
-
-
-Chrome Platform Status
-
-
-https://juejin.cn/post/6959025873433559070
-
-
-根据 caniuse 兼容性表 Safari 也支持
-
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/56058</guid>
-      <pubDate>Mon, 06 May 2024 08:38:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
