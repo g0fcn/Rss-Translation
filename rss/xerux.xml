@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>xerus/@xerusdesign</title>
+    <title>xerus / @xerusdesign</title>
     <link>http://nitter.esmailelbob.xyz/xerusdesign</link>
-    <description>Twitter 消息源：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 18 May 2024 01:04:03 GMT</lastBuildDate>
+    <description>Twitter 供稿：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sat, 18 May 2024 03:16:46 GMT</lastBuildDate>
     <item>
-      <title>来自 @xerusdesign 的 RT：Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/ ，可能会导致引导循环jb/var/mobile 到 /var/mobile
+      <title>RT by @xerusdesign：Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/ ，可能会导致引导循环jb/var/mobile 到 /var/mobile
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.4</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787820054504935824#m</link>
@@ -43,7 +43,7 @@ github.com/opa334/Dopamine/r…
     <item>
       <title>多巴胺 2.0 中的新图标 🔥</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1758531768997511361#m</link>
-      <description><![CDATA[Dopamine 2.0 中的新图标🔥
+      <description><![CDATA[多巴胺 2.0 中的新图标 🔥
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1758531768997511361#m</guid>
       <pubDate>Fri, 16 Feb 2024 16:40:20 GMT</pubDate>
@@ -53,9 +53,9 @@ github.com/opa334/Dopamine/r…
 新主题图标设计由@xerusdesign 设计
 arm64 支持由 @dora2ios 贡献</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758527800045183070#m</link>
-      <description><![CDATA[新 UI 已由 @tomt000 开发 
-新主题图标设计由 @xerusdesign 
-arm64 支持由 @dora2ios 贡献
+      <description><![CDATA[新 UI 由 @tomt000 开发 
+新主题图标设计由 @xerusdesign 设计 
+arm64 支持由 @dora2ios 提供&gt;
 
 
 
@@ -86,9 +86,9 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Fri, 16 Feb 2024 16:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>D👴⛏ 很快会有 Two Point O？？？</title>
+      <title>D👴⛏ 很快就两点O了？？？</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1756805826172403840#m</link>
-      <description><![CDATA[D👴⛏很快就两点O？？？]]></description>
+      <description><![CDATA[D👴⛏ Two Point O 即将到来？]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1756805826172403840#m</guid>
       <pubDate>Sun, 11 Feb 2024 22:22:03 GMT</pubDate>
     </item>
@@ -100,9 +100,9 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Fri, 09 Feb 2024 21:18:17 GMT</pubDate>
     </item>
     <item>
-      <title>Junipero 1.2 已发布！添加了 56 个新图标和一些改进，包括一个受 visionOS 启发的新设置图标和几个新的 Apollo for Reddit 图标！尽情享受吧！
+      <title>Junipero 1.2 已发布！添加 56 个新图标和一些改进，包括受 VisionOS 启发的新“设置”图标和几个新的 Apollo for Reddit 图标！享受！
 
-免费代码，快来吧！：
+免费代码，速度快！：
 
 19DG-WM610E-O37K
 
@@ -180,7 +180,7 @@ CopyLog TrollStore 版本简介
       <pubDate>Tue, 26 Dec 2023 04:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>RT @xerusdesign：圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备的越狱！
+      <title>RT @xerusdesign：圣诞快乐！所有arm64 iOS 16.0到iOS 16.5设备的越狱！
 https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v0.999.3</title>
       <link>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</link>
       <description><![CDATA[圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备越狱！
