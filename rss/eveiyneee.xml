@@ -3,12 +3,12 @@
   <channel>
     <title>évelyne / @eveiyneee</title>
     <link>http://nitter.esmailelbob.xyz/eveiyneee</link>
-    <description>Twitter 供稿：@eveiyneee。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 18 May 2024 12:26:32 GMT</lastBuildDate>
+    <description>Twitter 消息源：@eveiyneee。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sat, 18 May 2024 21:13:25 GMT</lastBuildDate>
     <item>
       <title>@eveiyneee 的 RT：那不是真的，这只允许通过 Dopamine 2.1 修复自旋锁，而 Dopamine 2.1 尚未发布，哈哈。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783853724349132974#m</link>
-      <description><![CDATA[这不是真的，这只允许通过 Dopamine 2.1 来修复自旋锁，而 Dopamine 2.1 尚未发布，哈哈。]]></description>
+      <description><![CDATA[这不是真的，这只允许通过 Dopamine 2.1 修复自旋锁，Dopamine 2.1 尚未发布，哈哈。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1783853724349132974#m</guid>
       <pubDate>Fri, 26 Apr 2024 13:40:44 GMT</pubDate>
     </item>
@@ -22,14 +22,14 @@
     <item>
       <title>也许我应该从 17.0 更新我的主设备，因为每次我这样做时，都会发布我留下的版本的漏洞</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1769353646788001900#m</link>
-      <description><![CDATA[也许我应该从 17.0 更新我的主要设备，因为每次我这样做时，我留下的版本的漏洞都会被释放]]></description>
+      <description><![CDATA[也许我应该从 17.0 更新我的主设备，因为每次我这样做时，都会发布我留下的版本的漏洞]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1769353646788001900#m</guid>
       <pubDate>Sun, 17 Mar 2024 13:22:37 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@eveiyneee：不幸的是，我没有任何 16.x arm64e 测试设备，但它在我的所有设备上都运行得非常好！</title>
+      <title>R 至@eveiyneee：不幸的是，我没有任何 16.x arm64e 测试设备，但它在我的所有设备上运行得非常好！</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864741362028778#m</link>
-      <description><![CDATA[遗憾的是，我没有任何 16.x arm64e 测试设备，但它在我的所有设备上运行得都非常好！]]></description>
+      <description><![CDATA[不幸的是，我没有任何 16.x arm64e 测试设备，但它在我的所有设备上都运行得非常好！]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1758864741362028778#m</guid>
       <pubDate>Sat, 17 Feb 2024 14:43:27 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>RT @eveiyneee：ElleKit 1.1.1 现已在 https://ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</link>
-      <description><![CDATA[ElleKit 1.1.1 现已在 ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。
+      <description><![CDATA[ElleKit 1.1.1 现已在 ellekit.space 上发布。如果您使用的是 1.1 版本，请立即更新以修复可能导致创建巨大日志文件的问题。
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</guid>
       <pubDate>Mon, 29 Jan 2024 22:10:18 GMT</pubDate>
@@ -65,7 +65,7 @@
       <pubDate>Sun, 28 Jan 2024 19:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>回复 @eveiyneee：我怀疑我永远不会知道，因为 repo 没有统计数据</title>
+      <title>R 致@eveiyneee：我怀疑我永远不会知道，因为回购协议没有统计数据</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694200469344765#m</link>
       <description><![CDATA[我怀疑我永远不会知道，因为仓库没有统计数据]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751694200469344765#m</guid>
@@ -88,7 +88,7 @@
     <item>
       <title>R 致@eveiyneee：@apple 100$ 要么接受要么放弃</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011401462669591#m</link>
-      <description><![CDATA[@apple 100 美元，要么接受，要么放弃]]></description>
+      <description><![CDATA[@apple 100 美元接受或放弃]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011401462669591#m</guid>
       <pubDate>Fri, 26 Jan 2024 22:37:04 GMT</pubDate>
     </item>
@@ -102,12 +102,12 @@
     <item>
       <title>有点有趣的是，iOS 17.0 有一个 CoreTrust 漏洞，但仍然无法在设备上获得用它签名的二进制文件。真正展示了 installd 的检查对于设备安全有多么有用</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1747654434341921076#m</link>
-      <description><![CDATA[有点有趣的是，iOS 17.0 具有 CoreTrust 漏洞，但仍然无法在设备上获得用它签名的二进制文件。真正展示了 installd 的检查对于设备安全有多么有用]]></description>
+      <description><![CDATA[有点有趣的是，iOS 17.0 有一个 CoreTrust 漏洞，但仍然无法在设备上获得用它签名的二进制文件。真正展示了 installd 的检查对于设备安全有多么有用]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1747654434341921076#m</guid>
       <pubDate>Wed, 17 Jan 2024 16:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@eveiyneee：而且 rootless 仍然比 roothide 更好，应该是可选的 😭</title>
+      <title>R 至 @eveiyneee：rootless 仍然比 roothide 更好，应该是可选的😭</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382962983600186#m</link>
       <description><![CDATA[而且 rootless 仍然比 roothide 更好，应该是可选的 😭]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382962983600186#m</guid>
