@@ -4,7 +4,7 @@
     <title>évelyne / @eveiyneee</title>
     <link>http://nitter.esmailelbob.xyz/eveiyneee</link>
     <description>Twitter 供稿：@eveiyneee。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 19 May 2024 09:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 15:14:21 GMT</lastBuildDate>
     <item>
       <title>@eveiyneee 的 RT：那不是真的，这只允许通过 Dopamine 2.1 修复自旋锁，而 Dopamine 2.1 尚未发布，哈哈。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1783853724349132974#m</link>
@@ -41,9 +41,9 @@
       <pubDate>Sat, 17 Feb 2024 14:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @eveiyneee：ElleKit 1.1.1 现已在 https://ellekit.space 上发布。如果您使用的是 1.1 版本，请立即更新以修复可能导致创建巨大日志文件的问题。</title>
+      <title>RT @eveiyneee：ElleKit 1.1.1 现已在 https://ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。</title>
       <link>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</link>
-      <description><![CDATA[ElleKit 1.1.1 现已在 ellekit.space 上发布。如果您使用的是 1.1，请立即更新以修复可能导致创建巨大日志文件的问题。
+      <description><![CDATA[ElleKit 1.1.1 现已在 ellekit.space 上发布。如果您使用的是 1.1 版本，请立即更新以修复可能导致创建巨大日志文件的问题。
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/dhinakg/status/1752091826071191622#m</guid>
       <pubDate>Mon, 29 Jan 2024 22:10:18 GMT</pubDate>
@@ -52,8 +52,8 @@
       <title>如果你关心的话，17.2 及更低版本似乎在 igmp_flush_relq 中有一个 UaF（krw！）。我是
 不够聪明，无法利用它，其他人应该尝试</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751723085659566525#m</link>
-      <description><![CDATA[如果你关心的话，17.2 及更低版本似乎在 igmp_flush_relq 中有一个 UaF（krw！）。我是
-不够聪明，无法利用它，其他人应该尝试]]></description>
+      <description><![CDATA[如果您真的在意的话，17.2 及更低版本似乎在 igmp_flush_relq 中有一个 UaF (krw!)。我
+还不够聪明，无法利用它，其他人应该尝试一下]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751723085659566525#m</guid>
       <pubDate>Sun, 28 Jan 2024 21:45:03 GMT</pubDate>
     </item>
@@ -79,14 +79,14 @@
       <pubDate>Sun, 28 Jan 2024 19:50:16 GMT</pubDate>
     </item>
     <item>
-      <title>我没有 17.4 checkm8 设备来测试 ellekit，所以我不知道我是否能解决这个问题。它们很贵</title>
+      <title>我没有 17.4 checkm8 设备来测试 ellekit，所以我不知道是否能够解决该问题。它们很贵</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751012009884192926#m</link>
       <description><![CDATA[我没有 17.4 checkm8 设备来测试 ellekit，所以我不知道是否能够解决该问题。它们很贵]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751012009884192926#m</guid>
       <pubDate>Fri, 26 Jan 2024 22:39:30 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@eveiyneee: @apple 100$ 要么接受要么放弃</title>
+      <title>R 致@eveiyneee：@apple 100$ 要么接受要么放弃</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011401462669591#m</link>
       <description><![CDATA[@apple 100 美元接受或放弃]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1751011401462669591#m</guid>
@@ -109,7 +109,7 @@
     <item>
       <title>R 致@eveiyneee：而且 rootless 仍然比 roothide 更好，应该是可选的 😭</title>
       <link>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382962983600186#m</link>
-      <description><![CDATA[而且 rootless 仍然比 roothide 更好，应该是可选的 😭]]></description>
+      <description><![CDATA[此外 rootless 仍然比 roothide 更好，应该是可选的😭]]></description>
       <guid>http://nitter.esmailelbob.xyz/eveiyneee/status/1743382962983600186#m</guid>
       <pubDate>Fri, 05 Jan 2024 21:24:23 GMT</pubDate>
     </item>
