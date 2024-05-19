@@ -4,7 +4,7 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 18 May 2024 18:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 12:26:37 GMT</lastBuildDate>
     <item>
       <title>RT by @opa334dev：不幸的是，在花了数周的时间改进 iOS 版 SameBoy 并对其进行调整以适应 @Apple 的 @AppStore 指南和受众之后，它被视为“垃圾邮件”，尽管它具有任何其他模拟器中都没有的数十个独特功能，让仅适用于 iOS 的一款。 (1/2)</title>
       <link>http://nitter.esmailelbob.xyz/LIJI32/status/1790873327508111817#m</link>
@@ -16,14 +16,14 @@
     <item>
       <title>@opa334dev 的转发：我再也不会上 Twitter 了，但今天这个真正特殊的场合值得这样：*两个* #iOS 传奇人物 @_p0up0u_ (#KFD!) 和 @opa334dev (#dopamine!) 为我的 @offective_con 训练增光添彩，继续“神秘嘉宾的“传统”，我深感谦卑和感激！</title>
       <link>http://nitter.esmailelbob.xyz/Morpheus______/status/1788671415907955154#m</link>
-      <description><![CDATA[我再也不会上 Twitter 了，但今天这个真正特殊的场合值得这样：*两者* #iOS图例 @_p0up0u_ (#KFD！）和@opa334dev（#dopamine！）为我的@增光添彩进攻性训练，延续“神秘嘉宾”传统”。我感到谦卑和感激！非常感谢你们！]]></description>
+      <description><![CDATA[我再也不会上 Twitter 了，但今天这个真正特殊的场合值得这样做：*两者* #iOS图例 @_p0up0u_ (#KFD！）和@opa334dev（#dopamine！）为我的@增光添彩进攻性训练，延续“神秘嘉宾”传统”。我感到谦卑和感激！非常感谢你们！]]></description>
       <guid>http://nitter.esmailelbob.xyz/Morpheus______/status/1788671415907955154#m</guid>
       <pubDate>Thu, 09 May 2024 20:44:32 GMT</pubDate>
     </item>
     <item>
       <title>刚刚抵达柏林参加@offective_con</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1788543077809828227#m</link>
-      <description><![CDATA[刚刚抵达柏林@offense_con]]></description>
+      <description><![CDATA[刚刚抵达柏林参加@offensive_con]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1788543077809828227#m</guid>
       <pubDate>Thu, 09 May 2024 12:14:33 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@ github.com/cellebrite-labs/s...
       <pubDate>Tue, 07 May 2024 13:50:32 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/jb/var/mobile ，可能会导致引导循环到 /var/mobile
+      <title>Dopamine 2.1.4 旨在解决自动 /var/jb/var/mobile 权限修复的一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或将 /var/jb/var/mobile 符号链接到 /var/mobile，则可能导致引导循环
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.4</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787820054504935824#m</link>
@@ -68,7 +68,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Mon, 06 May 2024 23:58:42 GMT</pubDate>
     </item>
     <item>
-      <title>多巴胺 2.1.2 即将修复 2.1 的另一项回归
+      <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
@@ -103,13 +103,13 @@ github.com/opa334/Dopamine/r…
     <item>
       <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
-      <description><![CDATA[重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
+      <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</guid>
       <pubDate>Tue, 30 Apr 2024 21:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
+      <title>Dopamine 2.1 现已推出，具有 A8(X) 支持和其他改进。
 
 https://www.reddit.com/r/jailbreak/comments/1cgy7cy/dopamine_21_a8x_support_and_other_improvements/</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m</link>
@@ -121,35 +121,35 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的错误......这样做真的很愚蠢......</title>
+      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
-      <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
+      <description><![CDATA[问题是，这个崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>回复 @opa334dev：呃，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱时启动应用程序是可行的……</title>
+      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......]]></description>
+      <description><![CDATA[唉，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这一点，但显然在未越狱时启动应用程序是可行的……]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
+      <title>回复 @opa334dev：它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
-      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？
+      <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试查找导致该问题的原因......
+      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
 它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
       <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
 
-它是用 Swift 编写的，所以不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
     </item>
