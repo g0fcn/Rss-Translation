@@ -4,11 +4,11 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 19 May 2024 12:26:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 21:15:25 GMT</lastBuildDate>
     <item>
       <title>RT by @opa334dev：不幸的是，在花了数周的时间改进 iOS 版 SameBoy 并对其进行调整以适应 @Apple 的 @AppStore 指南和受众之后，它被视为“垃圾邮件”，尽管它具有任何其他模拟器中都没有的数十个独特功能，让仅适用于 iOS 的一款。 (1/2)</title>
       <link>http://nitter.esmailelbob.xyz/LIJI32/status/1790873327508111817#m</link>
-      <description><![CDATA[不幸的是，在花费数周时间改进 iOS 版 SameBoy 并对其进行调整以适应 @Apple 的@AppStore 指南和受众，它被视为“垃圾邮件”，尽管它有许多在任何其他模拟器，更不用说 iOS 模拟器了。 (1/2)
+      <description><![CDATA[不幸的是，在花费数周时间改进 iOS 版 SameBoy 并调整其以适应 @Apple 的 @AppStore 指南和受众之后，它被视为“垃圾邮件”，尽管它拥有其他任何模拟器都找不到的数十种独特功能，更不用说 iOS 版了。（1/2）
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/LIJI32/status/1790873327508111817#m</guid>
       <pubDate>Wed, 15 May 2024 22:34:08 GMT</pubDate>
@@ -23,7 +23,7 @@
     <item>
       <title>刚刚抵达柏林参加@offective_con</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1788543077809828227#m</link>
-      <description><![CDATA[刚刚抵达柏林参加@offensive_con]]></description>
+      <description><![CDATA[刚刚抵达柏林@offense_con]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1788543077809828227#m</guid>
       <pubDate>Thu, 09 May 2024 12:14:33 GMT</pubDate>
     </item>
@@ -36,19 +36,20 @@
 
 https://github.com/cellebrite-labs/sandblaster</title>
       <link>http://nitter.esmailelbob.xyz/CellebriteLabs/status/1787842456223961292#m</link>
-      <description><![CDATA[激动人心的更新！ 
-我们已经从 Lisp 过渡到 C 来反编译沙箱配置文件，从而提高了准确性和可读性。
-我们的 SandBlaster 分支还改进了 iOS 17 支持。
+      <description><![CDATA[激动人心的更新！
+我们已经从 Lisp 过渡到 C 来反编译沙盒配置文件，从而提高了准确性和可读性。
 
-强烈感谢 @yarden_ha 和 @LIJI32 感谢他们的贡献！
+我们的 SandBlaster fork 还改进了对 iOS 17 的支持。
 
-github.com/cellebrite-labs/s...
+非常感谢 @yarden_ha 和 @LIJI32 的贡献！
+
+github.com/cellebrite-labs/s…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/CellebriteLabs/status/1787842456223961292#m</guid>
       <pubDate>Tue, 07 May 2024 13:50:32 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1.4 旨在解决自动 /var/jb/var/mobile 权限修复的一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或将 /var/jb/var/mobile 符号链接到 /var/mobile，则可能导致引导循环
+      <title>Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/jb/var/mobile ，可能会导致引导循环到 /var/mobile
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.4</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787820054504935824#m</link>
@@ -68,7 +69,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Mon, 06 May 2024 23:58:42 GMT</pubDate>
     </item>
     <item>
-      <title>多巴胺 2.1.2 即将修复 2.1 的又一个回归问题
+      <title>多巴胺 2.1.2 即将修复 2.1 的另一项回归
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
@@ -80,9 +81,9 @@ github.com/opa334/Dopamine/r…
       <pubDate>Thu, 02 May 2024 17:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>显然，要在没有回归的情况下发布多巴胺主要版本是非常困难的:(
+      <title>显然，很难在没有回归的情况下发布 Dopamine 主要版本 :(
 
-也就是说，2.1.1 已经解决了这些问题
+话虽如此，2.1.1 是为了修复这些问题
 https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
       <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
@@ -101,7 +102,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
+      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上的 OTA 更新（Dopamine 2.0.x -> 2.1）期间出现的恐慌进行了小修复。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
       <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
@@ -109,7 +110,7 @@ nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
       <pubDate>Tue, 30 Apr 2024 21:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1 现已推出，具有 A8(X) 支持和其他改进。
+      <title>Dopamine 2.1 现已发布，具有 A8(X) 支持和其他改进。
 
 https://www.reddit.com/r/jailbreak/comments/1cgy7cy/dopamine_21_a8x_support_and_other_improvements/</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m</link>
@@ -121,21 +122,21 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
+      <title>R 至@opa334dev：问题是，这次崩溃并不是立即发生的，而是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
-      <description><![CDATA[问题是，这个崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
+      <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我以前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
+      <title>R 致@opa334dev：呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动该应用程序......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</link>
-      <description><![CDATA[唉，我觉得自己很蠢，这似乎是故意设计成混淆的越狱检测。我以前从未真正测试过这一点，但显然在未越狱时启动应用程序是可行的……]]></description>
+      <description><![CDATA[呃，我觉得很愚蠢，这似乎是故意设计来混淆的越狱检测。我之前从未真正测试过这个，但显然在未越狱的情况下启动应用程序......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784913461585272876#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>回复 @opa334dev：它只是在某个奇怪的地方触发了一个断点，回溯中的所有内容都是编译器垃圾，我看不到那里有任何实际代码。所以我甚至无法确定什么条件会跳转到断点，该死的，为什么人们如此讨厌自己，以至于用 Swift 编写代码？？？</title>
+      <title>R 到@opa334dev：它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死的为什么人们如此讨厌自己用 Swift 编写？？？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784909547787682245#m</link>
       <description><![CDATA[它只是在某个奇怪的地方遇到了断点，回溯中的所有内容都只是编译器垃圾，我在那里看不到实际的代码。所以我什至无法确定什么条件跳转到断点，该死，为什么人们如此讨厌自己用 Swift 编写？？？
 ]]></description>
