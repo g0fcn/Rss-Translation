@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>onejailbreak / @onejailbreak_</title>
+    <title>onejailbreak/@onejailbreak_</title>
     <link>http://nitter.esmailelbob.xyz/onejailbreak_</link>
-    <description>Twitter 消息源：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 18 May 2024 21:12:47 GMT</lastBuildDate>
+    <description>Twitter 提要：@onejailbreak_。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sun, 19 May 2024 09:15:52 GMT</lastBuildDate>
     <item>
-      <title>📢Xinam1ne 是前段时间的一个有趣项目 (arm64e)，旨在为 iOS 和 A12+ 设备提供越狱。它似乎已更新，支持 iOS 15 – iOS 16.5.1📱
+      <title>🧩ClassicFolders 3.0.4 已推出，支持 iOS 15 和 iOS 16 上的无根越狱。这次 Lizynz 添加了一些改进，并修复了在 iOS 15 上从 Dock 打开文件夹和隐藏页面指示器时的错误🔥
+
+https://onejailbreak.com/blog/classicfolders-3-tweak/
+
+通过@Lizynz1
+
+#jailbreak #iOS15 #iPhone14 #iPhone #palera1n #unc0ver #checkra1n #iOS #Dopamine #iOS16</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1792111239507726584#m</link>
+      <description><![CDATA[🧩ClassicFolders 3.0.4 已推出，支持 iOS 15 和 iOS 16 上的无根越狱。这次 Lizynz 添加了一些改进，并修复了在 iOS 15 上从 Dock 打开文件夹和隐藏页面指示器时的错误🔥
+
+onejailbreak.com/blog/classi… 
+
+作者：@Lizynz1
+
+#jailbreak #iOS15 #iPhone14 #iPhone #palera1n #unc0ver #checkra1n&lt; /a&gt; #iOS #Dopamine #iOS16
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1792111239507726584#m</guid>
+      <pubDate>Sun, 19 May 2024 08:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>📚不仅旁载 AltStore 支持带有 IPA 库的存储库。发现 ESing 的最佳应用程序源，您可以免费下载应用程序、游戏和调整后的应用程序++🧠🔥
+
+https://onejailbreak.com/blog/esign-ipa-signing-app/esign-ipa-sources/
+
+#ESign #iOS #IPA #download #iPhone #AppStore #free #iOS17 #iOS16 #iOS15 #iPhone15 #AltStore</title>
+      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1792080573210542543#m</link>
+      <description><![CDATA[📚不仅旁载 AltStore 支持带有 IPA 库的存储库。发现 ESing 的最佳应用程序源，您可以免费下载应用程序、游戏和调整后的应用程序++🧠🔥
+
+onejailbreak.com/blog/esign-…
+
+#ESign #iOS #IPA #download #iPhone #AppStore #free&lt; /a&gt; #iOS17 #iOS16 #iOS15 #iPhone15 #AltStore
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1792080573210542543#m</guid>
+      <pubDate>Sun, 19 May 2024 06:31:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>📢Xinam1ne 不久前是一个有趣的项目（arm64e），旨在为 iOS 和 A12+ 设备提供越狱。似乎更新了对 iOS 15 - iOS 16.5.1 的支持📱
 
 https://onejailbreak.com/blog/xinam1ne-jailbreak/
 
-#jailbreak #iOS15 #iOS16 #Xinam1ne #iPhone #A12</title>
+#越狱 #iOS15 #iOS16 #Xinam1ne #iPhone #A12</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1791713699184382373#m</link>
       <description><![CDATA[📢Xinam1ne 不久前是一个有趣的项目（arm64e），旨在为 iOS 和 A12+ 设备提供越狱。好像更新支持 iOS 15 – iOS 16.5.1📱
 
@@ -161,11 +197,11 @@ https://onejailbreak.com/blog/mitsuha-forever/mitsuha-6-tweak/
 
 #jailbreak #iOS15 #iPhone14 #iPhone #palera1n #checkra1n #iOS16 #Dopamine #iOS #iOS17</title>
       <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790631066870378886#m</link>
-      <description><![CDATA[🧩Ryan Nair 更新了 Mitsuha 调整并将名称改为 Mitsuha Six。这个全新的版本终于支持 iOS 15 – iOS 16 上的无 root 越狱🔥
+      <description><![CDATA[🧩Ryan Nair 更新了 Mitsuha 调整并将名称更改为 Mitsuha Six。这个全新版本终于支持iOS 15 – iOS 16无root越狱🔥
 
 onejailbreak.com/blog/mitsuh…
 
-#jailbreak #iOS15 #iPhone14 #iPhone #palera1n #checkra1n #iOS16 #Dopamine #iOS #iOS17
+#jailbreak #iOS15 #iPhone14 #iPhone #palera1n #checkra1n #iOS16&lt; /a&gt; #Dopamine #iOS #iOS17
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790631066870378886#m</guid>
       <pubDate>Wed, 15 May 2024 06:31:29 GMT</pubDate>
@@ -216,42 +252,6 @@ onejailbreak.com/blog/classi…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790143667333660821#m</guid>
       <pubDate>Mon, 13 May 2024 22:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @onejailbreak_：📢如果你希望有好事发生，请保持在 iOS 17.5 以下。 POC即将发布🚀🔥
-
-https://x.com/R00tkitSMM/status/1790076101672284594
-
-#iOS17 #jailbreak #iPhone #POC #exploit</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790139120251003017#m</link>
-      <description><![CDATA[📢如果您希望有好事发生，请保持在 iOS 17.5 以下。 POC 即将发布🚀 🔥
-
-x.com/R00tkitSMM/status/1790…
-
-#iOS17 #jailbreak #iPhone #POC #exploit
-nitter.esmailelbob.xyz/R00tkitSMM/status/1790076101672284594#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790139120251003017#m</guid>
-      <pubDate>Mon, 13 May 2024 21:56:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT @onejailbreak_：🧩Navale 调整已更新。此调整允许用户在 iOS 15 – iOS 16 越狱上为 Dock 启用可自定义的渐变 🔥
-
-https://onejailbreak.com/blog/navale-tweak/
-
-添加了深色和浅色模式的预设。修复了渐变方向和渐变翻转。动态设置无需重新启动即可应用🗞️
-
-#越狱 #多巴胺 #Palera1n #iOS15 #iOS16</title>
-      <link>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790108279563022443#m</link>
-      <description><![CDATA[🧩Navale 调整已更新。此调整允许用户在 iOS 15 – iOS 16 越狱上为 Dock 启用可自定义的渐变 🔥
-
-onejailbreak.com/blog/navale…
-
-添加了深色和浅色模式的预设。修复了渐变方向和渐变翻转。动态设置无需重新启动即可应用🗞️
-
-#jailbreak #Dopamine #Palera1n #iOS15 #iOS16
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/onejailbreak_/status/1790108279563022443#m</guid>
-      <pubDate>Mon, 13 May 2024 19:54:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

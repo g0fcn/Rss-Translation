@@ -4,7 +4,7 @@
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
     <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 19 May 2024 01:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 09:16:53 GMT</lastBuildDate>
     <item>
       <title>你好</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1791948261894353038#m</link>
@@ -24,12 +24,12 @@ nitter.esmailelbob.xyz/MacRumors/status/1791550265969250466#m]]></description>
     <item>
       <title>R 致@MasterMike88：理想情况下，如果投票者能够提供具体信息（特定版本、设备、越狱版本、他们通常的体验以及屏幕录制的调整列表），那就太好了。</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1791454846060519894#m</link>
-      <description><![CDATA[理想情况下，如果投票者可以提供具体信息（特定版本、设备、越狱版本、他们通常的体验以及屏幕录制的调整列表），那就太好了。]]></description>
+      <description><![CDATA[理想情况下，如果投票者可以提供具体信息（具体版本、设备、越狱版本、他们通常的体验以及屏幕录制的调整列表），那就太好了。]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1791454846060519894#m</guid>
       <pubDate>Fri, 17 May 2024 13:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>由于有些人报告使用较新的 2.x 版本的 Dopamine（或多巴胺 2.x）会出现自旋锁回归，因此我将问一个简单的问题。
+      <title>由于有些人报告使用较新的 2.x 版本的 Dopamine（或整个 Dopamine 2.x）会出现自旋锁回归，因此我将问一个简单的问题。
 
 对于*15.0-15.4.1*上使用*正常*设置的arm64e用户，以下四种越狱中哪一种“更稳定”</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1791454844667957286#m</link>
@@ -69,8 +69,8 @@ nitter.esmailelbob.xyz/MacRumors/status/1791550265969250466#m]]></description>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790936456917127432#m</link>
       <description><![CDATA[好吧，我买的第三代 Apple TV 有一根非常脆弱的电源线（我想？要么是它，要么是 Apple TV 本身），我有三个选择：
 1. 不用再费心去买另一根电源线
-2. 花 3 美元购买便宜的电源线
-3. 以 9-10 美元左右的价格购买第二代 Apple TV（配有电源线）]]></description>
+2. 花 3 美元买一根便宜的电源线
+3. 以 9 至 10 美元的价格购买第二代 Apple TV（配有电源线）]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790936456917127432#m</guid>
       <pubDate>Thu, 16 May 2024 02:44:59 GMT</pubDate>
     </item>
@@ -82,7 +82,7 @@ nitter.esmailelbob.xyz/MacRumors/status/1791550265969250466#m]]></description>
       <pubDate>Wed, 15 May 2024 17:09:05 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@MasterMike88：根据记录，这里最重要的事情是他们从中得到了一些钱并获得了一些东西（即使是意外的系统终止）
+      <title>R 致@MasterMike88：根据记录，这里最重要的是他们从中得到了一些钱并获得了一些东西（即使是意外的系统终止）
 
 至于越狱，即使这是一条可行的道路，能够仅在 PoC 上编写漏洞利用的人数也基本为零。</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790790830732533769#m</link>
@@ -113,7 +113,7 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790391961737711697#m]]></description>
       <pubDate>Tue, 14 May 2024 15:28:30 GMT</pubDate>
     </item>
     <item>
-      <title>RT @MasterMike88：我想说，有 90% 的可能性这绝对不会导致任何结果，有 10% 的可能性它将导致 17.0 TrollStore 安装程序。
+      <title>RT by @MasterMike88：我想说，有 90% 的可能性这绝对不会导致任何结果，有 10% 的可能性它将导致 17.0 TrollStore 安装程序。
 
 如果没有新的/独特的技术，血清素将无法在 17.0 SPTM 设备上工作。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1790377982915117272#m</link>
@@ -124,9 +124,9 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790391961737711697#m]]></description>
       <pubDate>Tue, 14 May 2024 13:45:49 GMT</pubDate>
     </item>
     <item>
-      <title>回复@MasterMike88：哦，这是在补丁之后
+      <title>R 致@MasterMike88：哦，这是修补后的
 
-Apple 只想要免费的安全报告，不需要真正的报酬</title>
+苹果只是想要免费的安全报告，而不需要真正的付费</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790285208211587525#m</link>
       <description><![CDATA[哦，这是修补后的
 
@@ -139,9 +139,9 @@ Apple 只想要免费的安全报告，不需要真正的报酬</title>
 
 天啊，那里发生了什么——这个人绝对应该得到某种奖励，但却被告知这不符合他们的标准（尽管他们的错误似乎很可能满足它）</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790284819798122968#m</link>
-      <description><![CDATA[Apple 确实很出色。
+      <description><![CDATA[苹果确实很出色。
 
-天啊，那里发生了什么事 - 这个人绝对应该得到某种奖励，但却被告知它不符合他们的标准（尽管他们的错误似乎更有可能满足标准）
+天啊，那里发生了什么 - 这个人绝对应该得到某种奖励，但却被告知这不符合他们的标准（尽管他们的错误似乎很可能满足它）
 nitter.esmailelbob.xyz/R00tkitSMM/status/1790269915028467800#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790284819798122968#m</guid>
       <pubDate>Tue, 14 May 2024 07:35:37 GMT</pubDate>
@@ -153,7 +153,7 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790269915028467800#m]]></description>
 - PoC（概念验证）不是一种漏洞利用
 - 即使开发或发布了漏洞，内核漏洞也不足以越狱arm64e设备
 
-澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（请注意，你甚至还没有出来），那么现在允许的绝对是：
+澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（注意你还没有出来），那么现在允许的绝对是：
 - 在 16.7 RC/17.0 上针对arm64e安装TrollStore（+在这些版本上针对arm64设备进行非checkm8安装）
 - 适用于 17.4.1 及以下版本的 arm64 设备的半自由越狱</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790082140341739938#m</link>

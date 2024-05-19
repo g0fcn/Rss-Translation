@@ -4,9 +4,9 @@
     <title>xerus / @xerusdesign</title>
     <link>http://nitter.esmailelbob.xyz/xerusdesign</link>
     <description>Twitter 供稿：@xerusdesign。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 18 May 2024 21:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 09:17:07 GMT</lastBuildDate>
     <item>
-      <title>RT by @xerusdesign：Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/ ，可能会导致引导循环jb/var/mobile 到 /var/mobile
+      <title>RT by @xerusdesign：Dopamine 2.1.4 旨在解决自动 /var/jb/var/mobile 权限修复的一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或将 /var/jb/var/mobile 符号链接到 /var/mobile，则可能导致引导循环
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.4</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787820054504935824#m</link>
@@ -43,16 +43,15 @@ github.com/opa334/Dopamine/r…
     <item>
       <title>多巴胺 2.0 中的新图标 🔥</title>
       <link>http://nitter.esmailelbob.xyz/xerusdesign/status/1758531768997511361#m</link>
-      <description><![CDATA[Dopamine 2.0 中的新图标🔥
+      <description><![CDATA[多巴胺 2.0 中的新图标 🔥
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/xerusdesign/status/1758531768997511361#m</guid>
       <pubDate>Fri, 16 Feb 2024 16:40:20 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @xerusdesign：@tomt000 开发了新 UI 
-
-@xerusdesign 设计了新主题图标 
-@dora2ios 提供了 arm64 支持</title>
+      <title>RT by @xerusdesign：新 UI 已由 @tomt000 开发
+新主题图标设计由@xerusdesign 设计
+arm64 支持由 @dora2ios 贡献</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1758527800045183070#m</link>
       <description><![CDATA[新 UI 已由 @tomt000 开发 
 新主题图标设计由 @xerusdesign 
@@ -101,7 +100,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Fri, 09 Feb 2024 21:18:17 GMT</pubDate>
     </item>
     <item>
-      <title>Junipero 1.2 已发布！添加 56 个新图标和一些改进，包括受 VisionOS 启发的新“设置”图标和几个新的 Apollo for Reddit 图标！享受！
+      <title>Junipero 1.2 已发布！添加了 56 个新图标和一些改进，包括受 VisionOS 启发的新设置图标和几个新的 Apollo for Reddit 图标！享受！
 
 免费代码，速度快！：
 
@@ -184,7 +183,7 @@ CopyLog TrollStore 版本简介
       <title>RT @xerusdesign：圣诞快乐！所有arm64 iOS 16.0到iOS 16.5设备的越狱！
 https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v0.999.3</title>
       <link>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</link>
-      <description><![CDATA[圣诞快乐！所有 arm64 iOS 16.0 至 iOS 16.5 设备均可越狱！
+      <description><![CDATA[圣诞快乐！所有arm64 iOS 16.0至iOS 16.5设备越狱！
 github.com/KpwnZ/Def1nit3lyN…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/Nyaaaaa_ovo/status/1739177342122315916#m</guid>
