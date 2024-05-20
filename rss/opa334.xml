@@ -4,11 +4,11 @@
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
     <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 19 May 2024 21:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 03:17:59 GMT</lastBuildDate>
     <item>
       <title>RT by @opa334dev：不幸的是，在花了数周的时间改进 iOS 版 SameBoy 并对其进行调整以适应 @Apple 的 @AppStore 指南和受众之后，它被视为“垃圾邮件”，尽管它具有任何其他模拟器中都没有的数十个独特功能，让仅适用于 iOS 的一款。 (1/2)</title>
       <link>http://nitter.esmailelbob.xyz/LIJI32/status/1790873327508111817#m</link>
-      <description><![CDATA[不幸的是，在花费数周时间改进 iOS 版 SameBoy 并调整其以适应 @Apple 的 @AppStore 指南和受众之后，它被视为“垃圾邮件”，尽管它拥有其他任何模拟器都找不到的数十种独特功能，更不用说 iOS 版了。（1/2）
+      <description><![CDATA[不幸的是，在花费数周时间改进 iOS 版 SameBoy 并对其进行调整以适应 @Apple 的@AppStore 指南和受众，它被视为“垃圾邮件”，尽管它有许多在任何其他模拟器，更不用说 iOS 模拟器了。 (1/2)
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/LIJI32/status/1790873327508111817#m</guid>
       <pubDate>Wed, 15 May 2024 22:34:08 GMT</pubDate>
@@ -36,14 +36,13 @@
 
 https://github.com/cellebrite-labs/sandblaster</title>
       <link>http://nitter.esmailelbob.xyz/CellebriteLabs/status/1787842456223961292#m</link>
-      <description><![CDATA[激动人心的更新！
-我们已经从 Lisp 过渡到 C 来反编译沙盒配置文件，从而提高了准确性和可读性。
+      <description><![CDATA[激动人心的更新！ 
+我们已经从 Lisp 过渡到 C 来反编译沙箱配置文件，从而提高了准确性和可读性。
+我们的 SandBlaster 分支还改进了 iOS 17 支持。
 
-我们的 SandBlaster fork 还改进了对 iOS 17 的支持。
+强烈感谢 @yarden_ha 和 @LIJI32 感谢他们的贡献！
 
-非常感谢 @yarden_ha 和 @LIJI32 的贡献！
-
-github.com/cellebrite-labs/s…
+github.com/cellebrite-labs/s...
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/CellebriteLabs/status/1787842456223961292#m</guid>
       <pubDate>Tue, 07 May 2024 13:50:32 GMT</pubDate>
@@ -81,9 +80,9 @@ github.com/opa334/Dopamine/r…
       <pubDate>Thu, 02 May 2024 17:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>显然，很难在没有回归的情况下发布 Dopamine 主要版本 :(
+      <title>显然，要在没有回归的情况下发布多巴胺主要版本是非常困难的:(
 
-话虽如此，2.1.1 是为了修复这些问题
+也就是说，2.1.1 已经解决了这些问题
 https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
       <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
@@ -102,7 +101,7 @@ github.com/opa334/Dopamine/r…
       <pubDate>Tue, 30 Apr 2024 21:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上的 OTA 更新（Dopamine 2.0.x -> 2.1）期间出现的恐慌进行了小修复。</title>
+      <title>重新上传了 2.1 (T)IPA，并对 15.x arm64 上 OTA 更新期间的恐慌进行了小修复（Dopamine 2.0.x -> 2.1）。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785417755287498913#m</link>
       <description><![CDATA[重新上传了 2.1 (T)IPA，并针对 15.x arm64 上 OTA 更新期间的恐慌问题进行了小修复（Dopamine 2.0.x -&gt; 2.1）。
 nitter.esmailelbob.xyz/opa334dev/status/1785357737506812239#m]]></description>
@@ -122,7 +121,7 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Tue, 30 Apr 2024 17:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>R 至@opa334dev：问题是，这次崩溃并不是立即发生的，而是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
+      <title>R 致@opa334dev：问题是，这种崩溃不会立即发生，它是在刷新票证时发生的，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</link>
       <description><![CDATA[问题是，这个崩溃不会立即发生，它发生在刷新票证时，所以我认为这是应用程序中的一个错误......这样做真的很愚蠢......]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784914065812234578#m</guid>
