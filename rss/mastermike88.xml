@@ -3,8 +3,16 @@
   <channel>
     <title>迈克尔/@MasterMike88</title>
     <link>http://nitter.esmailelbob.xyz/MasterMike88</link>
-    <description>Twitter 供稿：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 20 May 2024 12:30:30 GMT</lastBuildDate>
+    <description>Twitter 消息源：@MasterMike88。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 20 May 2024 18:20:02 GMT</lastBuildDate>
+    <item>
+      <title>随意的任意要求</title>
+      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1792543143746851283#m</link>
+      <description><![CDATA[随意任意要求
+nitter.esmailelbob.xyz/crystall1nedev/status/1792473814535733655#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1792543143746851283#m</guid>
+      <pubDate>Mon, 20 May 2024 13:09:23 GMT</pubDate>
+    </item>
     <item>
       <title>你好</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1791948261894353038#m</link>
@@ -29,9 +37,9 @@ nitter.esmailelbob.xyz/MacRumors/status/1791550265969250466#m]]></description>
       <pubDate>Fri, 17 May 2024 13:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>由于有些人报告说 Dopamine 2.x 版（或 Dopamine 2.x 版）的自旋锁回归问题，所以我想问一个简单的问题。
+      <title>由于有些人报告使用较新的 2.x 版本的 Dopamine（或整个 Dopamine 2.x）会出现自旋锁回归，因此我将问一个简单的问题。
 
-对于使用 *正常* 设置的 *15.0-15.4.1* 上的 arm64e 用户，以下四种越狱方法中哪一种“更稳定”</title>
+对于*15.0-15.4.1*上使用*正常*设置的arm64e用户，以下四种越狱中哪一种“更稳定”</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1791454844667957286#m</link>
       <description><![CDATA[由于有些人报告使用较新的 2.x 版本的 Dopamine（或多巴胺 2.x）会出现自旋锁回归，我将问一个简单的问题。
 
@@ -40,11 +48,11 @@ nitter.esmailelbob.xyz/MacRumors/status/1791550265969250466#m]]></description>
       <pubDate>Fri, 17 May 2024 13:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>哇这个平台终于把他们的网址改成了http://x.com
+      <title>哇，这个平台终于把网址改成了 http://x.com
 
-他们花了大约 10 个月的时间，但他们终于慢慢地做到了
+他们花了 10 个月的时间，但他们终于慢慢做到了
 
-现在，如果他们能够真正解决该平台的其他 500000000 个问题，那就太好了</title>
+现在如果他们真的能解决这个平台的其他 5 亿个问题那就太好了</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1791331783704813611#m</link>
       <description><![CDATA[哇这个平台终于把他们的网址改成了x.com
 
@@ -67,7 +75,7 @@ nitter.esmailelbob.xyz/MacRumors/status/1791550265969250466#m]]></description>
 2. 买一根便宜的电源线，大概 3 美元
 3. 买一个带电源线的 Apple TV 第二代，大概 9-10 美元</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790936456917127432#m</link>
-      <description><![CDATA[好吧，我买的第三代 Apple TV 有一根非常脆弱的电源线（我想？要么是它，要么是 Apple TV 本身），我有三个选择：
+      <description><![CDATA[好吧，我买的第三代 Apple TV 有一根非常脆弱的电源线（我想？要么是这个，要么是 Apple TV 本身），我有三个选择：
 1. 不用再费心去买另一根电源线
 2. 花 3 美元购买便宜的电源线
 3. 以 9-10 美元左右的价格购买第二代 Apple TV（配有电源线）]]></description>
@@ -93,7 +101,7 @@ nitter.esmailelbob.xyz/MacRumors/status/1791550265969250466#m]]></description>
       <pubDate>Wed, 15 May 2024 17:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>我不得不说这是一个有趣的转折。</title>
+      <title>我不得不说，事情发生了有趣的转变。</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790790077208985624#m</link>
       <description><![CDATA[我不得不说这是一个有趣的转折。
 nitter.esmailelbob.xyz/R00tkitSMM/status/1790781775905423384#m]]></description>
@@ -105,9 +113,9 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790781775905423384#m]]></description>
 
 不错的 PoC，尽管说实话，从中产生任何有用的东西的可能性非常低*充其量*</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790403823288082491#m</link>
-      <description><![CDATA[PoC（又名概念验证）已推出
+      <description><![CDATA[PoC（又称概念验证）已经发布
 
-不错的 PoC，尽管说实话，从中产生任何有用的东西的可能性非常低*充其量*
+不错的 PoC，尽管坦白说，从中产生任何有用的东西的可能性极低*至少*
 nitter.esmailelbob.xyz/R00tkitSMM/status/1790391961737711697#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790403823288082491#m</guid>
       <pubDate>Tue, 14 May 2024 15:28:30 GMT</pubDate>
@@ -117,9 +125,9 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790391961737711697#m]]></description>
 
 如果没有新的/独特的技术，血清素将无法在 17.0 SPTM 设备上工作。</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1790377982915117272#m</link>
-      <description><![CDATA[我认为有 90% 的可能性这不会产生任何结果，而有 10% 的可能性会导致 17.0 TrollStore 安装程序。
+      <description><![CDATA[我想说，有 90% 的可能性这绝对不会导致任何结果，有 10% 的可能性它将导致 17.0 TrollStore 安装程序。
 
-如果没有新的/独特的技术，Serotonin 将无法在 17.0 SPTM 设备上工作。]]></description>
+如果没有新的/独特的技术，血清素将无法在 17.0 SPTM 设备上工作。]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1790377982915117272#m</guid>
       <pubDate>Tue, 14 May 2024 13:45:49 GMT</pubDate>
     </item>
@@ -141,34 +149,10 @@ nitter.esmailelbob.xyz/R00tkitSMM/status/1790391961737711697#m]]></description>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790284819798122968#m</link>
       <description><![CDATA[苹果确实很出色。
 
-天哪，那里发生了什么 - 这个人绝对应该得到某种奖励，但却被告知这不符合他们的标准（尽管他们的错误似乎很可能满足它）
+天啊，那里发生了什么 - 这个人绝对应该得到某种奖励，但却被告知这不符合他们的标准（尽管他们的错误似乎很可能满足它）
 nitter.esmailelbob.xyz/R00tkitSMM/status/1790269915028467800#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790284819798122968#m</guid>
       <pubDate>Tue, 14 May 2024 07:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @MasterMike88：很高兴看到我们可能会得到 17.5 中修复的错误的 PoC
-
-但值得注意的是：
-- PoC（概念验证）不是一种漏洞利用
-- 即使开发或发布了漏洞，内核漏洞也不足以越狱arm64e设备
-
-澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（注意你还没有出来），那么现在允许的绝对是：
-- 在 16.7 RC/17.0 上针对arm64e安装TrollStore（+在这些版本上针对arm64设备进行非checkm8安装）
-- 适用于 17.4.1 及以下版本的 arm64 设备的半自由越狱</title>
-      <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1790082140341739938#m</link>
-      <description><![CDATA[很高兴看到我们可能会在 17.5 中修复错误的 PoC
-
-但值得注意的是：
-- PoC（概念证明）不是一种利用
-- 即使开发或发布了漏洞，内核漏洞也不足以越狱arm64e设备
-
-澄清一下，如果一个漏洞是基于这个 PoC 开发/发布的（注意你还没有出来），那么现在允许的绝对是：
-- 在 16.7 RC/17.0 上针对arm64e安装TrollStore（+在这些版本上针对arm64设备进行非checkm8安装）
-- 适用于 17.4.1 及以下版本的 arm64 设备的半自由越狱
-nitter.esmailelbob.xyz/R00tkitSMM/status/1790076101672284594#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/MasterMike88/status/1790082140341739938#m</guid>
-      <pubDate>Mon, 13 May 2024 18:10:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
