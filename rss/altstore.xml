@@ -3,8 +3,32 @@
   <channel>
     <title>AltStore.io / @altstoreio</title>
     <link>http://nitter.esmailelbob.xyz/altstoreio</link>
-    <description>Twitter 供稿：@altstoreio。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 20 May 2024 15:16:06 GMT</lastBuildDate>
+    <description>Twitter 消息源：@altstoreio。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 20 May 2024 21:13:28 GMT</lastBuildDate>
+    <item>
+      <title>R 致@altstoreio：摘自 Tech Daily 时事通讯：“有趣的是，几十年来一直可以通过网络或基本上任何 PC 访问的软件现在感觉像是 iPhone 的未来。”
+
+我们同意https://www.bloomberg.com/news/newsletters/2024-05-20/new-app-store-rules-make-iphone-retro-video-game-emulators-a-reality</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1792615563094798462#m</link>
+      <description><![CDATA[摘自 Tech Daily 时事通讯：“有趣的是，几十年来一直可以通过网络或基本上任何 PC 访问的软件现在感觉像是 iPhone 的未来。” 
+
+我们同意 🙂 bloomberg.com/news/newslette...
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1792615563094798462#m</guid>
+      <pubDate>Mon, 20 May 2024 17:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个月后，AltStore PAL 用户已突破 10 万 🥳
+
+为了庆祝，我们与彭博社的@AustinCarr 谈论了我们到达这里的旅程 - 包括沿途拍摄的一些有趣的幕后照片！ https://www.bloomberg.com/news/articles/2024-05-20/altstore-goes-to-absurd-lengths-for-third-party-iphone-apps?embedded-checkout=true</title>
+      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1792615417774543248#m</link>
+      <description><![CDATA[一个月后，AltStore PAL 拥有超过 10 万用户🥳
+
+为了庆祝，我们采访了彭博社的@AustinCarr，讲述了我们到达这里的旅程 - 包括背后的一些有趣的事情 -沿途拍摄的场景照片！ bloomberg.com/news/articles/…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1792615417774543248#m</guid>
+      <pubDate>Mon, 20 May 2024 17:56:35 GMT</pubDate>
+    </item>
     <item>
       <title>R 致@altstoreio：由于我们被迫发布此更新，因此我们决定添加一些额外的错误修复和生活质量改进 🙂
 
@@ -58,13 +82,13 @@ nitter.esmailelbob.xyz/Setapp/status/1790368692259217609#m]]></description>
       <pubDate>Tue, 14 May 2024 17:25:29 GMT</pubDate>
     </item>
     <item>
-      <title>⚠️ 今天的服务器问题导致 AltStore PAL 及其分发的应用程序无法下载。我们刚刚部署了一个修复程序，一切都应该可以正常工作了。对于给您带来的不便，我们深表歉意。
+      <title>⚠️ 今天的服务器问题导致 AltStore PAL 和随其分发的应用程序无法下载。我们刚刚部署了修复程序，一切都应该再次正常工作。对于给您带来的不便，我们深表歉意。
 
-如果您需要帮助重新下载 PAL，请参阅我们的常见问题解答：https://faq.altstore.io/altstore-pal/reinstalling-pal</title>
+如果您需要重新下载 PAL 的帮助，请参阅我们的常见问题解答：https://faq.altstore.io/altstore-pal/reinstalling-pal</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1787607520770499050#m</link>
-      <description><![CDATA[⚠️ 今天的服务器问题导致 AltStore PAL 和随其分发的应用程序无法下载。我们刚刚部署了修复程序，一切都应该再次正常工作。对于给您带来的不便，我们深表歉意。
+      <description><![CDATA[⚠️ 今天的服务器问题导致 AltStore PAL 及其分发的应用程序无法下载。我们刚刚部署了一个修复程序，一切都应该可以正常工作了。很抱歉给您带来不便。
 
-如果您需要重新下载 PAL 的帮助，请参阅我们的常见问题解答：faq.altstore.io/altstore-pal…
+如果您需要帮助重新下载 PAL，请参阅我们的常见问题解答：faq.altstore.io/altstore-pal…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1787607520770499050#m</guid>
       <pubDate>Mon, 06 May 2024 22:16:59 GMT</pubDate>
@@ -117,15 +141,15 @@ nitter.esmailelbob.xyz/Setapp/status/1790368692259217609#m]]></description>
 
 让我们知道您接下来希望看到什么行动！</title>
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1785733610810614227#m</link>
-      <description><![CDATA[那么测试版中有哪些内容？
+      <description><![CDATA[那么测试版中有什么？
 
-在 Delta 1.6b 中，我们添加了全新的手势，让常用操作更加方便！
+借助 Delta 1.6b，我们添加了全新的手势，使常见操作更加方便！
 
 要激活，请按住菜单按钮，然后：
 ⏩ 向左/向右滑动（快进）
 👇 点击按钮（按住按钮）
 
-让我们知道您接下来希望看到什么操作！
+让我们知道您接下来想看到什么操作！
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1785733610810614227#m</guid>
       <pubDate>Wed, 01 May 2024 18:10:44 GMT</pubDate>
@@ -175,34 +199,12 @@ AltStore 用户可以立即从“我的应用程序”选项卡进行更新（�
       <link>http://nitter.esmailelbob.xyz/altstoreio/status/1783559880336396555#m</link>
       <description><![CDATA[🚀 Delta 1.5.2 现已推出！此更新包括一些快速的生活质量改进和错误修复，我们即将推出更多内容 🙂
 
-AltStore 用户现在可以从“我的应用程序”选项卡更新（应用程序商店版本目前正在审核中）
+AltStore 用户可以立即从“我的应用程序”选项卡更新（应用程序商店版本目前正在审核中）
 
 完整发行说明：faq.deltaemulator.com/releas...
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1783559880336396555#m</guid>
       <pubDate>Thu, 25 Apr 2024 18:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>R 致@altstoreio：自 PAL 推出以来，我们也收到了大量的支持请求，因此我们正在尽最大努力尽快做出响应，但这仍然可能需要一些时间。
-
-我们感谢你们的耐心 🙂</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1782498449297973516#m</link>
-      <description><![CDATA[自 PAL 推出以来，我们也收到了大量的支持请求，因此我们正在尽最大努力尽快做出响应，但这仍然可能需要一些时间。
-
-感谢大家的耐心 🙂]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1782498449297973516#m</guid>
-      <pubDate>Mon, 22 Apr 2024 19:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>似乎存在一个问题，导致 AltStore PAL 无法通过单个订阅安装到多个设备上。
-
-我们正在研究这个问题，但目前如果您需要切换安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们将为您提供帮助！</title>
-      <link>http://nitter.esmailelbob.xyz/altstoreio/status/1782498383095095540#m</link>
-      <description><![CDATA[似乎存在一个问题，无法通过单个订阅将 AltStore PAL 安装到多个设备上。
-
-我们正在研究这个问题，但目前如果您需要切换安装 PAL 的设备，请发送电子邮件至 support@altstore.io，我们将为您提供帮助！]]></description>
-      <guid>http://nitter.esmailelbob.xyz/altstoreio/status/1782498383095095540#m</guid>
-      <pubDate>Mon, 22 Apr 2024 19:55:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>猫/@dora2ios</title>
     <link>http://nitter.esmailelbob.xyz/dora2ios</link>
     <description>Twitter 供稿：@dora2ios。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 20 May 2024 15:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 21:14:06 GMT</lastBuildDate>
     <item>
       <title>R 致@dora2ios：还需要注意的是，KPP 绕过在 iOS 9.3.4 中成为永久性的。 A7-A8X可以消除，但A9就没有办法了。
 也许可以将其设为 KPPLess，但目前还没有计划。</title>
@@ -18,8 +18,8 @@
       <title>我认为这相对有效，但我仍然有 2% 的时间感到恐慌，哈哈
 这是一个8年的版本，几乎没有设备或方法可以降级，因此某些版本可能由于缺乏适当的测试而无法工作ʕ⁎̯͡⁎ʔ༄</title>
       <link>http://nitter.esmailelbob.xyz/dora2ios/status/1790024416769773801#m</link>
-      <description><![CDATA[我觉得这个比较好用，不过还是有 2% 的时间让我感到恐慌哈哈
-这是一个 8 年前的版本，几乎没有设备或降级方法，所以有些版本可能由于缺乏适当的测试而无法工作 ʕ⁎̯͡⁎ʔ༄
+      <description><![CDATA[我认为这个效果相对较好，但我仍然有 2% 的时间感到恐慌，哈哈
+这是一个8年的版本，几乎没有设备或方法可以降级，因此某些版本可能由于缺乏适当的测试而无法工作ʕ⁎̯͡⁎ʔ༄
 nitter.esmailelbob.xyz/dora2ios/status/1789711202282791365#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/dora2ios/status/1790024416769773801#m</guid>
       <pubDate>Mon, 13 May 2024 14:20:52 GMT</pubDate>
@@ -42,7 +42,7 @@ nitter.esmailelbob.xyz/dora2ios/status/1788668955688890770#m]]></description>
     <item>
       <title>iOS 9.2-9.3.4 不受限制的arm64越狱演示
 
-除了 geosn*w 之外，这将可用
+除 geosn*w 外均可用
 预计到达时间：？？？
 
 https://youtu.be/Nj-SPyNhoJ8?si=ac71aT19rrINMCHV</title>
@@ -123,7 +123,7 @@ teddit.net/r/jailbreak/comme…
 
 KPP 旁路（A7 - A9(X)）：
 9.0 - 9.3.5：
-- (A7 - A8(X)) 全 KPP 旁路
+- (A7 - A8(X)) 完全 KPP 旁路
 - (A9(X)) yalu102 KPP 旁路
 10.0 - 10.3.3：yalu102 KPP 绕过
 
@@ -142,7 +142,7 @@ PAC 旁路 (A12+)：
 
 越狱结果：
 7.0 - 8.4.1：
-- 正常的解绑（没有什么特别需要）
+- 正常的解绑（没有什么特别需要的）
 9.0 - 9.3.4：
 - (A7 - A8(X)) 全 KPP 旁路解绑
 - (A9(X)) yalu102 KPP 绕过解绑
@@ -162,7 +162,7 @@ PAC 旁路 (A12+)：
 - (arm64e) dmaFail PPL 绕过半解绑
 14.0 - 14.5.1：
 - (arm64) 无 KPP/KTRR 无束缚
-- (arm64e) Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
+- (arm64e)Fugu14 PAC 绕过 + dmaFail PPL 绕过 untether
 14.6 - 14.8.1：
 - (arm64) 无 KPP/KTRR 无束缚
 - (arm64e) dmaFail PPL 绕过 untether
@@ -174,9 +174,9 @@ PAC 旁路 (A12+)：
 - (arm64e) dmaFail PPL 绕过半解绑
 16.5.1：
 - (arm64) 无 KPP/KTRR 半解链
-- (A12 - A14 / M1) dmaFail PPL 旁路半解绑
+- (A12 - A14 / M1) dmaFail PPL 绕过半解链
 16.6 - 16.6.1：
-- (arm64) 无 KPP/无 KTRR 半解链</title>
+- (arm64) 无 KPP/KTRR 半解链</title>
       <link>http://nitter.esmailelbob.xyz/MasterMike88/status/1784708553984311434#m</link>
       <description><![CDATA[一次又一次，总是有这样的想法：“我们假设可以在[此处插入 iOS 版本/设备组合]上实现的最佳越狱是什么”。
 
@@ -187,7 +187,7 @@ PAC 旁路 (A12+)：
 - 因为目标是“最好的”越狱，所以我选择继续列出我们拥有的 KPP、KTRR、PAC 和 PPL 绕过，但从技术上讲，我们只需要 15.0 - 15.1.1 上的 PAC 绕过和15.0 及更高版本上的 PPL 绕过
 - (BFU) FSUntether 的东西不被视为一种不受束缚的东西，因为是否有人认真想要实现它是非常悬而未决的（这是你可能拥有的最迟的不受束缚）
 - 我们假设 14 及更早版本为 root，15 及更高版本为无根（客观上，这些分别是这些分组的最佳越狱类型）
-- Untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
+- untether bug 没有被直接列出（如果要列出的话，实际上是 7.0 - 9.1 daibutsu、9.2 - 9.3.4 jsc、11.0 - 11.4.1 Spice 和 14.0 - 14.8.1 launchd haxx） 
 - 有一些地方我不能 100% 确定，所以当这适用时你会看到一条评论
 
 现在，进入这个巨大的帖子：
@@ -219,7 +219,7 @@ PAC 旁路 (A12+)：
 
 越狱结果：
 7.0 - 8.4.1：
-- 正常的解绑（不需要什么特别的）
+- 正常的解绑（没有什么特别需要）
 9.0 - 9.3.4：
 - (A7 - A8(X)) 完全 KPP 旁路解绑
 - (A9(X)) yalu102 KPP 绕过解绑
@@ -294,7 +294,7 @@ Gochiusa 第二季 ED 故事板视频
 #Gochiusa #Tokimeki Poporon</title>
       <link>http://nitter.esmailelbob.xyz/tensho_tw/status/1767079850463117633#m</link>
       <description><![CDATA[好久才发现(^^)
-GochiUsa 第二季 ED 故事板视频
+Gochiusa 第二季 ED 故事板视频
 #Gochiusa #Tokimeki Poporon
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/tensho_tw/status/1767079850463117633#m</guid>
