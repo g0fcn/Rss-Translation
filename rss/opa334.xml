@@ -3,8 +3,8 @@
   <channel>
     <title>opa334 / @opa334dev</title>
     <link>http://nitter.esmailelbob.xyz/opa334dev</link>
-    <description>Twitter 消息源：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 21 May 2024 03:17:49 GMT</lastBuildDate>
+    <description>Twitter 供稿：@opa334dev。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 21 May 2024 09:18:09 GMT</lastBuildDate>
     <item>
       <title>RT by @opa334dev：不幸的是，在花费数周时间改进 iOS 版 SameBoy 并调整其以适应 @Apple 的 @AppStore 指南和受众之后，它被视为“垃圾”，尽管它拥有其他任何模拟器都没有的数十种独特功能，更不用说 iOS 版了。（1/2）</title>
       <link>http://nitter.esmailelbob.xyz/LIJI32/status/1790873327508111817#m</link>
@@ -16,7 +16,7 @@
     <item>
       <title>@opa334dev 的转发：我再也不会上 Twitter 了，但今天这个真正特殊的场合值得这样：*两个* #iOS 传奇人物 @_p0up0u_ (#KFD!) 和 @opa334dev (#dopamine!) 为我的 @offective_con 训练增光添彩，继续“神秘嘉宾的“传统”，我深感谦卑和感激！</title>
       <link>http://nitter.esmailelbob.xyz/Morpheus______/status/1788671415907955154#m</link>
-      <description><![CDATA[我再也不上 Twitter 了，但今天真正特殊的时刻值得这样：*两位* #iOS 传奇人物 @_p0up0u_ (#KFD!) 和 @opa334dev (#dopamine!) 为我的 @offensive_con 培训，延续“神秘嘉宾”传统”。我感到谦卑和感激！非常感谢你们俩！]]></description>
+      <description><![CDATA[我再也不会上 Twitter 了，但今天这个真正特殊的场合值得这样做：*两者* #iOS图例 @_p0up0u_ (#KFD！）和@opa334dev（#dopamine！）为我的@增光添彩进攻性训练，延续“神秘嘉宾”传统”。我感到谦卑和感激！非常感谢你们！]]></description>
       <guid>http://nitter.esmailelbob.xyz/Morpheus______/status/1788671415907955154#m</guid>
       <pubDate>Thu, 09 May 2024 20:44:32 GMT</pubDate>
     </item>
@@ -28,11 +28,11 @@
       <pubDate>Thu, 09 May 2024 12:14:33 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @opa334dev：激动人心的更新！
-我们已经从 Lisp 过渡到 C 来反编译沙盒配置文件，从而提高了准确性和可读性。
-我们的 SandBlaster fork 还改进了对 iOS 17 的支持。
+      <title>RT @opa334dev：激动人心的更新！
+我们已经从 Lisp 过渡到 C 来反编译沙箱配置文件，从而提高了准确性和可读性。
+我们的 SandBlaster 分支还改进了对 iOS 17 的支持。
 
-非常感谢 @yarden_ha 和 @LIJI32 的贡献！
+强烈感谢@yarden_ha 和@LIJI32 的贡献！
 
 https://github.com/cellebrite-labs/sandblaster</title>
       <link>http://nitter.esmailelbob.xyz/CellebriteLabs/status/1787842456223961292#m</link>
@@ -42,7 +42,8 @@ https://github.com/cellebrite-labs/sandblaster</title>
 
 强烈感谢 @yarden_ha 和 @LIJI32 感谢他们的贡献！
 
-github.com/cellebrite-labs/s...]]></description>
+github.com/cellebrite-labs/s...
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/CellebriteLabs/status/1787842456223961292#m</guid>
       <pubDate>Tue, 07 May 2024 13:50:32 GMT</pubDate>
     </item>
@@ -53,25 +54,28 @@ https://github.com/opa334/Dopamine/releases/tag/2.1.4</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787820054504935824#m</link>
       <description><![CDATA[Dopamine 2.1.4 旨在通过自动 /var/jb/var/mobile 权限修复来解决一些疏忽，如果用户将 /var/jb/var 符号链接到 /var 或 /var/jb/ ，可能会导致引导循环var/mobile 到 /var/mobile
 
-github.com/opa334/Dopamine/r…]]></description>
+github.com/opa334/Dopamine/r…
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1787820054504935824#m</guid>
       <pubDate>Tue, 07 May 2024 12:21:31 GMT</pubDate>
     </item>
     <item>
       <title>Dopamine 2.1.3 已发布，修复了随机系统死锁，导致某些设备上出现 watchdogd 恐慌，同时还修复了其他小问题 https://github.com/opa334/Dopamine/releases/tag/2.1.3</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1787633116191793636#m</link>
-      <description><![CDATA[Dopamine 2.1.3 已发布，修复了随机系统死锁导致某些设备上出现 watchdogd 恐慌的问题，同时还修复了其他一些小问题 github.com/opa334/Dopamine/r...]]></description>
+      <description><![CDATA[Dopamine 2.1.3 已发布，修复了随机系统死锁导致某些设备上出现 watchdogd 恐慌的问题，同时还修复了其他一些小问题 github.com/opa334/Dopamine/r...
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1787633116191793636#m</guid>
       <pubDate>Mon, 06 May 2024 23:58:42 GMT</pubDate>
     </item>
     <item>
-      <title>Dopamine 2.1.2 即将修复 2.1 版本中的另一个回归问题
+      <title>多巴胺 2.1.2 即将修复 2.1 的另一项回归
 
 https://github.com/opa334/Dopamine/releases/tag/2.1.2</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</link>
       <description><![CDATA[多巴胺 2.1.2 即将修复 2.1 的另一项回归
 
-github.com/opa334/Dopamine/r…]]></description>
+github.com/opa334/Dopamine/r…
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1786085646534131890#m</guid>
       <pubDate>Thu, 02 May 2024 17:29:36 GMT</pubDate>
     </item>
@@ -81,10 +85,11 @@ github.com/opa334/Dopamine/r…]]></description>
 也就是说，2.1.1 已经解决了这些问题
 https://github.com/opa334/Dopamine/releases/tag/2.1.1</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</link>
-      <description><![CDATA[显然，要在没有回归的情况下发布 Dopamine 主要版本是非常困难的:(
+      <description><![CDATA[显然，在没有回归的情况下发布 Dopamine 主要版本非常困难 :(
 
-也就是说，2.1.1 已经解决了这些问题
-github.com/opa334/Dopamine/r…]]></description>
+也就是说，2.1.1 是为了修复这些问题
+github.com/opa334/Dopamine/r…
+]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1785457028074254845#m</guid>
       <pubDate>Tue, 30 Apr 2024 23:51:42 GMT</pubDate>
     </item>
@@ -138,13 +143,13 @@ teddit.net/r/jailbreak/comme…
       <pubDate>Mon, 29 Apr 2024 11:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>德国铁路应用程序在 iOS 15 上崩溃，我试图调查导致它的原因...
+      <title>德国铁路应用程序在 iOS 15 上崩溃，我尝试查找导致该问题的原因......
 
-它是用 Swift 编写的，所以不幸的是，我无法找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最难以解释的崩溃？</title>
+它是用 Swift 编写的，所以不幸的是我不可能找出导致它的原因 >.< 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？</title>
       <link>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</link>
-      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我尝试调查原因......
+      <description><![CDATA[德国铁路应用程序在 iOS 15 上崩溃，我试图调查导致它的原因...
 
-它是用 Swift 编写的，因此不幸的是我无法找出导致它的原因&gt;。&lt;如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
+它是用 Swift 编写的，所以不幸的是我无法找出导致它的原因&gt;。&lt; 如果 Swift 是一种所谓的“安全”语言，为什么它会产生最无法解释的崩溃？]]></description>
       <guid>http://nitter.esmailelbob.xyz/opa334dev/status/1784908658838487266#m</guid>
       <pubDate>Mon, 29 Apr 2024 11:32:40 GMT</pubDate>
     </item>
