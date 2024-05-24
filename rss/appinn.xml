@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 24 May 2024 12:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 18:20:22 GMT</lastBuildDate>
     <item>
       <title>Git 提交记录文件导出命令行工具。</title>
       <link>https://meta.appinn.net/t/topic/56889</link>
@@ -364,63 +364,67 @@ App Store: Pinning - 日历倒数
       <pubDate>Thu, 16 May 2024 00:27:38 GMT</pubDate>
     </item>
     <item>
-      <title>【开发者自荐】Subtitle Renamer —— 支持简繁识别的多平台字幕重命名工具</title>
-      <link>https://meta.appinn.net/t/topic/56465</link>
-      <description><![CDATA[软件名称
-Subtitle Renamer
+      <title>【自荐】GIF动图助手: 免费无广告的GIF制作和编辑工具</title>
+      <link>https://meta.appinn.net/t/topic/22735</link>
+      <description><![CDATA[
+GIF动图助手
+快速将视频、多张图片、Live Photo、快速连拍转为GIF的工具。支持导出时设置分辨率和限制导出GIF体积。
+
 应用平台
 
-Windows
-MacOS
-Linux
+iOS
+
 
 推荐类型
 【开发者自荐】
-一句简介
-跨平台的动画字幕重命名工具，支持简繁识别、自定义后缀、编码转换等功能
+
+为何要做这款App?
+前段时间在外面随手拍了一个视频。准备发社交平台时发现这么短的视频，转GIF再发会更合适。
+在App Store找了一款排名靠前的，结果使用起来非常卡，而且广告铺天盖地。随后又下载了好几款，结果要么功能很弱还有水印，要么收费高的离谱。难得找到一款用起来不错的，导出时提示要内购，犹豫了一会儿决定买个内购，点进去才发现居然TM的是订阅制。我要枯了，现在找一款简单靠谱的工具已经这么难了吗？我愤怒的卸载了这些app, 但是这样并不能解我心头之恨。当天晚上回家我就新建了这个项目。
+
 应用简介
-基于Python的又一款字幕重命名软件，解决了我自己其他软件的多种痛点：
 
-多平台支持：Windows，macOS 和 Linux
-自动识别字幕语言为简体还是繁体，并增加语言后缀
-可以选转换字幕至 UTF-8/UTF-8-SIG
-重命名完成后允许删除不需要的字幕
-移动字幕至视频文件夹
+视频转GIF。支持调速，裁剪、添加滤镜、添加文字和贴纸
+图片转GIF。大致功能同上，选择图片小于10张时会自动添加转场。多余十张不支持转场。
+GIF再次编辑。支持裁剪、调速、滤镜、文字、贴纸
+Live Photo和连拍转GIF
+编辑完成后，支持导出GIF或视频。GIF可以设置循环次数、画布分辨率、限制导出的最大体积（会对GIF进行压缩)
 
-使用方式
-
-拖入待更名的视频与字幕文件，需保持字幕与视频数量相等
-使用左下角的简体或繁体来选择字幕语言
-在设置中配置重命名时的可选项
-点击重命名
-完成！
-
-截图预览
-
-如需要更多功能支持，请在 Github 的 Issues 中提出，酌情添加
-如遇到程序错误，请在 Issues 中详细描述，并附上视频、字幕的文件名，以及出错的字幕文件，便于本地复现排查问题
-
-截图预览
-
-官方网站
-
-
-
-GitHub
-
-
-
-GitHub - nuthx/subtitle-renamer: 跨平台的字幕重命名工具 —— 支持简繁识别、自定义后缀、编码转换等功能
-跨平台的字幕重命名工具 —— 支持简繁识别、自定义后缀、编码转换等功能. Contribute to nuthx/subtitle-renamer development by creating an account on GitHub.
+截取几张UI图
 
 
 
 
+写在最后
+最近我陆续在App Store上找到了好几类这种功能简单，收费离谱的应用。接下来我大概会制作五款功能基本与它们一致的App, 然后免费发布。
 
-1 个帖子 - 1 位参与者
+官方网站 &amp;&amp; 应用商店地址
+
+
+App Store
+
+
+
+‎GIF助手 - GIF制作器
+‎GIF助手可以让你迅速创造出属于自己的GIF动图。是制作表情包的好工具。你可以很容易的将视频、照片、连拍、实况照片转成GIF动图，并分享给朋友
+
+主要功能
+   ● 视频转GIF
+   ● 照片转GIF
+   ● 连拍转GIF
+   ● 实况照片转GIF
+   ● GIF编辑，添加文字和贴图等
+   ● 小于10张照片将自动添加转场特效
+   ● 支持导出为视频或GIF, 支持GIF图片压缩
+
+
+
+
+
+8 个帖子 - 6 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/56465</guid>
-      <pubDate>Wed, 15 May 2024 09:39:00 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/22735</guid>
+      <pubDate>Sun, 04 Apr 2021 10:11:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
