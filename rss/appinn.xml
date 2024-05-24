@@ -4,7 +4,41 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 24 May 2024 09:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 12:29:45 GMT</lastBuildDate>
+    <item>
+      <title>Git 提交记录文件导出命令行工具。</title>
+      <link>https://meta.appinn.net/t/topic/56889</link>
+      <description><![CDATA[软件名称
+git-export
+应用平台
+
+Windows
+MacOS
+Linux
+
+推荐类型
+【开发者自荐】
+一句简介
+Git 提交记录文件导出命令行工具。
+应用简介
+❯ git-export -h
+Git提交记录文件导出工具
+
+Usage: git-export.exe [OPTIONS] --filter &lt;FILTER&gt;
+
+Options:
+  -f, --filter &lt;FILTER&gt;         必填项，过滤，支持username,email,commit message...
+  -o, --outdir &lt;OUT_DIR&gt;        导出目录 [default: git-export]
+      --in-commit &lt;IN_COMMITS&gt;  commit哈希，filter限定在这些commit中，多个可以使用逗号分隔
+      --zip &lt;ZIP&gt;               zip文件名称 [default: source.zip]
+      --verbose                 是否打印日志
+  -h, --help                    Print help (see more with &#39;--help&#39;)
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/56889</guid>
+      <pubDate>Fri, 24 May 2024 08:19:36 GMT</pubDate>
+    </item>
     <item>
       <title>[知周笔记] 升级了沉浸式AI写作功能，限时送终身会员</title>
       <link>https://meta.appinn.net/t/topic/56881</link>
@@ -387,15 +421,6 @@ GitHub - nuthx/subtitle-renamer: 跨平台的字幕重命名工具 —— 支持
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/56465</guid>
       <pubDate>Wed, 15 May 2024 09:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第三方的chrome插件库有哪些？</title>
-      <link>https://meta.appinn.net/t/topic/56427</link>
-      <description><![CDATA[想找一个直接下载youtube transcript的插件，之前google能搜到提供旧版或者下架extension的网站，现在搜不到了，貌似是google把这些网站都屏蔽掉了？
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/56427</guid>
-      <pubDate>Tue, 14 May 2024 17:22:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
