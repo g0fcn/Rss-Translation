@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 17 May 2024 01:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 21:14:51 GMT</lastBuildDate>
+    <item>
+      <title>导体滤波器简化基本操作</title>
+      <link>https://brett.trpstra.net/link/535/16693021/conductor-filters-simplify-basic-operations</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16693021/conductor-filters-simplify-basic-operations</guid>
+      <pubDate>Fri, 24 May 2024 18:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>标记 2 和黑曜石</title>
       <link>https://brett.trpstra.net/link/535/16684070/marked-2-and-obsidian</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 29 Apr 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>iThoughts 之后的生活</title>
+      <title>后 iThoughts 时代</title>
       <link>https://brett.trpstra.net/link/535/16666804/life-after-ithoughts</link>
       <description><![CDATA[ MindNode, iThoughts, sunsetting, Obsidian, Curio
 
@@ -86,7 +93,7 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Thu, 25 Apr 2024 18:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 4 月 22 日网络游览</title>
+      <title>2024 年 4 月 22 日网上游览</title>
       <link>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</link>
       <description><![CDATA[ Google Cemetery, figlet/toilet ascii art, BetterTouchTool MacOS automation, Marked plugin for Obsidian, NordVPN
 总结:Google Cemetery提供了Google终止的产品列表，其中可能有一些你从未听说过的产品。xero提供了大量figlet/toilet ascii艺术字体。BetterTouchTool是一个可以用JavaScript进行MacOS自动化的工具。作者制作了一个适用于Obsidian的Marked插件。NordVPN不仅可以保护你的网络浏览安全，还可以让你的IP地址看起来来自任何国家。 
@@ -157,7 +164,7 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Fri, 05 Apr 2024 20:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>CurlyQ 和自动 JavaScript 执行</title>
+      <title>CurlyQ 和自动化 JavaScript 执行</title>
       <link>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</link>
       <description><![CDATA[ gem install curlyq, JavaScript execution, screenshot command, execute subcommand, web automation tool 
 
@@ -260,13 +267,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</guid>
       <pubDate>Tue, 19 Mar 2024 15:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建自定义 URL 缩短器</title>
-      <link>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16621740/build-a-custom-url-shortener</guid>
-      <pubDate>Sat, 16 Mar 2024 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
