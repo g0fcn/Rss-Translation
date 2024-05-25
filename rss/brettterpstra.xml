@@ -4,7 +4,50 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 25 May 2024 15:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 18:18:17 GMT</lastBuildDate>
+    <item>
+      <title>伙计，我应该启动带有过滤器的 Conductor</title>
+      <link>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</link>
+      <description><![CDATA[ YAML文件, 配置，插入TOC, 文件插入, 代码块插入
+
+总结:
+本文介绍了如何通过在YAML配置文件中添加一些新的过滤器来方便地进行配置，如插入表格目录、在内容开头或结尾插入文件、插入原始HTML或代码块等。通过这些过滤器，可以实现在文档中插入目录、文件、原始HTML或代码块的功能。插入的文件可以是绝对路径，也可以存储在指定路径并以文件名引用。这些过滤器使得通常需要使用脚本来完成的任务变得简单，只需一行配置即可。适用于生成PDF、HTML或Markdown文档。最后介绍了如何使用新的insertScript()过滤器添加Mermaid或自定义的MathJax实现。文章提供了更多详细信息。 
+I added a few more (obvious) filters to Conductor this morning. I really should have started here, it makes configuration so convenient and alleviates the need for about 50% of what you would do with scripting. Now you can do it all from one YAML file.
+The new filters are:
+
+
+
+insertTOC(max, after)
+insert TOC (max=max levels, after=start, *h1, or h2)
+
+
+prepend/appendFile(path)
+insert a file as Markdown at beginning or end of content
+
+
+prepend/appendRaw(path)
+insert a file as raw HTML at beginning or end of content
+
+
+prepend/appendCode(path)
+insert a file as a code block at beginning or end of content
+
+
+
+These allow you to insert a table of contents and append or prepend files, raw HTML, or code blocks.
+Inserted files can be absolute paths or you can store templates in ~/.config/conductor/files and just reference them by filename. Perfect for adding things like bios and disclaimers to your documents before outputing them (as PDF, HTML, or even as a new Markdown document).
+The table of contents can be inserted at the top (“start” or “top”) or after the first h1 or h2 in the document.
+If you use insertTOC(3, h1) after an insertTitle in a sequence, you’d get a title inserted from metadata first, then a TOC inserted after it. (Then use the new insertScript() filter to add Mermaid or a custom MathJax implementation. Sky’s the limit, kind of.)
+These filters make some of the more basic tasks you’d usually perform with a Custom Processor script as easy as one line in a config file.
+Full details on the project page.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</guid>
+      <pubDate>Sat, 25 May 2024 16:42:00 GMT</pubDate>
+    </item>
     <item>
       <title>我不敢相信我忘记了这个导体过滤器</title>
       <link>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</link>
@@ -257,13 +300,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16635234/web-excursions-for-march-29-2024</guid>
       <pubDate>Fri, 29 Mar 2024 17:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新审视 TagFiler 和 Vitag</title>
-      <link>https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag</guid>
-      <pubDate>Fri, 22 Mar 2024 16:39:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
