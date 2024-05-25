@@ -4,7 +4,36 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 25 May 2024 06:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 15:14:54 GMT</lastBuildDate>
+    <item>
+      <title>我不敢相信我忘记了这个导体过滤器</title>
+      <link>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</link>
+      <description><![CDATA[ insertScript, insertTitle, JavaScript, config, BrettTerpstra
+
+JavaScript中新增了insertScript过滤器，可以插入JS脚本；insertTitle过滤器可提取标题并插入内容中。通过配置文件实现自动化操作，支持自定义路径和脚本。提高了使用便捷性和灵活性，增强了功能性。文章介绍了这些新增功能，并希望读者提供更多有用建议。总结:JavaScript功能扩展，配置文件实现自动化操作，提高使用便捷性和灵活性。 
+So yesterday I announced a new feature in Conductor called Filters. Little built-in commands for performing simple tasks without having to write whole scripts for them. In the process of writing the feature, I forgot what might be the most useful function of all: injecting JavaScripts.
+So I’ve added insertScript(path) as a filter. You can give it a full path to a JavaScript file, or you can create a directory at ~/.config/conductor/javascript, add the file there, and then just reference it by name like filter: insertScript(mermaid) (the .js is added automatically if needed). You can insert multiple scripts at once by separating the paths with commas, e.g. insertScript(blog,mermaid).
+I also added an insertTitle filter that will attempt to pull a title out of metadata (YAML or MMD), and failing that use the filename, converting a slug into a titlecased title (e.g. 2024-05-24-my-blog-post.md becomes My Blog Post), and insert it as an H1 at the beginning of the content (after any front matter/metadata).
+An example config for using this (assuming the scripts blog.js and mermaid.js exist in the above directory) would look like:
+tracks:
+  - condition: phase is pre
+    tracks:
+    - title: Blog post preprocess
+      condition: path contains _post AND has yaml
+      sequence:
+        - filter: setStyle(BrettTerpstra.com)
+        - filter: addTitle
+        - filter: insertScript(blog,mermaid)
+That config would require no scripting at all. The style would be set, an h1 title would be added, and two scripts would be injected before running through the default Marked processor.
+If you think of any more that would be useful, please let me know!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</guid>
+      <pubDate>Sat, 25 May 2024 13:18:00 GMT</pubDate>
+    </item>
     <item>
       <title>导体滤波器简化基本操作</title>
       <link>https://brett.trpstra.net/link/535/16693021/conductor-filters-simplify-basic-operations</link>
@@ -235,38 +264,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16628513/revisiting-tagfiler-and-vitag</guid>
       <pubDate>Fri, 22 Mar 2024 16:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 3 月 19 日网上游览</title>
-      <link>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</link>
-      <description><![CDATA[ Deckset, Markdown, OCR, Ground News, CleanShot X
-总结:
-文章介绍了一些最新的网络资源和工具。其中提到了Deckset推出iOS版本，用户可以使用Markdown在iPhone/iPad上创建演示文稿。另外推荐了一款基于Markdown的演示工具，可能比Deckset更好。还介绍了一个只适用于macOS 13+的简单命令行工具，可以使用内置的OCR和转录框架。提到了Ground News这个工具，可以帮助用户了解不同观点的新闻，打破信息茧房。最后作者推荐了CleanShot X用于截图和录屏。文章结尾提到网站受到读者支持，保留所有材料版权。 
-
-
-
-
-
-
-Web excursions brought to you in partnership with CleanShot X, the absolute, hands-down best app for Mac screenshots. Get one of my all-time favorite apps here.
-
-Deckset on the App Store
-Just when I thought Deckset was dead, an iOS version is announced. Create presentations using Markdown, now on your iPhone/iPad.
-iA Presenter
-A newer option for Markdown-based presentations (from the creators of iA Writer and based on the same engine) that I think this might be even better than Deckset. Going to give it a test run for a while, but off the bat it looks really slick.
-freedmand/textra
-macOS 13+ only, a simple command line interface to the OS’s built-in OCR and transcription frameworks. The OCR works really well. Really, really well (I’m using it to add automatic ALT tags to Dimspirations and it deals with text in crazy fonts on crazy backgrounds). I haven’t gone far with testing the audio transcription, but I have high expectations.
-Ground News
-This is advertised on almost every YouTube channel I subscribe to, so I decided to check it out. It’s really good. If you want to break out of your news bubble and understand what the other side is hearing and thinking, Ground News provides all kinds of tools for doing so. Highly recommended. I’m trying to get my parents to use it, but even if they don’t, it helps me see the headlines that are going to affect them in their bubble so I’m not shocked when topics come up that I’ve seen no trace of previously.
-
-I do all of my screenshots and screen recordings with CleanShot X. I love it to pieces. You should get it.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16624673/web-excursions-for-march-19-2024</guid>
-      <pubDate>Tue, 19 Mar 2024 15:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
