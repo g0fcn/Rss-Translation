@@ -4,7 +4,73 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 24 May 2024 18:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 15:17:13 GMT</lastBuildDate>
+    <item>
+      <title>ToQQMusic: 优雅地将歌单转移到 QQ 音乐</title>
+      <link>https://meta.appinn.net/t/topic/56937</link>
+      <description><![CDATA[名称
+To QQMusic
+平台
+
+Windows
+Linux
+Mac OS
+
+类型
+
+开发者自荐
+开源免费
+
+一句简介
+优雅地将网易云音乐（或其他音乐平台）的歌单转换到 QQ 音乐。
+简介
+虽然各大音乐平台都有歌单导入功能，但都有两个我无法接受的地方：
+
+识别错误：部分歌曲在曲库中存在，但匹配不到或者匹配错误；
+顺序错误：导入歌单后的顺序与原平台歌单的顺序不同。
+
+刚好因为一些原因，我打算放弃网易云音乐，顺便就做了这个项目。
+工作流程简述如下：
+
+读取特定格式的歌曲列表（从其他平台自行导出，文档中提供一种导出网易云音乐歌单的方法）
+在 QQ 音乐曲库中搜索对应歌曲
+用户选择正确歌曲添加到 QQ 音乐歌单中
+
+特点
+
+保留原始歌单顺序
+自由选择每首歌的匹配结果
+
+缺陷
+
+即使有完全匹配的结果，也必须手动选择
+NodeJS 项目，体积小不了
+
+使用
+Release 中提供打包的 Windows 二进制文件，其余平台从源码启动。
+其他内容详见 Github Repo
+功能预览
+
+项目地址
+
+
+
+GitHub
+
+
+
+GitHub - alex3236/ToQQMusic: 优雅地将网易云音乐（或其他音乐平台）的歌单转换到 QQ 音乐
+优雅地将网易云音乐（或其他音乐平台）的歌单转换到 QQ 音乐. Contribute to alex3236/ToQQMusic development by creating an account on GitHub.
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/56937</guid>
+      <pubDate>Sun, 26 May 2024 08:14:21 GMT</pubDate>
+    </item>
     <item>
       <title>Git 提交记录文件导出命令行工具。</title>
       <link>https://meta.appinn.net/t/topic/56889</link>
@@ -321,47 +387,6 @@ iOS
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/56517</guid>
       <pubDate>Thu, 16 May 2024 12:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】Pinning：功能强大的iOS日历倒数日App</title>
-      <link>https://meta.appinn.net/t/topic/56484</link>
-      <description><![CDATA[软件名称
-Pinning
-应用平台
-
-iOS
-iPadOS
-watchOS
-macOS (苹果芯片)
-
-推荐类型
-【开发者自荐】
-一句话简介
-Pinning是一个功能强大的倒数日App，支持同步日历事件和iCloud共享列表。
-应用简介
-
-支持农历
-同步日历，也可从日历中导入日程
-支持通过列表和标签分组事件
-内置生日和纪念日列表，支持导入联系人生日，可显示年龄、生肖和星座
-iCloud同步和共享列表
-事件小组件和列表小组件
-多平台支持，iPad｜Apple Watch｜Mac
-原生Swift开发，性能优异
-
-截图
-
-
-
-
-
-链接
-官网：https://pinning.app
-App Store: Pinning - 日历倒数
-3 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/56484</guid>
-      <pubDate>Thu, 16 May 2024 00:27:38 GMT</pubDate>
     </item>
     <item>
       <title>【自荐】GIF动图助手: 免费无广告的GIF制作和编辑工具</title>
