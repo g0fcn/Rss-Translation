@@ -4,7 +4,42 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Tue, 07 May 2024 12:29:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 03:19:50 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI悄悄招募了Altman投资的安全团队，但与超级对齐无关</title>
+      <link>https://www.36kr.com/p/2794264329137796</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2794264329137796</guid>
+      <pubDate>Mon, 27 May 2024 23:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>力大砖飞！马斯克xAI再融60亿美元，将组10万块H100集群挑战谷歌OpenAI | 最前线</title>
+      <link>https://www.36kr.com/p/2794289003736713</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2794289003736713</guid>
+      <pubDate>Mon, 27 May 2024 15:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI再陷宫斗：理想主义者是如何被击碎的？</title>
+      <link>https://www.36kr.com/p/2794090525688960</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2794090525688960</guid>
+      <pubDate>Mon, 27 May 2024 12:19:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克亮王炸，𝕏AI融资60亿美金，估值180亿，开源"核武器"对轰OpenAI</title>
+      <link>https://www.36kr.com/p/2793916389792137</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2793916389792137</guid>
+      <pubDate>Mon, 27 May 2024 11:18:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18最新AI功能曝光，苹果或已和OpenAI达成合作，但6月可能没有惊喜</title>
+      <link>https://www.36kr.com/p/2794056304739460</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2794056304739460</guid>
+      <pubDate>Mon, 27 May 2024 11:13:14 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI泄密者，投奔马斯克</title>
       <link>https://www.36kr.com/p/2765417832201224</link>
@@ -74,47 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2754334904695810</guid>
       <pubDate>Mon, 29 Apr 2024 09:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI掌门人最新演讲内容要点：下一代AI模型更强大，不需担心超级智能</title>
-      <link>https://www.36kr.com/p/2750131965672450</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2750131965672450</guid>
-      <pubDate>Fri, 26 Apr 2024 10:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>黄仁勋亲自给OpenAI送货，全球首台DGX H200开箱了</title>
-      <link>https://www.36kr.com/p/2748530051414789</link>
-      <description><![CDATA[ 黄仁勋、AI芯片、OpenAI、英伟达、合作
-总结：本文介绍了黄仁勋再次送AI芯片给OpenAI的历史性事件，强调了英伟达不断支持AI发展的举措。文章还提及了OpenAI联合创始人Ilya Sutskever的神秘消失以及英伟达投资收购AI基础设施管理平台Run:ai的动向。此外，英伟达对于AI算力的持续支持以及历史上与人工智能先驱Geoffrey Hinton的一段轶事也被提及。最后，强调了英伟达不仅在提供AI算力上有所贡献，同时也在拓展投资领域，持续扩大其AI领域的版图。 
-又是一张历史性大合照。今天，黄仁勋又来送 AI 芯片了，还是超强悍的那种。OpenAI 联合创始人、总裁 Greg Brockman 发推，晒出了自己、OpenAI CEO 奥特曼与英伟达创始人兼 CEO 黄仁勋的合照。他表示，老黄亲自为 OpenAI 送来了全球第一台 Nvidia DGX H200 超级计算机，此举意在双方共同推进 AI、计算和人类的发展。不过，网友更关注的依然是 OpenAI 联合创始人、首席科学家 Ilya Sutskever。自去年 12 月 15 日转推了 OpenAI 的一个帖子以来，他已经在 X 上「消失」了四个多月。有网友调侃到，Ilya 是不是在边上的箱子里呢？还有人 P 了一张 Ilya 与奥特曼搭肩的合照。把最强 AI 算力赠送给业界先进研究机构，这件事英伟达已不是第一次做了。今年 2 月，马斯克还在 X 上回忆了老黄向 OpenAI 捐赠 DGX-1 服务器的那张经典照片。作为 OpenAI 的联合创始人，彼时马斯克还没有因为「利益冲突」和开源等问题与 OpenAI 反目成仇。2016 年，黄仁勋亲自向 OpenAI 赠送了全球第一台 DGX-1，马斯克也在接收现场。或许就是这个举动，催生了 ChatGPT 的到来。DGX-1 被英伟达称作为「AI 超级计算机」，当时捐赠的版本价值 12.9 万美元，集成了 8 块 Tesla P100（Pascal 架构）GPU，整个系统的机器学习算力为 170 teraflops（FP16）。在此之后，英伟达陆续推出了 DGX-2（Volta 架构）、DGX A100 服务器（Ampere 架构），持续引领了 AI 算力的最高水平。今天赠送给 OpenAI 的 DGX H200，是去年 11 月在全球超算大会上推出的最新产品。英伟达在官方博客中曾表示：H200 Tensor Core GPU 具有改变游戏规则的性能和内存功能，可增强生成式 AI 和高性能计算 (HPC) 工作负载。单块 H200 的 FP16 算力是 1979 TFLOPS。作为首款采用 HBM3e 的 GPU，H200 借助更大更快的内存可加速生成式 AI 和大型语言模型 (LLM) 的运行，同时推进 HPC 工作负载的科学计算。老黄送显卡，看来正在成为英伟达的惯例。不过还有一个不得不说的故事，就是神经网络刚刚兴起的时候，英伟达曾经「拒绝」过人工智能先驱 Geoffrey Hinton。2009 年 Hinton 的研究小组在使用英伟达的 CUDA 平台训练神经网络来识别人类语音。他对研究结果的质量感到惊讶，并于当年晚些时候的一次会议上介绍了这些结果。Hinton 联系了英伟达，「我发了一封电子邮件说，听着，我刚刚告诉一千名机器学习研究人员，他们应该去购买英伟达 GPU。你能给我免费寄来一份吗？」结果英伟达拒绝了。尽管受到冷落，Hinton 仍然鼓励他的学生使用 CUDA，其中包括传奇学者 Alex Krizhevsky。2012 年，Krizhevsky 和他的研究伙伴 Ilya Sutskever 在预算紧张的情况下从亚马逊购买了两张 GeForce 显卡，训练视觉识别神经网络，这才有了一代经典 AlexNet。不过在 2018 年 9 月，在一次庆祝英伟达多伦多 AI 实验室（Toronto AI Lab）成立的会上，黄仁勋送给了 Hinton 一块 TITAN V 显卡。这也算是弥补了当初拒绝 Hinton 的遗憾。图源：https://twitter.com/PengDai_ca/status/1043496117244170240除了交付 AI 算力，英伟达在投资领域也有新的动向。本周三据媒体报道，英伟达正式宣布有意收购 AI 基础设施管理平台 Run:ai。该交易的价值并未透露，但估计约为 7 亿美元。Run:ai 由 Omri Geller（首席执行官）和 Ronen Dar （首席技术官）于 2018 年创立。该公司开发了一个并行算力的编排和虚拟化软件层，以满足在 GPU 和类似芯片组上运行的人工智能工作负载的独特需求。Run:ai 基于 Kubernetes 的 AI 云容器平台通过自动分配必要的计算能力（从部分 GPU 到多个 GPU，再到多个 GPU 节点），能够帮助用户有效地池化和共享 GPU。不断扩充朋友圈，同时资助构建 GPU 算力的公司，英伟达的 AI 版图已越来越大。参考内容：https://twitter.com/gdb/status/1783234941842518414https://www.bloomberg.com/news/articles/2024-04-24/nvidia-agrees-to-acquire-israeli-ai-software-provider-run-ai本文来自微信公众号“机器之心”（ID:almosthuman2014），作者：泽南、杜伟，36氪经授权发布。]]></description>
-      <guid>https://www.36kr.com/p/2748530051414789</guid>
-      <pubDate>Thu, 25 Apr 2024 07:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT一天“吃”50万度电，AI热潮下美国上演电力“抢夺战”，核能、地热和燃料电池成新希望</title>
-      <link>https://www.36kr.com/p/2746978573630466</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2746978573630466</guid>
-      <pubDate>Wed, 24 Apr 2024 07:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 之父投资，这个禁止打字的社交 app 让硅谷爱上聊「微信」</title>
-      <link>https://www.36kr.com/p/2747113562700807</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2747113562700807</guid>
-      <pubDate>Wed, 24 Apr 2024 07:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了</title>
-      <link>https://www.36kr.com/p/2745582658992897</link>
-      <description><![CDATA[ 微软、Phi-3、小模型、数据、性能提升
-
-总结:
-微软最新发布的Phi-3系列小模型引起热议，其中Phi-3-mini在基准测试中超越Llama 3 8B。该系列采用精心设计的训练数据，特别是利用合成数据和高质量数据，提升了模型性能。虽然小模型存在一些弱点，如存储事实和知识能力较弱，但通过联网接入搜索引擎可以弥补。微软团队未来计划继续增强小模型的多语言能力和安全性等指标。对于开源小模型超越ChatGPT，压力可能转移到OpenAI，促使其尽快推出GPT-3.5的继任者。Phi-3系列在小模型和数据工程领域走在前沿，受到业界关注。 
-梦晨发自 凹非寺量子位 | 公众号 QbitAILlama 3发布刚几天，微软就出手截胡了？刚刚发布的Phi-3系列小模型技术报告，引起AI圈热议。其中仅3.8B参数的Phi-3-mini在多项基准测试中超过了Llama 3 8B。为了方便开源社区使用，还特意设计成了与Llama系列兼容的结构。微软这次打出“手机就能直接跑的小模型”的旗号，4bit量化后的phi-3-mini在iPhone 14 pro和iPhone 15使用的苹果A16芯片上跑到每秒12 token。这意味着，现在手机上能本地运行的最佳开源模型，已经做到ChatGPT水平。在技术报告中还玩了一把花活，让phi-3-mini自己解释为什么构建小到手机能跑的模型很令人惊叹。除了mini杯之外，小杯中杯也一并发布：Phi-3-small，7B参数，为支持多语言换用了tiktoken分词器，并额外增加10%多语种数据。Phi-3-medium，14B参数，在更多数据上训练，多数测试中已超越GPT-3.5和Mixtral 8x7b MoE。（大杯他们目前不打算做）作者阵容一看也不简单，一眼扫过去MSRA和MSR雷蒙德团队都投入了不少人。那么，Phi-3系列到底有什么独特之处呢？根据技术报告中披露，其核心秘诀就在于数据。去年团队就发现，单纯堆砌参数量并不是提升模型性能的唯一路径。反而是精心设计训练数据，尤其是利用大语言模型本身去生成合成数据，配合严格过滤的高质量数据，反而能让中小模型的能力大幅跃升。也就是训练阶段只接触教科书级别的高质量数据，Textbooks are all you need。Phi-3也延续了这一思路，这次他们更是下了血本:投喂了多达3.3万亿token的训练数据（medium中杯是4.8万亿）大幅强化了数据的”教育水平”过滤更多样化的合成数据，涵盖逻辑推理、知识问答等多种技能独特的指令微调和RLHF训练，大幅提升对话和安全性举个例子，比如某一天足球比赛的结果可能对于大模型是良好的训练数据，但微软团队删除了这些加强知识的数据，留下更多能提高模型推理能力的数据。这样一来，对比Llama-2系列，就可以用更小的参数获得更高的MMLU测试分数了。不过小模型毕竟是小模型，也不可避免存在一些弱点。微软透露，模型本身参数中没能力存储太多事实和知识，这一点也可以从TriviaQA测试分数低看出来。缓解办法就是联网接入搜索引擎增强。总之，微软研究院团队是铁了心了要在小模型+数据工程这条路上走下去，未来还打算继续增强小模型的多语言能力、安全性等指标。对于开源小模型超过ChatGPT这回事，不少网友都认为压力现在给到OpenAI这边，需要赶快推出GPT-3.5的继任者了。参考链接：[1]https://arxiv.org/abs/2404.14219本文来自微信公众号“量子位”（ID：QbitAI），作者：关注前沿科技，36氪经授权发布。]]></description>
-      <guid>https://www.36kr.com/p/2745582658992897</guid>
-      <pubDate>Tue, 23 Apr 2024 05:36:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

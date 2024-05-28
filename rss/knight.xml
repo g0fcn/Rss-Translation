@@ -4,229 +4,300 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Feb 2024 19:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 03:17:02 GMT</lastBuildDate>
     <item>
-      <title>使用 Nginx 创建永久和临时重定向</title>
-      <link>https://rknight.me/blog/creating-permanent-and-temporary-redirects-with-nginx/</link>
-      <description><![CDATA[ Nginx, redirects, Sublime Text, VSCode, multi-line editing
-总结:
-本文介绍了在Nginx配置中设置永久重定向以防止旧博客链接404的方法，作者使用Sublime Text进行多行编辑，提供了针对特定URL和整个域的重定向配置示例。此外，还提到了作者在处理大量重定向时使用Sublime Text的优势。 
-As part of a change to move my blog posts from /slug-of-post to /blog/slug-of-post I needed to set permanent redirects in my Nginx config so the old post links wouldn&#39;t 404. Forge has a UI for this but it only allows doing one redirect at a time and I had ~130 to do. So I grabbed a list of all my post slugs and formatted them with multi-line edit in Sublime Text[1].
-Add the following to your Nginx config to do a redirect for a specific URL. In my case, this lives at /etc/nginx/sites-available/rknight.me.
-server {    # 301 Moved Permanently    rewrite ^/slug-of-post /blog/slug-of-post permanent;    # 302 Found/Moved Temporarily    rewrite ^/slug-of-post /blog/slug-of-post redirect;    # the rest of your nginx config here}
-You can also do this for a whole domain. Although I didn&#39;t need to do this, it&#39;s worth noting here as well.
-server {    # redirect the root of the domain    rewrite ^/$ http://new.example.com permanent;    # preserve paths    rewrite ^/(.*)$ http://new.example.com/$1 permanent;    # the rest of your nginx config here}
+      <title>大麦肉酱食谱</title>
+      <link>https://rknight.me/blog/orzo-bolognese-recipe/</link>
+      <description><![CDATA[ 我们用于 Baby Knight 的简单配方 
+这是一个非常简单的食谱，Baby Knight 总是爱不释手。
+成分：
+
+500克牛肉末
+500克帕萨塔
+250 克米粒
+1块牛肉高汤
+磨碎的奶酪
 
 
+将肉末放入平底锅中煎至褐色
+添加帕萨塔、高汤块、米粒和 250 毫升水
+煮约20分钟，偶尔搅拌一下，否则会粘在一起
+加入奶酪和任何您喜欢的调味料
 
-I use VSCode for most things, but Sublime is still the best at handling multi-line editing ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/creating-permanent-and-temporary-redirects-with-nginx/</guid>
-      <pubDate>Mon, 01 Jan 2024 13:16:10 GMT</pubDate>
+简单易行。这使得冷冻的份量相当大。]]></description>
+      <guid>https://rknight.me/blog/orzo-bolognese-recipe/</guid>
+      <pubDate>Mon, 27 May 2024 08:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>烤土豆食谱</title>
-      <link>https://rknight.me/blog/roast-potato-recipe/</link>
-      <description><![CDATA[ potatoes, goose fat, garlic, rosemary, thyme
-总结:
-这是一个炸马铃薯的食谱，需要马铃薯、鹅脂肪、大蒜、迷迭香和百里香。首先将马铃薯切成块，煮熟后沥干，然后在预热的烤箱中与鹅脂肪一起烹饪约90分钟。途中需要翻动几次，最后撒上盐和大蒜、迷迭香和百里香。这个食谱来源于Facebook视频评论中，作者认为将食谱放在视频评论中不够方便。 
-
-I tried this recipe on boxing day this year and it was fantastic so we made some more tonight which were, unsurprisingly, also fantastic.
-You will need:
-
-Maris Piper potatoes. 2kg is a reasonable amount for 4-6 people but we ate all those between three of us so do as many as you want can fit in your oven
-Goose fat
-Olive oil (optional)
-Salt
-Garlic
-Fresh rosemary
-Fresh thyme
-
-Peel the potatoes and chop them into four (or more if you have exceptionally large potatoes). Give them a rinse to remove some of the starch. Pre-heat the oven to 180°c.
-Boil them in water with salt, crushed garlic, and a bit of rosemary and thyme for 15-20 minutes until they just start become soft. Drain them and leave them to dry for about 10 minutes.
-While the potatoes are draining, pop a generous amount of goose fat (I use somewhere around 100g) in a roasting tray, along with a drizzle of olive oil if you&#39;re feeling fancy, and stick it in the oven to get the fat nice and hot.
-After the potatoes have dried out and the goose fat is hot, put all the potatoes in the roasting tray and make sure they all get a good covering with the fat, then into the oven with them. All told these should cook for around 90 minutes. Every 30 minutes take them out and turn them to make sure they&#39;re cooking evenly. For the last 20 minutes, sprinkle some salt on them, and pop some garlic cloves, rosemary, and thyme into the tray. Serve them up and eat all the potatoes you can.
-
-This recipe came from a Facebook reel which I&#39;m not linking to for two reasons:
-
-I had to OCR the steps out of the comments on the video so I worked hard for this
-I can&#39;t find it anymore because searching for reels is impossible
-Who puts a recipe in a video comment, come on
-]]></description>
-      <guid>https://rknight.me/blog/roast-potato-recipe/</guid>
-      <pubDate>Sat, 30 Dec 2023 23:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>与凯夫·奎克的信件</title>
-      <link>https://rknight.me/blog/letters-with-kev-quirk/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/letters-with-kev-quirk/</guid>
-      <pubDate>Sat, 30 Dec 2023 23:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>另一个我忘记的项目</title>
-      <link>https://rknight.me/blog/another-project-i-forgot-about/</link>
-      <description><![CDATA[ Eleventy, podcast, data file, file uploads, storage
-总结:
-Knight club计划对现有的Eleventy-based网站进行改造，使之能够方便快捷地搭建一个播客。计划包括将所有硬编码的内容移到一个数据文件中，同时决定如何处理文件上传和存储。这个项目是对之前的承诺的补充，表明作者的决心要完成这个项目。 
-Welcome to the Knight club - RSS-only posts. Read more about RSS club.  I totally forgot about one more project I&#39;d like to get done this year. I want to take my current Eleventy-based site I used for my podcasts and make it usable for anyone to quickly get a podcast up and running. I need to move any hard-coded stuff to a data file, plus decide how to handle file uploads and storage.
-In the spirit of commiting myself to this, I&#39;m posting it here as an addendum to the previous post.]]></description>
-      <guid>https://rknight.me/blog/another-project-i-forgot-about/</guid>
-      <pubDate>Fri, 29 Dec 2023 15:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到骑士俱乐部</title>
-      <link>https://rknight.me/blog/welcome-to-the-knight-club/</link>
-      <description><![CDATA[欢迎来到骑士俱乐部 - 仅限 RSS 帖子。 了解有关 RSS 俱乐部的更多信息。  恭喜您通过 RSS 订阅，您将获得这些奖金帖子。幸运的你。欢迎来到骑士俱乐部[1].
-我要在这里发布什么？老实说，这不是一个线索，但我想谈论的一些事情不需要完整的帖子。我可能会“释放”大约一年后，这些内容进入了主存档页面，主要是为了我自己找到它们的理智。
-距离 2023 年结束还有两天，所以我想写下我计划在未来 12 个月内完成的项目。我不介意谈论我正在做的事情，但我认为这不是“适当的”。在我有东西要发布之前，博客文章才有意义。首先，我有几个正在进行的项目想要完成。
-元检查器（我会想出一个更好的名字）类似于metatags.io，但更适合我想要的特定事物检查网站：favicon、Safari 强调色、RSS feed 是否可自动检测，诸如此类。当我即将完成一个项目时，它将作为某种清单。
-第二个是Echo。我想让这个服务对非技术人员来说更加友好。现在它需要 NodeJS 知识，一个可怕的 Javascript 配置文件，以及一个充满希望和梦想的口袋。
-现在开始新项目。第一个是基于 GitHub 的 CMS，类似于 TinaCMS。如果您在 Mastodon 上关注我，您就会知道我在设置 Tina 时遇到了很多问题。我不确定他们的后端是如何工作的，但它肯定比需要的更复杂。我想我可以做出更适合我想要的东西，也希望能满足其他人想要的东西。
-第二个项目已经经过多次迭代：Almanac。一个媒体记录网站。想想 Letterboxd，但它适用于一切：电影、电视节目、播客、音乐、书籍。我最初想让这个服务成为人们注册和使用的服务，但围绕数据的许可不值得这么麻烦。因此，我将使其成为一个自托管、自带 api 密钥的网站。它将有一个很好的 API，能够更新我的 /now 页面、自动发布到 Mastodon 的提要以及其他一些有趣的东西。 API 本身已经完成，但我需要考虑前端如何工作。
-最后，网络提及。它们如何工作？我写了一篇关于它的文章，但我仍然不完全确定。我依赖 Webmention.io 和 Bridgy 但是&lt; em&gt;它们是如何工作的？我想制作自己的东西来处理 Mastodon 的网络提及和对话，但我需要先深入研究格式。
-现在就这样，祝你新的一年愉快！
-
-&lt;节类=“脚注”&gt;
-
-当我改变时我的名字 我没有考虑我能用它创造多少双关语，只是一个有趣的小奖励。 ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/welcome-to-the-knight-club/</guid>
-      <pubDate>Fri, 29 Dec 2023 13:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络太棒了</title>
-      <link>https://rknight.me/blog/the-web-is-fantastic/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/the-web-is-fantastic/</guid>
-      <pubDate>Thu, 28 Dec 2023 23:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Eleventy 生成和缓存开放图图像</title>
-      <link>https://rknight.me/blog/generating-and-caching-open-graph-images-with-eleventy/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/generating-and-caching-open-graph-images-with-eleventy/</guid>
-      <pubDate>Sun, 24 Dec 2023 10:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是 2023 年的事情</title>
-      <link>https://rknight.me/blog/just-2024-things/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/just-2024-things/</guid>
-      <pubDate>Fri, 22 Dec 2023 10:11:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>酥皮香肠卷食谱</title>
-      <link>https://rknight.me/blog/puff-pastry-sausage-roll-recipe/</link>
-      <description><![CDATA[
-这是非常容易制作香肠卷的食谱。您需要：
-
-~450克香肠肉。我更喜欢购买香肠并去除皮，因为有更多种类的口味可供选择，而无需自己在香肠肉中添加东西
-一张酥皮糕点。在英国，至少这些的标准尺寸为 320 克 (&lt;a href=&quot;https://groceries.asda.com/product/pastry-dough/jus-rol-puff-pastry-ready-rolled-sheet/910000468752 ”示例&lt;/a&gt;)
-一个鸡蛋
-一个烤盘和一些防油/烘焙纸
-
-将烤箱预热至 180°c。将鸡蛋放入碗中，搅拌。
-将酥皮平放，并在酥皮上铺上一英寸厚的香肠肉筒。将糕点围绕着它滚动并切它，这样就足以覆盖肉并有一点重叠。这样做直到你用完糕点。
-拿起烤盘，在上面铺上一些防油纸，然后在烤盘上刷上蛋液。
-将长香肠卷切成一英寸宽的小香肠卷，然后将它们放在烤盘上，接缝朝下。在它们上刷上鸡蛋液，然后将它们放入烤箱中烘烤 20-25 分钟，直到它们全部变成金黄色。
-繁荣。香肠卷好几天。]]></description>
-      <guid>https://rknight.me/blog/puff-pastry-sausage-roll-recipe/</guid>
-      <pubDate>Thu, 21 Dec 2023 14:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eleventy Post Graph 插件</title>
-      <link>https://rknight.me/blog/eleventy-post-graph-plugin/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/eleventy-post-graph-plugin/</guid>
-      <pubDate>Tue, 19 Dec 2023 15:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 不需要 ActivityPub 来吸收您的数据</title>
-      <link>https://rknight.me/blog/meta-doesnt-need-activitypub-to-slurp-up-your-data/</link>
-      <description><![CDATA[线程本周开始测试 ActivityPub 集成联邦宇宙正在失去集体意识，以任何可能的方式阻止他们，这样他们就无法获取你的所有数据。有趣的是：他们已经可以做到这一点，而且绝对不需要 ActivityPub 来做到这一点。
-以我的个人资料为例：https://social.lol/@robb。下载、抓取或在“robb 非常聪明又帅气”中书写都可以。笔记本。 social.lol 的本地时间表是相同的。准备好被 Meta 想要放入的任何数据中心吞并。这甚至没有考虑到 Mastodon 拥有任何人都可以使用的 API。天哪，他们可以按照 Mastodon.social 上的本地时间线进行操作，并且可能会获得他们想要的 90% 的数据，假设他们一开始就想要其中的任何数据。或者在数百个实例上创建一个帐户并以这种方式获取数据。但他们不会，因为这不是他们这样做的原因。
-他们这样做是因为他们必须这样做。欧盟正在对所有大型科技公司施加压力，要求其更加开放和互操作。[1] 他们昨天才在欧盟推出，我敢打赌我的左胡说花了这么长时间，因为他们在跟踪方面做了鬼祟的狗屎，欧盟会立即对他们罚款。欧盟并没有像某些技术专家声称的那样将 Threads 定为非法，Meta 只是在做非法的事情。只是一点点犯罪，作为一种享受。
-某些实例已经完全阻止了线程，这意味着它们的用户无法与线程上的帐户进行交互。纯粹是因为它是 Meta 的，没有证据表明他们在做任何邪恶或危险的事情。恭喜，您已经使您的实例对用户而言变得更糟。无论如何，请等待，看看与线程联合是否会成为一个问题，但这样做只是因为“元不好”。太荒谬了。
-卡西迪·詹姆斯：
+      <title>从档案中保存的两个游戏帖子</title>
+      <link>https://rknight.me/blog/two-game-posts-saved-from-the-archives/</link>
+      <description><![CDATA[在处理年鉴以确保所有帖子都包含他们需要的所有信息和图像时，我遇到了两篇没有“真的不适合那里。它们都是基于 2018 年在 Twitter 上流传的模因，因此我将它们移到了这里，以便可以轻松找到它们。
+#GameStruck4
+这个在 Twitter 上流传，我想是来自 这篇副帖。
 &lt;块引用&gt;
-...与 Threads 的对抗就像一个新兴的电子邮件服务阻止其用户向 Gmail 用户发送电子邮件，因为他们不喜欢 Google。从原则上来说，这似乎很好，但实际上，它只是将人们与他们的朋友隔离开来，并使加入其他服务更具吸引力。
+你的#GameStruck4是什么，定义你的四款游戏？
 
-阻止您的实例的用户关注选择使用 Threads 的朋友和家人，除了让他们切换到另一个实例之外，还能获得什么好处？正如 Cassidy 还指出，个人用户可以自己阻止实例，这是 Mastodon 的伟大之处：用户可以选择阻止或不阻止他们想要的任何内容。
-我还知道用户也可以选择移动实例，并且在某种程度上我同意，如果您不喜欢实例的运行方式，则应该移动到另一个实例。[2] 但是，大家冷静一下怎么样，也许可以给 Meta 一个机会人们想要关注的实际联邦真实帐户，然后然后决定是否应该阻止它们。我们不要强迫数百人使用新实例（或更糟糕的是，线程），这样他们就可以看到他们妈妈发布的最新小黄人模因。
-是的，这是 Meta，他们很糟糕，我讨厌他们。但他们不需要 ActivityPub 来获取您的数据，无缘无故地阻止它们只会让 Fediverse 和开放网络对每个人来说都变得更糟。
+
+
+马里奥赛车 64
+杰克和达克斯特
+托尼霍克职业滑板手 3
+侠盗猎车手：罪恶都市
+
+其他竞争者：
+
+神奇宝贝红/蓝
+塞尔达传说：时之笛
+GoldenEye 64
+荒野大镖客救赎
+神秘海域 4：盗贼末路
+地平线零之曙光
+生活很奇怪
+
+通过视频游戏了解我
+我在这里看到了这个模因，基于提交帖子的注释。
+最喜欢的女性电子游戏角色：阿洛伊、地平线零之曙光
+一款很糟糕但又很好的游戏：Bishi Bashi Special，PS1
+一款触动你内心情感的游戏：回家
+最喜欢的游戏开发商或工作室：Naughty Dog
+最喜欢的男性电子游戏角色：萨利机长、神秘海域
+一款没有足够多的人谈论的游戏：Shadow of Memories，PS2
+最喜欢的反派（注意剧透）：FizzCo、Sunset Overdrive
+小时候最喜欢的游戏：Tony Hawk Pro Skater 3
+您从未感兴趣的游戏或系列：任天堂明星大乱斗
+永不过时的游戏：马里奥赛车
+每个人都应该至少玩一次的游戏：Red Dead Redemption
+最喜欢的类型：故事驱动的单人游戏
+你现在真的应该玩的游戏：最后生还者
+您最近玩过的最喜欢的独立游戏：高尔夫故事]]></description>
+      <guid>https://rknight.me/blog/two-game-posts-saved-from-the-archives/</guid>
+      <pubDate>Sun, 26 May 2024 11:40:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Karabiner 元件修复 8BitDo 键盘上的双音量跳问题</title>
+      <link>https://rknight.me/blog/fix-double-volume-jump-on-8bitdo-keyboard-with-karabiner-elements/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/fix-double-volume-jump-on-8bitdo-keyboard-with-karabiner-elements/</guid>
+      <pubDate>Sat, 25 May 2024 13:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>射线投射跟进</title>
+      <link>https://rknight.me/blog/raycast-follow-up/</link>
+      <description><![CDATA[继我的两个关于 Raycast 的帖子，我收到了一些关于我错过的事情的反馈。
+Dean 指出我打开常用文件夹的脚本是不必要的，因为 Raycast 有一个快速链接扩展程序，可用于打开文件、文件夹和网站。
+
+他还提到了 Raycast 的其他一些我没有意识到的东西：搜索屏幕截图扩展。这将搜索您的屏幕截图文件夹，以便您可以将其复制到剪贴板并提取文本。
+
+最后Dave 向我指出音板扩展，我可以将其用于我的 Brian Butterfield 音板。]]></description>
+      <guid>https://rknight.me/blog/raycast-follow-up/</guid>
+      <pubDate>Fri, 24 May 2024 07:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试 Raycast：第二部分</title>
+      <link>https://rknight.me/blog/trying-raycast-part-two/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/trying-raycast-part-two/</guid>
+      <pubDate>Thu, 23 May 2024 07:26:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>斜线页面</title>
+      <link>https://rknight.me/blog/slash-pages/</link>
+      <description><![CDATA[
+不关心背景故事吗？ 去看看slashpages.net。
+在让 Baby Knight 上床睡觉时，我有了一个项目的想法：一个网站，作为您可以添加到网站的不同斜线页面的指南。
+“斜线页面”是 Shellsharks 在我将 /uses 之类的页面称为“sitelet”时创造的短语，这不是&lt; /em&gt; 一个好名字。他们还帮助我想出了一个很好的描述：
+&lt;块引用&gt;
+斜杠页面是您可以添加到网站的常见页面，通常使用标准的根级标签，例如 /now、/about 或 /uses。它们倾向于描述网站背后的个人，并且是 IndieWeb 的显着特征。
+
+我成功获得了一个不错的域名[ 1] 为此，为了将网站放在一起，我当然使用了 Eleventy。创建斜杠页面的集合，将它们呈现在主页上。简单易行。
+我能够使用一些我以前没有使用过的新CSS，包括wavy文本装饰和::first-letter。后者的警告是“第一个字母”。还包括任何标点符号。因此 /u 都将在具有 /uses 内容的元素中设置样式。为了解决这个问题，我添加了一个空范围，这导致 ::first-letter 仅突出显示 /:
+&lt;&lt; /span&gt;样式&gt; p { 颜色: #cd064d; } p ::第一个字母 { 颜色： #ccc; }样式&gt; &lt;p 类=&quot; 第一个字母&quot;&gt; /&lt;span&gt; span&gt;使用&lt;/ p&gt;
+该网站的源代码在 GitHub 上，您可以在查看它的所有荣耀。 ://slashpages.net&quot;&gt;slashpages.net。
 
 &lt;节类=“脚注”&gt;
 
-布鲁塞尔那些愚蠢的未经选举的精英试图让公民的生活变得更好，他们怎么敢。英国脱欧就是脱欧。 ⤾
-
-“太糟糕了，移动实例”这是我在讨论不同意实例管理决策时曾多次说过的话。 ⤾
+我想要slash.page，但遗憾的是它已经被占用了⤾
 
 
 ]]></description>
-      <guid>https://rknight.me/blog/meta-doesnt-need-activitypub-to-slurp-up-your-data/</guid>
-      <pubDate>Fri, 15 Dec 2023 10:30:49 GMT</pubDate>
+      <guid>https://rknight.me/blog/slash-pages/</guid>
+      <pubDate>Wed, 22 May 2024 20:21:10 GMT</pubDate>
     </item>
     <item>
-      <title>订阅</title>
-      <link>https://rknight.me/blog/subscriptions/</link>
-      <description><![CDATA[受到 Marco 和 Kev，这是我订阅的当前状态。任何以美元计价的价格我都已转换为英镑。我每年支付的所有费用都会除以 12 并进行标记。
-其他
-我每月支付 36.95 英镑购买 Apple One Premier，其中包括 Apple TV+、iCloud 存储以及Apple Music 供我和我的妻子使用，但为了清楚起见，我会将其包含在流媒体部分中。
-我有一个 1Password 家庭帐户，但我通过工作免费获得此帐户。
-流媒体
+      <title>KnightCMS：只为我</title>
+      <link>https://rknight.me/blog/knightcms-just-for-me/</link>
+      <description><![CDATA[一段时间以来，我一直在基于我的工作流程，规划我的神话 CMS。我知道它需要什么功能。我知道我希望它如何工作。我还没能想出如何让它为其他人人工作。配置是如何工作的？它是托管的吗？付费的吗？开源的吗？设置起来难吗？
+我看过Pages和Decap，它们在基本功能上都做得很好（理论上），但它们没有我想要的高级功能，例如媒体查找和一些围绕更改日志的自定义内容。他们还与 Netlify、CloudFlare 和其他类似服务紧密联系，以运行无服务器功能。我只想在我的服务器上运行东西。话虽如此，Pages 确实非常适合标准网站。
+您知道什么真正擅长按需运行东西并且易于部署在任何服务器上吗？PHP。
+我已经做出决定。我不是为其他人构建它。代码将放在 GitHub 上供人们查看、从中汲取灵感、了解它是如何工作的，但它不会是一个“只需输入密钥，它就会为您工作”的项目。
+我为使其灵活而付出的任何努力都会导致两个问题：
 
-Netflix（7.99 英镑/月）。我们在这方面很便宜，因为主要是为了我妻子看旧的犯罪纪录片，质量并不重要
-Disney+（10.99 英镑/月）。我们实际上并不为此付费，而是每三个月使用我们的 Tesco Clubcard 优惠券。
-Amazon Prime（7.99 英镑/月（按年付费））。我们并没有为此支付太多费用，只是因为我们想要快速交付而将其包括在内。
-Apple TV+、Apple Music（36.95 英镑/月）。
-总计： 63.92 英镑/月
+这将花费更长的时间。每个功能，尤其是媒体查找，都需要考虑该人是否拥有 API 密钥，并处理如果没有可用密钥的情况。如果有人喜欢不同的标题大写系统怎么办？[1]如果有人想将他们的 posts_like_this 变成 slugify 怎么办？
+这会将其变成我需要维护的东西，合并拉取请求，在 GitHub 上回答问题，以及制作其他人可以使用的东西所带来的所有乐趣。
 
-会员资格
+KnightCMS 将只为我而设，并且完全按照我希望的方式工作。我很想构建一个适合所有人的花哨 CMS，但这不会发生。让我们让亚当试一试。
 
-Connected Pro/Relay FM（4 英镑/月）。无广告剧集，包含额外内容，可连接、奖励剧集以及 Relay Discord 访问权限。
-Hemispheric Views One Prime Plus（4 英镑/月）。奖励剧集、时事通讯、仅限会员的 Discord 频道的访问权限，以及一些花花公子的贴纸。我只是将这个金额从 2 美元提高到 5 美元，因为我不相信一旦考虑到费用等因素，我的 2 美元中的大部分实际上能到达他们的手中。
-十一（4英镑/月）。我用 Eleventy 构建了很多网站，这是理所当然的。
-总计： 12 英镑/月
 
-应用和服务
 
-omg.lol（1.33 英镑/月（按年付费））。我的主要用途是 Mastodon 实例，但它有很多东西。阅读Blake 的帖子，以获得比我写得更好的概述。
-数字海洋（12英镑/月）。托管此网站和我所有的副业项目。
-Fathom Analytics（11 英镑/月）。我用于我的网站的分析。值得注意的是，由于推荐，我每个月可以获得约 7 美元/5 英镑的回报，因此这里支付的实际价格是约 6 英镑。
-BunnyCDN（1 英镑/月）。目前仅使用它来托管 We Got Family 的文件。
-象牙色（2 英镑/月（按年付费））。 Mac 和 iOS 上最好的 Mastodon 客户端。
-总计： 25.33 英镑/月
+我没有最喜欢的，但我敢打赌有人有。⤾
 
-总计
-考虑到我为此得到的一切，101.25 英镑并不算太糟糕。不知道从中得出什么结论，这里没有什么我真正需要删除的。也许如果它走得更高，我会更多地考虑它。]]></description>
-      <guid>https://rknight.me/blog/subscriptions/</guid>
-      <pubDate>Wed, 13 Dec 2023 17:35:24 GMT</pubDate>
+
+]]></description>
+      <guid>https://rknight.me/blog/knightcms-just-for-me/</guid>
+      <pubDate>Wed, 22 May 2024 07:36:05 GMT</pubDate>
     </item>
     <item>
-      <title>代码 2023 的到来：第九天</title>
-      <link>https://rknight.me/blog/advent-of-code-2023-day-nine/</link>
+      <title>我又爱又恨我的 Apple Watch</title>
+      <link>https://rknight.me/blog/i-love-hate-my-apple-watch/</link>
+      <description><![CDATA[准备好应对一些第一世界的问题了吗？当然是。
+&lt;块引用&gt;
+这是我们制作过的最个性化的产品
+
+苹果公司在推出 Apple Watch 时是这样描述它的。然而九年后的今天，我们还没有定制表盘，甚至没有办法根据其他表盘的组件来制作自己的表盘。
+watchOS 10 更新改变了侧面按钮的功能。这就像踢胯部一样有趣。
+在过去的几个月里，每次有可用更新时，我的手表都会告诉我没有任何空间，因为即使我关闭了音乐同步，但它上面有 2GB 的音乐，我无法删除。我最终通过擦拭手表并重新设置来解决了这个问题。很酷，非常正常的解决问题的方法。
+当我尝试使用 Siri 设置提醒时，它会挂起很长时间，然后告诉我它无法执行此操作，所以我在手机上执行此操作。但它确实做到了，因为它就在“提醒”中。
+但我仍然想要它。就像，没有它就无法运作。如果我一天不戴它，我会因为错过消息而生气，必须在手机上设置计时器[1]，并且必须拿出手机查看时间。一个人不能这样生活。
+就像我的 Apple Watch 系列 0 一样，我会继续使用我的 Apple Watch 系列 4，直到它停产，或者直到 Apple 停止支持它。然后我会不情愿地买一个新的。
+
+&lt;节类=“脚注”&gt;
+
+像动物 ⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/i-love-hate-my-apple-watch/</guid>
+      <pubDate>Tue, 21 May 2024 07:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>先生，您不怕死吗？</title>
+      <link>https://rknight.me/blog/do-you-not-fear-death-sir/</link>
+      <description><![CDATA[我没有驾照。我成年后的大部分时间都住在朴茨茅斯，这是英国人口最密集的城市。我们有相当不错的公交系统，出租车过去很便宜（过去几年不那么便宜了），我们有租赁摩托车，我们有五个火车站。所以公共交通不是问题。
+但是我现在有了小骑士，我妻子必须做所有需要开车的差事，这不太理想，所以我本周开始上课。
+我妈妈去年去世了，我爸爸还留着她的车，所以他好心地提出把它送给我。他给我买了保险，这样我们见到他时我就可以多练习一下了。
+我们昨天去看了他，他说“我会开车带我们去一个安静的地方，让你第一次试驾”。似乎很合理。
+我们在工业区绕了一圈，然后我把车停在路边，让他接手开车送我们回去，他说“你为什么不载我们回去？”。我可能 15 年没开过车了，但我为什么不走我不熟悉的路开回你家呢。
+先生，你不怕死吗？。
+没事，没有人死亡，我们安全回来了。不过。这个人显然没有恐惧。]]></description>
+      <guid>https://rknight.me/blog/do-you-not-fear-death-sir/</guid>
+      <pubDate>Mon, 20 May 2024 08:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>三个温柔的介绍</title>
+      <link>https://rknight.me/blog/three-gentle-introductions/</link>
+      <description><![CDATA[来自 Merlin Mann 的绝妙主意：
+&lt;块引用&gt;
+我的想法是看看我是否可以通过策划一个由七个和只有七个组成的播放列表来让某人对我喜欢的乐队（有时甚至是我喜欢的乐队的某个特定方面）感兴趣&gt; 歌曲
+[...]
+只有七首非常好听的歌曲也可能会帮助你坠入爱河。
+
+我喜欢“必需品” Apple Music 提供的播放列表，但它们往往只是“这是这位艺术家的 10 首左右最受欢迎的歌曲”。通常情况下，如果您喜欢一个乐队，他们最受欢迎的歌曲不会是“最好”的。那些。至少对我来说是这样。
+所以我想我应该为我喜欢的艺术家做一些事情。我浏览了我的前 50 位艺术家，找到了一些有趣的艺术家 - 我没有我认为有人需要我为 Linkin Park 或 Eminem 做介绍。因为我是个好蛋，所以每个播放列表都在 Apple Music、Spotify 和 MusicThread 上。
+Dollyrots
+Apple Music • Spotify • MusicThread
+
+一切
+因为我很棒
+穿着我的红裙子的 Flippy
+我最好的朋友很性感
+Om Nom Nom
+天使之城
+全新钥匙
+
+MC 拉斯
+Apple Music • Spotify • MusicThread
+旁注，他做了一次精彩的 TED 演讲。
+
+嘿，奥菲莉亚（壮举。Gabe Saporta 和 Brett Anderson）
+签名情绪
+这个巨型机器人杀人（MC 蝙蝠指挥官和郊区传奇）
+希腊瓮颂
+改变状态
+书记员巴特比
+下载这首歌
+
+孤独岛
+Apple Music • Spotify • MusicThread
+
+梦中情人
+母亲情人
+慵懒的周日
+最好的女孩（本·拉登之歌）
+洛奇
+我跑纽约
+音箱
+]]></description>
+      <guid>https://rknight.me/blog/three-gentle-introductions/</guid>
+      <pubDate>Sun, 19 May 2024 15:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的婚礼网站</title>
+      <link>https://rknight.me/blog/my-wedding-website/</link>
+      <description><![CDATA[我们于去年 9 月结婚，之前已预定于 2020 年 9 月和 2021 年 5 月结婚。
+我们举办了一场小型婚礼，因此我们不需要精确计算大部分参加人数，但我们[1] 确实想要一个网站，我们可以在其中放置所有信息、显示倒计时并有 RSVP 表格.
+为了制作该网站，我使用了一个名为“带有一点 JavaScript 的纯 HTML 和 CSS”的新框架。它非常先进，您可以用它做很多事情。
+该网站没有任何花哨的东西。 RSVP 表单使用 Netlify Forms 运行，其他所有内容都直接用 HTML 编写。该网站没有什么特别令人印象深刻的地方，但我对时间表的制定感到非常满意：
+
+由于所有约会都被取消，该网站并没有真正被使用 - 到第三次约会时，我们确切地知道谁来了，谁不来了。将其隐藏在我的计算机上似乎很遗憾，因此源代码现在位于 GitHub 上供您细读，我想使用它如果你愿意的话，可以参加你的婚礼吗？还有这里有一个现场演示，但 RSVP 不起作用。
+
+&lt;节类=“脚注”&gt;
+
+只有我，我妻子不在乎⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/my-wedding-website/</guid>
+      <pubDate>Sat, 18 May 2024 12:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的博客工作流程</title>
+      <link>https://rknight.me/blog/my-blogging-workflow/</link>
       <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/advent-of-code-2023-day-nine/</guid>
-      <pubDate>Sat, 09 Dec 2023 13:10:04 GMT</pubDate>
+      <guid>https://rknight.me/blog/my-blogging-workflow/</guid>
+      <pubDate>Fri, 17 May 2024 07:54:40 GMT</pubDate>
     </item>
     <item>
-      <title>《代码 2023》的到来：第八天</title>
-      <link>https://rknight.me/blog/advent-of-code-2023-day-eight/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/advent-of-code-2023-day-eight/</guid>
-      <pubDate>Fri, 08 Dec 2023 15:05:58 GMT</pubDate>
+      <title>一星评论</title>
+      <link>https://rknight.me/blog/one-star-review/</link>
+      <description><![CDATA[我对电影有不好的看法。我喜欢电影，我知道这些电影在“我在任何大学学过电影”的情况下都很糟糕。方式。我会避免观看赢得奥斯卡奖的电影，因为这通常意味着它们会很无聊。如果它在某个电影节上赢得了周末宠儿奖，那就没有机会了。我宁愿看《东京漂移》一百遍，也不愿花三个小时看奥本海默。
+这也有例外。聚光灯太棒了。角斗士很棒。寄生虫真是太神奇了这是我真正喜欢的最佳影片的完整列表。我本身并不反对获得奥斯卡奖的电影，但其中很多都真的很无聊。他们打你的脸说“我们做这件事只有一个目的：赢得奥斯卡奖”。色情电影。
+我这么说并不是为了改变任何人的想法，也不是为了暗示电影总体上很糟糕。我喜欢电影。人们享受不同的事物真是太好了。那里有太多的东西，每个人都可能会迷失、着迷，或者开始一个播客。 
+然而，我看过的另一部最佳影片是这篇博文的触发因素。几天前，Keenan提醒我，我曾经在 Letterboxd 上观看并评价了《辛德勒的名单》。我给了它一颗星（这是在我停止评分之前）。我的完整评论如下：
+&lt;块引用&gt;
+我很惊讶这能得到如此高的重视。拍摄得很好，但故事很无聊，前两个小时几乎毫无意义。
+
+首先，如果你想看一部关于大屠杀的电影，我会推荐《钢琴家》，非常棒。 《辛德勒的名单》被认为是一部经典电影。这可能是很多人最喜欢的电影。这个话题很有趣，也确实很可怕。我的犹太曾曾祖父母在战争期间逃离德国，以避免被送往集中营。如果可以的话，每个人都应该去参观奥斯威辛集中营，以真正了解所发生事件的恐怖。
+但这一切都无法阻止这部电影对我来说完全无聊。太无聊了，我几乎半途放弃了；我的妻子（顺便说一句，她也给了它一颗星）无法忍受留下未完成的事情，所以我们艰难地完成了它。
+后来删除了在 Letterboxd 上的评论的人因为这篇评论而给我起了一些相当不愉快的名字，好像我的一星评论可能会让史蒂文·斯皮尔伯格和其他演员感到不安（我认为他们会没事的） ，或更糟糕的是表明我对电影中的现实事件一无所知。我不会仅仅因为主题而放弃它。无聊，给你一颗星。
+我也碰巧认为《速度与激情》（2009）是有史以来最好的电影之一，但我非常不喜欢《圣诞夜惊魂》。所以别听我的。去享受你喜欢的吧。]]></description>
+      <guid>https://rknight.me/blog/one-star-review/</guid>
+      <pubDate>Thu, 16 May 2024 07:05:44 GMT</pubDate>
     </item>
     <item>
-      <title>代码 2023 的到来：第七天</title>
-      <link>https://rknight.me/blog/advent-of-code-2023-day-seven/</link>
+      <title>我的播客历史</title>
+      <link>https://rknight.me/blog/my-podcast-history/</link>
+      <description><![CDATA[2005 年圣诞节，我收到了一部 iPod Video（第 5 代）。我做的第一件事就是插上电源，开始同步我为收到这部 iPod Video 而准备的音乐收藏。在等待音乐通过速度极慢的 USB 2.0 传输时，我开始浏览播客部分，偶然发现了The Ricky Gervais show。我认为当时它是商店中排名第一的播客。当时我听过的唯一另一个节目是Top of the Pods，有点像Top Four，但他们列出了任何东西的前十名 - 科技产品、电影续集或时间机器。我很惊讶该网站仍在运行，但遗憾的是剧集已不复存在。如果有人有剧集，请发给我。
+几年后，我在 iPhone 上听了几个月的《今日》Today，然后我有点不再听播客了——那时播客收听仍然仅限于从 iTunes 同步，这很麻烦。
+2011 年左右，我通过 Twitter 听说一个叫 Myke Hurley 的人和 Patrick Rhone 一起做一档名为 Enough 的节目。这让我听了 Myke 在他的网络上的其他节目，包括《与 Brett 和 Myke 一起烹饪》、《11 分钟》，以及最终的《512 Podcast》。此时，iOS 上已经有了 Instacast 等应用，订阅变得简单多了。
+2013 年，Myke 加入 5by5，2014 年，他和 Stephen 推出了 Relay FM[1]。在此期间，Bionic 结束，改名为 Bonanza，同时还有 CMD+Space 和 The Prompt 结局。也是在这个时候，我开始使用 Overcast，从那以后我就没换过其他应用了。不过没有智能速度。
+现在我主要听一些 Relay 的节目，比如 Connected、Rec Diffs、Ungeniused，还有 Hemispheric Views、ATP、Really Specific Stories。自 2020 年事件 以来，由于没有每天上下班，我的收听率下降了很多，所以如果那周我没有时间，我倾向于跳过新闻密集的节目，但我仍然用播客填补每一个安静的时刻，以免我不得不独自思考。
+哦，如果你不知道，我有我自己的播客，你一定要听。
+
+
+
+开启⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/my-podcast-history/</guid>
+      <pubDate>Wed, 15 May 2024 05:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>100 张最佳专辑 (Robb 版本)</title>
+      <link>https://rknight.me/blog/100-best-albums-robbs-version/</link>
       <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/advent-of-code-2023-day-seven/</guid>
-      <pubDate>Thu, 07 Dec 2023 15:45:19 GMT</pubDate>
+      <guid>https://rknight.me/blog/100-best-albums-robbs-version/</guid>
+      <pubDate>Tue, 14 May 2024 10:15:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
