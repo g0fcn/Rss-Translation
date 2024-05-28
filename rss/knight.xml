@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 28 May 2024 03:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 12:29:20 GMT</lastBuildDate>
+    <item>
+      <title>添加年鉴封面</title>
+      <link>https://rknight.me/blog/adding-covers-to-almanac/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/adding-covers-to-almanac/</guid>
+      <pubDate>Tue, 28 May 2024 08:18:19 GMT</pubDate>
+    </item>
     <item>
       <title>大麦肉酱食谱</title>
       <link>https://rknight.me/blog/orzo-bolognese-recipe/</link>
@@ -31,45 +38,45 @@
     <item>
       <title>从档案中保存的两个游戏帖子</title>
       <link>https://rknight.me/blog/two-game-posts-saved-from-the-archives/</link>
-      <description><![CDATA[在处理年鉴以确保所有帖子都包含他们需要的所有信息和图像时，我遇到了两篇没有“真的不适合那里。它们都是基于 2018 年在 Twitter 上流传的模因，因此我将它们移到了这里，以便可以轻松找到它们。
+      <description><![CDATA[在年鉴上工作以确保所有帖子都包含所需的所有信息和图像时，我发现两篇不太适合的帖子。这两个都是基于 2018 年在 Twitter 上流传的 meme，所以我把它们移到了这里，以便于查找。
 #GameStruck4
-这个在 Twitter 上流传，我想是来自 这篇副帖。
-&lt;块引用&gt;
-你的#GameStruck4是什么，定义你的四款游戏？
+这个在 Twitter 上流传，我想是来自这篇 Vice 帖子。
+
+你的 #GameStruck4 是什么，定义你的四款游戏？
 
 
 
-马里奥赛车 64
-杰克和达克斯特
-托尼霍克职业滑板手 3
+Mario Kart 64
+杰克与达斯特
+托尼·霍克职业滑板 3
 侠盗猎车手：罪恶都市
 
 其他竞争者：
 
-神奇宝贝红/蓝
+精灵宝可梦 红/蓝
 塞尔达传说：时之笛
-GoldenEye 64
-荒野大镖客救赎
+黄金眼 64
+荒野大镖客
 神秘海域 4：盗贼末路
 地平线零之曙光
-生活很奇怪
+奇异人生
 
 通过视频游戏了解我
-我在这里看到了这个模因，基于提交帖子的注释。
-最喜欢的女性电子游戏角色：阿洛伊、地平线零之曙光
-一款很糟糕但又很好的游戏：Bishi Bashi Special，PS1
-一款触动你内心情感的游戏：回家
-最喜欢的游戏开发商或工作室：Naughty Dog
-最喜欢的男性电子游戏角色：萨利机长、神秘海域
-一款没有足够多的人谈论的游戏：Shadow of Memories，PS2
-最喜欢的反派（注意剧透）：FizzCo、Sunset Overdrive
+根据帖子的注释，我在这里看到了这个模因。
+最喜欢的女性视频游戏角色：Aloy，地平线零之曙光
+一款非常糟糕但又非常好的游戏：Bishi Bashi Special，PS1
+一款触动你内心情感点的游戏：Gone Home
+最喜欢的游戏开发商或工作室：Naughty狗
+最喜欢的男性电子游戏角色：Sully，神秘海域
+一款人们谈论不多的游戏：Shadow of Memories，PS2
+最喜欢的反派（小心剧透）：FizzCo，日落超速
 小时候最喜欢的游戏：Tony Hawk Pro Skater 3
-您从未感兴趣的游戏或系列：任天堂明星大乱斗
-永不过时的游戏：马里奥赛车
-每个人都应该至少玩一次的游戏：Red Dead Redemption
-最喜欢的类型：故事驱动的单人游戏
+一款你从未感兴趣的游戏或系列：Smash Bros
+一款永远不会过时的游戏：Mario Kart
+一款每个人都应该至少玩一次的游戏：Red Dead救赎
+最喜欢的游戏类型：单人故事驱动
 你现在真的应该玩的游戏：最后生还者
-您最近玩过的最喜欢的独立游戏：高尔夫故事]]></description>
+你最近玩过的最喜欢的独立游戏：高尔夫故事]]></description>
       <guid>https://rknight.me/blog/two-game-posts-saved-from-the-archives/</guid>
       <pubDate>Sun, 26 May 2024 11:40:05 GMT</pubDate>
     </item>
@@ -81,7 +88,7 @@ GoldenEye 64
       <pubDate>Sat, 25 May 2024 13:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>射线投射跟进</title>
+      <title>光线投射跟进</title>
       <link>https://rknight.me/blog/raycast-follow-up/</link>
       <description><![CDATA[继我的两个关于 Raycast 的帖子，我收到了一些关于我错过的事情的反馈。
 Dean 指出我打开常用文件夹的脚本是不必要的，因为 Raycast 有一个快速链接扩展程序，可用于打开文件、文件夹和网站。
@@ -126,20 +133,20 @@ Dean 指出我打开常用文件夹的脚本是不必要的，因为 Raycast 有
     <item>
       <title>KnightCMS：只为我</title>
       <link>https://rknight.me/blog/knightcms-just-for-me/</link>
-      <description><![CDATA[一段时间以来，我一直在基于我的工作流程，规划我的神话 CMS。我知道它需要什么功能。我知道我希望它如何工作。我还没能想出如何让它为其他人人工作。配置是如何工作的？它是托管的吗？付费的吗？开源的吗？设置起来难吗？
-我看过Pages和Decap，它们在基本功能上都做得很好（理论上），但它们没有我想要的高级功能，例如媒体查找和一些围绕更改日志的自定义内容。他们还与 Netlify、CloudFlare 和其他类似服务紧密联系，以运行无服务器功能。我只想在我的服务器上运行东西。话虽如此，Pages 确实非常适合标准网站。
-您知道什么真正擅长按需运行东西并且易于部署在任何服务器上吗？PHP。
-我已经做出决定。我不是为其他人构建它。代码将放在 GitHub 上供人们查看、从中汲取灵感、了解它是如何工作的，但它不会是一个“只需输入密钥，它就会为您工作”的项目。
-我为使其灵活而付出的任何努力都会导致两个问题：
+      <description><![CDATA[我一直在基于 我的工作流程时断时续。我知道它需要什么功能。我知道我想要它如何工作。我还没能解决的是如何让它对其他人有用。配置如何工作？是托管的吗？有薪酬的？开源？设置起来很难吗？
+我查看了 Pages 和 Decap 等内容它们的基础知识做得很好（理论上），但它们没有我想要的高级功能，例如媒体查找和围绕变更日志的一些自定义内容。他们还将自己与 Netlify、CloudFlare 和其他类似服务紧密联系起来，以运行无服务器功能。我只想在我的服务器上运行一些东西。话虽如此，Pages 确实对于标准网站来说看起来非常好。
+您知道什么是真正擅长按需运行并且易于在基本上任何服务器上部署的东西吗？ PHP。
+我已经做出决定了。我不是为其他人构建它。代码将放在 GitHub 上，供人们查看、从中获取灵感、了解它是如何工作的，但它不会是“只要把你的钥匙放进去，它就会为你工作”的代码。项目。
+我为使其灵活而投入的任何工作都会导致两个问题：
 
-这将花费更长的时间。每个功能，尤其是媒体查找，都需要考虑该人是否拥有 API 密钥，并处理如果没有可用密钥的情况。如果有人喜欢不同的标题大写系统怎么办？[1]如果有人想将他们的 posts_like_this 变成 slugify 怎么办？
-这会将其变成我需要维护的东西，合并拉取请求，在 GitHub 上回答问题，以及制作其他人可以使用的东西所带来的所有乐趣。
+需要更长的时间。每个功能，尤其是媒体查找，都需要考虑该人是否拥有 API 密钥，并且还需要处理是否没有可用密钥的情况。如果有人喜欢不同的标题大写系统怎么办？[ 1]如果有人想要攻击他们的posts_like_this怎么办？
+它将它变成了我需要维护、合并拉取请求、回答 GitHub 上的问题以及制作其他人可以使用的东西所带来的所有乐趣。
 
-KnightCMS 将只为我而设，并且完全按照我希望的方式工作。我很想构建一个适合所有人的花哨 CMS，但这不会发生。让我们让亚当试一试。
+KnightCMS 非常适合我，并且完全按照我想要的方式工作。我很想构建一个适合所有人的精美 CMS，但这不可能实现。让我们Adam 尝试一下。
 
+&lt;节类=“脚注”&gt;
 
-
-我没有最喜欢的，但我敢打赌有人有。⤾
+我没有最喜欢的，但我敢打赌有人有。 ⤾
 
 
 ]]></description>
@@ -172,13 +179,13 @@ watchOS 10 更新改变了侧面按钮的功能。这就像踢胯部一样有趣
     <item>
       <title>先生，您不怕死吗？</title>
       <link>https://rknight.me/blog/do-you-not-fear-death-sir/</link>
-      <description><![CDATA[我没有驾照。我成年后的大部分时间都住在朴茨茅斯，这是英国人口最密集的城市。我们有相当不错的公交系统，出租车过去很便宜（过去几年不那么便宜了），我们有租赁摩托车，我们有五个火车站。所以公共交通不是问题。
-但是我现在有了小骑士，我妻子必须做所有需要开车的差事，这不太理想，所以我本周开始上课。
-我妈妈去年去世了，我爸爸还留着她的车，所以他好心地提出把它送给我。他给我买了保险，这样我们见到他时我就可以多练习一下了。
-我们昨天去看了他，他说“我会开车带我们去一个安静的地方，让你第一次试驾”。似乎很合理。
-我们在工业区绕了一圈，然后我把车停在路边，让他接手开车送我们回去，他说“你为什么不载我们回去？”。我可能 15 年没开过车了，但我为什么不走我不熟悉的路开回你家呢。
-先生，你不怕死吗？。
-没事，没有人死亡，我们安全回来了。不过。这个人显然没有恐惧。]]></description>
+      <description><![CDATA[我没有驾驶执照。我成年后的大部分时间都在朴茨茅斯度过，这是英国人口最稠密的城市。我们有相当不错的公交系统，出租车过去很便宜（过去几年不太便宜），我们有出租摩托车，而且我们有五个火车站。所以公共交通不是问题。
+但是我现在有了宝贝骑士，我的妻子必须做所有需要驾驶的事情，这不太理想，所以我这周开始上课。
+我妈妈去年去世了，我爸爸仍然拥有她的车，所以他好心地提出把它送给我。他为我投了保险，这样当我们见到他时我就可以进行一些额外的练习。
+我们昨天拜访了他，他说“我会开车带我们去一个安静的地方，第一次去”。看起来很合理。
+我们在一个工业区开车绕了一圈，然后我把车停在路边，这样他就可以接手并开车送我们回去，他说“你为什么不开车送我们回去？”。从字面上看，我可能已经 15 年没开过车了，但我为什么不沿着我不熟悉的道路开回你家。
+先生，您不怕死吗？。
+还好，没有人死，我们完好无损地回来了。仍然。这个人显然没有恐惧。]]></description>
       <guid>https://rknight.me/blog/do-you-not-fear-death-sir/</guid>
       <pubDate>Mon, 20 May 2024 08:18:18 GMT</pubDate>
     </item>
@@ -276,28 +283,21 @@ Apple Music • Spotify • MusicThread
     <item>
       <title>我的播客历史</title>
       <link>https://rknight.me/blog/my-podcast-history/</link>
-      <description><![CDATA[2005 年圣诞节，我收到了一部 iPod Video（第 5 代）。我做的第一件事就是插上电源，开始同步我为收到这部 iPod Video 而准备的音乐收藏。在等待音乐通过速度极慢的 USB 2.0 传输时，我开始浏览播客部分，偶然发现了The Ricky Gervais show。我认为当时它是商店中排名第一的播客。当时我听过的唯一另一个节目是Top of the Pods，有点像Top Four，但他们列出了任何东西的前十名 - 科技产品、电影续集或时间机器。我很惊讶该网站仍在运行，但遗憾的是剧集已不复存在。如果有人有剧集，请发给我。
-几年后，我在 iPhone 上听了几个月的《今日》Today，然后我有点不再听播客了——那时播客收听仍然仅限于从 iTunes 同步，这很麻烦。
-2011 年左右，我通过 Twitter 听说一个叫 Myke Hurley 的人和 Patrick Rhone 一起做一档名为 Enough 的节目。这让我听了 Myke 在他的网络上的其他节目，包括《与 Brett 和 Myke 一起烹饪》、《11 分钟》，以及最终的《512 Podcast》。此时，iOS 上已经有了 Instacast 等应用，订阅变得简单多了。
-2013 年，Myke 加入 5by5，2014 年，他和 Stephen 推出了 Relay FM[1]。在此期间，Bionic 结束，改名为 Bonanza，同时还有 CMD+Space 和 The Prompt 结局。也是在这个时候，我开始使用 Overcast，从那以后我就没换过其他应用了。不过没有智能速度。
-现在我主要听一些 Relay 的节目，比如 Connected、Rec Diffs、Ungeniused，还有 Hemispheric Views、ATP、Really Specific Stories。自 2020 年事件 以来，由于没有每天上下班，我的收听率下降了很多，所以如果那周我没有时间，我倾向于跳过新闻密集的节目，但我仍然用播客填补每一个安静的时刻，以免我不得不独自思考。
-哦，如果你不知道，我有我自己的播客，你一定要听。
+      <description><![CDATA[2005 年的圣诞节我收到了一台 iPod Video（第 5 代）。我做的第一件事就是将其插入并开始同步我一直在翻录的音乐收藏，以准备获取它。当我等待音乐通过超慢 USB 2.0 传输时，我开始浏览播客部分，并发现了 Ricky Gervais 节目。我认为此时它是商店中排名第一的播客。当时我听的唯一一个节目是一个名为 Top of the Pods 的节目，有点像 前四，但他们列出了任何的前十名列表 - 科技产品、电影续集或时间机器。我很惊讶该网站仍然存在，但遗憾的是剧集却没有。如果有人有可用的，请将它们发送给我。
+几年后，我在 iPhone 上听了 Today 几个月，然后我就从播客车上掉下来了 - 在此时播客收听仍然仅限于从 iTunes 同步，这是一个令人痛苦的事情。
+2011 年左右，通过 Twitter，我听说一个叫 Myke Hurley 的人与 Patrick Rhone 一起表演了一个名为 Enough 的节目。这让我听了 Myke 在他的网络上播放的其他节目，包括《与 Brett 和 Myke 一起烹饪》、《11 分钟》，以及最终的 512 播客。此时，像 Instacast 这样的应用程序已经可以在 iOS 上使用，这使得订阅变得非常容易。
+2013 年，Myke 加入 5by5，2014 年，他和 Stephen 推出了Relay FM[1]。在此期间，Bionic 结束并成为Bonanza&lt; /a&gt;，以及 CMD+Space 和 提示结局。也是在这个时候，我开始使用 Overcast，此后我就没有切换到其他应用程序。 不过没有智能速度。
+现在我主要听一些接力节目，例如Connected、Rec 差异、Ungeniused 以及 半球视图、ATP和真正具体的故事一个&gt;。自 2020 年事件以来，由于不再每天通勤，我的收听率下降了很多，因此如果我没有时间，我倾向于跳过新闻较多的节目一周，但我仍然用播客来填补每一个安静的时刻，以免我不得不独自思考。
+哦，如果你不知道，我有我自己的播客，你绝对应该听听。
 
+&lt;节类=“脚注”&gt;
 
-
-开启⤾
+打开⤾
 
 
 ]]></description>
       <guid>https://rknight.me/blog/my-podcast-history/</guid>
       <pubDate>Wed, 15 May 2024 05:41:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>100 张最佳专辑 (Robb 版本)</title>
-      <link>https://rknight.me/blog/100-best-albums-robbs-version/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/100-best-albums-robbs-version/</guid>
-      <pubDate>Tue, 14 May 2024 10:15:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
