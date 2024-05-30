@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 30 May 2024 12:28:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 15:16:42 GMT</lastBuildDate>
     <item>
       <title>SubtitleMaster - 字幕翻译工具，为你的视频添加国际化视野 !</title>
       <link>https://meta.appinn.net/t/topic/57096</link>
@@ -62,6 +62,43 @@ https://subtitlemaster.emperinter.com/
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57079</guid>
       <pubDate>Thu, 30 May 2024 05:28:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>求一款跨平台的任务计划管理应用，可以指定时间提醒</title>
+      <link>https://meta.appinn.net/t/topic/57047</link>
+      <description><![CDATA[我需要一款支持跨平台（PC和移动端）的任务管理应用，用于记录每日、每月和每年的计划，并在指定时间通过闹钟提醒我。要求该应用在手机端无需挂在后台也能正常运行并发送提醒通知。请问有哪些应用可以满足这些需求？最好是免费的，或者开源的维护的人比较多的
+详细需求说明
+
+跨平台支持：
+
+
+任务管理应用必须能够在PC和移动设备（iOS和Android）上使用，数据同步无缝。
+
+
+任务记录和分类：
+
+
+允许创建每日、每月和每年的计划。
+支持任务的分类和标签管理。
+
+
+提醒功能：
+
+
+具备强大的提醒功能，能够在指定时间提醒用户完成任务。
+即使应用未在后台运行，也能通过系统通知进行提醒。
+
+
+用户体验：
+
+
+简洁直观的用户界面，操作便捷。
+能够离线工作，并在联网后自动同步数据。
+
+10 个帖子 - 9 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57047</guid>
+      <pubDate>Wed, 29 May 2024 06:33:50 GMT</pubDate>
     </item>
     <item>
       <title>ToQQMusic: 优雅地将歌单转移到 QQ 音乐</title>
@@ -357,46 +394,6 @@ AppStore
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/56538</guid>
       <pubDate>Fri, 17 May 2024 04:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>【限免】iOS软件《Authenticator-双重认证密码管理器》永久会员限免中！</title>
-      <link>https://meta.appinn.net/t/topic/56533</link>
-      <description><![CDATA[软件名称
-Authenticator-双重认证密码管理器
-应用平台
-
-MacOS
-
-推荐类型
-【开发者自荐】
-一句简介
-使用这款软件，您可在手机上存储并生成安全的双因素身份验证码，保护您的所有账户。
-应用简介
-
-
-安全与隐私 所有存储在验证器中的数据始终都经过加密，即使存储在iCloud中，也确保只有您自己可以访问您的数据。
-
-
-加密备份： 在Authenticator验证器中，您可以随时进行安全加密备份，以防您丢失设备或切换到新设备时，无法正常使用的问题。
-
-
-跨设备同步： 使用Authenticator验证器，您所有的账户将自动在您的所有苹果设备之间进行同步。
-
-
-离线使用： Authenticator验证器即使在离线状态下也能为您生成安全代码，这将使您能够在设备处于飞行模式或无网络时进行安全认证。
-
-
-多重导入 您可以安全地从谷歌、微软、或其他验证器、以及本地文件中，将您使用了双重安全认证的账户数据，轻松导入至您的Authenticator验证器账户。
-
-
-截图预览：
-
-
-Store 卡片：https://apps.apple.com/cn/app/6497714349
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/56533</guid>
-      <pubDate>Fri, 17 May 2024 03:05:04 GMT</pubDate>
     </item>
     <item>
       <title>【自荐】GIF动图助手: 免费无广告的GIF制作和编辑工具</title>
