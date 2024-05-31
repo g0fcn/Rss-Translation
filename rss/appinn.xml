@@ -4,7 +4,117 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 30 May 2024 18:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 03:17:02 GMT</lastBuildDate>
+    <item>
+      <title>全平台通用换源工具 chsrc</title>
+      <link>https://meta.appinn.net/t/topic/57121</link>
+      <description><![CDATA[逛v2ex发现的
+一个二进制文件，chsrc，支持 Windows,Linux,macOS
+可换源 Ubuntu, debian 等等 Linux 发行版，npm,yarn,pnpm,pip,rubygems,CPAN,CTAN crates,go mod 等等
+自动测速多个站点后，挑选使用最快镜像站。此次新增华为云镜像站 和 刚建立的华中科大镜像站
+https://gitee.com/RubyMetric/chsrc
+
+
+GitHub
+
+
+
+GitHub - RubyMetric/chsrc: chsrc  全平台命令行换源工具
+chsrc  全平台命令行换源工具. Contribute to RubyMetric/chsrc development by creating an account on GitHub.
+
+
+
+
+
+
+chsrc l
+chsrc: 支持以下镜像站，荣耀均归属于这些站点，以及它们的开发/维护者们
+chsrc: 下方 code 列，可用于指定使用某镜像站，请使用 chsrc set &lt;target&gt; &lt;code&gt;
+code          服务商缩写               服务商URL                              服务商名称
+-------------------------------------------------------------------------------------------------
+mirrorz       MirrorZ           https://mirrors.cernet.edu.cn/            MirrorZ 校园网镜像站
+tuna          TUNA              https://mirrors.tuna.tsinghua.edu.cn/     清华大学开源软件镜像站
+sjtu          SJTUG-zhiyuan     https://mirrors.sjtug.sjtu.edu.cn/        上海交通大学致远镜像站
+zju           ZJU               https://mirrors.zju.edu.cn/               浙江大学开源软件镜像站
+lzu           LZUOSS            https://mirror.lzu.edu.cn/                兰州大学开源社区镜像站
+jlu           JLU               https://mirrors.jlu.edu.cn/               吉林大学开源镜像站
+bfsu          BFSU              https://mirrors.bfsu.edu.cn/              北京外国语大学开源软件镜像站
+pku           PKU               https://mirrors.pku.edu.cn/               北京大学开源镜像站
+bjtu          BJTU              https://mirror.bjtu.edu.cn/               北京交通大学自由与开源软件镜像站
+sustech       SUSTech           https://mirrors.sustech.edu.cn/           南方科技大学开源软件镜像站
+ustc          USTC              https://mirrors.ustc.edu.cn/              中国科学技术大学开源镜像站
+hust          HUST              https://mirrors.hust.edu.cn/              华中科技大学开源镜像站
+nju           NJU               https://mirrors.nju.edu.cn/               南京大学开源镜像站
+ali           Ali OPSX          https://developer.aliyun.com/mirror/      阿里巴巴开源镜像站
+tencent       Tencent           https://mirrors.tencent.com/              腾讯软件源
+huawei        Huawei Cloud      https://mirrors.huaweicloud.com/          华为开源镜像站
+netease       Netease           https://mirrors.163.com/                  网易开源镜像站
+sohu          SOHU              https://mirrors.sohu.com/                 搜狐开源镜像站
+api7          api7.ai           https://www.apiseven.com/                 深圳支流科技有限公司
+rubychina     RubyChina         https://gems.ruby-china.com/              Ruby China 社区
+emacschina    EmacsChina        https://elpamirror.emacs-china.org/       Emacs China 社区
+npmmirror     npmmirror         https://npmmirror.com/                    npmmirror (阿里云赞助)
+goproxy.cn    Goproxy.cn        https://goproxy.cn/                       Goproxy.cn (七牛云赞助)
+goproxy.io    GOPROXY.IO        https://goproxy.io/                       GOPROXY.IO
+
+chsrc: 支持对以下目标换源 (同一行表示这几个命令兼容)
+编程语言开发
+gem     ruby    rubygem rb      rubygems
+pip     python  pypi    py
+npm     node    nodejs  js      yarn    pnpm
+perl    cpan
+php     composer
+lua     luarocks
+rust    cargo   crate   crates
+go      golang  goproxy
+java    maven   gradle
+clojure clojars cloj    lein    leiningen
+dart    pub     flutter
+haskell cabal   stack   hackage
+ocaml   opam
+cran    r
+julia
+
+操作系统
+ubuntu
+mint
+debian  deb
+fedora
+suse    opensuse
+kali
+arch
+manjaro
+gentoo
+rocky   rockylinux
+alpine
+void    voidlinux
+solus
+ros     ros2
+trisquel
+lite    linuxlite
+raspi   raspberrypi
+deepin
+euler   openeuler
+kylin   openkylin
+msys2   msys
+freebsd
+netbsd
+openbsd
+
+软件
+brew    homebrew
+flathub
+nix
+guix
+emacs   elpa
+latex   ctan    tex     texlive miktex  tlmgr   mpm
+conda   anaconda
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57121</guid>
+      <pubDate>Fri, 31 May 2024 02:01:57 GMT</pubDate>
+    </item>
     <item>
       <title>SubtitleMaster - 字幕翻译工具，为你的视频添加国际化视野 !</title>
       <link>https://meta.appinn.net/t/topic/57096</link>
@@ -359,41 +469,6 @@ A: 播放页设备里可以调整模型运行的模式为【节能模式】，�
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/56564</guid>
       <pubDate>Fri, 17 May 2024 11:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>3DPixelMaster - 3D 像素艺术！</title>
-      <link>https://meta.appinn.net/t/topic/56538</link>
-      <description><![CDATA[视频
-下载地址
-
-AppStore
-
-简介
-3DPixelMaster - 将您的图像提升为 3D 像素艺术杰作。
-使用 3DPixelMaster 释放你的创造力，它是在 iPhone、iPad、Mac 和 VisionPro 上将普通图像转化为令人惊叹的 3D 像素艺术的终极工具。以精准和天赋潜入像素艺术世界。
-主要亮点
-
-3D 像素艺术创作： 将图像无缝转换成令人着迷的 3D 像素艺术作品。
-自定义功能多： 微调像素数量、单个像素曲率和像素大小，制作像素完美的杰作。
-高保真导出： 以令人惊叹的高分辨率轻松导出、复制和共享你的 3D 像素艺术作品，是展示你的创意实力的理想之选。
-轻松导入： 直接将图像导入 3DPixelMaster，实现即时像素化效果。
-
-基本功能
-
-直观的像素化： 使用我们的用户友好界面，毫不费力地对图像进行像素化。
-无缝设计： 享受专为 iPhone、iPad、Mac 和 VisionPro 量身定制的流畅用户体验。
-通用兼容性： 专为在 iOS、macOS 和 VisionPro 平台上实现完美性能而设计。
-
-无论您是经验丰富的艺术家、数据爱好者、好奇的学习者，还是渴望将图像转化为迷人的 3D 像素艺术的任何人，3DPixelMaster 都是您的终极伴侣。立即下载，开启前所未有的视觉故事之旅！
-如需咨询或建议，请联系我们的专业支持团队。您的反馈是我们创新的动力！
-说明
-
-目前产品处于软件上架促销阶段，价格处于最低时间段，后续软件成熟大概率将会以订阅制+终身买断制存在！
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/56538</guid>
-      <pubDate>Fri, 17 May 2024 04:46:11 GMT</pubDate>
     </item>
     <item>
       <title>【自荐】GIF动图助手: 免费无广告的GIF制作和编辑工具</title>
