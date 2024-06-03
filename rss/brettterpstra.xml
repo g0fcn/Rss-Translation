@@ -4,9 +4,36 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 25 May 2024 21:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 01:07:26 GMT</lastBuildDate>
     <item>
-      <title>伙计，我应该启动带有过滤器的 Conductor</title>
+      <title>在 Firefox 中添加自定义搜索快捷方式</title>
+      <link>https://brett.trpstra.net/link/535/16701010/adding-custom-search-shortcuts-in-firefox</link>
+      <description><![CDATA[ firefox, custom search, keyword, bookmark, search
+
+总结：本文介绍了在Firefox浏览器中如何添加自定义搜索快捷方式，通过设置关键词和书签来实现在浏览器地址栏中快速搜索任意网站。用户只需在地址栏输入设置的关键词加上搜索词即可直接加载搜索结果页面，避免繁琐的进入网站、点击搜索以及输入搜索词的步骤。方法包括在目标网站进行搜索、添加书签、编辑书签URL以及设置关键词等步骤。这种自定义搜索方式适用于多数浏览器，方便用户快速获取所需信息。 
+This might not be news to most people, but I thought I’d point it out for any Firefox users that don’t know about it: you can add a custom search shortcut for any site, allowing you to use a short keyword followed by search terms and execute the search without going to the site, clicking search, and entering terms.
+To add a custom search:
+
+Go to the site you want to search and use its search field to run any search.
+On the results page, add a bookmark. You can edit the bookmark title to a generic &lt;SITE NAME&gt; search in this step or in step 4.
+Open up the Bookmarks sidebar (⌘B) (or open the Bookmarks manager with ⌥⌘O) and locate the new bookmark. Right click it and choose Edit Bookmark.
+Change the search term in the URL to %s. E.g., if you searched for frog, find frog in the URL and replace it.
+Add a short “keyword” and edit the title to a generic “X Search” if you didn’t already. The keyword is the short text you’ll use to access the search. It can be as short as one character.
+Save the edit.
+
+Now you can just focus the URL bar (⌘L), type the keyword followed by a space and whatever search terms you want to use. The search page will be loaded directly with the results!
+YouTube Video
+Hope that’s useful to some people. The same thing can be done in most browsers, I just happen to be using mostly Firefox these days. Feel free to add tips for your browser of choice in the comments.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16701010/adding-custom-search-shortcuts-in-firefox</guid>
+      <pubDate>Sun, 02 Jun 2024 20:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该在 Conductor 中用过滤器</title>
       <link>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</link>
       <description><![CDATA[ YAML文件, 配置，插入TOC, 文件插入, 代码块插入
 
@@ -49,7 +76,7 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Sat, 25 May 2024 16:42:00 GMT</pubDate>
     </item>
     <item>
-      <title>我不敢相信我忘记了这个导体过滤器</title>
+      <title>我不敢相信我忘记了这个导体滤波器</title>
       <link>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</link>
       <description><![CDATA[ insertScript, insertTitle, JavaScript, config, BrettTerpstra
 
@@ -92,21 +119,21 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Thu, 16 May 2024 17:56:00 GMT</pubDate>
     </item>
     <item>
-      <title>WriteMapper - 用思维导图写作</title>
+      <title>WriteMapper - 使用思维导图进行写作</title>
       <link>https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps</guid>
       <pubDate>Thu, 02 May 2024 20:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>导体修复和改进</title>
+      <title>Conductor 修复和改进</title>
       <link>https://brett.trpstra.net/link/535/16667786/conductor-fixes-and-improvements</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16667786/conductor-fixes-and-improvements</guid>
       <pubDate>Mon, 29 Apr 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>iThoughts 之后的生活</title>
+      <title>后 iThoughts 时代</title>
       <link>https://brett.trpstra.net/link/535/16666804/life-after-ithoughts</link>
       <description><![CDATA[ MindNode, iThoughts, sunsetting, Obsidian, Curio
 
@@ -158,14 +185,14 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Sun, 28 Apr 2024 22:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>标记导体简介</title>
+      <title>引入标记导体</title>
       <link>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</guid>
       <pubDate>Thu, 25 Apr 2024 18:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 4 月 22 日网上游览</title>
+      <title>2024 年 4 月 22 日网络游览</title>
       <link>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</link>
       <description><![CDATA[ Google Cemetery, figlet/toilet ascii art, BetterTouchTool MacOS automation, Marked plugin for Obsidian, NordVPN
 总结:Google Cemetery提供了Google终止的产品列表，其中可能有一些你从未听说过的产品。xero提供了大量figlet/toilet ascii艺术字体。BetterTouchTool是一个可以用JavaScript进行MacOS自动化的工具。作者制作了一个适用于Obsidian的Marked插件。NordVPN不仅可以保护你的网络浏览安全，还可以让你的IP地址看起来来自任何国家。 
@@ -200,7 +227,7 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Mon, 22 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>对 nvALT 用户的呼吁</title>
+      <title>对 nvALT 用户的恳求</title>
       <link>https://brett.trpstra.net/link/535/16655625/a-plea-to-nvalt-users</link>
       <description><![CDATA[ nvALT, end of life, modernize, Markdown files, nvUltra
 
@@ -229,14 +256,14 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Sat, 20 Apr 2024 14:44:00 GMT</pubDate>
     </item>
     <item>
-      <title>回到我的时代......当时和现在写博客的一些想法</title>
+      <title>回顾我的时光……关于当时和现在博客的一些想法</title>
       <link>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</guid>
       <pubDate>Fri, 05 Apr 2024 20:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>CurlyQ 和自动化 JavaScript 执行</title>
+      <title>CurlyQ 和自动 JavaScript 执行</title>
       <link>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</link>
       <description><![CDATA[ gem install curlyq, JavaScript execution, screenshot command, execute subcommand, web automation tool 
 
@@ -269,37 +296,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16637190/automating-the-dimspirations-workflow</guid>
       <pubDate>Mon, 01 Apr 2024 19:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 3 月 29 日网上游览</title>
-      <link>https://brett.trpstra.net/link/535/16635234/web-excursions-for-march-29-2024</link>
-      <description><![CDATA[ mac app; intention setting; Terminal trick; native macOS email client; keycap replacement
-总结: 这篇文章介绍了一款简单优雅的Mac应用程序，可以帮助用户设定意图并提醒他们专注工作。还分享了一个适用于Terminal爱好者的技巧，并推荐了一款优秀的原生macOS邮件客户端。最后提到了订购了一个键帽来替换现有的定制键帽。 
-
-
-
-
-
-
-Web excursions brought to you in partnership with CleanMyMac X, all the tools to speed up your Mac, in one app.
-
-N₁₀ - Attention Management App for Mac
-A simple, elegant Mac app that allows you to set an intention, define how much time you plan to put into it, and then just sit, quietly reminding you of what you want to be working on with subtle but all-encompassing animations. Perfect for those of us who say “OK, now I’m really going to work on this” and then find ourselves doing something entirely different within five minutes H/T Jason Rhemus and props to props to developer Sam Stephenson.
-Again with man pages and BBEdit - All this
-Really nice trick for Terminal junkies who use BBEdit. I have a similar trick for sublime, and one that opens man pages in Preview, but this one provides additional navigation that none of mine have.
-Mimestream
-“A native macOS email client for Gmail.” This looks so good, especially considering MailPlane is dead. If only I didn’t have iCloud and Exchange email accounts I need to deal with, too.
-Interstellar Resin Keycap
-I ordered this keycap to replace my custom rocket keycap that I use for my hyper key. Available in 2.25u (Enter) size. It should arrive today and I’m very excited. I’ll post pictures once I’ve installed it!
-
-
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16635234/web-excursions-for-march-29-2024</guid>
-      <pubDate>Fri, 29 Mar 2024 17:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
