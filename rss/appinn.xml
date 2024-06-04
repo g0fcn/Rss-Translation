@@ -4,7 +4,54 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Jun 2024 06:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 09:18:06 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】CoolTool - 在线应用工具箱</title>
+      <link>https://meta.appinn.net/t/topic/57294</link>
+      <description><![CDATA[软件名
+CoolTool
+应用平台
+
+Web
+
+推荐类型
+【开发者自荐】、【免费】、【无需注册】
+一句简介
+这一款在线的应用工具箱，无需登录注册即可使用。
+应用简介
+最近几年，AI应用发展很快，但大多数都是桌面软件，下载安装很麻烦。
+CoolTool的目标是提供一款快捷的Web在线工具箱，涵盖了常见的多媒体处理工具（大部分是AI应用）。CoolTool的特色是【即用即走】，【方便快捷】。
+另外随着WebGPU的推进，CoolTool相信未来Web端的AI使用场景会越来越大。
+已发布功能
+
+功能完善中，最近每个月都会有至少一款应用发布。
+
+视频类
+
+在线录屏
+
+音频类
+
+语音转文本(Speech To Text，多语言，默认中文)
+
+图片类
+
+图片压缩/格式转换
+图片编辑（滤镜/裁剪/涂鸦/蒙层/色彩调节等)
+图片去背景（抠图）
+二维码生成（支持细节样式调整）
+
+文本类
+
+思维导图
+
+官方网站
+https://cooltool.app
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57294</guid>
+      <pubDate>Tue, 04 Jun 2024 06:30:32 GMT</pubDate>
+    </item>
     <item>
       <title>苹果手机连接第三方蓝牙耳机后“手机音量”会被自动调整的折中解决办法</title>
       <link>https://meta.appinn.net/t/topic/57286</link>
@@ -13,6 +60,80 @@
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57286</guid>
       <pubDate>Tue, 04 Jun 2024 02:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>【开发者自荐】维克日记 - 设计优雅、开箱即用的跨平台本地日记软件</title>
+      <link>https://meta.appinn.net/t/topic/57252</link>
+      <description><![CDATA[软件名称
+维克日记
+系统要求
+
+Windows(Win7及以上)
+MacOS
+Linux
+
+推荐类型
+【开发者自荐】
+一句话简介
+设计优雅、开箱即用的跨平台本地日记软件，支持Markdown语法输入和实时预览。
+软件特性
+
+
+风格极简/夜间主题
+夜间模式探索极致简约的美，开启你的夜间写作之旅。我们的日记产品以极简风格设计，搭配舒适的夜间主题，保护你的眼睛，让思绪在宁静的夜晚自由流淌。
+
+
+Markdown语法支持
+markdown支持用Markdown书写，实时预览，让每一个想法都精准呈现。我们的日记产品让编辑与预览无缝切换，确保你的创意和结构一目了然，让写作更加流畅。
+
+
+跨平台支持
+跨平台无论你使用哪个平台，我们都能陪伴。兼容macOS、Windows及Linux，我们的日记产品让你的记录无界限，随时随地，想写就写。
+
+
+数据私有
+你的隐私，我们守护。数据完全私有，支持离线访问和单文件存储。即使在没有网络的环境下，也能安心记录每一个瞬间。
+
+
+多种格式文档导出
+灵活导出，分享无限。将你的记录以Word、PDF、图片或TXT格式导出，轻松分享给朋友或转移到其他平台，让美好瞬间得以流传。
+
+
+文档批量导出
+批量导出，来去自如。一键将所有文档以Markdown格式导出，无论是备份还是迁移，都能轻松应对，让数据管理更加高效。
+
+
+数据统计
+回顾成长，数据见证。详细的数据统计功能，让你清晰看到写作的脚步和成长的轨迹，每一字每一句，都是进步的见证。
+
+
+全文搜索
+全文搜索快速检索，即搜即得。强大的全文搜索功能，让你轻松找到过去的记录，每一个关键词，都能迅速带你回到那一刻。
+
+
+知识管理(v0.4.0新增)
+知识管理强大而智能的文档管理功能，包括智能快速访问、个性化收藏夹、智能文档导航和模板化工作流程等，帮助您轻松应对各种任务和项目。
+
+
+软件截图
+ 
+
+
+
+
+
+
+
+
+
+
+
+官方网站
+vo-soft/vic-diary-releases
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57252</guid>
+      <pubDate>Mon, 03 Jun 2024 09:21:19 GMT</pubDate>
     </item>
     <item>
       <title>MaxFocus: 链接预览  支持火狐、Chromium</title>
@@ -425,56 +546,6 @@ Edge浏览器
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/56851</guid>
       <pubDate>Thu, 23 May 2024 06:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动端图片软件提名</title>
-      <link>https://meta.appinn.net/t/topic/56844</link>
-      <description><![CDATA[移动端图片软件提名
-目前已有提名贴：图片编辑软件提名。但多以专业的图片编辑为主。
-移动端图片软件的特点：
-
-海量：无论是安卓、iOS 还是网页端，轻量的图片编辑美化 App 数量是庞大的。
-易用：和桌面端相比，移动端此类软件更偏向于简单、快速、日常。
-付费门槛：很多都需要买断或订阅，有的定价甚至高到不可思议。
-
-本帖旨在让大家分享自己用过的不错的图片 App：
-
-从海量的 App 中，提出自己印象深刻、有亮点的。
-有什么 App 能出色地满足自己的某个需求？
-有什么 App 功能确实出众，值得付费？
-
-
-提名没有太多限制
-移动端图片软件说得还是有点笼统了，细分一下的话，不同的 App 有自己的倾向性：（以下括号内 App 仅用于举例，不代表提名）
-
-给图片做标注的（系统自带、）
-给照片美化的，大量以滤镜为主的（ Snapseed、VSCO、Mix）
-专业相机（Blackmagic、方弗相机）
-自拍相机（太多了）
-CCD 模拟器
-制作精美小卡片的（卡片馆、方块小子）
-能做图片编辑的（照片编辑器）
-特效类（图片合成器、8-bit等）
-其他有更专项功能的：
-
-给图片打码的（DAMA、纯纯打码）
-专门做拼图的（米汤姐、拼图酱、拼图鸭）
-专门加水印、带壳截图
-专门给图片加个相框的
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/56844</guid>
-      <pubDate>Thu, 23 May 2024 05:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】kaapa 日常记录和创意分享的完美伙伴</title>
-      <link>https://meta.appinn.net/t/topic/56841</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/56841</guid>
-      <pubDate>Thu, 23 May 2024 04:58:34 GMT</pubDate>
     </item>
     <item>
       <title>Chrome Manifest V3 推迟到 2023 年 6 月强制执行，Manifest V2 仅支持至 2024 年</title>
