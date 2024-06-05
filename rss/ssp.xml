@@ -4,7 +4,7 @@
     <title>少数派 -- 首页</title>
     <link>https://sspai.com</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Jun 2024 03:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 06:22:57 GMT</lastBuildDate>
     <item>
       <title>派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等</title>
       <link>https://sspai.com/post/89360</link>
@@ -39,6 +39,13 @@
       <description><![CDATA[]]></description>
       <guid>https://sspai.com/post/89315</guid>
       <pubDate>Tue, 04 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 Obsidian 插件和快捷指令快速添加阅读记录</title>
+      <link>https://sspai.com/post/89317</link>
+      <description><![CDATA[]]></description>
+      <guid>https://sspai.com/post/89317</guid>
+      <pubDate>Tue, 04 Jun 2024 01:05:57 GMT</pubDate>
     </item>
     <item>
       <title>派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://sspai.com/post/89245</guid>
       <pubDate>Fri, 31 May 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们需要怎样的 AI内容总结助手？</title>
-      <link>https://sspai.com/post/88530</link>
-      <description><![CDATA[]]></description>
-      <guid>https://sspai.com/post/88530</guid>
-      <pubDate>Tue, 07 May 2024 08:37:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
