@@ -4,7 +4,34 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Jun 2024 12:26:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 15:15:04 GMT</lastBuildDate>
+    <item>
+      <title>[Web] 给自己写的小工具 - 工作日进度条 & 位掩码可视化</title>
+      <link>https://meta.appinn.net/t/topic/57478</link>
+      <description><![CDATA[LLM （大语言模型）铺开之后，极大地降低了随手写点小工具的阻力，有些东西感觉花太多时间写不值，但是没有的话又不太爽，就很适合让 LLM 去写，自己微调下基本就可用了。于是就这样写了两个工具，因为太小众了就不发发现频道了，各位有需要自取。
+工作日进度条 Day Tracker
+显示社畜的一天还有多久才能结束。支持设置多个时间块并单独展示进度百分比。
+在线使用：Day Tracker
+代码：GitHub - jerrylususu/day-tracker
+（截图仅作展示用，非本人的实际工作时间）
+
+位掩码可视化 Show Big Flag
+导入定义，输入数字，直接能看出到底设置了哪些bit位；再也不用对着手册/文档一个个bit and了
+在线使用：Bit Mask Visualizer
+代码：GitHub - jerrylususu/showbitflag: A simple bit flag(mask/array) visualizer.
+
+另外一些小的开发感悟：
+
+能解决自己的问题是最大的动力
+GPT 比较话多，除非指定否则每次都会输出全量文本（即使只请求了一个很小的修改）；Claude 就好一些，会告诉你只有这里需要修改，更节省 token 一些，响应起来也快很多
+简单功能导入前端框架是overkill，单个 index.html 里包含所有的 HTML/CSS/JS 很多情况下就够用了
+界面美观度上，不使用任何额外提示的情况下，Claude 的产物比 GPT 的漂亮
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57478</guid>
+      <pubDate>Sun, 09 Jun 2024 12:55:08 GMT</pubDate>
+    </item>
     <item>
       <title>星念轻小说下载器 ,将可在线阅读小说按卷下载为epub文件</title>
       <link>https://meta.appinn.net/t/topic/57445</link>
@@ -520,15 +547,6 @@ https://subtitlemaster.emperinter.com/
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57096</guid>
       <pubDate>Thu, 30 May 2024 09:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>怎样才能更方便的开关chrome的实时字幕(live caption)？</title>
-      <link>https://meta.appinn.net/t/topic/57079</link>
-      <description><![CDATA[最近chrome实时字幕支持所有语言了，但是开关在设置里每次切换太麻烦，有没有方便的方法？
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57079</guid>
-      <pubDate>Thu, 30 May 2024 05:28:17 GMT</pubDate>
     </item>
     <item>
       <title>求一款跨平台的任务计划管理应用，可以指定时间提醒</title>
