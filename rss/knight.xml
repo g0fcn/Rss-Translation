@@ -4,7 +4,20 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 31 May 2024 18:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 21:15:12 GMT</lastBuildDate>
+    <item>
+      <title>这是我的/下一个</title>
+      <link>https://rknight.me/blog/this-is-my-next/</link>
+      <description><![CDATA[ /where /someday movie TV show watch API
+管理/watchlist页面内容及API联动，实时更新想看的电影电视剧和游戏，也包含了项目笔记。/next页面展示了KnightCMS的API端点数据，被Eleventy读取并展示出来。解决了忘记推荐影视作品的问题，提供了一个方便的参考清单。总结: 该文章介绍了作者新增了/where和/someday页面，区分了两者的功能。其中/someday页面用于记录未来的期望和目标，而/next页面用于记录想要观看的电影、电视剧以及玩的游戏等娱乐内容。作者通过KnightCMS和Eleventy的API联动实现了数据管理和展示，解决了忘记观看内容的问题。 
+This week I added /where and /someday to the Slashpages site. I started making my own someday page, which is still in progress, but it got me thinking about a similar but distinct page: /next.
+I see this page as a toned-down version of someday: rather than my hopes, dreams, and goals, it&#39;s movies and TV shows I want to watch, games I want to play, projects I want to start, that kind of thing.
+With the work I&#39;ve done on KnightCMS, I&#39;m able to manage the content on this page easily from anywhere. Add a new show I want to watch, remove a book I&#39;ve started (and add it to my /now page), as well as add some notes about projects. This data is exposed on an API endpoint in KnightCMS which is then pulled into an Eleventy data file to display on the page. Here&#39;s what the /next list looks like in the CMS:
+
+I have a real problem with forgetting which movies and TV shows I thought looked interesting so this page will serve as a reference when I&#39;m looking for something to watch.]]></description>
+      <guid>https://rknight.me/blog/this-is-my-next/</guid>
+      <pubDate>Wed, 12 Jun 2024 14:25:34 GMT</pubDate>
+    </item>
     <item>
       <title>WeblogPoMo 回顾</title>
       <link>https://rknight.me/blog/weblogpomo-retrospective/</link>
@@ -275,25 +288,6 @@ Boombox
 ]]></description>
       <guid>https://rknight.me/blog/three-gentle-introductions/</guid>
       <pubDate>Sun, 19 May 2024 15:42:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的婚礼网站</title>
-      <link>https://rknight.me/blog/my-wedding-website/</link>
-      <description><![CDATA[我们去年 9 月结婚，之前已经预定了 2020 年 9 月和 2021 年 5 月的婚礼。
-我们的婚礼规模很小，所以大部分情况下不需要精确计算参加人数，但我们[1]确实想要一个可以放所有信息、显示倒计时和 RSVP 表单的网站。
-为了制作这个网站，我使用了一个名为“纯 HTML 和 CSS 加上一点 javascript”的新框架。它非常先进，你可以用它做很多事情。
-这个网站没有什么花哨的东西。 RSVP 表单使用 Netlify Forms 运行，其他所有内容都直接用 HTML 编写。该网站没有什么特别令人印象深刻的地方，但我对时间表的效果非常满意：
-
-由于所有日期取消，该网站并没有真正被使用 - 到第三个日期，我们确切地知道谁会来，谁不会来。把它藏在我的电脑上似乎很可惜，所以源代码现在在 GitHub 上供您细阅，我想如果您愿意的话，可以在您的婚礼上使用它？这里还有现场演示，但 RSVP 不起作用。
-
-
-
-只有我，我的妻子不在乎⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/my-wedding-website/</guid>
-      <pubDate>Sat, 18 May 2024 12:15:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

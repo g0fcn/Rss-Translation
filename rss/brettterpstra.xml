@@ -4,7 +4,42 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Jun 2024 21:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 21:14:54 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 6 月 12 日网络游览</title>
+      <link>https://brett.trpstra.net/link/535/16712243/web-excursions-for-june-12-2024</link>
+      <description><![CDATA[ Bartender, acquisition, telemetry, git diffs, Climate anxiety
+
+总结:一家公司最近收购了Bartender，可能会影响其未来；有一款免费的项目可以取代Bartender，被认为是一个有潜力的替代品；在终端中有一个项目可以让git diffs看起来更漂亮；针对气候焦虑的人们，有一些带来希望的消息；在Obsidian中有一些很酷的整合，比如可以将选定的文本保存到指定文件或每日笔记页面。 
+
+
+
+
+
+
+
+
+jordanbaird/Ice: Powerful menu bar manager for macOS
+There’s some question about the future of Bartender after a recent acquisition (and some concerns about new telemetry). This project looks like a solid up-and-coming replacement (and free).
+darrenburns/dunk: Prettier git diffs in the terminal 🎨
+
+
+Prettier git diffs in the terminal
+
+
+An end to the climate emergency is in our grasp
+Climate anxiety keeping you awake? Here’s some hopeful news.
+Obsidian — PopClip Extensions
+In the vein of cool Obsidian integrations, here’s one for PopClip that can save selected text to a specified file or to the Daily Note page. There’s a similar one for nvUltra in my PopClip Extensions.
+
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16712243/web-excursions-for-june-12-2024</guid>
+      <pubDate>Wed, 12 Jun 2024 18:12:00 GMT</pubDate>
+    </item>
     <item>
       <title>第 27 版开发者国家调查</title>
       <link>https://brett.trpstra.net/link/535/16705600/the-developer-nation-survey-27th-edition</link>
@@ -291,7 +326,7 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Sat, 20 Apr 2024 14:44:00 GMT</pubDate>
     </item>
     <item>
-      <title>回顾我的时代...关于当时和现在博客的一些想法</title>
+      <title>回顾我的时光……关于当时和现在博客的一些想法</title>
       <link>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</guid>
@@ -317,13 +352,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</guid>
       <pubDate>Thu, 04 Apr 2024 18:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于使用 CDN</title>
-      <link>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16638813/on-using-a-cdn</guid>
-      <pubDate>Tue, 02 Apr 2024 21:03:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
