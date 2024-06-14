@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Jun 2024 01:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 09:17:03 GMT</lastBuildDate>
+    <item>
+      <title>使用 Nginx 阻止机器人</title>
+      <link>https://rknight.me/blog/blocking-bots-with-nginx/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/blocking-bots-with-nginx/</guid>
+      <pubDate>Fri, 14 Jun 2024 07:26:37 GMT</pubDate>
+    </item>
     <item>
       <title>这是我的/下一个</title>
       <link>https://rknight.me/blog/this-is-my-next/</link>
@@ -119,13 +126,13 @@ Mario Kart 64
 一款非常糟糕但又非常好的游戏：Bishi Bashi Special，PS1
 一款触动你内心情感点的游戏：Gone Home
 最喜欢的游戏开发商或工作室：Naughty狗
-最喜欢的男性电子游戏角色：Sully，神秘海域
-一款人们谈论不多的游戏：Shadow of Memories，PS2
-最喜欢的反派（小心剧透）：FizzCo，日落超速
-小时候最喜欢的游戏：Tony Hawk Pro Skater 3
-一款你从未感兴趣的游戏或系列：Smash Bros
-一款永远不会过时的游戏：Mario Kart
-一款每个人都应该至少玩一次的游戏：Red Dead救赎
+最喜欢的男性电子游戏角色：萨利机长，神秘海域
+一款人们谈论不多的游戏：暗影记忆，PS2
+最喜欢的反派（小心剧透）：菲兹科，日落超速
+小时候最喜欢的游戏：托尼霍克职业滑板 3
+一款你从未感兴趣的游戏或系列：任天堂明星大乱斗
+一款永远不会过时的游戏：马里奥赛车
+一款每个人都应该至少玩一次的游戏：荒野大镖客救赎
 最喜欢的游戏类型：单人故事驱动
 你现在真的应该玩的游戏：最后生还者
 你最近玩过的最喜欢的独立游戏：高尔夫故事]]></description>
@@ -240,54 +247,6 @@ watchOS 10 更新改变了侧面按钮的功能。这就像被踢裆部一样有
 没事，没有人死亡，我们安全回来了。不过。这个人显然没有恐惧。]]></description>
       <guid>https://rknight.me/blog/do-you-not-fear-death-sir/</guid>
       <pubDate>Mon, 20 May 2024 08:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>三次温柔的介绍</title>
-      <link>https://rknight.me/blog/three-gentle-introductions/</link>
-      <description><![CDATA[来自 Merlin Mann 的一个绝妙想法：
-
-这个想法是看看我是否可以通过策划一个包含七首 且只有七首 首歌曲的播放列表来引起人们对我喜欢的乐队（或者有时甚至是我喜欢的乐队的某个特定方面）的兴趣
-[...]
-只有七首非常好的歌曲可能会让你也爱上它。
-
-我喜欢 Apple Music 的“必备”播放列表，但它们往往只是“这是这位艺术家最受欢迎的 10 首左右的歌曲”。很多时候，如果你喜欢一支乐队，他们最受欢迎的歌曲不会是“最好的”歌曲。至少对我来说是这样的。
-所以我想我会为我喜欢的艺术家做一些。我浏览了我的前 50 名艺术家，找到了一些有趣的艺术家——我认为没有人需要我为 Linkin Park 或 Eminem 做介绍。因为我是个乖孩子，所以每个播放列表都在 Apple Music、Spotify 和 MusicThread 上。
-The Dollyrots
-Apple Music • Spotify • MusicThread
-
-一切
-因为我很棒
-穿着我的红裙子的 Flippy
-我最好的朋友的热门
-Om Nom Nom
-天使之城
-全新钥匙
-
-MC Lars
-Apple Music • Spotify • MusicThread
-附注，他做了一个很棒的 TED谈话。
-
-嘿，奥菲莉亚 (feat. Gabe Saporta &amp; Brett Anderson）
-签名 Emo
-这个巨型机器人杀人（feat. MC Bat Commander &amp; Suburban Legends）
-希腊古瓮颂
-改变状态
-Bartleby，抄写员
-下载这首歌
-
-孤岛
-Apple Music • Spotify • MusicThread
-
-Dreamgirl
-Motherlover
-Lazy Sunday
-Finest Girl（本拉登之歌）
-Rocky
-I Run NY
-Boombox
-]]></description>
-      <guid>https://rknight.me/blog/three-gentle-introductions/</guid>
-      <pubDate>Sun, 19 May 2024 15:42:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
