@@ -4,7 +4,38 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Jun 2024 01:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 21:15:55 GMT</lastBuildDate>
+    <item>
+      <title>Markdown HTML API</title>
+      <link>https://brett.trpstra.net/link/535/16714717/a-markdown-lorem-ipsum-api</link>
+      <description><![CDATA[ Markdown Lorem Ipsum, API, Text Blaze, MD-Lipsum, BrettTerpstra.com
+
+关于构建新的Markdown Lorem Ipsum API用于生成Markdown Lorem Ipsum。作者解释了构建API的原因，提及使用Text Blaze应用以及制作脚本片段的需求。介绍了MD-Lipsum的用途和如何使用API，包括从命令行和Text Blaze使用的示例。提供了对应的curl命令和Text Blaze代码。文中还介绍了网站支持的方式和版权声明。
+总结:文章介绍了构建Markdown Lorem Ipsum API的目的，以及如何使用该API生成Markdown Lorem Ipsum。提供了命令行和Text Blaze使用示例，同时提及网站支持方式和版权声明。 
+I built a new little API for you. It generates Markdown Lorem Ipsum. First, a little background.
+Why?
+As I’ve mentioned elsewhere, I’ve been playing with Text Blaze, a cool new app that might eventually replace TextExpander for me. One of the major things missing from Text Blaze, though, is script snippets, which I make use of a lot in TextExpander. What it does offer, though, is a command for fetching a REST API and processing the result. A lot of my script snippets are doing just that, so those are actually more convenient to build in Text Blaze. For the ones that need extra handling, I’ve just been creating web endpoints that run my scripts for me.
+
+When you go to the Text Blaze home page it looks like it’s just a Chrome extension. You have to go all the way to the bottom of the page to find the Mac app (beta).
+
+One such snippet I wanted back was my random Markdown generator, which I use frequently to test out styles for things like Marked, nvUltra, or MultiMarkdown Composer. There’s an existing API called Lorem Markdownum, but it doesn’t generate enough of the syntax consistently to be good for testing themes. So I built my own.
+MD-Lipsum
+“MD-Lipsum” uses Loripsum.net to generate a full set of HTML markup with random text, and then converts that HTML to basic Markdown. No tables, unfortunately, but it outputs a complete set of standard Markdown elements, including bold/italics, ordered and unordered lists, headers, block quotes, code blocks (fenced), and definition lists (MultiMarkdown syntax).
+Usage
+To use the API, just point to https://brettterpstra.com/md-lipsum/api/1. You can add /long or /short but it has minimal effect (a shortcoming of the loripsum.net API, I think). It just returns plain text, much like the TitleCase API I made a while back.
+You can use it from the command line like:
+curl &#39;https://brettterpstra.com/md-lipsum/api/1&#39;
+To use it in Text Blaze, you’d want a snippet like:
+{urlload: https://brettterpstra.com/md-lipsum/api/1; done=(res) -&gt; [&quot;response&quot;: res]; headers=; body=; method=GET}{=response}
+There’s a little page here but it just tells you what’s in this post!
+Like or share this post on Mastodon or Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16714717/a-markdown-lorem-ipsum-api</guid>
+      <pubDate>Fri, 14 Jun 2024 17:54:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 6 月 12 日网络游览</title>
       <link>https://brett.trpstra.net/link/535/16712243/web-excursions-for-june-12-2024</link>
@@ -326,32 +357,11 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <pubDate>Sat, 20 Apr 2024 14:44:00 GMT</pubDate>
     </item>
     <item>
-      <title>回顾我的时光……关于当时和现在博客的一些想法</title>
+      <title>回顾我的时代...关于当时和现在博客的一些想法</title>
       <link>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16642792/back-in-my-day-dot-dot-dot-some-thoughts-on-blogging-then-and-now</guid>
       <pubDate>Fri, 05 Apr 2024 20:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CurlyQ 和自动 JavaScript 执行</title>
-      <link>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</link>
-      <description><![CDATA[ gem install curlyq, JavaScript execution, screenshot command, execute subcommand, web automation tool 
-
-总结: 作者在文章中介绍了对CurlyQ工具的改进，包括添加JavaScript执行功能、改进截图命令、新增执行子命令等。通过对工具的升级，用户可以更方便地进行网页自动化操作，如保存网页截图、执行特定脚本等。这些改进将极大地提高用户的工作效率，特别适用于自动化文档生成等工作。CurlyQ的最新版本已可通过gem install curlyq进行更新或安装。 
-I’ve been wanting to add JavaScript execution to CurlyQ for a while and finally got around to it.
-In case you’ve missed it, CurlyQ is my command-line web automation tool for fetching, parsing, and responding to web page content, designed to be used as part of a *NIX pipeline. It can grab titles, links, metadata, and more from any web page. As part of its functionality, it can also use Firefox or Chrome to save screenshots, and that’s part of what I’ve improved.
-The screenshot command now accepts a --script parameter. This can be a JavaScript string, or - to read from STDIN, or a path to a file which will be read and executed before taking a screenshot. You can also now define an element ID to wait for before taking the screenshot (or executing the script) using --id ELEMENT_ID. As long as the ID is a valid element on the page, the screenshot will trigger once that element is loaded (via HTML or dynamically), with a timeout of 10 seconds. You can also define a --wait X flag in the command to wait for a specified number of seconds after executing a script before the screenshot is taken.
-Further, I’ve added a new subcommand, execute, that has the same parameters as above and simply allows you to load a page in the browser and execute a script on it. I really wanted this because it’s the easiest way to automate NiftyMenu:
-curlyq execute -b chrome -s &quot;NiftyAPI.find(&#39;file/save&#39;).arrow().shoot(&#39;file-save&#39;)&quot; file:///Users/ttscoff/Desktop/Code/niftymenu/dist/MultiMarkdown-Composer.html
-That command will save a screenshot of the File-&gt;Save menu item for me, allowing me to fully automate menu screenshots for any of my apps. I can have NiftyMenu generate an up-to-date view of the app’s menu bar, with styling for the current OS, and output detailed screenshots with callouts automatically. This will be a huge timesaver when it comes to documentation.
-You can update/install the latest version of CurlyQ with gem install curlyq. The improvements in this post are available as of version 0.0.12. Enjoy!
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16641718/curlyq-and-automated-javascript-execution</guid>
-      <pubDate>Thu, 04 Apr 2024 18:24:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
