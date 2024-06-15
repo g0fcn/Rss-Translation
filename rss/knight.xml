@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 12:29:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 18:20:28 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity AI 在用户代理方面撒谎</title>
+      <link>https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/</guid>
+      <pubDate>Sat, 15 Jun 2024 14:16:28 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Nginx 阻止机器人</title>
       <link>https://rknight.me/blog/blocking-bots-with-nginx/</link>
@@ -126,13 +133,13 @@ Mario Kart 64
 一款非常糟糕但又非常好的游戏：Bishi Bashi Special，PS1
 一款触动你内心情感点的游戏：Gone Home
 最喜欢的游戏开发商或工作室：Naughty狗
-最喜欢的男性电子游戏角色：萨利机长，神秘海域
-一款人们谈论不多的游戏：暗影记忆，PS2
-最喜欢的反派（小心剧透）：菲兹科，日落超速
-小时候最喜欢的游戏：托尼霍克职业滑板 3
-一款你从未感兴趣的游戏或系列：任天堂明星大乱斗
-一款永远不会过时的游戏：马里奥赛车
-一款每个人都应该至少玩一次的游戏：荒野大镖客救赎
+最喜欢的男性电子游戏角色：Sully，神秘海域
+一款人们谈论不多的游戏：Shadow of Memories，PS2
+最喜欢的反派（小心剧透）：FizzCo，日落超速
+小时候最喜欢的游戏：Tony Hawk Pro Skater 3
+一款你从未感兴趣的游戏或系列：Smash Bros
+一款永远不会过时的游戏：Mario Kart
+一款每个人都应该至少玩一次的游戏：Red Dead救赎
 最喜欢的游戏类型：单人故事驱动
 你现在真的应该玩的游戏：最后生还者
 你最近玩过的最喜欢的独立游戏：高尔夫故事]]></description>
@@ -234,19 +241,6 @@ watchOS 10 更新改变了侧面按钮的功能。这就像被踢裆部一样有
 ]]></description>
       <guid>https://rknight.me/blog/i-love-hate-my-apple-watch/</guid>
       <pubDate>Tue, 21 May 2024 07:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>先生，您不怕死吗？</title>
-      <link>https://rknight.me/blog/do-you-not-fear-death-sir/</link>
-      <description><![CDATA[我没有驾照。我成年后的大部分时间都住在朴茨茅斯，这是英国人口最密集的城市。我们有相当不错的公交系统，出租车过去很便宜（过去几年不那么便宜了），我们有租赁摩托车，我们有五个火车站。所以公共交通不是问题。
-但是我现在有了小骑士，我妻子必须做所有需要开车的差事，这不太理想，所以我本周开始上课。
-我妈妈去年去世了，我爸爸还留着她的车，所以他好心地提出把它送给我。他给我买了保险，这样我们见到他时我就可以多练习一下了。
-我们昨天去看了他，他说“我会开车带我们去一个安静的地方，让你第一次试驾”。似乎很合理。
-我们在工业区绕了一圈，然后我把车停在路边，让他接手开车送我们回去，他说“你为什么不载我们回去？”。我可能 15 年没开过车了，但我为什么不走我不熟悉的路开回你家呢。
-先生，你不怕死吗？。
-没事，没有人死亡，我们安全回来了。不过。这个人显然没有恐惧。]]></description>
-      <guid>https://rknight.me/blog/do-you-not-fear-death-sir/</guid>
-      <pubDate>Mon, 20 May 2024 08:18:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
