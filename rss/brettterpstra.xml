@@ -4,7 +4,28 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Jun 2024 01:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 18:20:32 GMT</lastBuildDate>
+    <item>
+      <title>Markdown 唇形图 v2</title>
+      <link>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</link>
+      <description><![CDATA[ API options, paragraphs, elements, parameters, control
+API 2版本做出了变动，现在用户可以指定段落数量和包含元素。用户可以使用不同的路径来确定段落长度和数量，还可以控制包含的元素。在路径中添加参数可以实现这些功能。这样用户可以根据自己的需求定制Markdown文档。同时，作者提到如果没有给出参数，默认输出5段中等长度的文本，并提供了详细的路径参数说明。通过API 2，用户可以更自由地生成想要的文档内容。文章中还提到，作者对BrettTerpstra.com的支持来自读者，鼓励点赞或分享。 
+I know it’s been less than a week since v1, but I made some major changes to md-lipsum that warrant a version 2.
+Basically, I incorporated all of the API options from Loripsum.net, meaning you can now specify how many paragraphs and what elements are included. You can still get a full Markdown document with all elements using https://brettterpstra.com/md-lipsum/api/2/all. You can include /short, /medium, /long, or /verylong in the path to determine paragraph length (can be shortened to s, m, l, vl), and/or a number to determine the number of paragraphs. More paragraphs means more header levels, too. Example:
+curl &#39;https://brettterpstra.com/md-lipsum/api/2/all/10/m&#39;
+
+If no parameters are given, e.g. the path is just /api/2, then all elements will be output with 5 paragraphs of medium length.
+
+You can also control exactly what elements are included using additional path parameters. These are detailed on the project page.
+Have fun!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</guid>
+      <pubDate>Mon, 17 Jun 2024 17:04:00 GMT</pubDate>
+    </item>
     <item>
       <title>Text Blaze 可共享文件夹</title>
       <link>https://brett.trpstra.net/link/535/16715638/text-blaze-shareable-folders</link>
@@ -361,35 +382,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</guid>
       <pubDate>Mon, 22 Apr 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 nvALT 用户的恳求</title>
-      <link>https://brett.trpstra.net/link/535/16655625/a-plea-to-nvalt-users</link>
-      <description><![CDATA[ nvALT, end of life, modernize, Markdown files, nvUltra
-
-nvALT已经停止更新，目前几乎无法在现代操作系统上正常运行。建议用户将存储方式转为Markdown文件，以便顺利迁移到新的笔记系统。如果笔记存储为富文本文件(RTF)，则需使用其他应用如nvUltra、The Archive或Obsidian。学习Markdown并不难，只需了解一些简单的语法规则。立即将存储方式改为纯文本文件，以免在nvALT无法运行时无法提取笔记。可能会为nvUltra编写导入器，但目前尚未实现。要获取nvUltra测试版，请通过网站联系链接发送邮件。 
-I’ve said this before, but I need to keep repeating it based on the number of queries I get. nvALT is at end of life, unless someone picks up the reigns and modernizes the (open source) code base. As it stands now, nvALT barely functions on modern OSs.
-Fletcher Penney and I have designed nvALT’s successor, nvUltra, to work only with a folder full of Markdown files, which is the only way I recommend using nvALT. If your nvALT files are stored as individual Markdown files, switching to nvUltra is no problem, nor is switching to any other Notational-Velocity-like system. It will even work in Obsidian. But if you store your notes as a database only, you’re screwed when nvALT stops working for you.
-So please, if nvALT is still running for you, go into Preferences-&gt;Notes-&gt;Storage and change “Store and read notes on disk as” to “Plain Text Files.” If your previous storage method was database, all of your notes will be immediately written out as plain text files, safe and secure and easy to port to a new (working) notes system. The files will now be in the same folder nvALT shows in the folder selector at the top of the Notes preference pane.
-
-
-
-
-
-
-
-nvALT is not even working well enough for me to get a full screenshot. But here is my best attempt.
-
-If your notes are stored as Rich Text Files (RTF), you’ll need to convert them to Markdown to make use of other apps like nvUltra, The Archive, or Obsidian. If you don’t know Markdown, don’t sweat it. It’s very easy to learn and it’s really just plain text, so as long as you know how to write, you’re already kind of writing Markdown. It’s only necessary to learn any syntax if you need to do things like create bulleted/numbered lists, add bold or italics, or create links.
-So, again, please immediately switch your storage method to plain text files. The nvALT database format has no easy out for people ready to switch. I may try to write an importer for nvUltra (or generally to output Markdown), but I have not done so yet.
-If you want on the nvUltra beta, email me through the contact link on nvultra.com.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16655625/a-plea-to-nvalt-users</guid>
-      <pubDate>Sat, 20 Apr 2024 14:44:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
