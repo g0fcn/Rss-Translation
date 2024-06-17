@@ -4,7 +4,43 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Jun 2024 06:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 12:29:51 GMT</lastBuildDate>
+    <item>
+      <title>MassMail - 电子邮件(数字)营销工具 !</title>
+      <link>https://meta.appinn.net/t/topic/57760</link>
+      <description><![CDATA[
+
+MassMail 是您通过电子邮件进行数字营销的必备工具，您可以轻松管理多个发件人账户、验证电子邮件并导入收件人列表，一键点击即可触及海量用户。MassMail 专为各级营销人员设计，可确保您的营销活动高效、有效。
+
+主要功能
+1.多个发件人账户： 轻松添加和管理多个发件人电子邮件账户，以开展多样化的营销活动。
+2.电子邮件验证： 确保您的电子邮件地址有效，以提高送达率并降低退件率。
+3.快速添加服务提供商： 快速添加常用的电子邮件服务提供商，实现无缝设置。
+4.CSV 导入： 从 CSV 文件快速导入大量收件人，简化电子邮件营销活动设置。
+5.进度跟踪： 实时监控电子邮件的发送进度，随时了解活动状态。
+基本功能
+1.轻松设置营销活动： 利用我们直观的界面简化电子邮件营销流程。
+2.用户友好型设计： 从初学者到经验丰富的营销人员，享受专为所有技能水平设计的无缝体验。
+3.帮助文档: 在遇到问题时助你轻松使用软件!
+MassMail 是任何希望加强数字营销策略的人的终极解决方案。无论您是小企业主、数字营销人员，还是任何希望通过电子邮件与受众互动的人，MassMail 都能满足您成功开展营销活动的一切需求。立即下载，释放有效电子邮件营销的潜能！
+如需咨询或建议，请联系我们的专业支持团队。您的反馈将推动我们不断创新，追求卓越！
+下载地址
+
+目前仅有Mac端口产品，移动端正在开发中，其他平台待定 !
+
+
+
+AppStore 中文
+
+
+AppStore | MassMail
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57760</guid>
+      <pubDate>Mon, 17 Jun 2024 11:02:45 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】地图相似度 - 一键快速搜索相似地图</title>
       <link>https://meta.appinn.net/t/topic/57685</link>
@@ -484,20 +520,6 @@ vo-soft/vic-diary-releases
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57252</guid>
       <pubDate>Mon, 03 Jun 2024 09:21:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome Manifest V3 推迟到 2023 年 6 月强制执行，Manifest V2 仅支持至 2024 年</title>
-      <link>https://meta.appinn.net/t/topic/39508</link>
-      <description><![CDATA[Manifest V3 最大的噩耗是去广告插件，以及油猴脚本等通过外联丰富功能的扩展。
-变成类似手机安卓、苹果软件安装包差不多（意味者相关扩展会在 V3 体积占用变胖）并且 V3 要收回 V2 大部分权限。
-小小的添加、更改等都需要重新发布新的安装包，各级层层加码关卡，最终才到用户手里。
-嫌广告还不过分，隐私榨取太少的各大广告公司喜笑颜开，好日子来了，估计恨不得马上、现在、立刻、就地、迅速执行，并展望 Manifest V4 将相关扩展砍到残废。
-简而言之，2023 年 01 月，谷歌商店只接受 Manifest V3 扩展，浏览器 112 在正式版以外关闭 Manifest V2 扩展支持（企业策略可通过扩展 ID 进行逐项放行 Manifest V2）同年 6 月，商店无法搜索到 Manifest V2 扩展，浏览器 115 可能所有版本全量强制取消 v2 扩展支持，仅支持 v3 扩展安装和运行，次年 01 月，商店拒绝提供 Manifest V2 扩展更新，企业策略到期后，全量下架 Manifest V2 扩展，并且使 2023-01 的 Manifest V2 企业策略功能无效化。
-总结：对我们能自己写脚本插件的影响不是最大的，对用油猴插件，也就是Greasemonkey 、Tampermonkey。就没那么爽了，可能油猴都运行不起来了。目前就是等 Chrome 彻底不支持 v2 后会迁移至 Firefox（Firefox 相关人员说会继续支持 V2）。
-9 个帖子 - 6 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/39508</guid>
-      <pubDate>Mon, 09 Jan 2023 06:05:31 GMT</pubDate>
     </item>
     <item>
       <title>在本地使用Markdown来写作，自动同步文档到印象笔记</title>
