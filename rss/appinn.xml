@@ -4,7 +4,180 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Jun 2024 15:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 12:29:34 GMT</lastBuildDate>
+    <item>
+      <title>[开发者自荐] 开源的聚合多种AI模型的浏览器侧边栏插件，Sider, Monica, Merlin 免费平替</title>
+      <link>https://meta.appinn.net/t/topic/57806</link>
+      <description><![CDATA[软件名称
+BrainyAI
+应用平台
+Chrome
+推荐类型
+【开发者自荐】【无需注册】
+Github
+
+
+
+GitHub
+
+
+
+GitHub - luyu0279/BrainyAI: a free and open-source browser sidebar plugin...
+a free and open-source browser sidebar plugin that offers a cost-free alternative to products like Sider, Monica, and Merlin. - luyu0279/BrainyAI
+
+
+
+
+
+一句简介
+BrainyAI：聚合多种AI模型的浏览器插件，在网页侧边栏实现AI聊天、搜索、总结、阅读辅助
+应用简介
+在当今AI工具繁多的时代，频繁登录和切换不同的AI服务不仅繁琐，还影响效率。开发BrainyAI，就是为了提高工作和学习效率，允许用户在不离开当前网页的情况下，直接进行对话、搜索、网页摘要和文件阅读等操作，让信息获取和处理更加快捷方便。
+BrainyAI是一个基于 React，Typescript，和 Plasmo 开发的浏览器侧边栏插件, 支持在网页侧边栏自由切换国内外AI模型和搜索引擎，提供 AI 聊天聚合、AI 搜索、AI 阅读和增强的 AI 网页总结等功能。
+产品亮点
+
+
+插件无需注册，免费使用（部分AI模型需登录自己个人账号）。
+
+
+支持多种国内外流行的 AI 模型和AI搜索引擎（GPT-4, GPT-4o, Claude, Gemini, Moonshot, LLaMA3、秘塔、Perplexity等），且在不断扩充中。
+
+
+AI聚合聊天，一次同时可选3个模型，同屏对比答案更方便。
+
+
+辅助google搜索，多AI搜索引擎同时响应，搜索整合实时信息。
+
+
+AI智能阅读，即时解读、翻译、总结、改写任何网页上的文本。
+
+
+免费的PDF/ 图像对话工具，可一键总结、提取文字、翻译等。
+
+
+免费总结网页内容 / YouTube视频。
+
+
+自定义快捷键和prompt。
+
+
+快捷键直接快速打开侧边栏或快捷工具栏，不用新开网页，打断工作流。
+
+
+下载地址
+
+
+
+chromewebstore.google.com
+
+
+
+BrainyAI
+Introduction：
+
+BrainyAI is your go-to work assistant designed to revolutionize the way you work. Powered by the latest ChatGPT…
+
+
+
+
+
+官网
+https://brainyai.app/
+截图预览
+ 
+
+
+
+
+
+
+
+
+
+
+
+欢迎大家下载和使用，有什么问题和需求随时交流。
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57806</guid>
+      <pubDate>Tue, 18 Jun 2024 11:20:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】你的好友管理神器</title>
+      <link>https://meta.appinn.net/t/topic/57803</link>
+      <description><![CDATA[应用可以用来做什么？
+数字名片，是一个以人物为主的笔记应用
+
+可以添加与好友相关的提醒事件,生成进度条
+可以书写与好友相关的笔记,储存到本地
+可以给好友评分
+可以生成好友地图
+
+简而言之，它可以帮你串联好友与你相关的所有事件
+
+比如和好友一起聚会的快乐时光
+和女朋友在一起的精彩瞬间 一个事件，可以串联多个好友
+当然也可以生成，自己的个性化名片
+
+限时免费
+在获取到1000个种子用户之前，永久会员免费获取！
+应用截图
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+官网
+
+
+App Store
+
+
+
+‎数字名片-笔记记录,事件提醒,好友地图全都有
+‎你的用户管理工具，也是一个以人物为主的笔记应用
+简而言之，它可以帮你串联好友与你相关的所有事件
+
+主要功能
+
+1. 好友管理
+* 提醒事件：轻松添加与好友相关的提醒事件（如生日、聚会），追踪进度。
+* 笔记记录：记录与好友的美好时光，储存珍贵记忆。
+* 好友评分：为好友打分，管理互动体验。
+* 好友地图：生成好友地图，直观展示好友的地理位置和关联事件。
+
+
+2. 事件管理
+* 多好友串联：一个事件可关联多个好友，全面记录每个瞬间。
+* 精彩瞬间记录：记录与女友、朋友们的每个精彩瞬间。
+
+
+3....
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57803</guid>
+      <pubDate>Tue, 18 Jun 2024 08:56:35 GMT</pubDate>
+    </item>
     <item>
       <title>MassMail - 电子邮件(数字)营销工具 !</title>
       <link>https://meta.appinn.net/t/topic/57760</link>
@@ -437,89 +610,6 @@ https://cooltool.app
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57294</guid>
       <pubDate>Tue, 04 Jun 2024 06:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果手机连接第三方蓝牙耳机后“手机音量”会被自动调整的折中解决办法</title>
-      <link>https://meta.appinn.net/t/topic/57286</link>
-      <description><![CDATA[（话题已被作者删除）
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57286</guid>
-      <pubDate>Tue, 04 Jun 2024 02:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】维克日记 - 设计优雅、开箱即用的跨平台本地日记软件</title>
-      <link>https://meta.appinn.net/t/topic/57252</link>
-      <description><![CDATA[软件名称
-维克日记
-系统要求
-
-Windows(Win7及以上)
-MacOS
-Linux
-
-推荐类型
-【开发者自荐】
-一句话简介
-设计优雅、开箱即用的跨平台本地日记软件，支持Markdown语法输入和实时预览。
-软件特性
-
-
-风格极简/夜间主题
-夜间模式探索极致简约的美，开启你的夜间写作之旅。我们的日记产品以极简风格设计，搭配舒适的夜间主题，保护你的眼睛，让思绪在宁静的夜晚自由流淌。
-
-
-Markdown语法支持
-markdown支持用Markdown书写，实时预览，让每一个想法都精准呈现。我们的日记产品让编辑与预览无缝切换，确保你的创意和结构一目了然，让写作更加流畅。
-
-
-跨平台支持
-跨平台无论你使用哪个平台，我们都能陪伴。兼容macOS、Windows及Linux，我们的日记产品让你的记录无界限，随时随地，想写就写。
-
-
-数据私有
-你的隐私，我们守护。数据完全私有，支持离线访问和单文件存储。即使在没有网络的环境下，也能安心记录每一个瞬间。
-
-
-多种格式文档导出
-灵活导出，分享无限。将你的记录以Word、PDF、图片或TXT格式导出，轻松分享给朋友或转移到其他平台，让美好瞬间得以流传。
-
-
-文档批量导出
-批量导出，来去自如。一键将所有文档以Markdown格式导出，无论是备份还是迁移，都能轻松应对，让数据管理更加高效。
-
-
-数据统计
-回顾成长，数据见证。详细的数据统计功能，让你清晰看到写作的脚步和成长的轨迹，每一字每一句，都是进步的见证。
-
-
-全文搜索
-全文搜索快速检索，即搜即得。强大的全文搜索功能，让你轻松找到过去的记录，每一个关键词，都能迅速带你回到那一刻。
-
-
-知识管理(v0.4.0新增)
-知识管理强大而智能的文档管理功能，包括智能快速访问、个性化收藏夹、智能文档导航和模板化工作流程等，帮助您轻松应对各种任务和项目。
-
-
-软件截图
- 
-
-
-
-
-
-
-
-
-
-
-
-官方网站
-vo-soft/vic-diary-releases
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57252</guid>
-      <pubDate>Mon, 03 Jun 2024 09:21:19 GMT</pubDate>
     </item>
     <item>
       <title>在本地使用Markdown来写作，自动同步文档到印象笔记</title>
