@@ -4,7 +4,42 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Jun 2024 12:29:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 18:20:14 GMT</lastBuildDate>
+    <item>
+      <title>有什么内存占用非常大的网页？</title>
+      <link>https://meta.appinn.net/t/topic/57859</link>
+      <description><![CDATA[用来测试 chrome 扩展 Auto Tab Discard
+
+
+
+chromewebstore.google.com
+
+
+
+自动标签丢弃（暂停）
+当您打开大量标签时，提高浏览器速度并减少内存负载。
+
+
+
+
+
+
+功能
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57859</guid>
+      <pubDate>Wed, 19 Jun 2024 14:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何平滑的打开一个有1000+条目的chrome收藏夹？</title>
+      <link>https://meta.appinn.net/t/topic/57858</link>
+      <description><![CDATA[chrome收藏夹的一个文件夹，1000+条目，打开之后chrome会卡住20分钟左右，20分钟之后就正常了
+卡住的时候cpu占用率非常低，估计是chrome自身算法的问题
+4 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57858</guid>
+      <pubDate>Wed, 19 Jun 2024 14:48:22 GMT</pubDate>
+    </item>
     <item>
       <title>瀑布流本地图片浏览器</title>
       <link>https://meta.appinn.net/t/topic/57818</link>
@@ -579,72 +614,6 @@ BnEVGa2845
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57385</guid>
       <pubDate>Thu, 06 Jun 2024 15:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>请问有调用本地LLM的网页翻译类浏览器扩展吗？</title>
-      <link>https://meta.appinn.net/t/topic/57373</link>
-      <description><![CDATA[最近本地部署了个SakuraLLM，拿来翻译日文小说一本满足，但找了一阵都没看到有支持调用本地AI进行网页翻译的浏览器扩展。
-这么好的模型只用来翻译小说就有些浪费了（虽然拿来翻译网页会导致网页有股子轻小说味XD），所以有这种浏览器扩展吗？
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57373</guid>
-      <pubDate>Thu, 06 Jun 2024 06:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>FunnelMaster - 在 iOS、macOS 和 visionOS 上使用高级漏斗图增强数据可视化功能</title>
-      <link>https://meta.appinn.net/t/topic/57355</link>
-      <description><![CDATA[FunnelMaster - Ultimate Funnel !
-下载地址
-
-
-FunnelMaster | AppStore ｜ 中文
-
-
-https://apps.apple.com/app/funnelmaster-ultimate-funnel/id6503482220
-
-
-简介
-FunnelMaster - 在 iOS、macOS 和 visionOS 上使用高级漏斗图增强数据可视化功能
-FunnelMaster 是您在 iOS、macOS 和 visionOS 上创建复杂漏斗图的首选工具。轻松输入数据，生成复杂的漏斗图，以引人注目的视觉格式清晰显示数据。
-主要功能:
-
-
-
-轻松数据: 为自定义漏斗图无缝输入数据。
-
-
-
-
-数据导入: 从 CSV 文件轻松导入漏斗图数据。
-
-
-
-
-极简设计: 使用我们友好直观的用户界面创建详细的数据可视化。
-
-
-
-
-丰富颜色： 每个分段都可以自定义不同的颜色样式，以获得清晰的表现效果。
-
-
-
-
-高质量导出： 使用高分辨率漏斗图共享和整合您的工作，适合用于演示和报告。
-
-
-
-
-跨平台兼容性： 针对 iOS、macOS 和 visionOS 进行了优化，确保无缝、高效的用户体验。
-
-
-
-无论你是数据分析师、学生，还是任何希望增强数据交流方式的人，FunnelMaster 都是你掌握漏斗图可视化艺术的最佳解决方案。立即下载，将您的数据转化为引人入胜的可视化故事！
-如需咨询或建议，请联系我们的专业支持团队。您的反馈对我们非常宝贵！
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57355</guid>
-      <pubDate>Wed, 05 Jun 2024 16:42:19 GMT</pubDate>
     </item>
     <item>
       <title>在本地使用Markdown来写作，自动同步文档到印象笔记</title>
