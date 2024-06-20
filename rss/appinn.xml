@@ -4,7 +4,25 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Jun 2024 18:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 01:06:19 GMT</lastBuildDate>
+    <item>
+      <title>【油猴脚本】中小学教材电子版 jc.pep.com.cn 本地下载</title>
+      <link>https://meta.appinn.net/t/topic/57874</link>
+      <description><![CDATA[简介
+jc.pep.com.cn 只提供在线预览但无法下载，通过抓包得知是由图片组成，想要自己去一张张下载图片并且组合转化成pdf格式，相当复杂。市面上很多下载方法也相当复杂（这里就不说了）。
+此脚本下载安装（油猴脚本安装见tampermonkey.net）与使用方法简单。
+使用方法
+打开 jc.pep.com.cn 网站，选择你想要下载的教科书并 点在线阅读，
+
+点击左上角的下载教科书按钮即可下载，并且网页中间会显示红色文字进度文本。
+
+安装链接
+https://greasyfork.org/zh-CN/scripts/498372-%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E6%9D%90%E7%94%B5%E5%AD%90%E7%89%88-jc-pep-com-cn-%E4%B8%8B%E8%BD%BD%E5%99%A8
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/57874</guid>
+      <pubDate>Wed, 19 Jun 2024 23:26:28 GMT</pubDate>
+    </item>
     <item>
       <title>有什么内存占用非常大的网页？</title>
       <link>https://meta.appinn.net/t/topic/57859</link>
@@ -580,40 +598,6 @@ BnEVGa2845
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57445</guid>
       <pubDate>Sat, 08 Jun 2024 09:40:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>曝光这家无良公司！制作假冒App还上架到了应用商店</title>
-      <link>https://meta.appinn.net/t/topic/57385</link>
-      <description><![CDATA[就是这个公司！深圳市龙翰耀科技有限公司
-事情是这样的。我是遇见夏天 App 的开发者，前几天有人发给我一张应用商店的截图，说 App 不怎么样。我仔细一看才发现原来是一张安卓手机的商店截图，而遇见夏天从来都没有上架过安卓版本。
-
-所以后来抱着维权的想法，去仔细查了一下。才发现是有公司在四个应用商店，上架了和遇见夏天同名，而且应用图标极其相似（简直是一模一样）的假冒 App。
-
-但是假冒 App 对品牌的打击实在是太大了啊！如果有安卓用户听说了遇见夏天，却在应用商店下到了假冒的。轻则会认为 App 不怎么样，重的话还有可能会在 App 里面被骗取钱财，然后起诉到我这里。
-所以这两天就在疯狂研究，到底应该怎么样进行维权。这时其实又发现一些奇怪的点：
-
-
-现在其实上架安卓市场，还是有不少门槛的。一定要先申请软件著作权，再提交 App 备案，才有资格上架到安卓，而且名称必须一致。而这些事情的周期至少要两个月起步，再加上这家公司看起来还精心准备了 App 的推广截图。不能不说是花了很大成本在做假冒 App。
-
-
-对方的隐私政策网站上（是的他们连隐私政策都做了），赫然写着更新时间是2022年3月26日，而那个时候正牌的遇见夏天也还没有上线。是想要将来反咬一口说我是假冒的吗？（他们实际的最早上线时间是24年5月29号）
-
-
-看了一眼对方上架的其它 App，里面赫然有一个和我前司做的重名而且 App 图标极其相似的「长图拼拼」。那我是不是可以怀疑，他们上架的其它 App 也都是假冒的呢？他们为什么要这样做呢？如果我没有提前注册商标，是不是就拿他们没办法了呢？
-
-
-
-我现在还不知道对方上架了这些假冒 App，到底是有什么目的。但是不管怎么样，一定是在侵犯正常开发者的合法权利的。我正在对自己的 App 在对应的市场申诉，看能不能让对方下架。另外也在考虑要不要走法律途径。
-但是也想提醒其它的开发者，一定要看一下自己的 App 有没有被对方冒牌，有没有做好知识产权的保护。如果有这种情况一定要及时维权，防止事情变得更糟糕。
-也请大家避雷这家公司，曝光他们的丑行，不要再纵容他们做这样的事情了。
-
-
-
-
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57385</guid>
-      <pubDate>Thu, 06 Jun 2024 15:20:53 GMT</pubDate>
     </item>
     <item>
       <title>在本地使用Markdown来写作，自动同步文档到印象笔记</title>
