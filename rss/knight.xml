@@ -4,7 +4,25 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Jun 2024 18:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 12:28:45 GMT</lastBuildDate>
+    <item>
+      <title>向 Eleventy 添加 Github 风格的 Markdown 提醒</title>
+      <link>https://rknight.me/blog/adding-githubstyle-markdown-alerts-to-eleventy/</link>
+      <description><![CDATA[ 更新模块、Markdown、Eleventy、CSS、插件
+更新模块和插件让作者的博客更新更有条理，Markdown语法简单易用，配合Eleventy使用更方便；CSS样式调整使插件输出的更新模块颜色搭配网站风格统一。总结: 更新模块插件让作者博客更新更有条理，使用Markdown和Eleventy更便捷，CSS调整让模块颜色与网站风格更加统一。 
+I often have occasion to come back to a blog post and add some kind of update. Maybe I changed my mind or someone offered some new information I hadn&#39;t seen at the time of writing. Up until now I would just add updates willy-nilly; sometimes they&#39;d be at the start, sometimes the end, sometimes in bold, sometimes not. What I wanted was something standard I could use and ideally with Markdown.
+GitHub has alerts (aka callouts) Markdown support where the syntax looks like this:
+&gt; [!NOTE]  &gt; Highlights information that users should take into account, even when skimming.&gt; [!TIP]&gt; Optional information to help a user be more successful.&gt; [!IMPORTANT]  &gt; Crucial information necessary for users to succeed.&gt; [!WARNING]  &gt; Critical content demanding immediate user attention due to potential risks.&gt; [!CAUTION]&gt; Negative potential consequences of an action.
+These different types have different colors and icons on GitHub. I figured these would be perfect for my update blocks if I could just do:
+&gt; [!NOTE] Update 2024-06-20&gt; This is the update that has happened
+Thankfully someone had made a plugin to handle this with markdown-it, the renderer I use for this site: markdown-it-github-alerts. I installed the package and added it to my Eleventy config:
+let markdownLib =  markdownIt(options)	.use(require(&quot;markdown-it-footnote&quot;))+	.use(require(&#39;markdown-it-github-alerts&#39;))
+I also pulled in the CSS from the package into my CSS config and made a few tweaks: I&#39;ve no intention of using anything other than the NOTE type so I wanted the colors to match my site rather than use GitHub&#39;s colors.
+
+Finally I went and updated a bunch of old posts that had updates.]]></description>
+      <guid>https://rknight.me/blog/adding-githubstyle-markdown-alerts-to-eleventy/</guid>
+      <pubDate>Fri, 21 Jun 2024 11:26:37 GMT</pubDate>
+    </item>
     <item>
       <title>Perplexity AI 在用户代理方面撒谎</title>
       <link>https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/</link>
@@ -104,9 +122,9 @@ Baby Knight 吃不够的非常简单的食谱。
     <item>
       <title>从档案中保存的两篇游戏帖子</title>
       <link>https://rknight.me/blog/two-game-posts-saved-from-the-archives/</link>
-      <description><![CDATA[在年鉴上工作以确保所有帖子都包含所需的所有信息和图像时，我发现两篇不太适合的帖子。这两个都是基于 2018 年在 Twitter 上流传的 meme，所以我把它们移到了这里，以便于查找。
+      <description><![CDATA[在年鉴上工作以确保所有帖子都包含所需的所有信息和图像时，我发现两篇不太适合的帖子。这两个都是基于 2018 年在 Twitter 上流传的 meme，所以我把它们移到了这里，以便于大家可以轻松找到。
 #GameStruck4
-这个在 Twitter 上流传，我想是来自这篇 Vice 帖子。
+这个是在 Twitter 上流传的，我想是来自这篇 Vice 帖子。
 
 你的 #GameStruck4 是什么，定义你的四款游戏？
 
@@ -119,27 +137,27 @@ Mario Kart 64
 
 其他竞争者：
 
-精灵宝可梦 红/蓝
+神奇宝贝红色/蓝色
 塞尔达传说：时之笛
 黄金眼 64
 荒野大镖客
 神秘海域 4：盗贼末路
-地平线零之曙光
-奇异人生
+地平线零Dawn
+Life Is Strange
 
 通过视频游戏了解我
 根据帖子的注释，我在这里看到了这个模因。
 最喜欢的女性视频游戏角色：Aloy，地平线零之曙光
 一款非常糟糕但又非常好的游戏：Bishi Bashi Special，PS1
-一款触动你内心情感点的游戏：Gone Home
-最喜欢的游戏开发商或工作室：Naughty狗
-最喜欢的男性电子游戏角色：Sully，神秘海域
-一款人们谈论不多的游戏：Shadow of Memories，PS2
-最喜欢的反派（小心剧透）：FizzCo，日落超速
-小时候最喜欢的游戏：Tony Hawk Pro Skater 3
-一款你从未感兴趣的游戏或系列：Smash Bros
-一款永远不会过时的游戏：Mario Kart
-一款每个人都应该至少玩一次的游戏：Red Dead救赎
+一款触动你内心情感的游戏：Gone Home
+最喜欢的游戏开发商或工作室：顽皮狗
+最喜欢的电子游戏男角色：萨利机长、神秘海域
+一款很少有人谈论的游戏：暗影记忆、PS2
+最喜欢的反派（小心剧透）：菲兹科、日落超速
+小时候最喜欢的游戏：托尼霍克职业滑板 3
+一款你从未感兴趣的游戏或系列：任天堂明星大乱斗
+一款永远不会过时的游戏：马里奥赛车
+一款每个人都应该至少玩一次的游戏：荒野大镖客救赎
 最喜欢的游戏类型：单人故事驱动
 你现在真的应该玩的游戏：最后生还者
 你最近玩过的最喜欢的独立游戏：高尔夫故事]]></description>
@@ -159,7 +177,7 @@ Mario Kart 64
       <description><![CDATA[继我关于 Raycast 的两篇帖子之后，我收到了一些关于我遗漏的一些内容的反馈。
 Dean 指出，我用于打开常用文件夹的脚本是不必要的，因为 Raycast 有一个 Quicklinks 扩展，可用于打开文件、文件夹和网站。
 
-他还提到了一些Raycast 还有我没有意识到的功能：搜索屏幕截图扩展。这会搜索您的屏幕截图文件夹，以便您可以将其中一个复制到剪贴板并提取文本。
+他还提到了 Raycast 的另一个我没有意识到的功能：搜索屏幕截图扩展。这会搜索您的屏幕截图文件夹，以便您可以将其中一个复制到剪贴板并提取文本。
 
 最后Dave 向我指出 音板扩展，我可以将其用于我的 Brian Butterfield 音板。]]></description>
       <guid>https://rknight.me/blog/raycast-follow-up/</guid>
@@ -184,7 +202,7 @@ Dean 指出，我用于打开常用文件夹的脚本是不必要的，因为 Ra
 
 我设法为它抢到了一个不错的域名[1]，为了将网站整合在一起，我当然使用了 Eleventy。创建斜线页面的集合，并在主页上呈现它们。非常简单。
 我能够使用一些我以前没有用过的新 CSS，包括 wavy 文本装饰和 ::first-letter。后者的注意事项是“首字母”也包括任何标点符号。因此 /u 都将在元素中与 /uses 的内容一起设置样式。为了解决这个问题，我添加了一个空的 span，这会导致 ::first-letter 仅突出显示 /:
-&lt;style&gt; p { color: #cd064d; &gt; p::first-letter { color: #ccc; &gt;&lt;/style&gt;&lt;p class=&quot;首字母&quot;&gt; /&lt;span&gt;&lt;/span&gt;用途&lt;/p&gt;
+&lt;style&gt; p { color: #cd064d; &gt; p::first-letter { 颜色: #ccc; &gt;&lt;/样式&gt;&lt;p 类=&quot;首字母&quot;&gt; /&lt;span&gt;&lt;/span&gt;用途&lt;/p&gt;
 该网站的源代码位于GitHub上，您可以在slashpages.net。
 
 
@@ -218,29 +236,6 @@ KnightCMS 将只为我而设，并且完全按照我希望的方式工作。我�
 ]]></description>
       <guid>https://rknight.me/blog/knightcms-just-for-me/</guid>
       <pubDate>Wed, 22 May 2024 07:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我爱恨交织的 Apple Watch</title>
-      <link>https://rknight.me/blog/i-love-hate-my-apple-watch/</link>
-      <description><![CDATA[准备好抱怨一些第一世界的问题了吗？当然了。
-
-这是我们制造过的最个性化的产品
-
-这是苹果在推出 Apple Watch 时对其的描述。然而，九年后，我们却没有定制的表盘，甚至没有办法根据其他表盘的组件制作自己的表盘。
-watchOS 10 更新改变了侧面按钮的功能。这就像被踢裆部一样有趣。
-在过去的几个月里，每次有更新可用时，我的手表都会告诉我没有空间，因为即使我关闭了音乐同步，它上面还有 2GB 的音乐，我无法删除。我最终通过擦除手表并重新设置解决了这个问题。很酷，解决问题的非常正常的办法。
-当我尝试使用 Siri 设置提醒时，它会挂起很长时间，然后告诉我它无法执行，所以我在手机上执行。但它确实做到了，因为它就在提醒中。
-但我仍然想要它。就像，没有它就无法正常工作。如果我一天不戴它，我会很生气，因为我错过了信息，不得不在手机上设置计时器[1]，还必须拿出手机查看时间。人不能这样生活。
-就像我的系列 0 Apple Watch 一样，我会一直使用我的系列 4，直到它坏掉，或者直到 Apple 停止支持它。然后我会很不情愿地买一个新的。
-
-
-
-像动物 ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/i-love-hate-my-apple-watch/</guid>
-      <pubDate>Tue, 21 May 2024 07:16:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
