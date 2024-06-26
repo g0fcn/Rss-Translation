@@ -4,7 +4,25 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 12:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 06:25:55 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI CTO深度访谈：剧透GPT-5发布时间</title>
+      <link>https://www.36kr.com/p/2835828002904451</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2835828002904451</guid>
+      <pubDate>Wed, 26 Jun 2024 01:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>突发，OpenAI突然断供中国，百度阿里火速应对，一键搬家立即上线</title>
+      <link>https://www.36kr.com/p/2835848107362953</link>
+      <description><![CDATA[ OpenAI、中国、大模型、API、替代方案
+
+总结:
+OpenAI突然宣布停止在中国大陆地区的API服务，引发了开发者的恐慌。百度、阿里等国内公司纷纷推出替代方案，提供免费服务和性价比更高的大模型。未来中国有望成为大语言模型开源世界的重要贡献者，国产大模型的迭代进化足以支撑中国AI应用的发展。 
+6月25日早上，OpenAI突然传出“停服”消息！有中国开发者在朋友圈晒图，表示他们收到了来自OpenAI的“警告信”：将采取额外措施停止其不支持的地区的API（应用接口）使用。具体内容为：“根据数据显示，你的组织有来自OpenAl目前不支持的地区的API流量。从7月9日起，我们将采取额外措施，停止来自不在OpenAI支持的国家、地区名单上的API使用。”有开发者，找了OpenAI的真人客服询问具体情况，得到的却是一封AI回复的信件：“对不起，我们没有在你所在的地区进行运营。”目前OpenAI支持160多个国家和地区，但不包括中国大陆。01其实，从今年年初开始，OpenAI已经陆续发布AI安全相关的报告和声明。6月13日，OpenAI任命了美国陆军退役将军、前网络司令部司令和国家安全局（NSA）局长保罗·中曾根为其董事会成员。OpenAI 表示，保罗·中曾根将帮助OpenAI“加强AI应对日益复杂的网络安全威胁的能力”。6月22日，美国发布一份规则草案，要求对美国在半导体和微电子、量子计算和人工智能领域的某些投资进行监管，禁止或要求限制中国在AI和其他技术领域的投资。此次OpenAI断供中国，被认为是基于法律合规、数据安全等多种因素的结果。无论结果如何，首先可预见的是：国内借助OpenAI大模型套壳的企业，将迎来毁灭式打击。开发者们再遭暴击。但换个角度来看，国内AI厂商，应该好好借助这次机会，推出更多API服务，来满足市场需求。02国内大模型公司，已第一时间行动起来。百度推出了“故乡的云·国产大模型普惠计划”。据百度介绍，即日起为新注册企业用户，提供零成本切换服务：0元调用、0元训练、0元迁移、0元服务。阿里的通义千问，则公布OpenAI用户迁移方案，号称提供最具性价比的中国大模型替代方案，包含2200万免费tokens和专属迁移服务。通义千问GPT4级主力模型Qwen-plus，在阿里云百炼上的调用价格为0.004元/千tokens，仅为GPT—4的50分之一。月之暗面则表示，他们从一开始就兼容OpenAI的API，开发者直接替换成月之暗面的AIP Key，即可直接使用，平滑迁移。未来，中国恐怕会成为大语言模型开源世界最大的贡献者。就类似于当年 阿里巴巴 给 Apache 做的那些贡献一样。随着时间推移，开源模型的性能，有机会越来越接近OpenAI的版本。OpenAI手机当然可能还有更好的东西，但国产大模型的迅速迭代进化，完全足够支撑中国AI应用的发展。本文来自微信公众号“奇偶工作室”（ID:jiou233），作者：一个基哥，36氪经授权发布。]]></description>
+      <guid>https://www.36kr.com/p/2835848107362953</guid>
+      <pubDate>Tue, 25 Jun 2024 23:51:32 GMT</pubDate>
+    </item>
     <item>
       <title>专访OpenAI最大竞争对手：AI发展速度未放缓，可能对人类产生巨大威胁</title>
       <link>https://www.36kr.com/p/2834902402566665</link>
@@ -95,20 +113,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2827938048723459</guid>
       <pubDate>Thu, 20 Jun 2024 10:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>前OpenAI首席科学官苏茨克维再次创业，成立超级智能公司SSI</title>
-      <link>https://www.36kr.com/p/2827713066519043</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2827713066519043</guid>
-      <pubDate>Thu, 20 Jun 2024 06:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>大模型会自己“盗图”？这些坑OpenAI已经踩过了</title>
-      <link>https://www.36kr.com/p/2825224336181508</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2825224336181508</guid>
-      <pubDate>Tue, 18 Jun 2024 12:47:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
