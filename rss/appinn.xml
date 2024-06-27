@@ -4,7 +4,39 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 06:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:29:52 GMT</lastBuildDate>
+    <item>
+      <title>怎么无损迁移浏览器的数据？</title>
+      <link>https://meta.appinn.net/t/topic/58131</link>
+      <description><![CDATA[我系统重装完了，便携的软件拿过去简单设置一下就行了，但浏览器为什么我直接搬数据文件夹之后就会出错？Chrome是能进去有书签，但是Cookie密码插件都没了，FireFox是压根进不去，要我重新创建一个用户。
+Chrome：“AppData\Local\Google\Chrome\User Data”
+FireFox：“AppData\Roaming\Mozilla”
+我搬的就是这里两个文件夹，是我搬错了，还是哪里需要设置？有其他的进行备份然后导入的方法嘛？尽量不想要用帐号同步，之前有过奇怪的Bug，同步把我全同步没了。多谢。
+
+更新，帐号同步不带Cookie，我的感觉，不如重开。现在打算想办法做便携，不知道拿别人做好的，放自己的数据进去行不行。
+18 个帖子 - 8 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/58131</guid>
+      <pubDate>Thu, 27 Jun 2024 10:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>盲盒APP怎么推广啊，好汉们有方法吗？</title>
+      <link>https://meta.appinn.net/t/topic/58128</link>
+      <description><![CDATA[手搓产品：顽客密盒
+苹果商店：顽客密盒
+安卓商店：顽客密盒
+问题：怎么推广盲盒APP
+顽客密盒介绍：
+1.主要玩法：付款抽盲盒-获得物品-物品价值不会低于抽盒价格
+2.抽到的物品可以选择发货，也可以选择兑换成价格90%水晶,水晶可以抵扣钱抽盲盒。
+现在推广太难了，抖音，快手，腾讯广告都要20w保证金。 平台也不让直播
+诉求：有推广渠道的可以留言
+互相成全
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/58128</guid>
+      <pubDate>Thu, 27 Jun 2024 08:40:34 GMT</pubDate>
+    </item>
     <item>
       <title>还有没有类似于 二管家 的扩展呢？</title>
       <link>https://meta.appinn.net/t/topic/58114</link>
@@ -510,53 +542,6 @@ weixin12306.com
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57685</guid>
       <pubDate>Sat, 15 Jun 2024 02:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>【 App 自荐】：Arrrt-随身艺术馆——每天邂逅一幅世界名画</title>
-      <link>https://meta.appinn.net/t/topic/57666</link>
-      <description><![CDATA[
-App Store 佳作回顾
-App Store 本周编辑推荐
-App Store 首页一周热门、一周速递、专题推荐
-
-【苹果下载体验】
-【安卓可在各应用商店搜索下载或点击链接跳转下载体验】
-【每日名画】
-从巴洛克到抽象主义，从学院派到印象派，从文人画到浮世绘…和丰富多元的艺术经典不期而遇。
-【画作详情】
-中文编辑精心撰写，分享画作背后的理念、风格、故事，让艺术鉴赏融入日常。
-【专题与收藏】
-左滑进入「专题」，按流派、题材等多种维度探索艺术世界；右滑进入「我的」，查看个人画作收藏。
-【桌面小组件】
-每日更新精美画作，为你的手机桌面带来艺术气息。
-【Arrrt PRO】
-解锁全部画作、查看完整专题、下载高清名画、专享艺术图标……尽享艺术之美。
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57666</guid>
-      <pubDate>Fri, 14 Jun 2024 10:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】 Polaroidy：为你的照片添加极简边框和底部签名文字，让你摄影作品更专业</title>
-      <link>https://meta.appinn.net/t/topic/57651</link>
-      <description><![CDATA[摄影佬狂喜
-品尝地址：https://polaroidy.iwhy.dev/
-定义：为你的照片添加极简边框和底部签名文字，让你摄影作品更专业
-其他功能：
-提取摄影参数，倍加专业
-
-截图
-
-
-成品图
-
-
-品尝地址：https://polaroidy.iwhy.dev
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57651</guid>
-      <pubDate>Fri, 14 Jun 2024 06:19:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
