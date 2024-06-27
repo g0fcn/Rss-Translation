@@ -4,7 +4,25 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Jun 2024 15:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 03:20:29 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI拒绝中国开发者，“百模大战”全面进入下半场</title>
+      <link>https://www.36kr.com/p/2836784191937411</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2836784191937411</guid>
+      <pubDate>Wed, 26 Jun 2024 23:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>国产大模型零成本拼抢OpenAI断供API服务空白</title>
+      <link>https://www.36kr.com/p/2836817020455560</link>
+      <description><![CDATA[ OpenAI, API服务, 中国, 模型厂商, 迁移计划
+
+
+总结: 美国人工智能企业OpenAI宣布终止对中国提供API服务，导致国内模型厂商推出针对OpenAI迁移用户的API服务计划。阿里云、百度等公司推出免费迁移服务和优惠方案，竞争激烈。国内模型厂商表示技术能力逼近OpenAI，并提供更具性价比的大模型服务。为了吸引用户，价格战可能会进一步升级。同时，尽管OpenAI对中国市场的影响有限，国内大模型在各方面已经具备竞争力。 
+OpenAI官方数据显示，目前其提供的API服务共支持161个国家和地区，中国大陆和中国香港不在服务范围内。这意味着，OpenAI将终止对中国提供API服务。 6月25日，美国人工智能企业OpenAI向开发者们推送了一封“警示”邮件。邮件显示，自7月9日起，OpenAI将开始阻止来自非支持国家和地区的API（一般指应用程序编程接口）流量。受影响组织若希望继续使用OpenAI的服务，必须在OpenAI支持的国家和地区内访问。OpenAI官方数据显示，目前其提供的API服务共支持161个国家和地区，中国大陆和中国香港不在服务范围内。这意味着，OpenAI将终止对中国提供API服务。 01某国产智能应用厂商技术负责人向经济观察网介绍，中国的应用开发者们多通过OpenAI套壳以后提供的API或者微软云提供的API体验相关服务。 “想绕过OpenAI的检查，有很多可能性。”上述应用厂商技术负责人表示，OpenAI的API服务虽然“断供”中国，但目前仍可使用其他第三方中转方案，例如调用接口服务器在其他区域间接调用OpenAI的API。但未来这一方法还是否可行，不得而知。 专注AI领域的新加坡投资机构Vibranium Consulting副总裁陈沛称，“警示”邮件并非OpenAI出台的新政策，而是专门加强了检查措施和封禁警告的结果。 陈沛注意到，美国财政部最近起草了对外投资限制规则的草案，在相关征求意见中，把用于某些用途的AI系统列为禁止对外投资的项目，从而进一步加强出口限制。另外，最近AI研究领域发现可以通过API访问套取商业模型Embedding(一种将文本数据转换为高维向量表示的技术)的参数，Bert架构的模型是重灾区。 陈沛认为，OpenAI的GPT并不排除被盗取参数的可能，大方向的要求以及出于模型安全的考虑，让OpenAI在这个时候继续强化它的地区限制政策。 02在OpenAI发出“警示”邮件后，国产模型厂商们闻风而动，相继推出了可供应用开发者丝滑迁移的API服务。 6月25日下午，阿里云不仅宣布为中国开发者提供2200万免费Tokens和专属迁移服务，还通过斯坦福公布的大模型测评榜单，反映通义千问主力模型Qwen-plus性能达到GPT-4级别，且API接入价格仅为GPT-4的1/50。 之后，百度、智谱AI、零一万物等模型厂商也相继发布了针对OpenAI迁移用户的API调用计划。 智谱AI将应对动作命名为“面向OpenAI API用户提供特别搬家计划”，通过API适配让开发者将OpenAI模型接口切换到具备等价功能的智谱AI系列模型中。 “我们有迁移培训，搬家顾问，还有合规培训等各种丰富支持。”一位智谱AI内部人士称，用户迁移看似简单，但涉及到提示词等内容的适配，还需要一些工作。 某云厂商AI业务负责人于游表示，一些模型厂商提供迁移方案背后，仍存在一定的问题，例如，不同模型的推理能力和性能表现不一样，这会成为开发者和应用厂商备份API时的关键考量。 在浙江大学计算机系统结构实验室从事大模型相关研究工作的陈天楚认为，现有头部应用多是基于自研模型或国产模型开发，OpenAI的API服务不可用，对应用开发造成的影响并不算大，目前接入国内头部模型的API，在中文日常任务上的服务都不差。 不只是阿里云在迁移服务信息中大秀模型肌肉，上述智谱AI内部人士称，在技术方面，国内目前一线水平的大模型能力已经全面逼近OpenAI，甚至在很多中文任务能力方面还有超越；在成本方面，国内大模型价格远低于OpenAI。 03为争抢从OpenAI搬家的用户，国产模型厂商的价格战可能升级。 6月25日下午，由李开复创立的AI大模型企业零一万物推出了二折平替GPT-4o的计划，在其模型服务替换方案中，高性能的关键词后紧跟着的词语是性价比。 百度则宣布0成本让OpenAI用户切换至旗下大模型平台，不仅为迁移用户提供免费模型精调训练服务、零成本SDK迁移工具和免费专家服务，还额外赠送与OpenAI使用规模对等的旗舰模型5000万Tokens。 本文来自微信公众号“经济观察报”（ID:eeo-com-cn），作者：钱玉娟，36氪经授权发布。]]></description>
+      <guid>https://www.36kr.com/p/2836817020455560</guid>
+      <pubDate>Wed, 26 Jun 2024 23:27:24 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI在国内的两条应用之路走不通了？</title>
       <link>https://www.36kr.com/p/2836445941074567</link>
@@ -99,20 +117,6 @@ OpenAI突然宣布停止在中国大陆地区的API服务，引发了开发者�
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2831844549019913</guid>
       <pubDate>Sun, 23 Jun 2024 06:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4o一夜被赶超，Anthropic推出Claude 3.5，网友3分钟克隆马里奥游戏</title>
-      <link>https://www.36kr.com/p/2829417932769795</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2829417932769795</guid>
-      <pubDate>Fri, 21 Jun 2024 11:18:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>「期货大王」OpenAI，正在被全面超越？</title>
-      <link>https://www.36kr.com/p/2829333653658504</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2829333653658504</guid>
-      <pubDate>Fri, 21 Jun 2024 09:32:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
