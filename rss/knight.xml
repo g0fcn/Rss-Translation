@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 21 Jun 2024 15:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:29:34 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity AI、Robots.txt 及其他问题</title>
+      <link>https://rknight.me/blog/perplexity-ai-robotstxt-and-other-questions/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/perplexity-ai-robotstxt-and-other-questions/</guid>
+      <pubDate>Fri, 28 Jun 2024 11:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>向 Eleventy 添加 Github 风格的 Markdown 提醒</title>
       <link>https://rknight.me/blog/adding-githubstyle-markdown-alerts-to-eleventy/</link>
@@ -213,29 +220,6 @@ Dean 指出，我用于打开常用文件夹的脚本是不必要的，因为 Ra
 ]]></description>
       <guid>https://rknight.me/blog/slash-pages/</guid>
       <pubDate>Wed, 22 May 2024 20:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>KnightCMS：只为我</title>
-      <link>https://rknight.me/blog/knightcms-just-for-me/</link>
-      <description><![CDATA[一段时间以来，我一直在基于我的工作流程，规划我的神话 CMS。我知道它需要什么功能。我知道我希望它如何工作。我还没能想出如何让它为其他人人工作。配置是如何工作的？它是托管的吗？付费的吗？开源的吗？设置起来难吗？
-我看过Pages和Decap，它们在基本功能上都做得很好（理论上），但它们没有我想要的高级功能，例如媒体查找和一些围绕更改日志的自定义内容。他们还与 Netlify、CloudFlare 和其他类似服务紧密联系，以运行无服务器功能。我只想在我的服务器上运行东西。话虽如此，Pages 确实非常适合标准网站。
-您知道什么真正擅长按需运行东西并且易于部署在任何服务器上吗？PHP。
-我已经做出决定。我不是为其他人构建它。代码将放在 GitHub 上供人们查看、从中汲取灵感、了解它是如何工作的，但它不会是一个“只需输入密钥，它就会为您工作”的项目。
-我为使其灵活而付出的任何努力都会导致两个问题：
-
-这将花费更长的时间。每个功能，尤其是媒体查找，都需要考虑该人是否拥有 API 密钥，并处理如果没有可用密钥的情况。如果有人喜欢不同的标题大写系统怎么办？[1]如果有人想将他们的 posts_like_this 变成 slugify 怎么办？
-这会将其变成我需要维护的东西，合并拉取请求，在 GitHub 上回答问题，以及制作其他人可以使用的东西所带来的所有乐趣。
-
-KnightCMS 将只为我而设，并且完全按照我希望的方式工作。我很想构建一个适合所有人的花哨 CMS，但这不会发生。让我们让亚当试一试。
-
-
-
-我没有最喜欢的，但我敢打赌有人有。⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/knightcms-just-for-me/</guid>
-      <pubDate>Wed, 22 May 2024 07:36:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
