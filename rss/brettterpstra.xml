@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Jun 2024 21:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 03:18:11 GMT</lastBuildDate>
+    <item>
+      <title>黑曜石标注</title>
+      <link>https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked</guid>
+      <pubDate>Fri, 28 Jun 2024 00:17:00 GMT</pubDate>
+    </item>
     <item>
       <title>Markdown 唇形图 v2</title>
       <link>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</link>
@@ -347,41 +354,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</guid>
       <pubDate>Thu, 25 Apr 2024 18:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 4 月 22 日网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</link>
-      <description><![CDATA[ Google Cemetery, figlet/toilet ascii art, BetterTouchTool MacOS automation, Marked plugin for Obsidian, NordVPN
-总结:Google Cemetery提供了Google终止的产品列表，其中可能有一些你从未听说过的产品。xero提供了大量figlet/toilet ascii艺术字体。BetterTouchTool是一个可以用JavaScript进行MacOS自动化的工具。作者制作了一个适用于Obsidian的Marked插件。NordVPN不仅可以保护你的网络浏览安全，还可以让你的IP地址看起来来自任何国家。 
-
-
-
-
-
-
-Web excursions brought to you in partnership with NordVPN. Secure your internet browsing effectively and affordably.
-
-Google Graveyard - Killed by Google
-
-
-Killed by Google is the Google Graveyard. A full list of dead products killed by Google in the Google Cemetery. Up-to-date and shocking in scope. I bet there are a few on here you’d never even realized were a thing.
-
-
-xero/figlet-fonts
-A huge collection of figlet/toilet ascii art fonts from xero.
-btt.js
-BetterTouchTool MacOS automation in JS. I haven’t played with this yet but it looks really fun. Let me know if you take it for a spin.
-ttscoff/Marked2-obsidian
-I made a Marked plugin for Obsidian. It’s my first try and I really don’t know what I’m doing, but it seems to work perfectly. Waiting for it to be included in the Community Plugins for easy install (which could have happened by the time this goes live), but you can install from the source if you’re anxious.
-
-NordVPN secures your internet browsing, plus it can make it look to services like you’re coming from any country. Check it out today.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16657056/web-excursions-for-april-22-2024</guid>
-      <pubDate>Mon, 22 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
