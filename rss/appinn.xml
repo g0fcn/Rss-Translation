@@ -4,7 +4,40 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 15:17:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 15:16:33 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】一款利用 Markdown 编辑微信公众号文章的浏览器插件</title>
+      <link>https://meta.appinn.net/t/topic/58224</link>
+      <description><![CDATA[* 【开发者自荐】一款利用 Markdown 编辑微信公众号文章的浏览器插件
+
+首先我是站在巨人的肩膀上，改造优化而来的。将原来的开源项目改造成插件形式，且打通了公众号素材库。
+
+插件主页
+
+微信公众号文章Markdown 编辑器
+
+
+Markdown编辑器
+公众号自带的富文本编辑器排版并不如意，最近在使用的一款产品可以通过Markdown形式编写文章，实时预览，排版精美的，通过复制就可以到官方的编辑器中进行发布。 微信 Markdown 编辑器 | Doocs 开源社区
+关于图床的使用
+原来的web项目提供了多种图床的接入，唯独没有接入公众号自带的素材库。一番调研之下，关于如何对接公众号素材库，以及一些常见的问题如下
+
+可以使用openapi对接公众号素材库
+使用openapi需要后台服务，如果没有可能会遇到跨域问题
+公众号返回的链接做了防盗链处理
+
+在不引入后台服务的情况下，是可以通过浏览器插件形式解决这些问题的，利用浏览器插件的Headless形式，可以解决跨域及防盗链的问题。
+改造情况
+openapi接口， 素材管理 / 新增永久素材 
+使用wxt.dev开发框架
+具体的改造过程，在我的公众号文章中有提及， 在线Markdown编辑器使用微信公众号素材库
+使用过程
+参考教程， 使用教程
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/58224</guid>
+      <pubDate>Sun, 30 Jun 2024 13:36:07 GMT</pubDate>
+    </item>
     <item>
       <title>怎么无损迁移浏览器的数据？</title>
       <link>https://meta.appinn.net/t/topic/58131</link>
@@ -175,7 +208,7 @@ chromewebstore.google.com
 
 
 
-功能
+的功能
 2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57859</guid>
@@ -501,47 +534,6 @@ AppStore | MassMail
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/57760</guid>
       <pubDate>Mon, 17 Jun 2024 11:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】地图相似度 - 一键快速搜索相似地图</title>
-      <link>https://meta.appinn.net/t/topic/57685</link>
-      <description><![CDATA[软件名称
-地图相似度
-应用平台
-
-微信小程序
-
-推荐类型
-【开发者自荐】
-一句简介
-这是一个微信小程序，通过选择指定的地图，可以查找与此地图相似形状的其他地图。
-应用特性
-
-极简界面，操作简单
-完全免费
-
-截图预览：
-
-
-官方网站
-
-
-
-weixin12306.com
-
-
-地图相似度 - 一键搜索相似的地图
- 轻松发现相似地图！利用我们的智能地图搜索功能，快速找到与您所选地图匹配的地图，使您的搜索更加高效。立即尝试这一便捷特性，解锁地图探索的新境界！
-
-
-
-
-
-
-7 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/57685</guid>
-      <pubDate>Sat, 15 Jun 2024 02:44:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
