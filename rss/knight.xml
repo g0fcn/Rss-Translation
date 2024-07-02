@@ -4,7 +4,31 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Jun 2024 15:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 12:28:30 GMT</lastBuildDate>
+    <item>
+      <title>似乎 Perplexity 还不够糟糕，他们还热链接图片</title>
+      <link>https://rknight.me/blog/as-if-perplexity-didnt-suck-enough-theyre-also-hotlinking-images/</link>
+      <description><![CDATA[ Perplexity, robots.txt, prompt injection, hotlinking, nginx
+
+要点1: Perplexity忽视了robots.txt规则，不仅爬取网站内容，还在他们的服务器上请求图像，浪费带宽，并造成额外成本。
+要点2: Perplexity的做法让作者感到愤怒，认为他们不尊重规则，还在盗用别人的带宽。
+要点3: 作者提供了Nginx的解决方案，在请求Perplexity AI的图像时重定向到特定图片，表达愤怒情绪。
+要点4: 作者并不直接在自己的域上托管许多图片，因此Nginx的解决方案对他并不适用，但Bunny可能有一种能解决这个问题的方法。
+要点5: 总结：作者对Perplexity的行为感到愤怒，并表达了对其的不满。希望他们能尊重他人的劳动成果和资源，并不要再侵犯他人的利益。 
+Ben has an excellent post expanding on my findings about Perplexity ignoring robots.txt. He also digs into the various ways prompt injection does and doesn&#39;t work. The entire post is well worth your time but this part really jumped out at me:
+
+When I searched about creating an end for our sofa, Perplexity hotlinked some photos from that post which resulting in my browser requesting them from my server.
+They&#39;re wasting my bandwidth to serve content to their users. For many sites, there&#39;s a tangible cost associated with every byte served - they are literally costing me money (albeit a small amount)
+
+So not only can&#39;t they be trusted to follow the de facto rules about scraping websites, they&#39;re also hotlinking? Can they not spare any of the millions of dollars they&#39;ve raised to actually cache the images they&#39;re serving up. &quot;Might as well just use someone else&#39;s bandwidth&quot;. Dickheads.
+Ben offers a solution to this for nginx, replacing any request for an image from them with an image stating &quot;perplexity just tried to steal my image and my bandwidth&quot;:
+location ~*  \.(jpg|jpeg|png|gif|ico|bmp)$ {    # Redirect image fetches from Perplexity AI    if ($http_referer = &quot;https://www.perplexity.ai/&quot;){        rewrite (.*) path/to/image/perplexity_ai.jpg redirect;    }}
+I don&#39;t host many images directly on this domain but rather put them on Bunny CDN so nginx won&#39;t help me here. Thankfully, Bunny has a way to block specific referrers. I don&#39;t get to do a funny image but this is close enough.
+
+I know I said my last post would be my final word but this really pissed me off. So once again, fuck you Perplexity.]]></description>
+      <guid>https://rknight.me/blog/as-if-perplexity-didnt-suck-enough-theyre-also-hotlinking-images/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>Perplexity AI、Robots.txt 及其他问题</title>
       <link>https://rknight.me/blog/perplexity-ai-robotstxt-and-other-questions/</link>
@@ -196,30 +220,6 @@ Dean 指出，我用于打开常用文件夹的脚本是不必要的，因为 Ra
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/trying-raycast-part-two/</guid>
       <pubDate>Thu, 23 May 2024 07:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>斜线页面</title>
-      <link>https://rknight.me/blog/slash-pages/</link>
-      <description><![CDATA[
-不关心背景故事？去看看 slashpages.net。
-在哄小骑士睡觉的时候，我想到了一个项目：一个网站，作为您可以添加到网站的不同斜线页面的指南。
-“Slash pages”是 Shellsharks 创造的一个短语，当时我将 /uses 之类的页面称为“sitelets”，这不是一个好名字。他们还帮助我想出了一个很好的描述：
-
-斜线页面是您可以添加到网站的常见页面，通常带有标准的根级 slug，如 /now、/about 或 /uses。它们往往描述网站背后的个人，是 IndieWeb 的显著特征。
-
-我设法为它抢到了一个不错的域名[1]，为了将网站整合在一起，我当然使用了 Eleventy。创建斜线页面的集合，并在主页上呈现它们。非常简单。
-我能够使用一些我以前没有用过的新 CSS，包括 wavy 文本装饰和 ::first-letter。后者的注意事项是“首字母”也包括任何标点符号。因此 /u 都将在元素中与 /uses 的内容一起设置样式。为了解决这个问题，我添加了一个空的 span，这会导致 ::first-letter 仅突出显示 /:
-&lt;style&gt; p { color: #cd064d; &gt; p::first-letter { 颜色: #ccc; &gt;&lt;/样式&gt;&lt;p 类=&quot;首字母&quot;&gt; /&lt;span&gt;&lt;/span&gt;用途&lt;/p&gt;
-该网站的源代码位于GitHub上，您可以在slashpages.net。
-
-
-
-我想要 slash.page，但很遗憾已经被占用了 ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/slash-pages/</guid>
-      <pubDate>Wed, 22 May 2024 20:21:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
