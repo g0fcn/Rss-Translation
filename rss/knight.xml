@@ -4,7 +4,28 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 02 Jul 2024 15:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:30:14 GMT</lastBuildDate>
+    <item>
+      <title>使用 Fediverse 创作者标签突出新闻报道</title>
+      <link>https://rknight.me/blog/highlighting-journalism-with-the-fediverse-creator-tag/</link>
+      <description><![CDATA[ Mastodon, support, author, link, addition
+
+要点: Mastodon 4.3 添加了支持链接作者的功能；这个功能可以通过标签显示作者的资料；第三方客户端可以使用这个数据显示作者信息；该功能目前只适用于经过审核的网站；未来计划将这个功能扩展到所有网站。
+总结: Mastodon 4.3添加了支持识别链接作者的功能，这将使用户能够直接跳转到共享链接的作者，非常实用。 
+Mastodon 4.3 adds support for a newly proposed OpenGraph tag to identify the creator of the link, which looks like this:
+&lt;meta property=&quot;fediverse:creator&quot; content=&quot;@robb@social.lol&quot; /&gt;
+Mastodon (and hopefully other places in the future) will use this tag to display the author&#39;s profile below a shared link like so:
+
+This additional data is also included in the card object as authors of the status API so third party clients can use this to display it in their apps as well:
+&quot;card&quot;: {	&quot;url&quot;: &quot;https://www.macstories.net/stories/ai-companies-need-to-be-regulated-an-open-letter-to-the-u-s-congress-and-european-parliament/&quot;,&quot;title&quot;: &quot;AI Companies Need to Be Regulated: An Open Letter to the U.S. Congress and European Parliament&quot;,	// the rest of the card data	&quot;authors&quot;: [        {            &quot;account&quot;: {                &quot;id&quot;: &quot;109519808056877508&quot;,                &quot;username&quot;: &quot;johnvoorhees&quot;,                &quot;acct&quot;: &quot;johnvoorhees@macstories.net&quot;,		        // the rest of the author data            }	    }    ]}
+I added support for this to MacStories a couple of weeks back for all posts and I&#39;ve added it to my site for when this becomes available for more sites. This won&#39;t work for my site for now though:
+
+the feature will only show up for links to moderator-approved websites. In the future we would like to make the feature available to all without a manual review process
+
+I really like this addition though; being able to jump directly to the author of a shared link is going to be really handy.]]></description>
+      <guid>https://rknight.me/blog/highlighting-journalism-with-the-fediverse-creator-tag/</guid>
+      <pubDate>Wed, 03 Jul 2024 12:56:44 GMT</pubDate>
+    </item>
     <item>
       <title>似乎 Perplexity 还不够糟糕，他们还热链接图片</title>
       <link>https://rknight.me/blog/as-if-perplexity-didnt-suck-enough-theyre-also-hotlinking-images/</link>
@@ -213,13 +234,6 @@ Dean 指出，我用于打开常用文件夹的脚本是不必要的，因为 Ra
 最后Dave 向我指出 音板扩展，我可以将其用于我的 Brian Butterfield 音板。]]></description>
       <guid>https://rknight.me/blog/raycast-follow-up/</guid>
       <pubDate>Fri, 24 May 2024 07:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试 Raycast：第二部分</title>
-      <link>https://rknight.me/blog/trying-raycast-part-two/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/trying-raycast-part-two/</guid>
-      <pubDate>Thu, 23 May 2024 07:26:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

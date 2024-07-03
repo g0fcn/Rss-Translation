@@ -4,7 +4,14 @@
     <title>少数派 -- 首页</title>
     <link>https://sspai.com</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jul 2024 09:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:31:39 GMT</lastBuildDate>
+    <item>
+      <title>见光不见灯之我见：聊聊家庭光照设计</title>
+      <link>https://sspai.com/post/89609</link>
+      <description><![CDATA[]]></description>
+      <guid>https://sspai.com/post/89609</guid>
+      <pubDate>Wed, 03 Jul 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等</title>
       <link>https://sspai.com/post/90168</link>
@@ -92,13 +99,6 @@ Meta更新平台内AI信息标注，替代了原来的Made with AI图片标记�
       <description><![CDATA[]]></description>
       <guid>https://sspai.com/post/90066</guid>
       <pubDate>Sun, 30 Jun 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence 面面观：「果味」模型是怎样炼成的？</title>
-      <link>https://sspai.com/post/90042</link>
-      <description><![CDATA[]]></description>
-      <guid>https://sspai.com/post/90042</guid>
-      <pubDate>Fri, 28 Jun 2024 09:57:58 GMT</pubDate>
     </item>
     <item>
       <title>自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题</title>
