@@ -4,7 +4,7 @@
     <title>少数派 -- 首页</title>
     <link>https://sspai.com</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jul 2024 06:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 09:18:40 GMT</lastBuildDate>
     <item>
       <title>派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等</title>
       <link>https://sspai.com/post/90168</link>
@@ -80,6 +80,13 @@ Meta更新平台内AI信息标注，替代了原来的Made with AI图片标记�
       <pubDate>Mon, 01 Jul 2024 01:01:38 GMT</pubDate>
     </item>
     <item>
+      <title>万字解读 Heptabase，如何用白板+卡片记笔记？</title>
+      <link>https://sspai.com/post/90069</link>
+      <description><![CDATA[]]></description>
+      <guid>https://sspai.com/post/90069</guid>
+      <pubDate>Sun, 30 Jun 2024 08:43:13 GMT</pubDate>
+    </item>
+    <item>
       <title>一年过半，给去年值得一听的专辑查缺补漏</title>
       <link>https://sspai.com/post/90066</link>
       <description><![CDATA[]]></description>
@@ -92,13 +99,6 @@ Meta更新平台内AI信息标注，替代了原来的Made with AI图片标记�
       <description><![CDATA[]]></description>
       <guid>https://sspai.com/post/90042</guid>
       <pubDate>Fri, 28 Jun 2024 09:57:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周看什么 | 最近值得一看的 8 部作品</title>
-      <link>https://sspai.com/post/90039</link>
-      <description><![CDATA[]]></description>
-      <guid>https://sspai.com/post/90039</guid>
-      <pubDate>Fri, 28 Jun 2024 09:54:17 GMT</pubDate>
     </item>
     <item>
       <title>自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题</title>
