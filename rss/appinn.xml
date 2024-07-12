@@ -4,7 +4,14 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 10 Jul 2024 12:30:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 15:16:25 GMT</lastBuildDate>
+    <item>
+      <title>PixelPic - 像素化/像素风格/像素画/像素艺术</title>
+      <link>https://meta.appinn.net/t/topic/58666</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/58666</guid>
+      <pubDate>Fri, 12 Jul 2024 13:32:56 GMT</pubDate>
+    </item>
     <item>
       <title>【炸裂新闻】Affinity将免费延长试用期至六个月（实验性）</title>
       <link>https://meta.appinn.net/t/topic/58577</link>
@@ -477,21 +484,6 @@ Mac App Store
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/43788</guid>
       <pubDate>Thu, 18 May 2023 13:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>远离macOS venture 保平安</title>
-      <link>https://meta.appinn.net/t/topic/42631</link>
-      <description><![CDATA[电脑到手系统就是13.2, 用了不到一个月升级到了13.3,自认为是Mac老用户了,啥疑难杂症都见过,也是一直把Mac做主力机,这个13的系统差点让我完全对m1失去好感.
-先说macOS的老bug,连接Wi-Fi无法获取ip地址,这个重启configd进程可以解决,不行就重启,或者创建网络位置或设置固定IP,13的系统居然到13.2.1才把网络位置功能给加回来,这个网络位置功能也是鸡肋,主要就是用来解决网络错误的,还不如可以让每个不同名字的Wi-Fi可以单独设置IP地址,这样就一劳永逸的解决Mac上面的万年bug.
-其次就是扬声器杂音的问题,这个问题好像对m1的电脑情有独钟,纯系统bug,重启电脑或者coreaudiod进程可以临时修复,但是过段时间还是会有,跟Safari有关但不全是他的问题,只开apple music和其他软件也会出现,退出ios转制软件一般会出现很短的尖锐杂音,怀疑可能是混音的bug,就是系统处理多个软件发音时出现的问题.
-再有就是休眠续航,合上盖子一般会一晚掉电20%,这还是不如五年前intel的本子,我知道肯定是bug,如果只有几个软件续航还是正常的,那这样我为什么不关机.
-我从Yosemite一路用过来,big sur之后只把Catalina作为主用系统, 12的系统也用过但是没出现这么多问题(intel),看13这个UI大改我想这是iOS开发团队彻底接手macOS的一次大手术,重装12的系统扬声器杂音和续航问题都正常了,现在用个Mac还得观望看那个版本比较稳,我想得等个两三年才会考虑用新版的系统,这样bug应该修的差不多了,还好我是手提电脑用户,没有这个触控板加成的话,PC还是Windows更加好一点,反正也不用担心续航.
-我很好奇那些自媒体怎么没一个人提这些问题,扬声器杂音这个问题至少存在了三年,m1这个又是一种新的症状,网络那个问题我想应该是无望了,十年就有的问题了,iOS甚至也会出现一样的问题,几个月没关机的话.
-用个mac还得具备一身技能,希望intel的移动端cpu和windows给力点,MacBook这个样子还真不敢随便推荐人用,已经是老用户了这些问题也有办法避免.以我多年的使用经验macOS无非部分功能更加优雅一点,Windows没有哪样做不了,搞跨平台开发的话WSL更加是秒杀虚拟机,直到现在macOS才有一个类似的产品orbstack,过了内测收费还不便宜,Xcode更加不用说了,狗屎中的狗屎ide,问题一张嘴都说不完.
-8 个帖子 - 7 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/42631</guid>
-      <pubDate>Tue, 11 Apr 2023 03:58:49 GMT</pubDate>
     </item>
     <item>
       <title>DaisyDisk - 磁盘空间扫描工具：找出了 macOS 系统数据中的 269.4GB 垃圾文件，来自 APFS 快照文件</title>
