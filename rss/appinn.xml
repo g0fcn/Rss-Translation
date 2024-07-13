@@ -4,7 +4,33 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 13 Jul 2024 09:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 12:27:41 GMT</lastBuildDate>
+    <item>
+      <title>uBlock Origin的临时移除元素模式有没连续操作的快捷键？</title>
+      <link>https://meta.appinn.net/t/topic/58689</link>
+      <description><![CDATA[起因是这个问题：
+
+
+
+如何编辑知乎的帖子以收藏 问题求助❓
+
+
+    想要收藏知乎的帖子，准备用F12删除多于的元素后用SingleFile保存。 
+但是总是编辑了一半知乎就自动跳转页面，显示： 
+
+出了一点问题 
+我们正在解决 
+
+请问有什么办法禁止其跳转吗？要去分析起作用的脚本？
+  
+
+
+后来想起了uBlock Origin扩展有临时移除元素模式，如果能够连续点击，那就可以当作移除元素的扩展使用了，请问这个扩展支持吗？
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/58689</guid>
+      <pubDate>Sat, 13 Jul 2024 08:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>探索一种长期可靠的笔记方案</title>
       <link>https://meta.appinn.net/t/topic/58684</link>
@@ -352,69 +378,6 @@ text: 你想显示的内容 seconds: 显示内容持续的时间
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/46691</guid>
       <pubDate>Mon, 21 Aug 2023 12:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一个拟物设计的录音、剪辑App「剪播台」，支持iOS、iPadOS和macOS，如果嫌库乐队太复杂，可以下一个替代。</title>
-      <link>https://meta.appinn.net/t/topic/45030</link>
-      <description><![CDATA[
-软件名称
-剪播台（海外叫Creadio）
-
-应用平台
-iOS、iPadOS、macOS（还在做）
-
-推荐类型
-开发者自荐
-
-一句简介
-一个轻拟物设计的录音、剪辑App「剪播台」，支持iOS、iPadOS和macOS，如果嫌库乐队太复杂，可以下载一个替代玩玩。
-
-应用简介
-整体式是拟物设计，icon比较亮眼，很耐看。
-主要功能就是录音和音频剪辑，录音录完以后可以进行快速的分割删除，而专业剪辑模式则可以进行多轨道剪辑，这里就和传统的多轨道音频编辑软件界面很像了，但简单很多，该有的基础功能都有。
-目前付费功能有字幕识别和静音删除，都是针对播客剪辑的，普通用户可能用不到。
-整体不弹窗，不推送，非需要用不到会员，还是挺清爽的。
-有录音和音频剪辑需求的同学可以玩玩看。
-
-
-
-
-一点点小情怀，写在磁带上的项目名，以及磁带旋转播完的进度展示，充满了90年代的回忆
-
-
-iOS界面：
-
-
- 
-
-
-录音时点亮ON AIR的灯
-
-
-
-
-
-横屏的多轨道剪辑模式
-
-
-iPad上的适配：
-
-
-
-
-
-
-
-
-键盘快捷键
-
-未来还会支持iCloud同步、macOS，以及更多的音频算法，比如歌曲人声删除等。
-官网：https://jianbotai.com/
-AppStore：‎Creadio: Recorder&amp;Audio Editor on the App Store
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/45030</guid>
-      <pubDate>Wed, 28 Jun 2023 03:45:05 GMT</pubDate>
     </item>
     <item>
       <title>Command X - 为 macOS 添加「剪切」快捷键</title>
