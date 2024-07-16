@@ -4,7 +4,32 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 14 Jul 2024 15:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 12:30:27 GMT</lastBuildDate>
+    <item>
+      <title>iPetsCat·宠物猫儿 - 宠物日常记录小管家</title>
+      <link>https://meta.appinn.net/t/topic/58782</link>
+      <description><![CDATA[软件名称
+iPetsCat·宠物猫儿
+应用平台
+iOS
+一句简介
+iPetsCat·宠物猫儿，记录萌宠日常的点点滴滴，珍藏美好瞬间，让爱与陪伴温暖每一天！
+应用简介
+– 日常记录
+吃喝拉撒、玩乐训练、疫苗驱虫、体重变化等日常信息皆可记录，全面了解毛孩子的成长情况，做个最懂TA的铲屎官！
+– 瞬间日记：
+用照片和文字定格每一个特别的时刻，铭刻相伴的珍贵印记。
+– 生日追踪
+实时掌握剩余或已过生日天数，不错过毛孩子每一个特别的日子。
+– 智能提醒
+从饮食起居到健康卫生，每一个重要的日常事项，都能准时提醒。
+App Store
+整理猫儿App Store地址
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/58782</guid>
+      <pubDate>Tue, 16 Jul 2024 08:39:48 GMT</pubDate>
+    </item>
     <item>
       <title>把 Chrome 扩展“Kimi 阅读助手”移植到了 Firefox 上</title>
       <link>https://meta.appinn.net/t/topic/58718</link>
@@ -362,39 +387,6 @@ https://store.lizhi.io/site/products/id/51?cid=jxlwguir
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/48411</guid>
       <pubDate>Fri, 20 Oct 2023 13:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Command X - 为 macOS 添加「剪切」快捷键</title>
-      <link>https://meta.appinn.net/t/topic/43788</link>
-      <description><![CDATA[原始链接在：			Command X - 为 macOS 添加「剪切」快捷键 - 小众软件
-Command X 是一款为 macOS 添加剪切快捷键的小工具。安装之后，就可以对文件、文件夹使用快捷键 Command X 进行剪切，并使用 Command V 粘贴。@Appinn 
-感谢 @Reynard 的推荐。
-macOS 原生剪切功能
-在 macOS 里，针对文件与文件夹，原生不支持直接使用剪切这个功能的，但有将项目移动到这里这个相同的功能：
-
-
-
-https://img.appinn.com/wp-content/uploads/2023/05/ezgif.com-resize-4.mp4
-
-
-所以使用上与 Windows 不同：
-你必须先复制（Command+C），然后移动（Option+Command+V）
-对于经常在双系统间切换的用户来说，会稍有不便。
-Command X – 为 macOS 添加「剪切」快捷键
-Command X 把 Windows 的操作「移植」了过来，让你可以在 Finder 中使用 Command+X 剪切，然后 Command+V 粘贴文件和文件夹。
-只需让程序在后台运行即可。文件和文件夹的移动是由 Finder 处理的，Command X 只是在 Finder 前拦截剪切和粘贴命令，然后模拟复制和移动命令。
-如果你在剪切（ Command+X ）后没有粘贴，就不会发生任何事情，文件会留在原地。
-获取
-
-Mac App Store
-
-当然，如果你习惯了使用 Option+Command+V 来移动文件，完全不需要这货。
-
-原文：https://www.appinn.com/command-x/
-4 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/43788</guid>
-      <pubDate>Thu, 18 May 2023 13:14:46 GMT</pubDate>
     </item>
     <item>
       <title>DaisyDisk - 磁盘空间扫描工具：找出了 macOS 系统数据中的 269.4GB 垃圾文件，来自 APFS 快照文件</title>
