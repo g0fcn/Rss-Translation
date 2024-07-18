@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Jun 2024 06:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 21:14:51 GMT</lastBuildDate>
+    <item>
+      <title>标记为 2.6.39，包含流式预览修复</title>
+      <link>https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes</guid>
+      <pubDate>Thu, 18 Jul 2024 16:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>黑曜石标注</title>
       <link>https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked</link>
@@ -347,13 +354,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16666804/life-after-ithoughts</guid>
       <pubDate>Sun, 28 Apr 2024 22:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>引入标记导体</title>
-      <link>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16664804/introducing-the-marked-conductor</guid>
-      <pubDate>Thu, 25 Apr 2024 18:27:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
