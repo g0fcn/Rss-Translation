@@ -4,7 +4,19 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Mon, 08 Jul 2024 01:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 09:17:00 GMT</lastBuildDate>
+    <item>
+      <title>每个人都可以自由创建网站</title>
+      <link>https://rknight.me/blog/everybodys-free-to-make-websites/</link>
+      <description><![CDATA[ couple, re-worked, video, idea, Baz Luhrmann
+
+couple前几天重新制作了Baz Luhrmann著名作品的歌词，后来产生了制作视频的想法。最终制作了一个视频。总结：couple改编了Baz Luhrmann的作品，产生了做视频的想法。 
+A couple of days ago Sara tooted, then wrote a post, with re-worked words of the Wear Sunscreen essay made famous by Baz Luhrmann.
+Keenan then recorded this over the music and I later had the idea to make a proper video for it, So here it is.
+https://www.youtube.com/watch?v=v5UsuZ4DS_Q]]></description>
+      <guid>https://rknight.me/blog/everybodys-free-to-make-websites/</guid>
+      <pubDate>Thu, 18 Jul 2024 07:37:59 GMT</pubDate>
+    </item>
     <item>
       <title>获取我的游戏收藏页面的成就和奖杯</title>
       <link>https://rknight.me/blog/fetching-achievements-and-trophies-for-my-game-collection-page/</link>
@@ -181,7 +193,7 @@ Baby Knight 吃不够的非常简单的食谱。
     <item>
       <title>从档案中保存的两篇游戏帖子</title>
       <link>https://rknight.me/blog/two-game-posts-saved-from-the-archives/</link>
-      <description><![CDATA[在年鉴上工作以确保所有帖子都包含所需的所有信息和图像时，我发现两篇不太适合的帖子。这两个都是基于 2018 年在 Twitter 上流传的 meme，所以我把它们移到了这里，以便于大家可以轻松找到。
+      <description><![CDATA[在年鉴上工作以确保所有帖子都包含所需的所有信息和图像时，我发现两篇不太适合的帖子。这两个都是基于 2018 年在 Twitter 上流传的 meme，所以我把它们移到了这里，以便于查找。
 #GameStruck4
 这个是在 Twitter 上流传的，我想是来自这篇 Vice 帖子。
 
@@ -208,7 +220,7 @@ Life Is Strange
 根据帖子的注释，我在这里看到了这个模因。
 最喜欢的女性视频游戏角色：Aloy，地平线零之曙光
 一款非常糟糕但又非常好的游戏：Bishi Bashi Special，PS1
-一款触动你内心情感的游戏：Gone Home
+一款触动你内心情感点的游戏：Gone Home
 最喜欢的游戏开发商或工作室：顽皮狗
 最喜欢的电子游戏男角色：萨利机长、神秘海域
 一款很少有人谈论的游戏：暗影记忆、PS2
@@ -222,13 +234,6 @@ Life Is Strange
 你最近玩过的最喜欢的独立游戏：高尔夫故事]]></description>
       <guid>https://rknight.me/blog/two-game-posts-saved-from-the-archives/</guid>
       <pubDate>Sun, 26 May 2024 11:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Karabiner Elements 修复 8BitDo 键盘上的双音量跳跃问题</title>
-      <link>https://rknight.me/blog/fix-double-volume-jump-on-8bitdo-keyboard-with-karabiner-elements/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/fix-double-volume-jump-on-8bitdo-keyboard-with-karabiner-elements/</guid>
-      <pubDate>Sat, 25 May 2024 13:10:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
