@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Jul 2024 12:32:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 15:18:11 GMT</lastBuildDate>
     <item>
       <title>【自荐】Logoer: 无痛替换macOS左上角默认苹果Logo, 个性化你的Mac</title>
       <link>https://meta.appinn.net/t/topic/59098</link>
@@ -428,37 +428,42 @@ ChatGPT for macOS 主要功能
       <pubDate>Wed, 26 Jun 2024 06:44:28 GMT</pubDate>
     </item>
     <item>
-      <title>free - macOS下查询内存状态的软件(类似Linux平台下的free）</title>
-      <link>https://meta.appinn.net/t/topic/51119</link>
-      <description><![CDATA[在linux下，如果需要查看一下内存的状态，大家的首先肯定是free这个命令行小工具。
-但是macOS下，在命令行里查看内存的状态，却没有一个方便的工具。肯定有人会说，你可以使用vm_stat, ps, 或者top，甚至是Activity Monitor，但是这些用起来都有点不尽人意。
-所以我就写了一个小软件，free-for-macOS, 实现了一个macOS下面的free命令。
-项目地址：
+      <title>Balance Lock解决macOS左右声道平衡偏移bug</title>
+      <link>https://meta.appinn.net/t/topic/29316</link>
+      <description><![CDATA[macOS电脑在插入耳机或者USB声卡后，在CPU占用较高时调整音量，将有可能导致左右声道的平衡发生偏移
+一般人第一反应会是去检查耳机接口是否出现了接触不良，但这其实并不是硬件的问题，而是伴随了macOS十几年未修复的软件bug
 
 
 
-GitHub
+mac52ipod.cn
 
 
-
-GitHub - zfdang/free-for-macOS: A memory usage tool for macOS (similar with...
-A memory usage tool for macOS (similar with &#39;free&#39; in Linux) - GitHub - zfdang/free-for-macOS: A memory usage tool for macOS (similar with &#39;free&#39; in Linux)
-
+一个存在了 16 年没修复的苹果电脑 bug：CPU 负荷很高时左右声道平衡可能会改变 - 苹果fans博客
+前几天看到 @Ratoo 的一条吐槽：[code]今天终于知道，macOS 声道平衡突然在没有修改的情况下自己偏左或偏右是一个 Mac OS X 10.2 时期就存在，至今超过 16 年的 bug …… 在处理器高负荷的情况下反复按音量键就会导致声道平衡被改变。当年差点以为 MacBook 耳机接口出问题。[/code]网上的讨论可以溯源到这篇 2006 年......苹果fans博客
 
 
 
 
-一个输出的例子：
-❯ free -h
-               total           used           free         cached            app          wired
-Mem:        32.00 GB       22.31 GB      615.83 MB        9.09 GB       17.80 GB        2.31 GB
-Swap:         0.00 B         0.00 B         0.00 B
 
-希望对大家能有帮助，呵呵
-1 个帖子 - 1 位参与者
+
+
+
+zhihu.com
+
+
+Mac OS X 的左右声道平衡经常变动，可能是什么原因导致的？ - 知乎
+所谓的左右声道平衡，就是左右耳听到声音的轻重。默认是居中（可在“系统偏好设置-声音-输出”查看），但…
+
+
+
+
+
+Balance Lock可以在该bug被触发时，在后台自动将macOS的声像恢复至预设的位置
+https://apps.apple.com/cn/app/balance-lock/id1019371109
+5 个帖子 - 5 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/51119</guid>
-      <pubDate>Fri, 05 Jan 2024 06:47:39 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/29316</guid>
+      <pubDate>Thu, 20 Jan 2022 05:14:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
