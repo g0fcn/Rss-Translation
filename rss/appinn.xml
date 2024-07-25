@@ -4,7 +4,88 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Jul 2024 06:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 12:30:18 GMT</lastBuildDate>
+    <item>
+      <title>macOS屏保“怀旧冲印照片”有没有windows上的屏保复刻或者网页复刻</title>
+      <link>https://meta.appinn.net/t/topic/59225</link>
+      <description><![CDATA[想要在windows上实现“怀旧冲印照片”类型的屏保，有上下两层照片，整体会有旋转和平移；效果如图；
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/59225</guid>
+      <pubDate>Thu, 25 Jul 2024 09:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>【送码】香芋壁纸一款壁纸软件，主打一个简单，ios设备可实现自动更换壁纸的功能</title>
+      <link>https://meta.appinn.net/t/topic/59222</link>
+      <description><![CDATA[软件名称
+香芋壁纸
+应用平台
+iOS、安卓，包括平板设备
+推荐类型
+【自荐】
+一句简介
+手机、平板、电脑壁纸的需求。超多4K 8K 超高清壁纸供你下载。让您的设备壁纸更加绚丽多彩，发现您喜爱的头像，软件无广告，壁纸质量高！拥有定时更换壁纸的功能。
+更多介绍
+
+
+UI简洁，壁纸种类丰富多彩。
+
+
+丰富海量的精美壁纸。
+
+
+超多4K 8K 超高清壁纸供你下载。
+
+
+精美的壁纸热门榜单。
+
+
+深色模式让你在夜间不伤眼。
+
+
+多种丰富的壁纸类型供你选择，含有大量的动漫壁纸、美女壁纸、风景壁纸。
+
+
+涵盖平板壁纸、电脑壁纸、头像等分区。
+
+
+我们有大量用户投稿，保证每一天都有新的图片为你呈现。
+
+
+没有烦人的广告，图片下载迅速，个性化分区等你来探索。
+
+
+图片浏览迅速，上下滑动切换壁纸图片。
+
+
+使用快捷指令自动更换设备壁纸。
+
+
+截图
+ 
+
+
+
+官方网站
+
+
+
+xiangyubizhi.com
+
+
+香芋壁纸-图片资源平台
+香芋壁纸APP是一款手机壁纸应用，拥有海量精美的壁纸，满足您的所有需求。简洁的界面，让您轻松找到您喜欢的壁纸，并且每天都会更新新的壁纸，让您的手机拥有更多的变化。快来下载香芋壁纸APP体验吧。香芋壁纸,手机壁纸,简洁,香芋壁纸APP,香芋壁纸官网,二次元,二次元壁纸,动漫壁纸,系统美化,氢壁纸,香芋壁纸app官网,香芋壁纸app下载
+
+
+
+
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/59222</guid>
+      <pubDate>Thu, 25 Jul 2024 09:12:55 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一款独特的Mac任务循环管理工具 - 类似音乐播放器的Todo清单</title>
       <link>https://meta.appinn.net/t/topic/59124</link>
@@ -439,37 +520,6 @@ Note that on the newest MacOS versions and on Apple Silicon, there may be increa
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/58689</guid>
       <pubDate>Sat, 13 Jul 2024 08:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索一种长期可靠的笔记方案</title>
-      <link>https://meta.appinn.net/t/topic/58684</link>
-      <description><![CDATA[作为笔记的重度使用者，最多的时候同时在用7、8个笔记软件：oneNote、语雀、幕布、notebility、flomo、mWeb、印象…
-久而久之，自己都找不到哪篇笔记在哪个软件里了，于是有了“all in one”的想法。
-尝试了多种方案后，决定在PC端用typora+git最简单直接。
-笔记直接用typora写，markdown能满足排版需求，笔记文件直接放到本地git仓库里，定期同步到远程仓库，其他电脑下个git直接clone远程仓库，就能在PC间同步笔记文件了。
-手机同步笔记文件用note commander直接把远程仓库clone下来，然后就能编辑笔记了。
-由于note commander目前只有安卓端，如果是向ios环境同步笔记的话，可以考虑用Mgit克隆远程仓库，然后用obsidian编辑笔记。
-typora+git+note commander方案的好处就是笔记是离线的，不需要编辑笔记前不需要再登录各种账号。
-不方便的地方在于同步笔记，需要定期把本地笔记推到远程仓库，但是各种git仓库托管服务（coding、gitee、github…）都是免费的并且流量不受限，而且推送文件也就两行指令（commit和push），所以还能接受。
-新的笔记用typora+git+note commander的方案，旧笔记也都导出为md文件并同步到远程仓库里，这样所有笔记都可以在一个仓库里进行管理，方便查找和编辑，“all in one”完成。
-总结一下这个方案的特点：
-
-整个方案算是基于git管理笔记，所以可以把笔记当作项目一样管理，可操作性非常高。
-笔记文件是离线存储的，所以不用担心服务器、网络等原因对编写笔记造成影响。
-分布存储笔记文件，多端备份，保证笔记文件的完整性。
-markdown语法提供了良好的的兼容性，既能保证排版样式又能降低笔记文件的迁移成本。
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/58684</guid>
-      <pubDate>Sat, 13 Jul 2024 06:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>PixelPic - 像素化/像素风格/像素画/像素艺术</title>
-      <link>https://meta.appinn.net/t/topic/58666</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/58666</guid>
-      <pubDate>Fri, 12 Jul 2024 13:32:56 GMT</pubDate>
     </item>
     <item>
       <title>Balance Lock解决macOS左右声道平衡偏移bug</title>
