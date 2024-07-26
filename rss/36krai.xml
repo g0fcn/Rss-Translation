@@ -4,7 +4,22 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jul 2024 18:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 01:11:57 GMT</lastBuildDate>
+    <item>
+      <title>“灭霸”盯上了AI搜索，OpenAI发布SearchGPT</title>
+      <link>https://www.36kr.com/p/2878012847477633</link>
+      <description><![CDATA[ 关键词：OpenAI，SearchGPT，AI搜索，GPT-4，内容合作  
+
+总结:  
+1. OpenAI于2024年7月25日发布了新AI搜索产品SearchGPT，并开放了候补名单进行小范围测试。  
+2. CEO Sam Altman对新产品表示了高度评价，称其适应速度令人惊讶。  
+3. SearchGPT基于GPT-4技术，用户可用自然语言或碎片化关键词进行检索，无需关注语法。   
+4. 产品提供信息来源链接，并支持基于上下文的多轮追问功能。  
+5. OpenAI正与新闻机构、出版商等内容生产者合作，目标是将搜索功能集成至ChatGPT中，直接与谷歌和微软Bing等知名搜索引擎竞争。 
+文 | 周鑫雨编辑 | 邓咏仪“灭霸”OpenAI，带着它的新产品，盯上了AI搜索的蛋糕。太平洋时间2024年7月25日，OpenAI发布了名为SearchGPT的AI搜索产品，并开放候补名单，进行小范围测试。OpenAI X。图源：X@OpenAI感兴趣的朋友，请直接戳：https://chatgpt.com/searchOpenAI创始人兼CEO Sam Altman，已经为新AI搜索产品吹了一波“彩虹屁”：“比起传统搜索产品，我对这（SearchGPT）的喜爱程度和适应速度令人惊喜。”Sam Altman X。图源：X@sama在The Verge的采访中，OpenAI发言人Kayla Wood提到，SearchGPT的AI能力来源是GPT-4——以及，想要尝鲜的朋友们手速要快了，SearchGPT的测试名额只有10000个。SearchGPT的主界面，与Perplexity等市面上大多AI搜索和对话产品并无太大区别。用户最先看到的是显眼的输入框，只要在其中用自然语言输入想要的问题，就可以获得经过整理总结、并结构化呈现的答案。SearchGPT。图源：OpenAI官网值得一提的是，与大多需要精确提示词的AI搜索不同，SearchGPT让用户保留了关键词检索的习惯——这意味着，用户无需组织语言、无需在意语法和字母大小写，直接输入碎片化的关键词，就能检索到相应的答案。比如，要想知道“8月在北卡罗来纳洲的Boone市举办的音乐节”，只需在SreachGPT的搜索框中输入“音乐节boone北卡罗来纳8月”，就能得到返回的音乐节列表，以及活动的简短描述。SearchGPT demo。图源：OpenAI官网点击左栏的“链接”按钮，或者点击检索答案中的来源链接，屏幕上就会显示信息的出处。在左侧边栏的“链接”按钮下方，还有一个名为“视觉答案（visual answers）”的按钮，不过，OpenAI尚未对外界披露该功能的相关信息。信息来源的显示。图源：OpenAI官网基于上下文记忆，用户能够像对话一样进行多轮追问。比如，在有关“最适宜在明尼苏达州生长的番茄”的检索主题下，SearchGPT根据用户“现在我能种植哪种？”的追问，推荐了合适的品种。追问。图源：OpenAI官网Kayla Wood对The Verge表示，OpenAI正在与第三方合作伙伴合作，并直接使用其内容来构建搜索结果，目标是最终将搜索功能集成到ChatGPT中。从官方发布的搜索demo来看，OpenAI寻求合作的第三方并非搜索引擎或浏览器，而是作为直接内容生产者的新闻机构、出版商和创作者。这也意味着，OpenAI的AI搜索产品，将会与谷歌、微软Bing等搜索巨头，以及估值达30亿美元的Perplexity等AI搜索新秀，直接同台竞技。欢迎交流！]]></description>
+      <guid>https://www.36kr.com/p/2878012847477633</guid>
+      <pubDate>Thu, 25 Jul 2024 19:51:23 GMT</pubDate>
+    </item>
     <item>
       <title>马斯克梭哈xAI，叫板OpenAI</title>
       <link>https://www.36kr.com/p/2877580030546825</link>
@@ -109,13 +124,6 @@ OpenAI发布了GPT-4o mini，性能和价格都超过了之前的GPT-3.5 Turbo�
 图片来源：界面图库“小模型”战况突然变得激烈起来，无法做到便宜又好用的公司恐怕要掉队了。7月19日，OpenAI突然官宣并上线了一款“小模型”GPT-4o mini，被团队描述为最智能、最实惠的模型，其性能和价格均已赶超GPT-3.5 Turbo。作为直观对比，GPT-4o mini输入价格为15美分/百万Tokens，输出价格为60美分/百万Tokens。而曾被视为OpenAI内部最轻量级且高性价比的GPT-3.5 Turbo，其输入价格为50美分/百万Tokens，输出价格为150美分/百万Tokens。至此，OpenAI“小模型”API价格再降至少60%。 性能方面，该模型支持128K上下文输入以及16K输出。OpenAI的基准测试显示，除了GPT-3.5 Turbo，它的性能还超过了Claude 3 Haiku和Gemini 1.5 Flash这两种之前最便宜、最好的模型。GPT-4o mini的高性能来源于GPT-4o，这是OpenAI目前最快、最强大的旗舰大模型。OpenAI在5月的一次直播活动中发布了GPT-4o，“o”代表omni（全能的），寓意了该模型对多模态的注重。彼时，团队表示GPT-4o对音频、视频和文本等多模态理解与生成功能进行了改进，能够以更高的速度和质量处理50种不同的语言。 目前，GPT-4o mini API接口已开放，支持文本和视觉，未来还将融入文本、图像、视频和音频的输入和输出。它将于当地时间周四向ChatGPT的免费用户、ChatGPT Plus和团队订阅者开放，ChatGPT企业用户将于下周开放。GPT-4o mini发布后，山姆·奥特曼在推特上发文为自家产品站台，“通往智能的成本，便宜到不值得计量。”他概括了GPT-4o mini最直观的特点：便宜的价格，MMLU（Massive Multitask Language Understanding/大规模多任务语言理解）得分82%，性能超快。山姆几乎不遗余力强调这一点。他在另一条推文中写道，早在2022年，世界上最好的模型是text-davinci-003，它比GPT-4o mini差得多，但成本要贵上100多倍。 性能提升与成本下降正是OpenAI在当前研发进展中所强调的。公司在一份新闻稿中表示，“在过去的几年里，我们见证了人工智能的显著进步，同时也见证了成本的大幅降低。我们致力于在提高模型性能的同时继续降低成本。”公司设想未来，模型将无缝集成到每个应用程序和每个网站上。以GPT-4o mini为代表的“小模型”将为开发人员更高效、更经济地构建和扩展强大的AI应用铺平道路。“人工智能的未来将变得更容易获得、更可靠，并嵌入到我们的日常数字体验中。” 通过提效降本促进大模型服务普及，已经成为大模型公司的共识。今年上半年以来国内掀起的API价格战正是这个趋势的缩影。而除了大模型推理成本的逐年自然下降，以压缩和蒸馏等技术思路做“小模型”也是其中一个重要方向，海外的Mistral AI以及国内的DeepSeek、面壁智能都有相应成果产出。 这一方面是为了推动开发者先用起来，另一方面也是落地端侧设备的必要历程。在这一点上，三星和苹果两大厂商已经在今年显示出了野心，智能硬件或将成为大模型最好的落地场景之一。这意味着，在下一阶段，通用大模型公司不仅要按照Scaling Law（规模法则）继续推进大模型的智能提升，更要掌握把模型做小的能力，以覆盖更多用户和应用场景。这又将是另一个能力维度的极限较量。本文来自“界面新闻”，记者：伍洋宇，编辑：文姝琪，36氪经授权发布。]]></description>
       <guid>https://www.36kr.com/p/2869139089396105</guid>
       <pubDate>Fri, 19 Jul 2024 12:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>价格骤降96%~97%，OpenAI“杀入”小模型，GPT-4o mini功能更强、成本更低</title>
-      <link>https://www.36kr.com/p/2868741282713733</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2868741282713733</guid>
-      <pubDate>Fri, 19 Jul 2024 07:23:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
