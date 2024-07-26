@@ -4,7 +4,17 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jul 2024 12:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 12:29:26 GMT</lastBuildDate>
+    <item>
+      <title>有没有类似小红书文字生成图片功能的软件？</title>
+      <link>https://meta.appinn.net/t/topic/59254</link>
+      <description><![CDATA[例如小红书输入文字“哈基米”，他会生成一张包含有哈基米三个字的图片
+不知道为啥论坛上传不了图片了额……
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/59254</guid>
+      <pubDate>Fri, 26 Jul 2024 11:58:36 GMT</pubDate>
+    </item>
     <item>
       <title>macOS屏保“怀旧冲印照片”有没有windows上的屏保复刻或者网页复刻</title>
       <link>https://meta.appinn.net/t/topic/59225</link>
@@ -494,32 +504,6 @@ Note that on the newest MacOS versions and on Apple Silicon, there may be increa
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/58709</guid>
       <pubDate>Sun, 14 Jul 2024 03:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>uBlock Origin的临时移除元素模式有没连续操作的快捷键？</title>
-      <link>https://meta.appinn.net/t/topic/58689</link>
-      <description><![CDATA[起因是这个问题：
-
-
-
-如何编辑知乎的帖子以收藏 问题求助❓
-
-
-    想要收藏知乎的帖子，准备用F12删除多于的元素后用SingleFile保存。 
-但是总是编辑了一半知乎就自动跳转页面，显示： 
-
-出了一点问题 
-我们正在解决 
-
-请问有什么办法禁止其跳转吗？要去分析起作用的脚本？
-  
-
-
-后来想起了uBlock Origin扩展有临时移除元素模式，如果能够连续点击，那就可以当作移除元素的扩展使用了，请问这个扩展支持吗？
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/58689</guid>
-      <pubDate>Sat, 13 Jul 2024 08:57:09 GMT</pubDate>
     </item>
     <item>
       <title>Balance Lock解决macOS左右声道平衡偏移bug</title>
