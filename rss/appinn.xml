@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Jul 2024 15:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 18:20:39 GMT</lastBuildDate>
     <item>
       <title>有没有类似小红书文字生成图片功能的软件？</title>
       <link>https://meta.appinn.net/t/topic/59254</link>
@@ -460,50 +460,13 @@ Kimi阅读助手_Firefox移植版 0.7.9.zip - 蓝奏云
       <pubDate>Sun, 14 Jul 2024 10:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年了，依然没有一个好用的跨平台虚拟组网方案</title>
-      <link>https://meta.appinn.net/t/topic/58709</link>
-      <description><![CDATA[
-注：由于「V.P.N.」为敏感词汇，本文中用「虚拟局域网」代称，和 VLAN 技术无关。
-
-1. 背景
-和朋友联机玩《博德之门 3》。因为不在同一城市，大家又不都是在 Steam 上购买的，决定用虚拟局域网联机。
-我是 Linux，一个朋友是 macOS（ARM 版），另一个朋友是 Windows。
-2. 问题
-之前我和用 Windows 的朋友组网的方案是 n2n，完全靠国内服务器中转，非常稳定。
-但是用 macOS 的朋友来了之后，研究了一番表示：
-
-n2n 官方没有打包 macOS 版，必须自己编译，而且文档里也说「请注意，在最新的 Apple Silicon 上，操作系统中的安全限制可能会越来越多，导致难以安装 TUN/TAP 内核扩展。」[1] 这种调用 UNIX 接口创建路由、而不使用苹果的 API 的虚拟局域网工具，都会把网络弄乱。
-
-同理，ZeroTier、OpenVPN、Tinc、TetherVPN 等一众软件也都是绕过苹果限制创建的虚拟网络，会把这个朋友现有的网络配置弄乱，所以没办法用。
-那么 macOS 具体支持哪些虚拟网络协议呢？官方文档提到三种：
-
-L2TP over IPSec
-IPSec
-IKEv2
-另外，App Store 里的 Tailscale 也使用 macOS 接口
-也可以用 ARM macOS 的功能运行 iOS 版的各虚拟网络 App
-
-然而众所周知，《博德之门 3》之类的游戏只支持用局域网广播搜索局域网房间，而不能输入同伴 IP。然而广播是 Layer 2（链路层）虚拟网络才支持的。
-
-(4) Tailscale 基于 WireGuard，因此是 Layer 3（网络层）虚拟网络，直接 Pass。(2) IPSec 同理 Pass；
-(5) OpenVPN 和 n2n 的 iOS App 运行起来后创建的也是 Layer 3 虚拟网络，Pass；
-
-这样可行的选项只剩下 L2TP over IPSec 和 IKEv2（又名 IKEv2 over IPSec）了。
-但是还没完。 Linux 上唯一的 L2TP 客户端兼服务端 xl2tpd 问题非常非常多，我折腾了三天都落在不同的 issues 上：不仅连接不上，还看不到任何有用的报错，非常让人恼火，另外原仓库作者也失踪两年多了。所以，L2TP over IPSec 也 Pass 了。
-3. 目前情况
-所以唯一剩下的方案就是 IKEv2 over IPSec 了，恰好这也是 Android 目前唯一原生支持的虚拟局域网协议。
-但是因为比较新、由商业公司（微软等）开发，网上有用的文档也很少。
-另外 IKEv2 over IPSec 本身也不支持广播/组播，还要依靠 StrongSwan 的插件，目前在研究如何搭建服务器中……
-折腾了几天，不禁感叹标题的内容：2024 年了，居然还拿不出一个简单易行的跨平台虚拟组网方案啊……
-
-
-Note that on the newest MacOS versions and on Apple Silicon, there may be increasing security restrictions in the OS that make installing the TUN/TAP kernel extension difficult. ↩︎
-
-
-4 个帖子 - 2 位参与者
+      <title>这个论坛不是很好用，我是说Discourse！</title>
+      <link>https://meta.appinn.net/t/topic/34638</link>
+      <description><![CDATA[Discourse很多地方不符合国人的习惯，我就有点不习惯，优点是SEO做得好像还可以，不过其它的论坛系统，SEO也没什么问题，可能Discourse这样的论坛系统，比较符合小众软件这个名字吧。
+20 个帖子 - 15 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/58709</guid>
-      <pubDate>Sun, 14 Jul 2024 03:43:26 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/34638</guid>
+      <pubDate>Wed, 27 Jul 2022 02:16:50 GMT</pubDate>
     </item>
     <item>
       <title>Balance Lock解决macOS左右声道平衡偏移bug</title>
