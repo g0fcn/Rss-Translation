@@ -4,7 +4,52 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 27 Jul 2024 18:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:17:16 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】Duck Float 一款可以虚浮在其他全屏软件上的工具软件（MacOS）</title>
+      <link>https://meta.appinn.net/t/topic/59288</link>
+      <description><![CDATA[软件名称
+Duck Float
+应用平台
+MacOS(12.0+)
+推荐类型
+【开发者自荐】
+一句简介
+一个可以悬浮在其他全屏APP上的工具软件，支持文件浏览、文本暂存、剪切板管理和浏览网页。
+应用简介
+我在使用Mac进行办公的时候，很喜欢将软件切换到全屏模式，有时找些东西就会有点麻烦，尤其是需要使用大模型问答的时候，来回切换界面特别频繁，于是我开发了一款可以悬浮在界面上的软件。
+Duck Float可以通过快捷键或者是点击菜单栏上的图标进行快速显隐。
+目前的功能如下：
+文件浏览
+除了对文件夹的内容进行查看、打开等常规操作以外，还支持预览和拖拽。
+
+
+在写文档的时候，无须缩小窗口，即可随时随地预览某个pdf；
+
+
+在全屏浏览器下，可以通过Duck Float进行拖拽文件来达到上传文件或下载图片。
+
+
+文本暂存与文件链接
+将不同文件夹下的文件拖拽到此，即可完成链接，方便快速访问不同路径下的文件。
+也可以将临时文本粘贴到此处进行编辑、复制。
+剪切板历史
+记录剪切板内容，可以按内容类型展示，支持搜索文本内容。
+浏览网页
+在任何全屏模式下的软件，都可以一键呼出Duck Float浏览网页，真得超级方便。
+应用截图
+ 
+
+
+
+地址
+官网
+App Store
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/59288</guid>
+      <pubDate>Sun, 28 Jul 2024 06:34:06 GMT</pubDate>
+    </item>
     <item>
       <title>有没有类似小红书文字生成图片功能的软件？</title>
       <link>https://meta.appinn.net/t/topic/59254</link>
@@ -421,43 +466,6 @@ App Store
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/58782</guid>
       <pubDate>Tue, 16 Jul 2024 08:39:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>把 Chrome 扩展“Kimi 阅读助手”移植到了 Firefox 上</title>
-      <link>https://meta.appinn.net/t/topic/58718</link>
-      <description><![CDATA[不过还有点小问题，从其他侧栏打开这个扩展的侧栏或者按快捷键打开侧栏的时候，页面加载不出来，点击工具栏按钮是正常的，希望高手解决一下
-代码上传到Github了：GitHub - YandLiu/KimiReadingHelper_FirefoxPort: Chrome扩展Kimi阅读助手的Firefox移植版
-下载地址：
-
-
-GitHub
-
-
-
-Releases · YandLiu/KimiReadingHelper_FirefoxPort
-Chrome扩展Kimi阅读助手的Firefox移植版. Contribute to YandLiu/KimiReadingHelper_FirefoxPort development by creating an account on GitHub.
-
-
-
-
-
-
-
-
-ww0.lanzouq.com
-
-
-Kimi阅读助手_Firefox移植版 0.7.9.zip - 蓝奏云
-文件大小：1.8 M|
-
-
-
-
-
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/58718</guid>
-      <pubDate>Sun, 14 Jul 2024 10:19:29 GMT</pubDate>
     </item>
     <item>
       <title>这个论坛不是很好用，我是说Discourse！</title>
