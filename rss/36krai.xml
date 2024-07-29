@@ -4,7 +4,21 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Jul 2024 09:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 12:34:17 GMT</lastBuildDate>
+    <item>
+      <title>GPT-4o mini凭什么登顶竞技场？OpenAI刷分秘诀被扒，原来奥特曼早有暗示</title>
+      <link>https://www.36kr.com/p/2882989354242944</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2882989354242944</guid>
+      <pubDate>Mon, 29 Jul 2024 07:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>今年，OpenAI可能要血亏50亿</title>
+      <link>https://www.36kr.com/p/2882725405332354</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2882725405332354</guid>
+      <pubDate>Mon, 29 Jul 2024 06:27:24 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI惨遭打脸，SearchGPT官方演示大翻车，源代码竟暴露搜索机制</title>
       <link>https://www.36kr.com/p/2882771107173254</link>
@@ -103,20 +117,6 @@
       <description><![CDATA[OpenAI版AI搜索终于来了！智东西7月26日报道，今日凌晨，OpenAI发布全新AI搜索引擎SearchGPT，号称是一种“新搜索方式”，将AI模型的优势与实时网络信息强强结合，能更快、更容易地找到用户想搜的东西。这款AI搜索工具姗姗来迟，之前相关爆料已铺天盖地。OpenAI用AI向传统搜索发起挑战，这明显是冲着老对手搜索巨头谷歌去的。一如既往，OpenAI刚发布的SearchGPT只是个“期货”，只向小部分用户内测，不知道什么时候才公开可用。戏剧性的是，OpenAI在展示的示例中，栽了谷歌以前栽过的跟头——示例答案中出现一大把眼花缭乱的错误，翻了个大车。先简单说下SearchGPT的特点：1、对话式搜索，搜索像聊天一样简单。2、高质量内容，每条搜索结构附来源链接，优先引用权威出版社结果。3、上下文记忆，让AI记住前面的关键信息，理解语境，给出更对口的回复。还有一项“可视化答案（visual answers）”功能，尚未公布细节，应该是可以在搜索答案中获取图表、视频之类的内容，可能会跟Sora视频生成功能做结合。暂不确定可视化答案是来自互联网既有内容，还是由AI生成的。OpenAI在官网分步展示了SearchGPT的搜索流程：在搜索框里输入问题，比如“8月在Boone举行的音乐节”，就会进入一个简洁的搜索页面。SearchGPT使用来自网络的最新信息，快速直接回复用户的问题，每个图文答案后面都随附有相关来源的明确链接。点击页面左侧的“链接”图标，则可以看到清晰的信息来源链接列表。用户还可以在搜索框继续追问更多信息。就像之前的对话功能外，每个查询都会构建共享上下文。比如你可以先搜“明尼苏达州最适合种植的西红柿品种”，再追问“哪类现在就可以种植”，SearchGPT会主动结合之前的回复情境来给出准确结果。OpenAI强调其搜索结果的特点是“突出显示高质量的内容”，在搜索中突出引用和链接出版商的可靠原创内容。这些响应具有清晰的、内联的、命名的归因和链接，因此用户可以知道信息来自哪里，并可以在带有源链接的侧边栏中快速参与更多结果。结果，OpenAI画的大饼还没被广为人知，它放出来的示例就先“翻车”了。眼尖的CNBC科技记者已经发现好几处错误，明明问得是“8月Boone音乐节”，SearchGPT给出的结果中，Appalachian夏季音乐节在7月27日就结束了，Jones House音乐节的举办时间是6月份，还有个音乐节的举办地离Asheville更近、到Boone需要驱车几小时……OpenAI这脸，被打得啪啪响。别管内容高不高质量了，这么高密度的错误回复，连基本的准确性这一关都没过……除了推出SearchGPT原型外，OpenAI还为出版商推出了一种管理它们在SearchGPT中显示方式的方法，因此出版商有更多的选择。OpenAI划重点称，SearchGPT与搜索相关，跟训练OpenAI的生成式AI基础模型是分开的。一些网站选择退出生成式AI训练，它们也可以在搜索结果中出现。目前SearchGPT还在测试阶段，是一个临时原型，只对小部分用户和出版商开放和收集反馈。OpenAI计划在未来将这些功能中最好的直接集成到ChatGPT中。有兴趣尝试原型的用户需注册等待名单。直通车：https://chatgpt.com/searchOpenAI发言人Kayla Wood告诉科技媒体The Verge，该服务由GPT-4系列模型提供支持，在发布时仅向10000名测试用户开放。此前业界对OpenAI这款新AI搜索工具翘首以盼。不过SearchGPT目前展示的功能，有新颖的地方，但离取代传统搜索感觉还差点意思。而且大模型一直被诟病的生成内容不靠谱问题，现在看来连OpenAI都没能解决。但不管怎么说，OpenAI的入场，确实让“AI搜索大战传统搜索”的硝烟味儿，闻起来更浓烈了。来源：OpenAI，The Verge本文来自“智东西”，作者：ZeR0，编辑：漠影，36氪经授权发布。]]></description>
       <guid>https://www.36kr.com/p/2878482799238022</guid>
       <pubDate>Fri, 26 Jul 2024 02:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>一年亏损50亿美金，OpenAI不会未AGI身先死吧？</title>
-      <link>https://www.36kr.com/p/2877809776743301</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2877809776743301</guid>
-      <pubDate>Thu, 25 Jul 2024 23:55:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI宣布推出搜索引擎测试版，目标直指谷歌</title>
-      <link>https://www.36kr.com/p/2878332373701249</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2878332373701249</guid>
-      <pubDate>Thu, 25 Jul 2024 23:53:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
