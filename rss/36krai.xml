@@ -4,7 +4,28 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Sun, 28 Jul 2024 09:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 09:21:22 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI惨遭打脸，SearchGPT官方演示大翻车，源代码竟暴露搜索机制</title>
+      <link>https://www.36kr.com/p/2882771107173254</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2882771107173254</guid>
+      <pubDate>Mon, 29 Jul 2024 05:48:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT问世600天，AI遭遇梦醒时分</title>
+      <link>https://www.36kr.com/p/2882768211890825</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2882768211890825</guid>
+      <pubDate>Mon, 29 Jul 2024 05:46:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>SearchGPT第一波评测来了，响应速度超快还没广告，“OpenAI杀手锏”</title>
+      <link>https://www.36kr.com/p/2882792107037315</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2882792107037315</guid>
+      <pubDate>Mon, 29 Jul 2024 05:39:13 GMT</pubDate>
+    </item>
     <item>
       <title>SearchGPT万人内测，OpenAI想要用“可视化”干翻谷歌百度</title>
       <link>https://www.36kr.com/p/2879058569173379</link>
@@ -96,38 +117,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2878332373701249</guid>
       <pubDate>Thu, 25 Jul 2024 23:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>深夜重磅：ChatGPT 搜索突然发布，AI 搜索卷出天际</title>
-      <link>https://www.36kr.com/p/2878212372173445</link>
-      <description><![CDATA[ 关键词：SearchGPT、内测、OpenAI、知识发现、市场竞争
-
-总结: OpenAI正式推出搜索产品SearchGPT，目前处于内测阶段，需要申请加入waitlist。该产品旨在利用大模型的能力为用户提供快速的网络信息检索，并附加清晰的来源链接。SearchGPT的交互界面与ChatGPT类似，允许用户持续提问并建立共享上下文，同时提供文本、图片和视频等多样化的搜索结果。OpenAI还与新闻媒体合作，增强用户与出版商的连接。在AI搜索市场竞争日益激烈的背景下，企业如Perplexity的CEO指出，未来的搜索更多应向知识发现转型，旨在满足人们的好奇心，而非仅仅提供简单搜索答案。 
-在最近 Llama 3.1 等大模型产品发布后，GPT-4o 的优势在快速被缩小，OpenAI 也在沉寂一段时间后恢复了密集的新品发布节奏。就在刚刚，OpenAI 正式宣布搜索产品 SearchGPT 开放内测，这个从 5 月就开始传言的产品正式亮相。不过 SearchGPT 还没全面开放，需要先申请加入 waitlist。内测申请地址🔗https://chatgpt.com/searchOpenAI 表示，SearchGPT 旨在将模型的强大能力来检索网络的信息，为用户提供快速及时的答案，并附有清晰和相关的来源。目前先向一小部分用户开放，以获取反馈意见。Sam Altman 也在 X 上表示自己比起传统搜索更喜欢这种搜索方式，并公开征集用户的意见。虽然现在内测的这个原型产品是临时的，但 OpenAI 计划后续将这些功能中的最佳部分直接整合到 ChatGPT 中。目前 AI 搜索在市场份额上还远不及Google 等传统搜索引擎，但这个赛道已经很热闹，OpenAI 作为一个后来者，SearchGPT 对比 perplexity 、Bing 等产品有什么不一样？SearchGPT 交互界面和 ChatGPT 类似，直接在对话框输入问题就能快速获取答案。在引用信源的展示上，SearchGPT 采用了短文字超链的方式，将鼠标移动到文字上，会弹出包含信源标题的的卡片，这种展示方式现在大多数 AI 搜索不一样。在初次提问后，用户可以继续追问更多问题，这和我们现在和 ChatGPT 对话体验一样，每次搜索都会建立共享的上下文。在搜索结果的展示上，除了文字 SearchGPT 还提供了图片和视频的反馈，在一些场景内的搜索体验会更加直观。OpenAI 也宣布了和一些新闻媒体的合作，希望 SearchGPT 用户通过在搜索中显著引用和链接出版商来帮助用户与出版商建立联系，用户可以在侧边栏中的源链接快速查看更多结果。与 OpenAI 合作的新闻媒体可以管理他们在 SearchGPT 中的展示方式，在数据处理方面，SearchGPT 专注于搜索，与训练 OpenAI 的生成式 AI 基础模型是分开的。即使这些新闻网站选择不用于大模型训练，它们仍然可以出现在搜索结果中。关于 SearchGPT 的更多体验和细节，APPSO 也会在获取测试资格后第一时间与大家分享。最后和大家分享 Perplexity CEO Aravind Srinivas 最近在一个专访中，关于 AI 搜索未来的观点。Aravind Srinivas：如果你看得更远点，甚至在互联网之前，知识一直在不断传播。这是一个比搜索更大的事。搜索是一种方法。互联网是快速传播知识的一种方式，最开始按主题组织，然后有Yahoo 分类，然后是更多的超链接。Google 也开始通过知识图谱等做即时问答。我认为即使在 2010 年，Google 流量的三分之一，当时是每天 30 亿次查询，都是来自 Google 知识图谱的即时答案，基本上来自 Freebase 和 Wikidata 的东西，都是。所以很明显，至少 30 到 40% 的搜索流量只是答案的一部分。其余的，你也可以说是像我们现在正在服务的，更深度的答案。但是另一个真实的情况是，随着更深层次的答案，更深入的研究力量，你能够问出以前不能问的问题。比如，你能问「AWS 是否在 Netflix 上」这样的问题吗？这将让你问一种新的问题，一种新的知识传播。所以清楚地解释搜索和答案引擎之间的区别很难。我相信我们正朝着的方向既不是搜索也不是答案引擎，而是发现，知识发现的方向发展。这是更大的使命，可以通过聊天机器人，答案机器人，语音等使用形式来满足，但比这更重要的是指导人们发现事物。我认为这就是我们在 Perplexity 上想要做的，满足人类的基本好奇心。本文来自微信公众号“APPSO”，作者：发现明日产品的，36氪经授权发布。]]></description>
-      <guid>https://www.36kr.com/p/2878212372173445</guid>
-      <pubDate>Thu, 25 Jul 2024 23:23:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>“灭霸”盯上了AI搜索，OpenAI发布SearchGPT</title>
-      <link>https://www.36kr.com/p/2878012847477633</link>
-      <description><![CDATA[ 关键词：OpenAI，SearchGPT，AI搜索，GPT-4，内容合作  
-
-总结:  
-1. OpenAI于2024年7月25日发布了新AI搜索产品SearchGPT，并开放了候补名单进行小范围测试。  
-2. CEO Sam Altman对新产品表示了高度评价，称其适应速度令人惊讶。  
-3. SearchGPT基于GPT-4技术，用户可用自然语言或碎片化关键词进行检索，无需关注语法。   
-4. 产品提供信息来源链接，并支持基于上下文的多轮追问功能。  
-5. OpenAI正与新闻机构、出版商等内容生产者合作，目标是将搜索功能集成至ChatGPT中，直接与谷歌和微软Bing等知名搜索引擎竞争。 
-文 | 周鑫雨编辑 | 邓咏仪“灭霸”OpenAI，带着它的新产品，盯上了AI搜索的蛋糕。太平洋时间2024年7月25日，OpenAI发布了名为SearchGPT的AI搜索产品，并开放候补名单，进行小范围测试。OpenAI X。图源：X@OpenAI感兴趣的朋友，请直接戳：https://chatgpt.com/searchOpenAI创始人兼CEO Sam Altman，已经为新AI搜索产品吹了一波“彩虹屁”：“比起传统搜索产品，我对这（SearchGPT）的喜爱程度和适应速度令人惊喜。”Sam Altman X。图源：X@sama在The Verge的采访中，OpenAI发言人Kayla Wood提到，SearchGPT的AI能力来源是GPT-4——以及，想要尝鲜的朋友们手速要快了，SearchGPT的测试名额只有10000个。SearchGPT的主界面，与Perplexity等市面上大多AI搜索和对话产品并无太大区别。用户最先看到的是显眼的输入框，只要在其中用自然语言输入想要的问题，就可以获得经过整理总结、并结构化呈现的答案。SearchGPT。图源：OpenAI官网值得一提的是，与大多需要精确提示词的AI搜索不同，SearchGPT让用户保留了关键词检索的习惯——这意味着，用户无需组织语言、无需在意语法和字母大小写，直接输入碎片化的关键词，就能检索到相应的答案。比如，要想知道“8月在北卡罗来纳洲的Boone市举办的音乐节”，只需在SreachGPT的搜索框中输入“音乐节boone北卡罗来纳8月”，就能得到返回的音乐节列表，以及活动的简短描述。SearchGPT demo。图源：OpenAI官网点击左栏的“链接”按钮，或者点击检索答案中的来源链接，屏幕上就会显示信息的出处。在左侧边栏的“链接”按钮下方，还有一个名为“视觉答案（visual answers）”的按钮，不过，OpenAI尚未对外界披露该功能的相关信息。信息来源的显示。图源：OpenAI官网基于上下文记忆，用户能够像对话一样进行多轮追问。比如，在有关“最适宜在明尼苏达州生长的番茄”的检索主题下，SearchGPT根据用户“现在我能种植哪种？”的追问，推荐了合适的品种。追问。图源：OpenAI官网Kayla Wood对The Verge表示，OpenAI正在与第三方合作伙伴合作，并直接使用其内容来构建搜索结果，目标是最终将搜索功能集成到ChatGPT中。从官方发布的搜索demo来看，OpenAI寻求合作的第三方并非搜索引擎或浏览器，而是作为直接内容生产者的新闻机构、出版商和创作者。这也意味着，OpenAI的AI搜索产品，将会与谷歌、微软Bing等搜索巨头，以及估值达30亿美元的Perplexity等AI搜索新秀，直接同台竞技。欢迎交流！]]></description>
-      <guid>https://www.36kr.com/p/2878012847477633</guid>
-      <pubDate>Thu, 25 Jul 2024 19:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克梭哈xAI，叫板OpenAI</title>
-      <link>https://www.36kr.com/p/2877580030546825</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2877580030546825</guid>
-      <pubDate>Thu, 25 Jul 2024 11:39:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
