@@ -4,7 +4,21 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 31 Jul 2024 00:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 03:17:11 GMT</lastBuildDate>
+    <item>
+      <title>求教能否利用AI创建一个私人化的搜索引擎呢？</title>
+      <link>https://meta.appinn.net/t/topic/59385</link>
+      <description><![CDATA[最近在论坛看到SearchGPT和“知乎已经完全禁止谷歌和必应搜索抓取其内容”，我就突然想到，既然AI这么发达，能否利用它创建一个私人化的搜索引擎。
+要求如下：
+1、正常爬虫搜索网络上的资料，可以让其直接调用必应、谷歌、百度的结果，并根据算法进行优化（我想着，自己创建一个引擎是不是太复杂了）。
+2、对于屏蔽爬虫的网站，如微信、知乎等等，可以自定义添加到搜索选项中去，并且可以 把私人的账号密码交给AI方便其搜索。
+3、就是根据1和2优化搜索结果，过滤垃圾信息。
+4、写到这里感觉上面三点就是利用AI做一个结果筛选的东西，搜索引擎都算不上了。 但是这样可以避免在乱七八糟的消息中去自己筛选。
+6 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/59385</guid>
+      <pubDate>Wed, 31 Jul 2024 01:16:31 GMT</pubDate>
+    </item>
     <item>
       <title>PicInsight - 制作精美的明信片! ｜ 限时免费</title>
       <link>https://meta.appinn.net/t/topic/59384</link>
@@ -468,51 +482,6 @@ xiangyubizhi.com
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/59123</guid>
       <pubDate>Tue, 23 Jul 2024 02:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】Logoer: 无痛替换macOS左上角默认苹果Logo, 个性化你的Mac</title>
-      <link>https://meta.appinn.net/t/topic/59098</link>
-      <description><![CDATA[软件名称
-Logoer
-官网&amp;下载
-官方网站: Logoer
-下载地址: 点此前往
-一句话简介
-无痛替换 macOS 左上角默认的苹果 Logo, 让你的 Mac 与众不同
-软件特色
-
-
-使用 SwiftUI 编写, 体积小巧, App 完全处于沙盒模式
-
-
-无需特殊权限, 无需关闭 SIP 保护, 无需修改系统文件
-
-
-内置多种预设 Logo 样式, 还可以导入自定义图标
-
-
-完全免费开源, 代码透明, 不收集上传任何用户隐私
-
-
-使用注意
-
-Logoer 启动后不会显示任何窗口, 只会替换掉屏幕左上角的苹果 logo. 如需打开设置窗口, 请在 Logoer 正在运行的情况下再次从访达中启动它.
-
-v0.1.6 更新日志 (2024/07/22)
-
-修复了与 macOS 15 的兼容性
-
-软件截图
-
-
-
-本软件完全开源免费使用. 如果用的顺手, 可以在github页面最底部扫码打赏.
-您的支持是我创造更多开源软件的动力0v0
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/59098</guid>
-      <pubDate>Mon, 22 Jul 2024 10:27:53 GMT</pubDate>
     </item>
     <item>
       <title>这个论坛不是很好用，我是说Discourse！</title>
