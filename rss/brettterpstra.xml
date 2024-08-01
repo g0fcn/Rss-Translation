@@ -4,7 +4,25 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 03:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 21:17:34 GMT</lastBuildDate>
+    <item>
+      <title>轻松保存和恢复所有 gem 可执行文件</title>
+      <link>https://brett.trpstra.net/link/535/16759288/easily-save-and-restore-gem-executables</link>
+      <description><![CDATA[ 。 
+我一直很喜欢 Homebrew 的 bundle 命令。你可以保存使用 Homebrew 安装的所有内容的快照，然后在新系统上重新安装该快照。
+我还喜欢 Ruby 的 Bundler，它允许你保存应用程序所需的所有 gem，然后使用 bundle install 轻松安装它们。
+但是，我不喜欢使用 Homebrew 安装 Ruby gem，主要是因为 brew-gem 不是最新的，而且现在几乎不能用。我使用 gem install 安装所有 gem。
+因此，当我执行 brew bundle install 时，gem 安装的二进制文件不会包含在内。而且 Ruby 的 bundler 是针对特定项目的。因此我编写了一个脚本，它将保存系统中安装了二进制文件的每个 gem 的快照，然后在设置新系统时对所有 gem 执行 gem install。
+我为其提供了不错的 README，因此如果您对此感兴趣，请去查看。如果您使用我的任何工具，例如 howzit 或 na，您可能已经使用 gem install 安装了这些工具，如果您尝试使用 Homebrew（或点文件等）进行恢复，它们将不会被包含。所以帮自己一个忙，创建一个快照！
+请使用脚本的 GitHub 主页 的问题部分分享问题和建议。
+点赞或分享此帖子 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供帮助，请单击此处。
+所有材料 ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | 隐私政策]]></description>
+      <guid>https://brett.trpstra.net/link/535/16759288/easily-save-and-restore-gem-executables</guid>
+      <pubDate>Thu, 01 Aug 2024 19:17:00 GMT</pubDate>
+    </item>
     <item>
       <title>标记为 2.6.39，包含流式预览修复</title>
       <link>https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes</link>
@@ -302,58 +320,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16667786/conductor-fixes-and-improvements</guid>
       <pubDate>Mon, 29 Apr 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>后 iThoughts 时代</title>
-      <link>https://brett.trpstra.net/link/535/16666804/life-after-ithoughts</link>
-      <description><![CDATA[ MindNode, iThoughts, sunsetting, Obsidian, Curio
-
-总结:
-iThoughts宣布即将停用，作者转向使用MindNode。MindNode拥有精美界面、活跃开发、支持Mac和iOS版本，能够打开iThoughts文件，导入Markdown文件，生成任务列表等功能。此外，Obsidian插件也能提供一定的思维导图功能，但相比MindNode功能有限。值得注意的是Curio内置的思维导图也是不错的选择。 
-
-
-
-
-
-
-So a lot of us are wondering what to do now that Toketaware has announced the sunsetting of the iThoughts mind mapping app for Mac and iOS. It’s very sad to see it go, but I expect the current version to continue working for a few years to come. That said, I tend to favor software that has at least somewhat of a future. So I’ve been testing the waters with some other contenders. The short story is I’m moving over to MindNode.
-Why MindNode?
-I’ve always appreciated MindNode (and even added support for it to Marked), but there were some things that made me prefer iThoughts over MindNode. After testing the latest version of MindNode, I can no longer remember what those things were. Probably the filtering and advanced searching in iThoughts, but for 90% of my mind map purposes, it looks like MindNode will do just fine. I think the last time I made the comparison, MindNode was lacking some of the features it has these days.
-I’m not going into nearly the depth that Allison Sheridan did over on Podfeet with her mind map comparison, but I’ll list some of the pros of MindNode for my purposes:
-
-Looks great
-Actively developed
-Mac and iOS versions
-Opens iThoughts (.itmz) files, so I don’t have to fret about losing old mind maps
-Imports Markdown files
-Can create tasks from nodes (can’t do much with them other than check them off, but it’s handy for packing lists)
-Exports Markdown and OPML, among other formats
-Works with Marked (File-&gt;Advanced-&gt;Preview in Marked)
-Good keyboard navigation with some customization options
-Quick entry from tool bar
-It’s on Setapp
-
-Other options
-If you’re an Obsidian user, there are some mind mapping plugins available. The “Enhancing Mind Maps” plugin is a decent option if you’re in Obsidian all the time anyway:
-Pros:
-
-Built into obsidian
-Basic keyboard navigation
-Transparent layer over plain Markdown files, easily portable and future-proof
-Works great with Marked using the obsidian-md-filter processor (via Conductor!), and you can easily connect the two with my plugin (which is still waiting for acceptance into the Community Plugins…)
-
-Cons:
-
-Lacks a ton of features compared to MindNode
-
-I would also point out that the mind mapping built into Curio is pretty good, and has the benefit of fitting into the crazy cool integrations that Curio provides, linking to other notes and objects, and fitting into an overall project management system.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16666804/life-after-ithoughts</guid>
-      <pubDate>Sun, 28 Apr 2024 22:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
