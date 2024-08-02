@@ -4,7 +4,23 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 02 Aug 2024 01:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:21:45 GMT</lastBuildDate>
+    <item>
+      <title>Binbundle：用于保存和恢复 gem 二进制文件的 gem</title>
+      <link>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</link>
+      <description><![CDATA[ 。 
+我昨天发布了一个脚本，用于创建系统中所有依赖 Rubygems 安装的二进制文件（可执行文件）的“bundle 文件”。Homebrew 的 bundle 命令未涵盖这些文件，我希望通过我的 dotfiles 设置轻松恢复系统。
+但是……因为它专门处理 gem，我想为什么不把它做成 gem 并让它易于安装呢？
+因此我提供了 Binbundle，与昨天的脚本相同，但经过了详细说明并以 gem 形式呈现。
+有关安装和使用的详细信息，请参阅项目页面。该项目与 Dotbot 相结合，提供了一种非常容易的方式来恢复 Homebrew 遗漏的所有二进制文件。
+点赞或分享此帖子 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供帮助，请单击此处。
+所有材料 ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | 隐私政策]]></description>
+      <guid>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</guid>
+      <pubDate>Fri, 02 Aug 2024 16:06:00 GMT</pubDate>
+    </item>
     <item>
       <title>轻松保存和恢复所有 gem 可执行文件</title>
       <link>https://brett.trpstra.net/link/535/16759288/easily-save-and-restore-gem-executables</link>
@@ -313,13 +329,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps</guid>
       <pubDate>Thu, 02 May 2024 20:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Conductor 修复和改进</title>
-      <link>https://brett.trpstra.net/link/535/16667786/conductor-fixes-and-improvements</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16667786/conductor-fixes-and-improvements</guid>
-      <pubDate>Mon, 29 Apr 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
