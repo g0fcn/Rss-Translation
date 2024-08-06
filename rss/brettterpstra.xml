@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 02 Aug 2024 21:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 01:10:31 GMT</lastBuildDate>
+    <item>
+      <title>使用 Howzit 模板加速开发</title>
+      <link>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</guid>
+      <pubDate>Mon, 05 Aug 2024 19:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Binbundle：用于保存和恢复 gem 二进制文件的 gem</title>
       <link>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</link>
@@ -322,13 +329,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16684070/marked-2-and-obsidian</guid>
       <pubDate>Thu, 16 May 2024 17:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WriteMapper - 使用思维导图进行写作</title>
-      <link>https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16671800/writemapper-writing-with-mind-maps</guid>
-      <pubDate>Thu, 02 May 2024 20:13:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
