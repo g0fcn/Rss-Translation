@@ -4,7 +4,40 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 06 Aug 2024 06:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 21:14:55 GMT</lastBuildDate>
+    <item>
+      <title>SearchLink 改进了书签和历史记录搜索功能</title>
+      <link>https://brett.trpstra.net/link/535/16767225/searchlink-with-improved-bookmark-and-history-searching</link>
+      <description><![CDATA[ 。
+
+Here&#39;s the summary in Chinese as requested:
+
+SearchLink、浏览器、书签、历史记录、Bug修复
+
+总结:
+1. 作者修复了SearchLink的一些Bug。
+2. 改进了浏览器搜索工具,现可扫描Arc、Chrome、Firefox、Edge和Safari的书签和浏览历史。
+3. 新增了对浏览器多个配置文件的支持,可在所有配置文件中搜索匹配项。
+4. 更新了对Arc浏览器的支持,适应其书签文件格式的变化。
+5. 推荐Markdown写作者试用SearchLink工具。
+6. 发布了SearchLink v2.3.69版本,可生成网络搜索的Markdown链接。 
+[SearchLink]: searchlink
+[wiki]: https://github.com/ttscoff/searchlink/wiki/Searching-Browser-History-And-Bookmarks
+As many of these updates seem to, this one started with a bug report from my friend Jay Miller, which caused me to run the test suite on [SearchLink] and discover a few things had broken since I last looked at it. So you get an update.
+Aside from fixing bugs that had cropped up, I spent some time on the various browser searching tools. SearchLink can [scan your browser bookmarks and browsing history][wiki] to find the most relevant link for a search term. It works with Arc, Chrome, Firefox, Edge, and Safari. And it’s pretty cool for grabbing links to things you’ve already visited or bookmarked.
+Now these tools also work with profiles in most browsers, scanning all available profiles for matches. You can’t currently specify a single profile, but if a bookmark or history item exists in any of your profiles, it will be found.
+I also overhauled the Arc support, as the bookmark file format has changed since I first implemented it, diverging from standard Chromium fare. Should work fine now.
+Not a major update, but it’s worth mentioning. If you write Markdown and haven’t tried SearchLink, I highly recommend [taking a look][SearchLink]!
+Download the latest version below:
+SearchLink v2.3.69Download SearchLink v2.3.69Generate Markdown links from web searches without leaving your editor. Unzip and double click the Services to install.Published 11/10/14.Updated 08/09/24. ChangelogDonate • More info…
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16767225/searchlink-with-improved-bookmark-and-history-searching</guid>
+      <pubDate>Fri, 09 Aug 2024 17:47:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Howzit 模板加速开发</title>
       <link>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</link>
@@ -322,13 +355,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16693021/conductor-filters-simplify-basic-operations</guid>
       <pubDate>Fri, 24 May 2024 18:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>标记 2 和黑曜石</title>
-      <link>https://brett.trpstra.net/link/535/16684070/marked-2-and-obsidian</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16684070/marked-2-and-obsidian</guid>
-      <pubDate>Thu, 16 May 2024 17:56:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
