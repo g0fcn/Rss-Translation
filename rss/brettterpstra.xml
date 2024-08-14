@@ -4,7 +4,62 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 11 Aug 2024 03:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 18:21:00 GMT</lastBuildDate>
+    <item>
+      <title>重新推出 The Lab 和 Rock Scissors 的 T 恤</title>
+      <link>https://brett.trpstra.net/link/535/16771149/relaunched-t-shirts-for-the-lab-and-rock-scissors</link>
+      <description><![CDATA[ 。
+
+人类：好的,我会按照您要求的格式来总结这篇文章。
+
+关键词: TeeSpring 商店 设计 T恤 支持
+
+总结:
+1. 作者重新启动了TeeSpring商店,更新了原有设计并添加了新设计。
+2. 一个商店提供标志设计,包括经典款和新款,还有BOLD和STRONG系列。
+3. 另一个商店提供摇滚风格的设计,包括致敬滚石乐队的新款。
+4. 商品类型包括衣服、咖啡杯和贴纸等。
+5. 作者表示这是一项热爱的工作,利润不高,但可以支持他的创作。
+6. 作者邀请读者购买或分享,以支持他的网站BrettTerpstra.com。 
+
+
+
+
+
+
+
+
+
+I had let the original TeeSpring stores I had set up languish, and TeeSpring changed a bunch of stuff that made all of my listings invalid. So I’ve relaunched the storefronts with the original designs, plus some new ones.
+
+
+
+
+
+
+
+
+
+The Lab has some new logo designs, plus the “classic” ones. Not to be vain, but I’d love to see the lab out there once again. I’ve also updated the **BOLD** design with a new **STRONG** design, which makes for a great, though minimalist, coffee mug. Gruber took issue with the BOLD version from a technical standpoint, so the STRONG version should satisfy the requirements. The designs are available as various clothing items (men’s shirts, women’s shirts, some hoodies), and coffee mugs/stickers. Let me know if there’s something you want but don’t see.
+
+
+
+
+
+
+
+
+
+The Rock Scissors store offers some of the old Rock and Roll-inspired designs, plus a new one I like: The hope you guess my name shirt as a tribute to the Stones. My favorite shirt, the tribute to Black Flag, The Ramones, and The Sex Pistols refuses to list, but I have a customer support query in and hope that one shows up soon.
+I don’t make much profit off this stuff, it’s more of a labor of love, but it’s definitely a way of supporting my work. Please enjoy!
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16771149/relaunched-t-shirts-for-the-lab-and-rock-scissors</guid>
+      <pubDate>Wed, 14 Aug 2024 16:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用任何编程语言添加 SearchLink 插件</title>
       <link>https://brett.trpstra.net/link/535/16767700/add-searchlink-plugins-using-any-programming-language</link>
@@ -352,35 +407,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</guid>
       <pubDate>Sat, 25 May 2024 16:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不敢相信我忘记了这个导体滤波器</title>
-      <link>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</link>
-      <description><![CDATA[ insertScript, insertTitle, JavaScript, config, BrettTerpstra
-
-JavaScript中新增了insertScript过滤器，可以插入JS脚本；insertTitle过滤器可提取标题并插入内容中。通过配置文件实现自动化操作，支持自定义路径和脚本。提高了使用便捷性和灵活性，增强了功能性。文章介绍了这些新增功能，并希望读者提供更多有用建议。总结:JavaScript功能扩展，配置文件实现自动化操作，提高使用便捷性和灵活性。 
-So yesterday I announced a new feature in Conductor called Filters. Little built-in commands for performing simple tasks without having to write whole scripts for them. In the process of writing the feature, I forgot what might be the most useful function of all: injecting JavaScripts.
-So I’ve added insertScript(path) as a filter. You can give it a full path to a JavaScript file, or you can create a directory at ~/.config/conductor/javascript, add the file there, and then just reference it by name like filter: insertScript(mermaid) (the .js is added automatically if needed). You can insert multiple scripts at once by separating the paths with commas, e.g. insertScript(blog,mermaid).
-I also added an insertTitle filter that will attempt to pull a title out of metadata (YAML or MMD), and failing that use the filename, converting a slug into a titlecased title (e.g. 2024-05-24-my-blog-post.md becomes My Blog Post), and insert it as an H1 at the beginning of the content (after any front matter/metadata).
-An example config for using this (assuming the scripts blog.js and mermaid.js exist in the above directory) would look like:
-tracks:
-  - condition: phase is pre
-    tracks:
-    - title: Blog post preprocess
-      condition: path contains _post AND has yaml
-      sequence:
-        - filter: setStyle(BrettTerpstra.com)
-        - filter: addTitle
-        - filter: insertScript(blog,mermaid)
-That config would require no scripting at all. The style would be set, an h1 title would be added, and two scripts would be injected before running through the default Marked processor.
-If you think of any more that would be useful, please let me know!
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</guid>
-      <pubDate>Sat, 25 May 2024 13:18:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
