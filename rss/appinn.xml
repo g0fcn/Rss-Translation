@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 13 Aug 2024 18:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 12:31:04 GMT</lastBuildDate>
     <item>
       <title>代替微信的沟通软件，用邮箱聊天，delta.chat</title>
       <link>https://meta.appinn.net/t/topic/59886</link>
@@ -396,17 +396,6 @@ App Store
       <pubDate>Tue, 30 Jul 2024 23:31:54 GMT</pubDate>
     </item>
     <item>
-      <title>【开源自荐】WR.DO - 基于 cloudflare 的多租户 DNS 解析系统</title>
-      <link>https://meta.appinn.net/t/topic/59376</link>
-      <description><![CDATA[基于 cloudflare 的多租户 DNS 分发系统。开源且免费提供 DNS 解析、短链接生成。
-官网地址：https://wr.do
-开源仓库：GitHub - oiov/wr.do: Set up your DNS and shorten URLs with a few clicks. Build with cloudflare.
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/59376</guid>
-      <pubDate>Tue, 30 Jul 2024 12:07:53 GMT</pubDate>
-    </item>
-    <item>
       <title>[开发者自荐] FlowVision: 瀑布流式 macOS 看图软件</title>
       <link>https://meta.appinn.net/t/topic/59251</link>
       <description><![CDATA[软件名称
@@ -466,6 +455,17 @@ Waterfall-style image viewer for macOS, offering a smooth and immersive browsing
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/59251</guid>
       <pubDate>Fri, 26 Jul 2024 09:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[有] 有没有对网页输入框中内容进行替换的浏览器插件？</title>
+      <link>https://meta.appinn.net/t/topic/12704</link>
+      <description><![CDATA[有时在网页上的输入框里编辑长文本，例如在论坛发帖子啥的，需要批量替换某些内容。即 vs code 或 Word 里 Ctrl+ H 的那个“替换”功能。但搜了一下，没有找到这种功能的插件 
+大家知不知道支持此功能的插件？Firefox 或 Chrome 浏览器中的都行，支持正则表达式就更好了。
+话说没有的话用 ahk 应该能满足这需求。
+16 个帖子 - 10 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/12704</guid>
+      <pubDate>Wed, 04 Dec 2019 09:34:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
