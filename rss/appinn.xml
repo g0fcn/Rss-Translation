@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Aug 2024 06:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 09:17:02 GMT</lastBuildDate>
     <item>
       <title>告别手动记账和Excel，用“FIREWay记账”踏上财务自由旅程(MacOS)</title>
       <link>https://meta.appinn.net/t/topic/60145</link>
@@ -326,20 +326,6 @@ Apple Watch 版本正在开发中
       <pubDate>Fri, 02 Aug 2024 03:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>求教能否利用AI创建一个私人化的搜索引擎呢？</title>
-      <link>https://meta.appinn.net/t/topic/59385</link>
-      <description><![CDATA[最近在论坛看到SearchGPT和“知乎已经完全禁止谷歌和必应搜索抓取其内容”，我就突然想到，既然AI这么发达，能否利用它创建一个私人化的搜索引擎。
-要求如下：
-1、正常爬虫搜索网络上的资料，可以让其直接调用必应、谷歌、百度的结果，并根据算法进行优化（我想着，自己创建一个引擎是不是太复杂了）。
-2、对于屏蔽爬虫的网站，如微信、知乎等等，可以自定义添加到搜索选项中去，并且可以 把私人的账号密码交给AI方便其搜索。
-3、就是根据1和2优化搜索结果，过滤垃圾信息。
-4、写到这里感觉上面三点就是利用AI做一个结果筛选的东西，搜索引擎都算不上了。 但是这样可以避免在乱七八糟的消息中去自己筛选。
-6 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/59385</guid>
-      <pubDate>Wed, 31 Jul 2024 01:16:31 GMT</pubDate>
-    </item>
-    <item>
       <title>[开发者自荐] FlowVision: 瀑布流式 macOS 看图软件</title>
       <link>https://meta.appinn.net/t/topic/59251</link>
       <description><![CDATA[软件名称
@@ -399,6 +385,17 @@ Waterfall-style image viewer for macOS, offering a smooth and immersive browsing
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/59251</guid>
       <pubDate>Fri, 26 Jul 2024 09:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>给女儿写的自动听写工具网页</title>
+      <link>https://meta.appinn.net/t/topic/29959</link>
+      <description><![CDATA[自动听写工具
+一开始用的是百度tts，后来百度居然把免费的tts api k掉了，所以换成了谷歌tts。需要科学使用。
+写这个主要因为小学有大量的听写任务需要父母配合完成，而兔崽子每次听写都拖拖拉拉。还嫌弃我吐词不清，所以写了这个，tts速度拉到最慢然后读三遍，全部听完自动记录lag的词语标红，同时给出放大后的结果给兔崽子自己订正。世界又变美好了。
+17 个帖子 - 11 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/29959</guid>
+      <pubDate>Sun, 13 Feb 2022 10:10:47 GMT</pubDate>
     </item>
     <item>
       <title>[有] 有没有对网页输入框中内容进行替换的浏览器插件？</title>
