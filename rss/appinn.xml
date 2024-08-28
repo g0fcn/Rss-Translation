@@ -4,7 +4,52 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 28 Aug 2024 09:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 12:32:34 GMT</lastBuildDate>
+    <item>
+      <title>文件类似浏览器网页切换</title>
+      <link>https://meta.appinn.net/t/topic/60406</link>
+      <description><![CDATA[请问大家，有没有什么工具或者软件，能够实现下面的功能：打开的多个excel或者word文件，可以直接在一个窗口里面切换，就像浏览器切换页面一样。
+现在的切换方式真的太费手了，感谢大家的回答。
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/60406</guid>
+      <pubDate>Wed, 28 Aug 2024 09:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Veusz——开源、免费、轻量级的科研作图软件</title>
+      <link>https://meta.appinn.net/t/topic/60405</link>
+      <description><![CDATA[软件名称
+Veusz
+软件官网
+
+主页：https://veusz.github.io/
+
+演示：https://veusz.github.io/examples/
+截图：https://veusz.github.io/screenshots/
+
+
+
+推荐类型
+【用户推荐】
+一句话简介
+开源、免费、轻量级的科研作图软件，可绘制散点图、柱状图（包括面积堆积图）、函数曲线等多种图表，支持 Linux、BSD 等平台。
+这里有一位 UP 主制作的入门指南：https://www.bilibili.com/video/BV15T4y1u7tu/
+软件平台
+
+Windows
+Linux
+FreeBSD、OpenBSD、NetBSD
+MacOS
+
+其他想说的话
+之前要画各种图表的时候，其他人推荐的软件基本上清一色是 Origin，当然也有老师建议我用 SigmaPlot。但要命的是，我是 Linux 用户。另外，Origin 和 SigmaPlot 也不便宜。好在遇到了 Veusz 这个好东西。
+其实我上述三种绘图软件都用过，没法说谁更好，只能说各有千秋。Origin 和 SigmaPlot，虽然昂贵而且体积庞大，但其功能也是非常强的。Veusz 呢，免费而且体积小巧，我们自然不能指望它完全代替前两个家伙。但实际使用下来，Veusz 的表现也是很不错的。至少对付本科学位论文是完全没问题的。
+Veusz 的操作逻辑和 Origin 以及 SigmaPlot 有点不一样，如果你能和它对上电波，相信这个小家伙会成为你科研路上的好朋友。
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/60405</guid>
+      <pubDate>Wed, 28 Aug 2024 09:11:45 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】Chrome拓展：可以将将Notion Page转成长图或卡片</title>
       <link>https://meta.appinn.net/t/topic/60396</link>
@@ -331,58 +376,6 @@ P.S. Scoop 用户还在等上游更新
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/59857</guid>
       <pubDate>Tue, 13 Aug 2024 05:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad如何长截图？</title>
-      <link>https://meta.appinn.net/t/topic/59793</link>
-      <description><![CDATA[看了各种滚动截图app，都几乎无法兼容iPad
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/59793</guid>
-      <pubDate>Sun, 11 Aug 2024 09:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】一键生成文件夹目录，比目录树还直观</title>
-      <link>https://meta.appinn.net/t/topic/59724</link>
-      <description><![CDATA[软件名称
-【树哥】一键生成文件夹目录
-应用平台
-
-Windows
-
-推荐类型
-【开发者自荐】
-一句简介
-粘贴路径，在Excel中一键生成文件夹目录
-应用简介
-树哥一键生成文件夹目录工具，文件大小不到30KB，是一款专门用于快速生成文件夹结构目录的自动化小工具。
-它可以帮助用户轻松查看和管理复杂的文件夹结构，无论文件夹中包含多少层级的子文件夹和文件。
-使用这款工具，用户只需将大文件夹的路径复制到Excel指定的A2单元格，然后点击生成按钮，就可以直观地看到整个文件夹的结构图，包括所有子文件夹和文件的层级关系。
-这个工具特别适合需要管理项目文件，或者电影仓、图书仓，不需要打开文件夹，但可以实时查看文件夹的内容。
-截图预览：
-
-操作视频：
-
-获取链接：
-
-
-
-wwd.lanzout.com
-
-
-【树哥】一键生成文件夹目录-1.0.zip - 蓝奏云
-文件大小：25.6 K|
-
-
-
-
-
-官网地址：
-公众号：树哥自动办公
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/59724</guid>
-      <pubDate>Fri, 09 Aug 2024 03:05:02 GMT</pubDate>
     </item>
     <item>
       <title>是否有原样保存 Edge 的标签分组的插件</title>
