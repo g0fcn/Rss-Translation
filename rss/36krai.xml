@@ -4,7 +4,28 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Fri, 30 Aug 2024 18:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 09:21:58 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI大逃亡，AGI安全团队半数出走，奥特曼：攘外必先安内</title>
+      <link>https://www.36kr.com/p/2932339477600900</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2932339477600900</guid>
+      <pubDate>Mon, 02 Sep 2024 03:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>逼真到被打假，OpenAI投的机器人身穿衣服做家务，被怀疑人类套壳拍视频</title>
+      <link>https://www.36kr.com/p/2932319849978499</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2932319849978499</guid>
+      <pubDate>Mon, 02 Sep 2024 03:19:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI家庭机器人NEO登场，动作丝滑逼近人类，穿着西装的「人」却专做家务</title>
+      <link>https://www.36kr.com/p/2932312548547462</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2932312548547462</guid>
+      <pubDate>Mon, 02 Sep 2024 03:09:26 GMT</pubDate>
+    </item>
     <item>
       <title>20个月烧掉100亿，OpenAI正在找「续命钱」</title>
       <link>https://www.36kr.com/p/2928542944090756</link>
@@ -105,27 +126,6 @@
 智东西8月27日消息，据VentureBeat报道，德国AI创企Aleph Alpha今日发布了两个大语言模型（LLM）。这两个模型各拥有70亿个参数，可以在多种欧洲语言中提供简洁、长度可控的响应，并已开源。该公司宣称，其模型的性能可以与其他在70亿到80亿参数量级的顶尖开源模型相媲美。除了新发布的模型，Aleph Alpha之前还开发了拥有700亿参数（大约是GPT-3的2/5）的预训练模型Luminous，并在其基础上训练了聊天机器人Lumi。该公司成立于2019年，通常被视为欧洲在AI领域的重要参与者之一。2023年11月7日，该公司宣布获得超过5亿美元（折合约36亿人民币）B轮融资，由博世风投、施瓦茨集团、SAP、惠普等知名财团参投。下载地址：Aleph-Alpha/Pharia-1-LLM-7B-control at main (huggingface.co)一、与Mistral、Llama能力相近，且更安全透明Aleph Alpha发布了两个版本的模型：标准版（Pharia-1-LLM-7B-control）和“对齐”版（Pharia-1-LLM-7B-control-aligned）。其中，“对齐”版模型经过了进一步的训练，目的是降低模型输出中的有害内容和偏见，从而提高模型的安全性和可靠性。这两个模型都在多语言基础语料库上训练，并针对德语、法语和西班牙语进行了文化和语言优化，能提供简明扼要、长度可控的回答。该公司在官网上发布了模型在AlpacaEval（由来自斯坦福的团队开发的大语言模型评测系统）上的评测结果：标准版Pharia在德语、法语和西班牙语上的表现和法国的模型Mistral、美国的模型Llama相差不大，但在英语上的表现则不如两者。“对齐“版Pharia则大体上比标准版Pharia表现略差一点。▲Pharia与Mistral、Llama的分数比较。其中，WR指胜率，LC指长度控制胜率（即较短的完成结果优先于较长的）。（图源：Aleph Alpha发布在Hugging Face上的Model card）据Aleph Alpha官网介绍，模型的训练数据经过严格筛选，确保符合欧盟及相关国家法规中的版权和数据隐私法律。相比之下，许多大语言模型则依赖于大量网络抓取的数据。除了版权和隐私问题之外，网络抓取的数据还可能包含错误、过时或不准确的信息，包含偏见和歧视，甚至可能含有对安全造成威胁的恶意内容。该公司还开源了其训练代码库“Scaling”，这不仅让研究人员能够使用模型，还让他们能够理解并改进模型的训练过程本身。此外，该模型引入了创新的技术，使用了一种称为“分组查询注意力”（Group Query Attention，GQA）的技术。Aleph Alpha声称这提高了推理速度，且几乎没有牺牲质量。模型还采用了“旋转式位置编码”（Rotary Position Embedding，RoPE）的方法，使模型能够更好地理解句子中单词的相对位置。二、注重模型合规性的欧洲AI：可审计模型在受监管行业中或有独特优势随着AI技术的飞速发展，其在金融、医疗等高度受监管行业中的应用日益增多。这些行业对AI系统的透明度和问责性有着严格要求。欧盟即将实施的AI法案进一步强调了这些要求，预计将于2026年生效。在这样的背景下，Aleph Alpha的模型发布策略与欧盟AI法案的监管方向保持一致，显示出该公司对监管适应性的高度重视。通过开源模型，Aleph Alpha将自己定位为符合欧盟标准的AI开发先锋。这一开源策略有利于应对日渐增长的行业监管压力和公众对AI伦理的要求。企业客户越来越需要能够确保合规性和伦理性的AI解决方案。随着对AI解决方案在特定监管环境下审核和定制的需求增加，Aleph Alpha的开放方法使其在这些市场中具有潜在的竞争优势。特别是在监管合规性越来越重要的欧洲市场，Aleph Alpha的战略与“可解释AI”趋势一致，可能为企业AI解决方案中的透明度设定新的标准。结语：AI霸权的竞赛中，开源模型该如何取胜？通过倡导开放性、坚守合规性以及不断推动技术创新，Aleph Alpha正在挑战目前由科技巨头主导的封闭和不透明的AI开发模式。该公司开放了Pharia模型及其训练代码，这一行动有助于缓解公众对于AI系统”黑箱”特性的担忧，增强对AI技术的信任，这种透明度对于建立公众信任至关重要。然而，从长远来看，这种开源方法是否能够与科技巨头形成有效竞争，仍然有待观察。虽然开放性有助于激发创新并吸引开发者社区，但它也需要大量的资源来持续推动并围绕这些模型构建一个繁荣的生态系统。Aleph Alpha需要在促进社区参与和实现战略发展之间找到合适的平衡点，以保持在迅速演变的AI行业中的竞争力。来源：VentureBeat、Aleph Alpha官网、Hugging Face本文来自“智东西”，编译：Vendii，编辑：漠影，36氪经授权发布。]]></description>
       <guid>https://www.36kr.com/p/2924489417727113</guid>
       <pubDate>Tue, 27 Aug 2024 23:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>深夜重磅：曝 OpenAI 神秘模型「草莓」秋季推出，ChatGPT 或迎来今年最重大升级</title>
-      <link>https://www.36kr.com/p/2924935688493961</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2924935688493961</guid>
-      <pubDate>Tue, 27 Aug 2024 23:24:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、Perplexity 都在用的 AI 编辑器，成了硅谷码农最爱</title>
-      <link>https://www.36kr.com/p/2922479367314308</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2922479367314308</guid>
-      <pubDate>Tue, 27 Aug 2024 00:17:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>数学系本科生卧室手搓「核聚变反应堆」，Claude 3.5立大功，0基础，狂肝1个月</title>
-      <link>https://www.36kr.com/p/2922795307866761</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2922795307866761</guid>
-      <pubDate>Mon, 26 Aug 2024 10:14:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
