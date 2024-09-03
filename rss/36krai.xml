@@ -4,7 +4,34 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Sep 2024 12:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:20:57 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI，等待下一任“金主”</title>
+      <link>https://www.36kr.com/p/2934202806229637</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2934202806229637</guid>
+      <pubDate>Tue, 03 Sep 2024 11:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 首颗自研芯片曝光，用上台积电最先进埃米级芯片 A16，苹果也已下单</title>
+      <link>https://www.36kr.com/p/2934095300664199</link>
+      <description><![CDATA[ 。
+
+根据您的要求,我提取出的5个关键词和200字内的总结如下:
+
+OpenAI AI芯片 台积电 A16制程 Sora模型
+
+总结:
+1. OpenAI计划开发定制AI芯片,以提升Sora视频模型性能。
+2. 台积电将为OpenAI生产采用A16(1.6纳米)制程的芯片,这是台积电最先进的制程技术。
+3. A16制程采用超级电轨技术,可大幅提升芯片性能和密度。
+4. OpenAI正积极招募前Google TPU团队成员,计划2026年开始生产自研芯片。
+5. OpenAI自研芯片可能影响与英伟达的关系,但也可作为未来谈判筹码。
+6. 业界对OpenAI投入芯片研发存在不同看法,有人认为应更关注AI发展面临的能源问题。 
+OpenAI 首款内部 AI 芯片再次传来新的消息。 据台湾经济日报报道， 台积电将开发一款专为 OpenAI Sora 视频模型定制的 A16 埃米级工艺芯片，旨在提升 Sora 的视频生成能力。简单科普一下，1 埃米相当于 1 纳米的十分之一，在当前半导体制程已攻破 2 纳米工艺之后，埃米成为了全球领先芯片巨头的新战场。 「A16」的 命名和苹果的 A16 芯片没有太大关系，A16 命名代表的是制程 16 埃米，也就是 1.6 纳米。 这是台积电目前已披露的最先进制程节点，也是台积电进军埃米制程的首秀， 预计将于 2026 年下半年开始量产。据悉，A16 将采下一代奈米片（Nanosheet）晶体管技术，并采用超级电轨技术（SPR）。而 SPR 是具有独创性、领先业界的背面供电解决方案，是业界首创的技术。 超级电轨技术可以将供电网络转移到晶圆背面，为晶圆正面腾出更多空间，从而大幅提升逻辑密度和性能，让 A16 适用于那些需要复杂信号布线和密集供电网络的高效能运算（HPC）产品。 与 N2P 制程相比，A16 的芯片密度提升了 1.10 倍，在相同工作电压下，速度提升了 8-10%；在相同速度下，功耗降低了 15-20%。 尽管目前台积电 A16 制程尚未量产，但第一批下单客户已经遭到曝光。 报道称，苹果向台积电预定了首批产能，而 OpenAI 同样也因自研 AI 芯片的制造需求预定了 A16 的产能。 实际上，随着对生成式 AI 的持续需求，AI 芯片成了下一个巨头抢滩的战场，而 OpenAI 从未放弃过自研 AI 芯片。 台媒报道称，OpenAI 原先积极和台积电洽商合作建置专用晶圆厂，但在仔细评估包括盈利能力在内的各种因素后，但该计划最终被取消。 将时间的指针拨回七月份，据 The information 援引三位知情人士的消息，OpenAI 最近积极在招募曾参与生产 Google AI 芯片 TPU 的前员工，并寻求开发 AI 服务器芯片。 包括此前也有消息称，OpenAI 每年将向这些挖来的 Google 高级工程师提供价值数百万美元的股权。据悉，OpenAI 的芯片研发团队将由曾在 Google 参与制造 TPU 项目的 Richard Ho 领导。 并且，OpenAI 也在考虑与一家美国公司来协助开发这款新芯片。 比如作为 Google TPU 制造的合作伙伴之一，博通公司已经与 OpenAI 的芯片研发团队就制造芯片的事宜进行了讨论。 不过，OpenAI 团队似乎尚未开始设计该芯片，最早也要到 2026 年才会投入生产。该团队正在评估各种芯片封装和内存组件，以期最大限度地提升芯片性能。 今年早些时候，《华尔街日报》报道也指出，OpenAI CEO Sam Altman 正在与投资者洽谈要为芯片合资企业筹集资金，并指出这可能需要筹集高达 7 万亿美元的资金。 Altman 后来辟谣称，这个数字代表此类合资企业的参与者在几年内需要进行的总投资，包括从房地产和数据中心电力到芯片制造等各个方面。 对于 OpenAI 或将制造 AI 芯片，各方的态度也有些暧昧。 一方面，英伟达是 OpenAI 的主要芯片供应商，英伟达 CEO 黄仁勋甚至亲自向 OpenAI 交付了首个 DGX H200 芯片。 因此，OpenAI 选择自研 AI 芯片可能会引起英伟达的不满。 另一方面，尽管开发一款能与英伟达相媲美的新型服务器芯片可能性不大，且需要数年时间才能实现，但自研 AI 芯片可能为 OpenAI 在未来与英伟达的定价谈判中提供潜在的筹码。 Altman 曾表示如果能源科技没有重大突破，那么人工智能是无法达到下一个阶段的。 因此，不少观点认为，OpenAI 与其把时间花在 AI 芯片的制造上，不如更多地关注 AI 开发所面临的能源危机问题。 截至发稿前，台积电对上述报道不予置评，而 OpenAI 暂未就此事作出回应。 本文来自微信公众号“APPSO”，作者：发现明日产品的，36氪经授权发布。]]></description>
+      <guid>https://www.36kr.com/p/2934095300664199</guid>
+      <pubDate>Tue, 03 Sep 2024 09:37:34 GMT</pubDate>
+    </item>
     <item>
       <title>前OpenAI员工创业中途“跑路”，带40位员工卖身亚马逊</title>
       <link>https://www.36kr.com/p/2933756394331266</link>
@@ -111,20 +138,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2925743541689225</guid>
       <pubDate>Wed, 28 Aug 2024 11:46:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>模型小，还高效，港大最新推荐系统EasyRec：零样本文本推荐能力超越OpenAI、Bert</title>
-      <link>https://www.36kr.com/p/2925570942343812</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2925570942343812</guid>
-      <pubDate>Wed, 28 Aug 2024 09:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-5降临，代号猎户座？OpenAI疑用草莓训练，数学推理暴涨超越所有模型</title>
-      <link>https://www.36kr.com/p/2925570068831105</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2925570068831105</guid>
-      <pubDate>Wed, 28 Aug 2024 09:05:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
