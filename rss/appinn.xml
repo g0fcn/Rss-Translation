@@ -4,7 +4,19 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Sep 2024 18:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 01:14:39 GMT</lastBuildDate>
+    <item>
+      <title>Chrome 能不能隐藏掉标题栏？</title>
+      <link>https://meta.appinn.net/t/topic/60606</link>
+      <description><![CDATA[Firefox 通过 Userchrome 脚本可以很好的隐藏掉标题栏。
+
+Chrome 有没有办法能隐藏掉红框部分的内容，我用了垂直标签栏后，这里的空间浪费掉了。
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/60606</guid>
+      <pubDate>Tue, 03 Sep 2024 22:38:06 GMT</pubDate>
+    </item>
     <item>
       <title>【效率工具】最美字迹放大镜</title>
       <link>https://meta.appinn.net/t/topic/60593</link>
@@ -377,17 +389,6 @@ Edge 浏览器设置中有个功能叫做「打开上一个会话中的标签页
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/29959</guid>
       <pubDate>Sun, 13 Feb 2022 10:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[有] 有没有对网页输入框中内容进行替换的浏览器插件？</title>
-      <link>https://meta.appinn.net/t/topic/12704</link>
-      <description><![CDATA[有时在网页上的输入框里编辑长文本，例如在论坛发帖子啥的，需要批量替换某些内容。即 vs code 或 Word 里 Ctrl+ H 的那个“替换”功能。但搜了一下，没有找到这种功能的插件 
-大家知不知道支持此功能的插件？Firefox 或 Chrome 浏览器中的都行，支持正则表达式就更好了。
-话说没有的话用 ahk 应该能满足这需求。
-16 个帖子 - 10 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/12704</guid>
-      <pubDate>Wed, 04 Dec 2019 09:34:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
