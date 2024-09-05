@@ -4,7 +4,20 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Sep 2024 01:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 03:18:14 GMT</lastBuildDate>
+    <item>
+      <title>有没有可以屏蔽以及跳过所有B站充电视频的插件、扩展或脚本？</title>
+      <link>https://meta.appinn.net/t/topic/60662</link>
+      <description><![CDATA[例如：
+屏蔽关注列表中的所有充电视频。
+连续播放的情况下自动跳过当前或者下一个充电视频。
+主要是如果打开连续播放他播放到了充电视频就会一直卡在那里不播了，对于习惯打开自动播放把浏览器拖到其他显示器或者最小化的人来说这点很烦人。
+之前在另一个b站插件里问过 但我打算新开一个话题问下。
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/60662</guid>
+      <pubDate>Thu, 05 Sep 2024 01:51:46 GMT</pubDate>
+    </item>
     <item>
       <title>Keyviz 汉化版 - 开源免费的按键可视化工具</title>
       <link>https://meta.appinn.net/t/topic/60657</link>
@@ -320,79 +333,6 @@ Export notion content as cards and image - Notion Exporter
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/60306</guid>
       <pubDate>Sun, 25 Aug 2024 07:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】一款专注于还原用户真实手写体验的国产自研笔记软件</title>
-      <link>https://meta.appinn.net/t/topic/60250</link>
-      <description><![CDATA[软件名称
-自由笔记
-应用平台
-
-
-IOS
-
-
-iPadOS
-
-
-Android
-
-
-推荐类型
-【开发者自荐】
-一句话简介
-自由笔记是一个专注于还原真实书写体验，极大提高学习效率的一款笔记软件
-应用简介
-我们的笔记App不只是一个简单的笔记工具，高度还原了钢笔、铅笔、圆珠笔、荧光笔的书写体验，让每一笔都如同在纸上书写般真实。
-
-
-
-
-无论是导入PDF、Word、PPT等常用格式文件进行编辑，还是在系统或应用内分屏使用，都能极大提升你的学习效率。
-
-
-
-
-
-
-
-
-此外，资料中心囊括了海量考试资源，包括英语四六级、研究生考试、公务员考试、英语专四专八、教师资格证、高考真题等，助你轻松备考。
-
-
-
-
-素材中心还提供丰富的字体、模板、贴纸等常用素材，随心下载，助你打造个性化的笔记风格。
-
-
-
-
-应用商店地址
-
-
-App Store
-
-
-
-‎自由笔记
-‎自由笔记是一款国产免费的笔记应用，也是一款国产完全自研的笔记应用，立即下载，即刻畅享自然的书写体验。
-
-宛如在真实纸张写字
-- 真实笔触： 结合手写笔，你可以在电子设备上感受到逼真的笔触，从而实现在数字平台上书写的自然感受。
-- 流畅书写： 手写软件提供了流畅的书写体验，无论是速写还是详细记录，都能准确捕捉你的笔迹。
-
-将笔记放入文件夹
-- 组织有序： 文件夹功能让你可以根据项目、课程或主题将笔记分类整理，保持整洁有序的笔记库。
-- 快速查找：...
-
-
-
-
-
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/60250</guid>
-      <pubDate>Fri, 23 Aug 2024 08:22:23 GMT</pubDate>
     </item>
     <item>
       <title>是否有原样保存 Edge 的标签分组的插件</title>
