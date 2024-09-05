@@ -4,7 +4,15 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Sep 2024 12:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 18:24:21 GMT</lastBuildDate>
+    <item>
+      <title>三星高管剧透GPT-5高达5万亿参数，OpenAI匿名模型上线</title>
+      <link>https://www.36kr.com/p/2937084916963968</link>
+      <description><![CDATA[ 。 
+GPT-5有3-5万亿参数，由7000块B100炼成？ ！ 一夜间，下面这张图在网上疯转：仔细看，这是三星高管Jung Bae Lee（李祯培）在一场高级管理层峰会（CEO Summit）上演讲。 上面明晃晃写着GPT-5 3-5T、B100 7000、HBM3E 8TB/s&lt; /strong&gt;。 网友发现，不只是三星高管有“剧透”，OpenAI日本办事处负责人Tadao Nagasaki最新演讲中也有一张这样的照片：上面展示，就在今年，将推出“GPT Next”，比GPT-4强大100倍。 巧了，今年早些时候，微软CTO Kevin Scott也有这么一张图： 而且一个自称是OpenAI训练的匿名聊天机器人再次上线Lmsys大模型竞技场。 ‍‍‍一系列消息拼凑起来，网友炸开锅，纷纷表示等不及了。 OpenAI：我们有很多事情要跟大家讲除了上面的PPT和匿名模型，还有网友从OpenAI相关域名更新中发现了华点。 就在昨天，更新中含有”staging”（cdn.staging. openai.com），网友推测这可能意味着该设置是为了测试接近生产环境的配置。 在往下看，8月29号似乎有一个新的关于“video”的域名，是Sora吗？ 有意思的是，在传言满天飞的时候，OpenAI这边也有新动作了。 不是澄清，而是表示：有很多事情要告诉您。 就此新开设了一个新闻账号——OpenAI Newsroom。 再联系到之前的草莓、猎户座的爆料。 最近关于OpenAI要推出新模型的消息越来越密集，网友纷纷表示，这下GPT-5真的要来了。 有网友分析：2到3倍的提升，意味着：使用了新架构，可在不需要更多计算的情况下，保持指数级能力增长；LLM已经趋于稳定。 不过，除了期待，也有大量网友表示希望这一次是真的，可别又是光打雷不下雨的炒作……参考链接：[1 ]https://x.com/apples_jimmy/status/1831221448935100482[2]https://x.com/airesearch12/status/1831299302825562566[3]https:/ /x.com/OpenAI/status/1831389360937431270[4]https://x.com/legit_rumors/status/1831391130988233073本文来自微信公众号“量子位”，作者：西风，36氪经授权发布。 ]]></description>
+      <guid>https://www.36kr.com/p/2937084916963968</guid>
+      <pubDate>Thu, 05 Sep 2024 12:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 下一代模型官宣，比 GPT-4 强 100 倍</title>
       <link>https://www.36kr.com/p/2936841949420425</link>
@@ -116,13 +124,6 @@ OpenAI 首款内部 AI 芯片再次传来新的消息。 据台湾经济日报�
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2932319849978499</guid>
       <pubDate>Mon, 02 Sep 2024 03:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI家庭机器人NEO登场，动作丝滑逼近人类，穿着西装的「人」却专做家务</title>
-      <link>https://www.36kr.com/p/2932312548547462</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2932312548547462</guid>
-      <pubDate>Mon, 02 Sep 2024 03:09:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
