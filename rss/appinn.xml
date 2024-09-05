@@ -4,7 +4,61 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 04 Sep 2024 12:32:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 01:14:42 GMT</lastBuildDate>
+    <item>
+      <title>Keyviz 汉化版 - 开源免费的按键可视化工具</title>
+      <link>https://meta.appinn.net/t/topic/60657</link>
+      <description><![CDATA[Keyviz 汉化版
+Keyviz 是一款免费开源的按键可视化软件，可以实时显示您的按键和鼠标操作！
+无论是在录屏、演讲还是团队协作中，您都能让观众一目了然地看到操作过程。
+原软件，蛙应该已经推荐过了，在 Keyviz - 开源按键可视化工具：实时显示键盘按键[Windows] - 小众软件 。
+不过，汉化版我刚刚鼓捣出来啦，见 GitHub - zetaloop/keyviz: Keyviz 是一个免费开源的按键可视化工具，汉化版。Keyviz Chinese l10n fork. 。
+平台
+Windows / macOS / Linux
+特点
+
+开源免费
+支持键盘和鼠标
+自定义样式，有漂亮的动画
+可以忽略打字，只显示快捷键操作
+可以用快捷键来开启和关闭
+可以指定显示器
+有汉化了
+
+界面
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+注释
+汉化版是拿刚写的 GitHub Workflow 编译出来的，主要测试了 Windows 端功能正常。
+如果 macOS 和 Linux 的小伙伴发现没法用，或者发现汉化漏了/工作不正常，可在仓库里提 issue 告诉我！
+（或者有兴趣的话看看我别的汉化啦，比如 OFGB、GitHub Desktop 之类的）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/60657</guid>
+      <pubDate>Wed, 04 Sep 2024 23:10:50 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】FliTik翻页时钟-美到极致&跨平台&App免费无广告的翻页时钟</title>
       <link>https://meta.appinn.net/t/topic/60635</link>
@@ -351,17 +405,6 @@ Edge 浏览器设置中有个功能叫做「打开上一个会话中的标签页
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/42357</guid>
       <pubDate>Sun, 02 Apr 2023 17:30:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>给女儿写的自动听写工具网页</title>
-      <link>https://meta.appinn.net/t/topic/29959</link>
-      <description><![CDATA[自动听写工具
-一开始用的是百度tts，后来百度居然把免费的tts api k掉了，所以换成了谷歌tts。需要科学使用。
-写这个主要因为小学有大量的听写任务需要父母配合完成，而兔崽子每次听写都拖拖拉拉。还嫌弃我吐词不清，所以写了这个，tts速度拉到最慢然后读三遍，全部听完自动记录lag的词语标红，同时给出放大后的结果给兔崽子自己订正。世界又变美好了。
-17 个帖子 - 11 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/29959</guid>
-      <pubDate>Sun, 13 Feb 2022 10:10:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
