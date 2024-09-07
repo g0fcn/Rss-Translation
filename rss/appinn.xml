@@ -4,7 +4,16 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 07 Sep 2024 06:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 12:29:18 GMT</lastBuildDate>
+    <item>
+      <title>OneDrive会自动在桌面创建OneDrive文件夹的快捷方式</title>
+      <link>https://meta.appinn.net/t/topic/60766</link>
+      <description><![CDATA[如题，macOS系统，OneDrive会自动在桌面创建OneDrive文件夹的快捷方式，删除后下次开机还会自动创建。
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/60766</guid>
+      <pubDate>Sat, 07 Sep 2024 11:51:58 GMT</pubDate>
+    </item>
     <item>
       <title>添加</title>
       <link>https://meta.appinn.net/t/topic/60746</link>
@@ -366,19 +375,6 @@ Export notion content as cards and image - Notion Exporter
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/60394</guid>
       <pubDate>Wed, 28 Aug 2024 03:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>离线保存网页完整功能</title>
-      <link>https://meta.appinn.net/t/topic/60368</link>
-      <description><![CDATA[有2个网站
-
-宝可梦伤害计算器有时会抽风打不开。下拉框里有很多内容，不太好保存，用Save Page WE插件、保存为mhtml都失败了。有没有大佬知道，用什么工具保存这种有下拉内容的网站比较好？
-宝可梦朱紫数据库有很多二级和三级页面，我想要保存三级页面，离线之后url可以跳转，用什么工具比较好呢？
-
-6 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/60368</guid>
-      <pubDate>Tue, 27 Aug 2024 06:30:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
