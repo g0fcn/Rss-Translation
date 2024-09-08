@@ -2,20 +2,49 @@
 <rss version="2.0">
   <channel>
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
-    <link>http://0.0.0.0:4000/</link>
+    <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 08 Sep 2024 15:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 18:21:53 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到实验室 4.0</title>
+      <link>https://brett.trpstra.net/link/535/16796719/welcome-to-the-lab-4-dot-0</link>
+      <description><![CDATA[ 。 
+
+
+
+
+
+
+
+昨晚我重新设计了这个网站。希望你喜欢。它深受 iA 博客 的启发。我想，这是无耻的启发。但改造 Jekyll 设置是一项有趣的练习，需要大量的工作。我不喜欢在 Liquid 中制作模板，但我喜欢用 Ruby 编写过滤器。我认为结果相当不错。
+
+
+
+
+
+
+
+我每隔几年无聊的时候就会这样做。该网站自 2010 年开始运营，在此之前是 Circle Six 博客。天哪，我已经做了很长时间了……
+不幸的是，嵌入的评论目前已损坏，因此如果您想提供反馈，请加入我的论坛！
+在Mastodon或Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
+所有材料 ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | 隐私政策]]></description>
+      <guid>https://brett.trpstra.net/link/535/16796719/welcome-to-the-lab-4-dot-0</guid>
+      <pubDate>Sun, 08 Sep 2024 13:42:00 GMT</pubDate>
+    </item>
     <item>
       <title>播种机 3.0</title>
       <link>https://brett.trpstra.net/link/535/16796639/planter-3-dot-0</link>
       <description><![CDATA[ 。 
-几年前（12！）我编写了一个名为 Planter 的脚本，该脚本会根据缩进模板生成目录
+几年前（12！）我制作了一个名为 Planter 的脚本，该脚本会根据缩进模板生成目录
 和文件结构。我决定
 重新构想整个过程，并很高兴今天发布 Planter 3。
 Planter 现在不再依赖单个模板文件，而是需要一个
 模板目录，其中包含您想要
 包含的所有子目录和文件。为了实现这一点，模板变量
-系统已完全重新设计。它现在支持命名键、在命令行上提示输入值，甚至可以处理 if/then 逻辑和多项选择变量。
+系统已经完全重新设计。它现在支持命名键、在命令行上提示输入值，甚至可以处理 if/then 逻辑和多项选择变量。
 模板变量可以应用于文件名（包括 if/then 逻辑）和任何类型的基于文本的文件（包括 XML、RTF、JSON 等，Apple Binary PLIST 将自动转换）。这意味着您可以模板化您的源代码、笔记，甚至 Mindnode 思维导图、富文本笔记和 Scrivener 文档。
 我不会在这里记录整个过程，因为我已经为该项目编写了一个非常好的 README。如果您对此感兴趣，请告诉我文档中任何令人困惑的地方。
 我会注意到，由于它在命令行上的交互性质，将其纳入 LaunchBar 或 Alfred 工作流程之类的东西有点困难。但并非不可能，因为值可以作为参数传递，因此如果您的自动化处理填充变量的交互，您可以轻松调用该脚本。它现在也是一个 Ruby 宝石，这意味着您无法轻松嵌入整个脚本，而必须依赖它安装在用户的系统上。
@@ -79,7 +108,7 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
     <item>
       <title>重新推出 The Lab 和 Rock Scissors 的 T 恤</title>
       <link>https://brett.trpstra.net/link/535/16796647/relaunched-t-shirts-for-the-lab-and-rock-scissors</link>
-      <description><![CDATA[我让原来设立的 TeeSpring 商店陷入困境，而 TeeSpring 更改了一堆内容，导致我的所有列表都无效。因此，我重新推出了店面，保留了原来的设计，并增加了一些新设计。
+      <description><![CDATA[我让原来设立的 TeeSpring 商店陷入困境，而 TeeSpring 更改了一些东西，导致我的所有列表都无效。因此，我重新推出了店面，保留了原来的设计，并增加了一些新设计。
 
 
 
@@ -259,11 +288,11 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <description><![CDATA[ 。 
 我一直很喜欢 Homebrew 的 bundle 命令。你可以保存使用 Homebrew 安装的所有内容的快照，然后在新系统上重新安装该快照。
 我还喜欢 Ruby 的 Bundler，它允许你保存应用程序所需的所有 gem，然后使用 bundle install 轻松安装它们。
-但是，我不喜欢使用 Homebrew 安装 Ruby gem，主要是因为 brew-gem 不是最新的，而且现在几乎不能正常工作。我使用 gem install 安装所有 gem。
-因此，当我执行 brew bundle install 时，gem 安装的二进制文件不会包含在内。而且 Ruby 的 bundler 是针对特定项目的。因此我编写了一个脚本，它将保存系统上安装了二进制文件的每个 gem 的快照，然后在设置新系统时对所有 gem 执行 gem install。
-我为它提供了一个不错的 README，所以如果您感兴趣，可以去看看。如果您使用我的任何工具，例如 howzit 或 na，您可能已经使用 gem install 安装了这些工具，如果您尝试使用 Homebrew（或点文件等）进行恢复，它们将不会被包含。所以帮自己一个忙，创建一个快照！
+但是，我不喜欢使用 Homebrew 安装 Ruby gem，主要是因为 brew-gem 不是最新的，而且现在几乎不能用。我使用 gem install 安装所有 gem。
+因此，当我执行 brew bundle install 时，gem 安装的二进制文件不会包含在内。而且 Ruby 的 bundler 是针对特定项目的。因此我编写了一个脚本，它将保存系统中安装了二进制文件的每个 gem 的快照，然后在设置新系统时对所有 gem 执行 gem install。
+我为其提供了不错的 README，因此如果您对此感兴趣，请去查看。如果您使用我的任何工具，例如 howzit 或 na，您可能已经使用 gem install 安装了这些工具，如果您尝试使用 Homebrew（或点文件等）进行恢复，它们将不会被包含。所以帮自己一个忙，创建一个快照！
 请使用脚本的 GitHub 主页 的问题部分分享问题和建议。
-点赞或分享这篇文章 Twitter。
+点赞或分享此帖子 Twitter。
 
 BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供帮助，请单击此处。
 所有材料 ©2024 Brett Terpstra
@@ -305,41 +334,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</guid>
       <pubDate>Mon, 17 Jun 2024 17:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Text Blaze 可共享文件夹</title>
-      <link>https://brett.trpstra.net/link/535/16715638/text-blaze-shareable-folders</link>
-      <description><![CDATA[ Text Blaze, snippets, Mac app, Lorem Ipsum, placeholder images
-
-Text Blaze更新后可以方便地共享文本片段文件夹。这个包含随机文本生成器的集合使用了{urlload}命令，适用于Text Blaze。其中包含了用于在HTML/Markdown文档中插入占位图像的片段和Bacon Ipsum、Hipster Ipsum的文本生成器。{urlload}命令可能需要高级账户。总结：更新后的Text Blaze允许方便地共享文本片段文件夹，包含了用于插入占位图像的片段和文本生成器。需要注意{urlload}命令可能需要高级账户。 
-
-
-
-
-
-
-
-When I first tried it out, Text Blaze didn’t make it easy to publicly share folders of snippets. They’ve solved that, apparently, so now you can make folders publicly available from the Mac app. So I present…
-
-
-
-
-
-
-
-Lipsum, a collection of random text generators for Text Blaze. These almost all make use of the {urlload} command, which currently doesn’t show up in the command palette and I’m unclear as to whether they’re available to lower-level accounts (I have a Business subscription). If you try them out and run into issues, let me know.
-This set includes a couple of snippets for inserting placeholder images into HTML/Markdown documents, which I use pretty frequently when designing. You’ll also find snippets for Bacon Ipsum (I’m pescatarian, but…) and Hipster Ipsum, for those who prefer a little change from the typical Lorem Ipsum.
-If you’re trying out Text Blaze, check out the Lipsum folder. If nothing else, it offers some good examples for using {urlload} in your own snippets.
-
-Standard (for now) PSA: You have to scroll all the way to the bottom of the Text Blaze page to find the Mac app. I don’t know why they don’t make their native apps more obvious…
-
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16715638/text-blaze-shareable-folders</guid>
-      <pubDate>Sat, 15 Jun 2024 19:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
