@@ -4,7 +4,35 @@
     <title>36氪 - 人工智能·AI</title>
     <link>https://www.36kr.com/motif/327686782977</link>
     <description></description>
-    <lastBuildDate>Tue, 10 Sep 2024 15:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:36:43 GMT</lastBuildDate>
+    <item>
+      <title>曝 OpenAI 神秘模型「草莓」两周内上线，回答要花十几秒，订阅价格可能贵 10 倍</title>
+      <link>https://www.36kr.com/p/2945313253612419</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2945313253612419</guid>
+      <pubDate>Wed, 11 Sep 2024 07:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI神秘模型「草莓」两周内上线？数学推理暴涨，月收费200刀已有人付费</title>
+      <link>https://www.36kr.com/p/2945174390889097</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.36kr.com/p/2945174390889097</guid>
+      <pubDate>Wed, 11 Sep 2024 07:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>「Her」主创官宣离职OpenAI，奥特曼真留不住技术人才</title>
+      <link>https://www.36kr.com/p/2945177254156928</link>
+      <description><![CDATA[在OpenAI最早提出打造「Her」想法的的人，也离职创业了。Alexis Conneau（亚历克西斯・康诺），OpenAI版「Her」技术负责人，GPT-4o实时音频技术背后的关键人物之一。𝕏上，他的个人介绍还显示，他也参与到了GPT-5的相关研发工作当中。而康诺此番离职，距离ChatGPT的「Her」模式正式开放，还不到两个月时间。具体创业项目是什么，新公司筹备到了什么程度，康诺并未透露，只放出了一个小小的关键词“创造神奇”，但他的前同事们已经期待起来了：毕竟，上次被康诺本人称为「magical」的，是GPT-4o（手动狗头）。另外，尽管一切尚在水面之下，但人才嘛，是要先积极招揽的。在OpenAI率先提出「Her」的人亚历克西斯・康诺是个法国人，他在2008年进入巴黎综合理工学院时，就读的其实是数学专业——纯粹出于对数字的兴趣，那时他还不太关心计算机科学的事儿。但在2012年由Hinton和他的学生Ilya为代表人物掀起的那波AI浪潮中，康诺感受到了人工智能行业的巨大潜力，于是在2015年，他加入了Meta（前Facebook）在巴黎的AI实验室，并在此拿到了他的计算机科学博士学位。（法国CIFRE项目允许候选人在私有研究实验室内完成博士学位）在Meta期间，康诺以共同一作的身份发表了XLM-RoBERTa的研究工作，Google Scholar显示，这篇论文的引用量已经超过了6000。也是从那时起，他就关注到了语音技术，参与的工作包括语音自监督学习XLS-R、无监督语音识别Wav2vec-U等。2021年，康诺从Meta跳槽到了谷歌，担任BERT/PaLM团队研究科学家，专注于统一文本和语音理解的多模态语言模型和自监督学习研究。不过仅在谷歌工作一年后，他就又回到了Meta，着手构建Meta版本的「Her」项目。2023年4月，康诺被OpenAI挖走，也把「Her」的愿景带到了OpenAI——正是他从0创建并领导了OpenAI版「Her」的初版研究。在GPT-4o的致谢名单中可以看到，康诺具体领导了GPT-4o Audio Pre-Training、Encoders和Interruptions团队的研究工作，其中Interruptions团队的研究内容，是让GPT-4o可以像人一样被打断的关键。One More Thing前有超级对齐团队成员纷纷跑路，现在新产品的背后功臣们也显现流失迹象。这档口，OpenAI或许也有些坐不住了。The Information最新爆料：OpenAI下一代模型Strawberry🍓未来两周就要推出啦！爆料称，Strawberry依然会集成在ChatGPT中，不过与常规的ChatGPT服务不同，Strawberry能在回答问题之前进行“思考”。并且今天OpenAI又被曝出了新定价：倒不是疯传的2000刀，只要200刀/月（doge）。看样子，很大概率是为Strawberry准备的了。本文来自微信公众号“量子位”，作者：鱼羊，36氪经授权发布。]]></description>
+      <guid>https://www.36kr.com/p/2945177254156928</guid>
+      <pubDate>Wed, 11 Sep 2024 06:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>曝OpenAI神秘大模型“草莓”两周内发布</title>
+      <link>https://www.36kr.com/p/2945057751407494</link>
+      <description><![CDATA[智东西9月11日消息，据外媒The Information昨晚报道，OpenAI的新模型“草莓”（Strawberry），将在未来两周内作为ChatGPT服务的一部分发布。“草莓”项目是OpenAI盛传已久的神秘Q*模型，据传是此前OpenAI政变大戏的关键原因之一。它展现出了解答数学问题、复杂编程的强大能力，让AI安全的研究人员都为之震惊。上个月初，OpenAI CEO Sam Altman曾在推特暗戳戳秀自家花园5颗草莓。当时有网友根据草莓成熟时间预测，“草莓”模型或者GPT-5，可能在未来4-6周内发布。这次曝出的时间点，正好和当初网友的预测对上了。Sam Altman秀草莓两位参与模型测试的人员透露了更多该模型的细节。“草莓”与其他对话式AI最大的区别，在于它会在回答之前进行“思考”，这一阶段通常持续10~20秒。此外，“草莓”的初代版本只能接收和生成文本，不能处理图像等其他多模态信息，这似乎与如今市面上的主流大模型发展方向有些不同。01.“三思而后答”，初代为纯文本模型据测试人员透露，“草莓”虽然是ChatGPT的一部分，但它将是一项独立产品。其具体的服务方式尚不清楚，一种可能是作为可选择的模型，在ChatGPT的下拉菜单中提供。“草莓”最大的特点，就是会在回答前进行“思考”，而非立即给出响应。这一阶段通常持续10~20秒。思考阶段有助于模型避免出错，这段额外的时间也使“草莓”更有可能知道何时需要向用户提出后续问题，以便提供更全面的解答。这既可以视作深思熟虑的优点，但同时也可以视作反应迟钝的缺点。此外，“草莓”的初代版本只能接收和生成文本，不能处理图像等其他模态信息。而如今市面上大多数大模型都是多模态的，纯文本似乎是一个明显的弱点，这可能反映了OpenAI在发布产品上面临的压力。02.或将以速率限制收费无需“思维链提示”价格方面，“草莓”的定价可能与OpenAI的聊天机器人不同，后者有免费和订阅两种级别。据另一位了解该产品的人士称，它可能会有速率限制，限制用户每小时发送的最大消息数量，并且可能会有响应速度更快的高价级别。与OpenAI目前最强的模型GPT-4o相比，“草莓”可能更擅长处理复杂、多步骤的问题。目前，用户在使用ChatGPT时往往需要输入各种额外的提示词，才能得到理想的答案，也就是所谓的“思维链提示”，例如告诉聊天机器人逐步展示其推理过程。“草莓”的功能旨在避免这些步骤。这意味着，“草莓”不仅在数学问题和编程方面会表现更佳，而且在更“主观”的商业任务上也会表现更好，比如头脑风暴制定产品营销策略等。在这类任务中，该模型将提供更符合用户公司特定情况且更详细的建议。03.思考模式存在弊端，记忆能力仍有待提升但在模型发布之前或之后，OpenAI可能还有一些问题需要解决。例如，尽管从理论上讲，当“草莓”被问到简单问题时，能够跳过思考步骤直接回答，但一位测试人员说，在实际操作中模型并不总是这样做。它可能会错误地花费太长时间，来回答那些其他模型可以立即回答的问题。一些使用过“草莓”原型的人抱怨，与GPT-4o相比，它虽然响应略好一些，但并不值得额外等待10~20秒。此外，虽然“草莓”旨在在回答新问题之前，记住并整合前面的聊天记录，用以满足用户的特定偏好，但模型在这方面有时也存在问题。04.结语：OpenAI凭借“草莓”重振旗鼓？不可否认，OpenAI在很长一段时间内都是大模型产品领域的领头羊，但它面临的竞争日益激烈。例如在上个月，谷歌对标GPT-4o的AI语音助手Gemini Live已经广泛落地，其能够灵活处理用户的打断和突然的话题变化。OpenAI在5月首次发布了AI语音助手GPT-4o Voice，但随后为了改进安全措施而推迟了发布。“草莓”能否帮助OpenAI恢复势头，我们拭目以待。本文来自微信公众号“智东西”（ID：zhidxcom），作者：香草，编辑：李水青，36氪经授权发布。]]></description>
+      <guid>https://www.36kr.com/p/2945057751407494</guid>
+      <pubDate>Wed, 11 Sep 2024 03:29:16 GMT</pubDate>
+    </item>
     <item>
       <title>36 亿融资“造假”被揭穿，挣钱太难了，前苹果 AI 工程师 3 年打造的“欧洲 OpenAI”宣告退出模型竞赛</title>
       <link>https://www.36kr.com/p/2943910499375747</link>
@@ -83,36 +111,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.36kr.com/p/2937285836004738</guid>
       <pubDate>Fri, 06 Sep 2024 01:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>原生集成GitHub，让AI成为协作者，Claude企业版馋哭个人开发者</title>
-      <link>https://www.36kr.com/p/2937183592930181</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2937183592930181</guid>
-      <pubDate>Fri, 06 Sep 2024 00:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星高管剧透GPT-5高达5万亿参数，OpenAI匿名模型上线</title>
-      <link>https://www.36kr.com/p/2937084916963968</link>
-      <description><![CDATA[ 。 
-GPT-5有3-5万亿参数，由7000块B100炼成？ ！ 一夜间，下面这张图在网上疯转：仔细看，这是三星高管Jung Bae Lee（李祯培）在一场高级管理层峰会（CEO Summit）上演讲。 上面明晃晃写着GPT-5 3-5T、B100 7000、HBM3E 8TB/s&lt; /strong&gt;。 网友发现，不只是三星高管有“剧透”，OpenAI日本办事处负责人Tadao Nagasaki最新演讲中也有一张这样的照片：上面展示，就在今年，将推出“GPT Next”，比GPT-4强大100倍。 巧了，今年早些时候，微软CTO Kevin Scott也有这么一张图： 而且一个自称是OpenAI训练的匿名聊天机器人再次上线Lmsys大模型竞技场。 ‍‍‍一系列消息拼凑起来，网友炸开锅，纷纷表示等不及了。 OpenAI：我们有很多事情要跟大家讲除了上面的PPT和匿名模型，还有网友从OpenAI相关域名更新中发现了华点。 就在昨天，更新中含有”staging”（cdn.staging. openai.com），网友推测这可能意味着该设置是为了测试接近生产环境的配置。 在往下看，8月29号似乎有一个新的关于“video”的域名，是Sora吗？ 有意思的是，在传言满天飞的时候，OpenAI这边也有新动作了。 不是澄清，而是表示：有很多事情要告诉您。 就此新开设了一个新闻账号——OpenAI Newsroom。 再联系到之前的草莓、猎户座的爆料。 最近关于OpenAI要推出新模型的消息越来越密集，网友纷纷表示，这下GPT-5真的要来了。 有网友分析：2到3倍的提升，意味着：使用了新架构，可在不需要更多计算的情况下，保持指数级能力增长；LLM已经趋于稳定。 不过，除了期待，也有大量网友表示希望这一次是真的，可别又是光打雷不下雨的炒作……参考链接：[1 ]https://x.com/apples_jimmy/status/1831221448935100482[2]https://x.com/airesearch12/status/1831299302825562566[3]https:/ /x.com/OpenAI/status/1831389360937431270[4]https://x.com/legit_rumors/status/1831391130988233073本文来自微信公众号“量子位”，作者：西风，36氪经授权发布。 ]]></description>
-      <guid>https://www.36kr.com/p/2937084916963968</guid>
-      <pubDate>Thu, 05 Sep 2024 12:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 下一代模型官宣，比 GPT-4 强 100 倍</title>
-      <link>https://www.36kr.com/p/2936841949420425</link>
-      <description><![CDATA[ 。 
-大模型卷了一年后之后，今年 OpenAI 发布的节奏明显放缓，但最新的模型已经在路上了。 在最近举行的 KDDI 峰会上，OpenAI 日本公司 CEO Tadao Nagasaki 透露了关于 ChatGPT 下一代模型的最新进展。 Tadao 表示， 代号为「GPT-Next」的新一代模型性能预计将比现有的 GPT-4 模型强大 100 倍，并计划在今年晚些时候发布。报道称，该模型在 OpenAI 神秘「草莓」模型的一个更小、更紧凑的版本上进行训练。 GPT-Next 模型性能的提升归功于其优化的架构设计和学习效率的改进，而不是单纯依赖于庞大的计算资源。 他还透露，目前 OpenAI 全球员工不足 2000 人，其中约一半专注于 AI 开发。OpenAI 的主要客户包括宣布苹果公司、可口可乐以及生物科技巨头 Moderna。 在演讲中，Tadao 对 GPT 系列的未来进行了展望，他将 GPT-3 与 GPT-4 进行了对比，他表示，与传统软件相比， AI 技术将呈指数级增长。值得一提的是，据多家外媒报道，OpenAI 正在洽谈新一轮融资，估值预计将超过 1000 亿美元，有望成为全球市值最高的 AI 独角兽。 该轮融资的投资者包括 Thrive Capital、微软、苹果和英伟达等。外媒 The Information 指出，融资期间， OpenAI 或将从非营利组织转变为营利性企业。另外，最新的数据显示，自去年 11 月份以来，ChatGPT 的周活跃用户数量已经翻了一倍，超过 2 亿。 除了 OpenAI 被传融资消息，最近，OpenAI 前首席科学家 Ilya Sutskever 的新公司 SSI 也官宣从红杉资本和 Andreessen Horowitz 等投资者那里 筹集了 10 亿美元。SSI 计划利用这笔融资来购买算力并招募一些志同道合的顶尖 AI 人才。 知情人士透露， 尽管这家成立三个月、只有 10 名员工的创业公司尚未推出任何产品，但估值已高达 50 亿美元。SSI 共有三位联合创始人，除了 Ilya，另外两位联合创始人分别是 Daniel Gross 和 Daniel Levy。其中 Levy 是主要科学家，而 Gross 负责筹款和寻求计算资源。 在官宣创立 SSI 之前，Gross 是一位投资者，也是前苹果公司 AI 部门的负责人，因支持包括 Keen Technologies 在内的一些知名 AI 初创公司而备受关注。Keen 由著名程序员、3D 游戏之父约翰・卡马克创立，旨在开发 AGI。 公开资料显示，Gross 因创办的 Greplin 公司受到赏识而加入 YC。后来，更名为 Cue 的 Greplin 公司在 2013 年以约 4000 万美元的价格被苹果收购。 借此，年仅 23 岁的 Gross 也就成为了苹果的技术总监，主要负责机器学习与搜索业务。 在苹果公司任职期间，Gross 主要负责将机器学习技术融入 iOS 和 macOS 操作系统中，比如从通信记录中智能识别并提取联系人数据，然后将这些数据整合进通讯录等应用之中。 在接受路透社采访时，Gross 曾表示： 对我们来说，找到那些理解、尊重并支持我们使命的投资者至关重要，而我们的使命是直接致力于实现安全的超级智能，尤其是花几年时间对我们的产品进行研发，然后再将其推向市场。 而 Levy 则因在 OpenAI 与 Ilya 共同训练 AI 模型而广受赞誉。 「现在是开展这样一个项目的最佳时机，」Levy 说，「我的愿景与 Ilya 相同：打造一个精干、专注的小团队，致力于实现安全超级智能这一目标。」 与 OpenAI 最初出于 AI 安全考虑而采取的非营利组织不同，SSI 采用了标准的营利性结构。 对于本轮融资，SSI 表示，它计划与云提供商和芯片公司合作，为其计算能力需求提供资金，但尚未决定将与哪些公司合作，而微软、英伟达都是潜在选择。 Ilya 是 Scaling Law 最早一批的忠实拥趸。该定律指出，随着 AI 模型的规模（包括参数数量、训练数据量、计算资源）的扩大，模型的性能和能力也会相应地显著提升。 据路透社报道， Ilya 将以与「前雇主」 OpenAI 不同的方式继续 Scaling ，但并没有透露具体的细节。「每个人都在谈论 Scaling Hypothesis，但大家都忽略了一个问题：我们究竟在 Scaling 什么？」他说。 有些人可以工作很长时间，但他们只会更快地走上相同的道路。我们并不倾向于这样做。但是，如果你尝试一些不同的方式，那么你就有可能创造一些与众不同的成果。 本文来自微信公众号“APPSO”，作者：发现明日产品的，36氪经授权发布。]]></description>
-      <guid>https://www.36kr.com/p/2936841949420425</guid>
-      <pubDate>Thu, 05 Sep 2024 08:37:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ilya融资10亿幕后大佬：复刻OpenAI创始人，21岁当苹果AI总监，手握千卡算力集群</title>
-      <link>https://www.36kr.com/p/2936653547412104</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.36kr.com/p/2936653547412104</guid>
-      <pubDate>Thu, 05 Sep 2024 07:45:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
