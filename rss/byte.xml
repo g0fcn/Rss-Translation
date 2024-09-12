@@ -4,7 +4,14 @@
     <title>Byte Tank - Pedro Lopes 博客</title>
     <link>https://lopespm.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Sep 2024 01:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 01:16:30 GMT</lastBuildDate>
+    <item>
+      <title>Obsidian 加密备份 - Google Drive、Dropbox、OneDrive</title>
+      <link>https://lopespm.com/notes/2024/09/11/obsidian-backup.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://lopespm.com/notes/2024/09/11/obsidian-backup.html</guid>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>投资追踪器 - 免费电子表格模板</title>
       <link>https://lopespm.com/notes/2024/09/01/investment-tracker.html</link>
@@ -101,7 +108,7 @@ Do notice that the italics are intentional. The choices above assume that those 
     <item>
       <title>人工智能时代的工作安全</title>
       <link>https://lopespm.com/notes/2023/12/25/job_safety_in_ai_era.html</link>
-      <description><![CDATA[文字很廉价，而且越来越廉价。本博客的最后几篇笔记可能是通过生成式人工智能编写的，随着时间的推移，新的生成模型可能会持续创造出比我所能制作的更高质量的内容。
+      <description><![CDATA[文字很便宜，而且越来越便宜。本博客的最后几篇笔记可能是通过生成式人工智能编写的，随着时间的推移，新的生成模型可能会持续创造出比我所能制作的更高质量的内容。
 我没有使用这些，因为写作过程是一种思考，但如果有自动化机制在许多不同领域越来越胜过我们人类，那我们还能剩下什么呢？
 人际关系
 与一个比你聪明和有能力几个数量级的人建立关系，你会感到多么舒服？不仅仅是逻辑数学智能，还有情感、语言、音乐甚至空间智能。
@@ -148,25 +155,6 @@ Do notice that the italics are intentional. The choices above assume that those 
 授权 = [ 75/25 规则 -&gt; 目标明确 + 自主权 + 定期反馈 ]]]></description>
       <guid>https://lopespm.com/notes/2023/09/30/goal_clarity_in_delegation.html</guid>
       <pubDate>Fri, 29 Sep 2023 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人生有几条出口</title>
-      <link>https://lopespm.com/notes/2023/08/19/life_exits.html</link>
-      <description><![CDATA[人生有几种出口：
-
-离开你的工作场所。你为雇主或公司工作的最后一天。
-离开陪伴你度过青少年时期和成年早期的青年团体。
-离开你的高中。
-离开你的家乡。
-结束一段长期关系。
-离开生活。你的葬礼。
-
-在你离开时，你的贡献、行动、决定、观点和存在很可能会以明显和不太明显的方式影响你周围的人和世界的轨迹。也许你自己的轨迹也发生了深刻的变化。
-这些出口可能值得庆祝，是一个充满充实的话语和想法的特殊日子。这可能是你最后一次见到一群人。这是你一生中最后一次见到他们。
-也许在你最后一次离开时，你已经对世界产生了如此重大的影响，以至于你的名字将在未来几个世纪被铭刻在史册上。另一方面，史蒂夫·乔布斯、比尔·盖茨、埃隆·马斯克和沃伦·巴菲特等当代人物可能在几个世纪后被遗忘。人们会继续前进，所以如果你所爱的人在接下来的几十年里一直想着你，你很可能应该心存感激。
-生命有几个出口。生命也是短暂而有限的。你会经历有限数量的出口。充分利用它们所包含的每个时期。]]></description>
-      <guid>https://lopespm.com/notes/2023/08/19/life_exits.html</guid>
-      <pubDate>Fri, 18 Aug 2023 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
