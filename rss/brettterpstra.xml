@@ -4,7 +4,22 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 08 Sep 2024 21:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:23:02 GMT</lastBuildDate>
+    <item>
+      <title>Cookiecutter：Planter 的替代品</title>
+      <link>https://brett.trpstra.net/link/535/16808173/cookiecutter-a-planter-alternative</link>
+      <description><![CDATA[ 。 
+在发布 Planter 后不久，用户 cavalierex 在论坛上向我介绍了 Cookiecutter。它似乎是一个完整的替代品，而且比 Planter 成熟得多。
+我并不后悔制作 Planter — 它完全符合我自己的需求。但如果我在开始之前就知道 cookiecutter，我可能就不会费心重新发明轮子了。编写 Planter 代码仍然很有趣。
+Cookiecutter 的功能非常接近，我认为值得分享。如果 Planter 对你有用，那很好，但如果你想要一个替代方案，查看它。
+在 Mastodon 或 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
+所有材料 ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | 隐私政策]]></description>
+      <guid>https://brett.trpstra.net/link/535/16808173/cookiecutter-a-planter-alternative</guid>
+      <pubDate>Fri, 13 Sep 2024 16:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎来到实验室 4.0</title>
       <link>https://brett.trpstra.net/link/535/16796719/welcome-to-the-lab-4-dot-0</link>
@@ -50,7 +65,7 @@ Planter 现在不再依赖单个模板文件，而是需要一个
 我会注意到，由于它在命令行上的交互性质，将其纳入 LaunchBar 或 Alfred 工作流程之类的东西有点困难。但并非不可能，因为值可以作为参数传递，因此如果您的自动化处理填充变量的交互，您可以轻松调用该脚本。它现在也是一个 Ruby 宝石，这意味着您无法轻松嵌入整个脚本，而必须依赖它安装在用户的系统上。
 如果您定期创建遵循类似目录/文件结构的项目，Planter 将为您节省大量时间。查看它。
 如果您有想法或需要支持，请使用论坛。我期待收到您的来信！
-在 Mastodon 或  href=&quot;https://twitter.com/intent/tweet?original_referer=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;text=Planter+3.0&amp;url=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;via=ttscoff&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Tweet this post&quot;&gt;Twitter。
+在 Mastodon 上点赞或分享此帖子或Twitter。
 
 BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
 所有材料 ©2024 Brett Terpstra
@@ -313,27 +328,6 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16727652/obsidian-callouts-in-marked</guid>
       <pubDate>Fri, 28 Jun 2024 00:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Markdown 唇形图 v2</title>
-      <link>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</link>
-      <description><![CDATA[ API options, paragraphs, elements, parameters, control
-API 2版本做出了变动，现在用户可以指定段落数量和包含元素。用户可以使用不同的路径来确定段落长度和数量，还可以控制包含的元素。在路径中添加参数可以实现这些功能。这样用户可以根据自己的需求定制Markdown文档。同时，作者提到如果没有给出参数，默认输出5段中等长度的文本，并提供了详细的路径参数说明。通过API 2，用户可以更自由地生成想要的文档内容。文章中还提到，作者对BrettTerpstra.com的支持来自读者，鼓励点赞或分享。 
-I know it’s been less than a week since v1, but I made some major changes to md-lipsum that warrant a version 2.
-Basically, I incorporated all of the API options from Loripsum.net, meaning you can now specify how many paragraphs and what elements are included. You can still get a full Markdown document with all elements using https://brettterpstra.com/md-lipsum/api/2/all. You can include /short, /medium, /long, or /verylong in the path to determine paragraph length (can be shortened to s, m, l, vl), and/or a number to determine the number of paragraphs. More paragraphs means more header levels, too. Example:
-curl &#39;https://brettterpstra.com/md-lipsum/api/2/all/10/m&#39;
-
-If no parameters are given, e.g. the path is just /api/2, then all elements will be output with 5 paragraphs of medium length.
-
-You can also control exactly what elements are included using additional path parameters. These are detailed on the project page.
-Have fun!
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</guid>
-      <pubDate>Mon, 17 Jun 2024 17:04:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
