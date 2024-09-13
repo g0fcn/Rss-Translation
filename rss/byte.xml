@@ -4,7 +4,14 @@
     <title>Byte Tank - Pedro Lopes 博客</title>
     <link>https://lopespm.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Sep 2024 03:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 01:17:05 GMT</lastBuildDate>
+    <item>
+      <title>前中央情报局情报官员的采访记录</title>
+      <link>https://lopespm.com/notes/2024/09/12/interview_learnings_cia.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://lopespm.com/notes/2024/09/12/interview_learnings_cia.html</guid>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Obsidian 加密备份 - Google Drive、Dropbox、OneDrive</title>
       <link>https://lopespm.com/notes/2024/09/11/obsidian-backup.html</link>
@@ -108,7 +115,7 @@ Do notice that the italics are intentional. The choices above assume that those 
     <item>
       <title>人工智能时代的工作安全</title>
       <link>https://lopespm.com/notes/2023/12/25/job_safety_in_ai_era.html</link>
-      <description><![CDATA[文字很便宜，而且越来越便宜。本博客的最后几篇笔记可能是通过生成式人工智能编写的，随着时间的推移，新的生成模型可能会持续创造出比我所能制作的更高质量的内容。
+      <description><![CDATA[文字很廉价，而且越来越廉价。本博客的最后几篇笔记可能是通过生成式人工智能编写的，随着时间的推移，新的生成模型可能会持续创造出比我所能制作的更高质量的内容。
 我没有使用这些，因为写作过程是一种思考，但如果有自动化机制在许多不同领域越来越胜过我们人类，那我们还能剩下什么呢？
 人际关系
 与一个比你聪明和有能力几个数量级的人建立关系，你会感到多么舒服？不仅仅是逻辑数学智能，还有情感、语言、音乐甚至空间智能。
@@ -132,29 +139,6 @@ Do notice that the italics are intentional. The choices above assume that those 
       <description><![CDATA[]]></description>
       <guid>https://lopespm.com/notes/2023/10/21/investment_relative_cost_benefit.html</guid>
       <pubDate>Fri, 20 Oct 2023 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>目标明确对于授权的重要性</title>
-      <link>https://lopespm.com/notes/2023/09/30/goal_clarity_in_delegation.html</link>
-      <description><![CDATA[之前，在“作为软件工程师 Techlead 的学习”中，我提到了 75/25 规则，即如果您有 ~75% 的把握某人会正确执行给定的项目/任务，那么就委派。另外 ~25% 是该人学习、探索、犯错、创新和成长所需的未知空间。
-如果决定委派项目/任务，接下来会发生什么？
-目标清晰
-我在委派时遇到的一个常见挑战是，交接工作后感觉结果难以预测且难以控制。这种非结构化的方法常常让我思考如何通过缩小委派范围来降低未完成风险，并让受委派者对如何进行感到困惑。
-《谁不是如何》一书中的一条信息提供了解决此问题的指导和结构：
-
-(…) 研究发现，具有高度自主性但目标不明确以及绩效反馈很少的团队表现比自主性低的团队更差。
-― Dan Sullivan 与 Benjamin Hardy 博士合著的《谁不是如何》
-
-上述研究声称，具有高度自主性、高度目标明确性并定期对其结果进行反馈的团队观察到他们的表现飞速提升。
-除了定期反馈外，目标明确性也非常重要，尽管听起来很明显，但在授权过程中可能会被忽视和淹没。
-实践中的明确性
-在意识到上述情况后，我优先考虑每一项委派的工作，明确定义预期结果、完成的定义、重要的里程碑和截止日期、何时应该将问题扩展到我，以及每个参与者的所有权。
-以上所有内容都以清晰简洁的方式传达，最好公开记录以增加责任感并减少歧义（视情况而定，仅口头传达这些内容可能就足够了，特别是如果任务很简单）。
-授权公式
-鉴于上述情况，建议授权公式如下：
-授权 = [ 75/25 规则 -&gt; 目标明确 + 自主权 + 定期反馈 ]]]></description>
-      <guid>https://lopespm.com/notes/2023/09/30/goal_clarity_in_delegation.html</guid>
-      <pubDate>Fri, 29 Sep 2023 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
