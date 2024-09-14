@@ -4,7 +4,7 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Sep 2024 18:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 01:14:16 GMT</lastBuildDate>
     <item>
       <title>Cookiecutter：Planter 的替代品</title>
       <link>https://brett.trpstra.net/link/535/16808173/cookiecutter-a-planter-alternative</link>
@@ -65,7 +65,7 @@ Planter 现在不再依赖单个模板文件，而是需要一个
 我会注意到，由于它在命令行上的交互性质，将其纳入 LaunchBar 或 Alfred 工作流程之类的东西有点困难。但并非不可能，因为值可以作为参数传递，因此如果您的自动化处理填充变量的交互，您可以轻松调用该脚本。它现在也是一个 Ruby 宝石，这意味着您无法轻松嵌入整个脚本，而必须依赖它安装在用户的系统上。
 如果您定期创建遵循类似目录/文件结构的项目，Planter 将为您节省大量时间。查看它。
 如果您有想法或需要支持，请使用论坛。我期待收到您的来信！
-在 Mastodon 上点赞或分享此帖子或Twitter。
+在 Mastodon 或  href=&quot;https://twitter.com/intent/tweet?original_referer=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;text=Planter+3.0&amp;url=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;via=ttscoff&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Tweet this post&quot;&gt;Twitter。
 
 BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
 所有材料 ©2024 Brett Terpstra
