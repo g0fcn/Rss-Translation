@@ -4,7 +4,90 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Sep 2024 01:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:19:04 GMT</lastBuildDate>
+    <item>
+      <title>奇妙色彩-有趣的色彩搭配APP，让色彩搭配落地成精美的壁纸，练习色彩搭配，同时很解压</title>
+      <link>https://meta.appinn.net/t/topic/61101</link>
+      <description><![CDATA[软件名称&lt; /h2&gt; 奇妙色彩 应用平台  iPad iOS  推荐类型 【开发者自荐】 截图预览：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+官方网站
+https://lyly.top/color
+1 个帖子 - 1 位参与者&lt; /小&gt;
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/61101</guid>
+      <pubDate>Wed, 18 Sep 2024 02:18:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>【疯狂翻译师App】足不出户 译天下！</title>
+      <link>https://meta.appinn.net/t/topic/61100</link>
+      <description><![CDATA[应用名称
+&quot;疯狂翻译师&quot;App——漫画视频字幕图片游戏翻译！
+应用平台
+iOS / Android
+苹果ios下载地址：点击直达
+安卓手机下载地址：点击直达
+应用简介
+支持屏幕、图片、视频字幕、文档、漫画等多种翻译，准确率高，操作简单。具备实时截图翻译、拍照翻译等功能。疯狂翻译师集成业内最先进的神经网络翻译引擎技术（NMT/NN），相比传统的机器翻译，翻译准确率显著提升，翻译更准确。让你无障碍了解世界各地信息和文化。
+软件没有订阅功能！！不会自动续费！！也没有乱飞的广告！！
+足不出户，让你无障碍了解世界各地信息和文化！
+主要功能
+-【视频翻译】 ：对视频进行翻译，可添加翻译后的字幕位置显示！
+-【漫画翻译】 ：日漫、韩漫、英文漫画皆可实时翻译，所见即所得！
+-【屏幕翻译】 ：在手机任何页面都可以进行实时截图翻译，真正的所见即所得。你能看见的，就能翻译成自己所需要的语言！
+-【 照片/拍照翻译】：直接拍照进行实时翻译或者是上传自己相册中的图片进行翻译皆可！
+-【文本翻译】 ：打字或粘贴文本对单词或句子进行翻译，翻译后进行准确的朗读！
+-【文档翻译】 ：对长篇幅文档包括不限于DOC、word等等文档内容进行翻译！
+页面截图
+ 
+
+
+
+官网地址
+
+
+
+fengkuangfanyi.com
+
+
+疯狂翻译师 - 足不出户 译天下
+搜狗翻译下载
+搜狗翻译使用方法
+搜狗翻译功能介绍
+搜狗翻译评价
+搜狗翻译安卓版
+翻译iOS版
+翻译语音翻译
+翻译离线翻译
+翻译人工翻译
+翻译语种列表
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/61100</guid>
+      <pubDate>Wed, 18 Sep 2024 02:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】Roma–人生选择决策和复盘工具</title>
       <link>https://meta.appinn.net/t/topic/61093</link>
@@ -289,118 +372,6 @@ web,android,ios,chrome,windows
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/60662</guid>
       <pubDate>Thu, 05 Sep 2024 01:51:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keyviz 汉化版 - 开源免费的按键可视化工具</title>
-      <link>https://meta.appinn.net/t/topic/60657</link>
-      <description><![CDATA[Keyviz 汉化版
-Keyviz 是一款免费开源的按键可视化软件，可以实时显示您的按键和鼠标操作！
-无论是在录屏、演讲还是团队协作中，您都能让观众一目了然地看到操作过程。
-原软件，蛙应该已经推荐过了，在 Keyviz - 开源按键可视化工具：实时显示键盘按键[Windows] - 小众软件 。
-不过，汉化版我刚刚鼓捣出来啦，见 GitHub - zetaloop/keyviz: Keyviz 是一个免费开源的按键可视化工具，汉化版。Keyviz Chinese l10n fork. 。
-平台
-Windows / macOS / Linux
-特点
-
-开源免费
-支持键盘和鼠标
-自定义样式，有漂亮的动画
-可以忽略打字，只显示快捷键操作
-可以用快捷键来开启和关闭
-可以指定显示器
-有汉化了
-
-界面
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-注释
-汉化版是拿刚写的 GitHub Workflow 编译出来的，主要测试了 Windows 端功能正常。
-如果 macOS 和 Linux 的小伙伴发现没法用，或者发现汉化漏了/工作不正常，可在仓库里提 issue 告诉我！
-（或者有兴趣的话看看我别的汉化啦，比如 OFGB、GitHub Desktop 之类的）
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/60657</guid>
-      <pubDate>Wed, 04 Sep 2024 23:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】FliTik翻页时钟-美到极致&跨平台&App免费无广告的翻页时钟</title>
-      <link>https://meta.appinn.net/t/topic/60635</link>
-      <description><![CDATA[FliTik翻页时钟-跨平台的免费翻页时钟
-软件简介
-把你的电脑/手机/平板/电视变成翻页时钟
-FliTik翻页时钟是一款支持全平台的翻页时钟App，它为用户带来了精美设计的用户界面和翻页动画效果。您的设备将在瞬间变成一个精美的翻页时钟，超大的数字显示让您即使在很远的距离也可以轻松地看见时间。无论您在桌面端（Windows/Mac）、手机端（Android/iOS）、平板端（Android Pad/iPad）还是电视端，都可以轻松使用。
-FliTik的名字来源于Flip和Tik这两个单词的组合，代表了翻页和时钟滴答声，很好地体现了软件的功能特点。
- 
-
-
-
-
-功能特点
-
-支持以屏保或桌面小组件方式运行
-支持12/24小时制之间切换
-支持横屏/竖屏之间切换 (*适用于Android/iOS 系统)
-支持自定义背景颜色和数字颜色
-支持自定义背景图片 (网络图片或者本地图片)
-支持放大/缩小时钟 (*适用于Windows端桌面小组件)
-支持整点语音报时
-内置多种滴答音效
-支持在多个显示器上显示屏保
-可设置是否显示日期或节假日
-可设置是否显示秒钟
-可设置防烧屏选项
-可设置显示电池电量
-
-
-电脑端截图
-
-
-
-
-
-
-
-
-手机端截图
-
-
-
-
-
-
-获取软件
-想要为您的日常生活增添一抹复古而时尚的气息吗？快来体验FliTik翻页时钟，让时间的流转变得生动而有趣！
-轻松获取，即刻享受：只需动动手指，前往您手机中的各大应用商店或软件市场，输入关键词“FliTik翻页时钟”，即可轻松下载安装。
-免费体验，无限可能：手机端用户将享受到所有功能的完全免费使用，且无任何广告干扰，让您的体验纯净而专注。为了让您的电脑桌面也能享受到时间的流转之美，电脑端的基础功能同样免费开放，让您的数字生活更加丰富多彩。
-个性化定制，支持可持续发展：电脑端的个性化设置，我们鼓励您支付象征性的费用。这不仅是为了定制属于您自己的时间艺术品，更是对FliTik翻页时钟团队的支持，帮助我们持续创新和改进，确保软件的长期发展和提供优质服务。
-
-立即行动，让FliTik翻页时钟成为您生活中的时间伴侣，每一次翻页都是一次惊喜，每一次跳动都是期待的开始！
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/60635</guid>
-      <pubDate>Wed, 04 Sep 2024 08:20:21 GMT</pubDate>
     </item>
     <item>
       <title>有什么扩展可以批量给网页生成缩略图或者预览图的么</title>
