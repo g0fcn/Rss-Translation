@@ -4,7 +4,50 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 15 Sep 2024 18:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 21:16:13 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 9 月 20 日的网络游览</title>
+      <link>https://brett.trpstra.net/link/535/16815563/web-excursions-for-september-20-2024</link>
+      <description><![CDATA[ 。
+
+Here&#39;s my response in Chinese:
+
+CLI工具 文档生成 错误代码 命令行AI 文本编辑器插件
+
+总结:
+1. 介绍了一个可用于生成man pages、Markdown和shell补全脚本的CLI工具架构。
+2. 提到了一个查找Apple OS错误代码的工具。
+3. 描述了Warp集成的AI命令帮助功能,可以直接在命令行中识别自然语言并提供帮助。
+4. 介绍了一个可以为macOS文本字段添加Vim模式的插件,有免费试用版。
+5. 文章最后提到了Setapp服务,可以访问众多Mac和iOS应用。
+6. 文章来自BrettTerpstra.com,由读者支持运营。 
+
+
+
+
+
+
+
+Web excursions brought to you in partnership with Setapp. Get access to hundreds of Mac and iOS apps for one low monthly subscription fee.
+
+Usage
+A schema for CLIs that can be used to generate man pages, Markdown, and shell completion scripts. I might have to start implementing this…
+OSStatus — Apple API Errors
+Look up those inscrutable Apple OS Error codes easily.
+Agent Mode in Warp AI
+There are a bunch of caveats to the service, but I love that Warp integrated AI command help in the command line just by recognizing natural language. You no longer have to load a panel or anything, just ask for help at the prompt. Pretty cool.
+kindaVim
+Add Vim mode to any macOS text field. Works pretty well! Free trial only allows usage during a certain period of the day, kind of a clever limited trial.
+
+Check out Setapp today and get access to the best Mac and iOS apps out there.
+Like or share this post Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16815563/web-excursions-for-september-20-2024</guid>
+      <pubDate>Fri, 20 Sep 2024 19:32:00 GMT</pubDate>
+    </item>
     <item>
       <title>马克回来了</title>
       <link>https://brett.trpstra.net/link/535/16809038/marky-is-back</link>
@@ -76,19 +119,19 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <title>播种机 3.0</title>
       <link>https://brett.trpstra.net/link/535/16796639/planter-3-dot-0</link>
       <description><![CDATA[ 。 
-几年前（12！）我编写了一个名为 Planter 的脚本，该脚本会根据缩进模板生成目录
+几年前（12！）我制作了一个名为 Planter 的脚本，该脚本会根据缩进模板生成目录
 和文件结构。我决定
 重新构想整个过程，并很高兴今天发布 Planter 3。
 Planter 现在不再依赖单个模板文件，而是需要一个
 模板目录，其中包含您想要
 包含的所有子目录和文件。为了实现这一点，模板变量
-系统已完全重新设计。它现在支持命名键、在命令行上提示输入值，甚至可以处理 if/then 逻辑和多项选择变量。
+系统已经完全重新设计。它现在支持命名键、在命令行上提示输入值，甚至可以处理 if/then 逻辑和多项选择变量。
 模板变量可以应用于文件名（包括 if/then 逻辑）和任何类型的基于文本的文件（包括 XML、RTF、JSON 等，Apple Binary PLIST 将自动转换）。这意味着您可以模板化您的源代码、笔记，甚至 Mindnode 思维导图、富文本笔记和 Scrivener 文档。
 我不会在这里记录整个过程，因为我已经为该项目编写了一个非常好的 README。如果您对此感兴趣，请告诉我文档中任何令人困惑的地方。
 我会注意到，由于它在命令行上的交互性质，将其纳入 LaunchBar 或 Alfred 工作流程之类的东西有点困难。但并非不可能，因为值可以作为参数传递，因此如果您的自动化处理填充变量的交互，您可以轻松调用该脚本。它现在也是一个 Ruby 宝石，这意味着您无法轻松嵌入整个脚本，而必须依赖它安装在用户的系统上。
 如果您定期创建遵循类似目录/文件结构的项目，Planter 将为您节省大量时间。查看它。
 如果您有想法或需要支持，请使用论坛。我期待收到您的来信！
-在 Mastodon 上点赞或分享此帖子或Twitter。
+在 Mastodon 或  href=&quot;https://twitter.com/intent/tweet?original_referer=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;text=Planter+3.0&amp;url=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;via=ttscoff&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Tweet this post&quot;&gt;Twitter。
 
 BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
 所有材料 ©2024 Brett Terpstra
@@ -146,7 +189,7 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
     <item>
       <title>重新推出 The Lab 和 Rock Scissors 的 T 恤</title>
       <link>https://brett.trpstra.net/link/535/16796647/relaunched-t-shirts-for-the-lab-and-rock-scissors</link>
-      <description><![CDATA[我让原来设立的 TeeSpring 商店陷入困境，而 TeeSpring 更改了一些东西，导致我的所有列表都无效。因此，我重新推出了店面，保留了原来的设计，并增加了一些新设计。
+      <description><![CDATA[我让原来设立的 TeeSpring 商店陷入困境，而 TeeSpring 更改了一堆内容，导致我的所有列表都无效。因此，我重新推出了店面，保留了原来的设计，并增加了一些新设计。
 
 
 
@@ -337,13 +380,6 @@ BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供�
 Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <guid>https://brett.trpstra.net/link/535/16759288/easily-save-and-restore-gem-executables</guid>
       <pubDate>Thu, 01 Aug 2024 19:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>标记为 2.6.39，包含流式预览修复</title>
-      <link>https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16747444/marked-2-dot-6-39-with-streaming-preview-fixes</guid>
-      <pubDate>Thu, 18 Jul 2024 16:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
