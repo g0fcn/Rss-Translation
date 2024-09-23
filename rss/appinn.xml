@@ -4,7 +4,17 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 23 Sep 2024 15:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 18:23:16 GMT</lastBuildDate>
+    <item>
+      <title>还有无类似Onetab的扩展</title>
+      <link>https://meta.appinn.net/t/topic/61312</link>
+      <description><![CDATA[我把Onetab当作“稍后阅读”用，还有无类似的更好用的扩展？要求同时有Firefox版和Chrome版
+Onetab的问题在于分组的标题并不会一并导出导入，希望能有在这方面做得比较强的
+2 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/61312</guid>
+      <pubDate>Mon, 23 Sep 2024 16:08:49 GMT</pubDate>
+    </item>
     <item>
       <title>【求组】网页中的文本链接转化为超链接</title>
       <link>https://meta.appinn.net/t/topic/61304</link>
@@ -401,47 +411,6 @@ gitee:  https://gitee.com/abudula7/weibodouyinxiaohongshu
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/60849</guid>
       <pubDate>Tue, 10 Sep 2024 06:36:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么扩展可以批量给网页生成缩略图或者预览图的么</title>
-      <link>https://meta.appinn.net/t/topic/31232</link>
-      <description><![CDATA[是这样的 onetab  是一键保存所有打开的标签
-但是 时间长了 会发现一个问题 打开ONETAB 一堆网址 根本不指定网址是什么 还得一个一个打开链接菜能知道
-然后呢
-看到这个扩展
-
-
-chrome.google.com
-
-
-
-Note Board - Sticky Notes App
-Note Board - Sticky Notes App
-
-
-
-
-
-它有个功能 是 创建带网址的 网页缩略图
-
-可这个功能扩展给的空间非常少才5M
-而登录 之后也才300M 网络空间少的可怜
-我想用本地保存 然后我找到了
-Tab Grab Paste - Chrome 線上應用程式商店 (google.com)
-这个复制网址的时候会自动生成一张缩略图
-用 然后用 PasteEx 来保存 会是一个带网址的缩略图的HTML文件
-DO 可以直接预览
-但是 这些都有个问题 就是只能一个 一个保存
-我的问题是 有没有批量 的实现这种功能的 扩展？
-有时候打开几十个没看完的网页 onetab 一下倒是方便
-但是没有网页当前页面缩略图预览
-然后其他两种方法 有缩略图+网址 但是只能一个一个的
-就很苦恼
-小众大佬见多识广 有没有 批量的方法 或者扩展？
-30 个帖子 - 9 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/31232</guid>
-      <pubDate>Tue, 29 Mar 2022 05:06:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
