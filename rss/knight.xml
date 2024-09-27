@@ -4,7 +4,28 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Sep 2024 15:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 15:18:20 GMT</lastBuildDate>
+    <item>
+      <title>Wordpress 的替代品</title>
+      <link>https://rknight.me/blog/alternatives-to-wordpress/</link>
+      <description><![CDATA[ 。 
+在经历了本周所有Wordpress 闹剧之后，我发表了以下看法：
+
+我们确实需要一个新的、易于使用的、用 PHP 编写的 CMS 来与 Wordpress 竞争。
+
+
+为什么是 PHP？因为您将文件转储到服务器上，任何服务器上，它都可以正常工作。
+
+很多人跳到我的提及中向我指出存在的替代方案，它们就在这里。
+
+ClassicPress - 这个很有趣，因为它是没有 Gutenberg 块编辑器的 Wordpress 的一个分支。
+Kirby CMS - 我知道有人对 Kirby 深信不疑，它真的灵活。
+Craft CMS
+Cecil - 这是一个静态站点生成器，因此与我要求的完全不同，但它看起来像一个可靠的产品
+]]></description>
+      <guid>https://rknight.me/blog/alternatives-to-wordpress/</guid>
+      <pubDate>Fri, 27 Sep 2024 12:42:48 GMT</pubDate>
+    </item>
     <item>
       <title>罗布更好</title>
       <link>https://rknight.me/blog/the-robb-jobb/</link>
@@ -38,7 +59,7 @@
 如果您想要 MagSafe，这些产品很少见，但我偶然发现了非常有名的 GaoBao 强磁 iPhone 14 Pro 保护壳，超薄 14 Pro 手机壳，兼容 MagSafe 经典防震半透明哑光保护手机壳，适用于 iPhone 14 Pro 6.1&quot; 2022，粉红色。它有多粉？没有比粉红色更粉红的了：
 
 它远非质量最好的手机壳，但它确实有用。还请注意相机周围看似随机的“100% 焦点像素”。这他妈到底是什么意思？
-我按照说明将支架安装在车上，然后放置 24 小时，效果非常好。我可以取下手机，而不必担心将支架撕掉，它可以旋转和伸展，这样我就可以把它放在我需要的确切位置，粉色外壳也能发挥应有的作用。
+我按照说明将支架安装在车上，然后放置 24 小时，效果非常好。我可以取下手机，而不必担心将支架撕掉，它可以旋转和伸展，这样我就可以把它放在我需要的确切位置，粉色外壳也能正常工作。
 MagSafe 相当不错。我只晚了四年。]]></description>
       <guid>https://rknight.me/blog/magsafe-miscellania/</guid>
       <pubDate>Tue, 03 Sep 2024 12:08:05 GMT</pubDate>
@@ -204,13 +225,6 @@ With the work I&#39;ve done on KnightCMS, I&#39;m able to manage the content on 
 I have a real problem with forgetting which movies and TV shows I thought looked interesting so this page will serve as a reference when I&#39;m looking for something to watch.]]></description>
       <guid>https://rknight.me/blog/this-is-my-next/</guid>
       <pubDate>Wed, 12 Jun 2024 14:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>WeblogPoMo 回顾</title>
-      <link>https://rknight.me/blog/weblogpomo-retrospective/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/weblogpomo-retrospective/</guid>
-      <pubDate>Fri, 31 May 2024 10:48:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
