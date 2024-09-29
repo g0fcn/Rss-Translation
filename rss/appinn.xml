@@ -4,7 +4,19 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 03:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 01:24:39 GMT</lastBuildDate>
+    <item>
+      <title>Mac 是否有遇到字幕就0.5慢速播放的播放器？用于学英语</title>
+      <link>https://meta.appinn.net/t/topic/61484</link>
+      <description><![CDATA[经过测试，0.5x 的慢速看 TED 视频学英语不错
+想换到纪录片，但纪录片并不像 TED 演讲视频一样不间断的输出字幕
+比如动物纪录片，可能出现一段字幕介绍，然后持续30秒或是1分钟的画面内容，这30秒与1分钟是没有字幕的，因此，0.5x 的慢速，会变得异常的慢
+所以，我想知道是否有这种自动播放速度调整的应用，无字幕时，正常速度播放，有字幕时，开始0.5x 速度播放，确保我能看完字幕
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/61484</guid>
+      <pubDate>Sat, 28 Sep 2024 23:38:30 GMT</pubDate>
+    </item>
     <item>
       <title>安卓chrome类浏览器，去掉“请验证是您本人在操作”</title>
       <link>https://meta.appinn.net/t/topic/61463</link>
@@ -358,17 +370,6 @@ Chrome应用商店
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/61119</guid>
       <pubDate>Wed, 18 Sep 2024 08:21:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>请教使用MacBook Air和Flutter的经验者：黑苹果环境下的开发与设备兼容问题</title>
-      <link>https://meta.appinn.net/t/topic/61111</link>
-      <description><![CDATA[问题是这样的，我最近在学习Flutter，因为有iOS端，我搜了下就算是Flutter也需要在Xcode上才能打包和测试之类的。我就去搜了下价格还算合适的Macbook，二手的2020款8+256G的Macbook Air M1，价格在三千多，感觉还能接受，然后又去找了些帖子问了下，8G内存貌似不太够，因为我也只是拿来学习下Flutter做iOS的APP，不懂Xcode会不会吃太多内存。不过毕竟成本在那，我就先尝试一下MacOS怎么样。
-于是我在VM17上安装了一个macOS 13的黑苹果，但是要AppStore里下载Xcode又提示版本不够下不了，我就去找历史版本，去开发者官网下得要开发者账号，我就去注册了，但是我没很新的iPhone，我只有一个第1代的iPhone SE，iOS版本是14的。手机上得下载App Developer，我下好登录账号进去之后，又提示设备版本不支持，得iOS16以上才能完成开发者账号注册验证的后续步骤。但是1代的iPhone SE最高只能升级到iOS15,不能升到16了。
-这种情况的话，是该怎么继续下去。我预想是用这个SE做真机测试，但是目前的情况是都没办法开始。回到最开始的话题，是要整个二手的mac吗，然后再整个支持iOS16的手机 或者有哪些玩过黑苹果的大佬能给我些建议。
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/61111</guid>
-      <pubDate>Wed, 18 Sep 2024 06:38:16 GMT</pubDate>
     </item>
     <item>
       <title>YouTube的字幕有办法选中复制吗</title>
