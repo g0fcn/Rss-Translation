@@ -4,7 +4,7 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Sep 2024 21:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 01:21:01 GMT</lastBuildDate>
     <item>
       <title>马克 2.0</title>
       <link>https://brett.trpstra.net/link/535/16825237/marky-2-dot-0</link>
@@ -126,13 +126,13 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <title>播种机 3.0</title>
       <link>https://brett.trpstra.net/link/535/16796639/planter-3-dot-0</link>
       <description><![CDATA[ 。 
-几年前（12！）我编写了一个名为 Planter 的脚本，该脚本会根据缩进模板生成目录
+几年前（12！）我制作了一个名为 Planter 的脚本，该脚本会根据缩进模板生成目录
 和文件结构。我决定
 重新构想整个过程，并很高兴今天发布 Planter 3。
 Planter 现在不再依赖单个模板文件，而是需要一个
 模板目录，其中包含您想要
 包含的所有子目录和文件。为了实现这一点，模板变量
-系统已完全重新设计。它现在支持命名键、在命令行上提示输入值，甚至可以处理 if/then 逻辑和多项选择变量。
+系统已经完全重新设计。它现在支持命名键、在命令行上提示输入值，甚至可以处理 if/then 逻辑和多项选择变量。
 模板变量可以应用于文件名（包括 if/then 逻辑）和任何类型的基于文本的文件（包括 XML、RTF、JSON 等，Apple Binary PLIST 将自动转换）。这意味着您可以模板化您的源代码、笔记，甚至 Mindnode 思维导图、富文本笔记和 Scrivener 文档。
 我不会在这里记录整个过程，因为我已经为该项目编写了一个非常好的 README。如果您对此感兴趣，请告诉我文档中任何令人困惑的地方。
 我会注意到，由于它在命令行上的交互性质，将其纳入 LaunchBar 或 Alfred 工作流程之类的东西有点困难。但并非不可能，因为值可以作为参数传递，因此如果您的自动化处理填充变量的交互，您可以轻松调用该脚本。它现在也是一个 Ruby 宝石，这意味着您无法轻松嵌入整个脚本，而必须依赖它安装在用户的系统上。
