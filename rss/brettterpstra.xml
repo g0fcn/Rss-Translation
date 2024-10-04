@@ -4,7 +4,37 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Sep 2024 01:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 18:23:25 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 10 月 4 日网络游览</title>
+      <link>https://brett.trpstra.net/link/535/16834045/web-excursions-for-october-04-2024</link>
+      <description><![CDATA[
+
+
+
+
+
+
+与 Backblaze 合作为您带来网络游览。 备份所有内容。
+
+轻松创建 VS Code 主题 - Theme Studio - VS Code 主题编辑器
+我终于切换到 VS Code 了，我非常喜欢它。开始尝试移植我最喜欢的东西，然后找到了 VS Code Theme Studio。这是“为 VS Code 创建主题的最简单方法。它是 Visual Studio Code 主题的基于浏览器的主题编辑器。您可以轻松设计精美的主题，并将它们部署到 VS Code 市场。”
+支持互助救灾 - Action Network
+为北卡罗来纳州飓风灾后重建捐款的好地方。将您的钱直接交到从事这项工作的人手中。
+Intech Studio - Midi Grid 控制器和配件
+我的桌子上没有更多空间放置更多控制器，我已经不再有制作音乐的习惯了，但这些控制器非常诱人。可爱又模块化。我认为我只是喜欢按钮……
+rhulse/ruby-css-toolkit：一些用于压缩 CSS 的工具
+一些使用 Ruby 压缩和整理 CSS 的工具。我在 Conductor 和 Marky 中使用 YUI 压缩器的这个端口，效果非常好。
+
+Backblaze 可以将您的整个计算机安全地备份到云端，经济实惠且可靠。我信任它来保存我的所有数据。 立即查看。
+在 Mastodon 上点赞或分享此帖子 或 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供帮助，请单击此处。
+所有材料 ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | 隐私政策]]></description>
+      <guid>https://brett.trpstra.net/link/535/16834045/web-excursions-for-october-04-2024</guid>
+      <pubDate>Fri, 04 Oct 2024 15:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>马克 2.0</title>
       <link>https://brett.trpstra.net/link/535/16825237/marky-2-dot-0</link>
@@ -353,22 +383,6 @@ Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</guid>
       <pubDate>Mon, 05 Aug 2024 19:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Binbundle：用于保存和恢复 gem 二进制文件的 gem</title>
-      <link>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</link>
-      <description><![CDATA[ 。 
-我昨天发布了一个脚本，用于创建系统中所有依赖 Rubygems 安装的二进制文件（可执行文件）的“bundle 文件”。Homebrew 的 bundle 命令未涵盖这些文件，我希望通过我的 dotfiles 设置轻松恢复系统。
-但是……因为它专门处理 gem，我想为什么不把它做成 gem 并让它易于安装呢？
-因此我提供了 Binbundle，与昨天的脚本相同，但经过了详细说明并以 gem 形式呈现。
-有关安装和使用的详细信息，请参阅项目页面。该项目与 Dotbot 相结合，提供了一种非常容易的方式来恢复 Homebrew 遗漏的所有二进制文件。
-点赞或分享此帖子 Twitter。
-
-BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供帮助，请单击此处。
-所有材料 ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | 隐私政策]]></description>
-      <guid>https://brett.trpstra.net/link/535/16760430/binbundle-a-gem-for-restoring-gem-binaries</guid>
-      <pubDate>Fri, 02 Aug 2024 16:06:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
