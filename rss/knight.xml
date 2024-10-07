@@ -4,7 +4,20 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Oct 2024 12:36:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 15:19:33 GMT</lastBuildDate>
+    <item>
+      <title>永远不要给我发 TikTok 视频</title>
+      <link>https://rknight.me/blog/never-send-me-a-tiktok-video/</link>
+      <description><![CDATA[今天，一位朋友在 TikTok 上与我分享了一个视频，我立即将其发送给了我的妻子，因为我知道她会觉得很有趣。很有趣（这是一个非跟踪链接）。几个小时后，这位朋友说“哦，你的妻子已经看过了”，因为 TikTok 通过她的用户名通知他，她已经看过了。这到底是什么鬼。
+每次您从应用程序共享 TikTok 链接时，它都会生成一个新链接。我找不到获取视频的规范共享链接的方法。 https://vm.tiktok.com/ZGdJQnqXX/ 和 https://vm.tiktok.com/ZGdJ41RXX/ 是指向完全相同的视频的链接（出于显而易见的原因进行了删除），但一个链接到我的朋友，一个链接到我。
+看看这个该死的通知：
+
+我确信这些都不是新信息，但我不使用 TikTok，所以没有关注，但我向上帝发誓我再也不会打开 TikTok 链接了。
+更新您可以在“设置”&gt;“隐私”&gt;“向其他人推荐您的帐户”中关闭部分跟踪。显然这会停止上述通知，但我尚未证实这一点。通过 zmknox
+]]></description>
+      <guid>https://rknight.me/blog/never-send-me-a-tiktok-video/</guid>
+      <pubDate>Mon, 07 Oct 2024 13:11:55 GMT</pubDate>
+    </item>
     <item>
       <title>我终于看到并使用了 App Clip</title>
       <link>https://rknight.me/blog/i-finally-saw-and-used-an-app-clip/</link>
@@ -244,24 +257,6 @@ I know I said my last post would be my final word but this really pissed me off.
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/perplexity-ai-robotstxt-and-other-questions/</guid>
       <pubDate>Fri, 28 Jun 2024 11:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>向 Eleventy 添加 Github 风格的 Markdown 提醒</title>
-      <link>https://rknight.me/blog/adding-githubstyle-markdown-alerts-to-eleventy/</link>
-      <description><![CDATA[ 更新模块、Markdown、Eleventy、CSS、插件
-更新模块和插件让作者的博客更新更有条理，Markdown语法简单易用，配合Eleventy使用更方便；CSS样式调整使插件输出的更新模块颜色搭配网站风格统一。总结: 更新模块插件让作者博客更新更有条理，使用Markdown和Eleventy更便捷，CSS调整让模块颜色与网站风格更加统一。 
-I often have occasion to come back to a blog post and add some kind of update. Maybe I changed my mind or someone offered some new information I hadn&#39;t seen at the time of writing. Up until now I would just add updates willy-nilly; sometimes they&#39;d be at the start, sometimes the end, sometimes in bold, sometimes not. What I wanted was something standard I could use and ideally with Markdown.
-GitHub has alerts (aka callouts) Markdown support where the syntax looks like this:
-&gt; [!NOTE]  &gt; Highlights information that users should take into account, even when skimming.&gt; [!TIP]&gt; Optional information to help a user be more successful.&gt; [!IMPORTANT]  &gt; Crucial information necessary for users to succeed.&gt; [!WARNING]  &gt; Critical content demanding immediate user attention due to potential risks.&gt; [!CAUTION]&gt; Negative potential consequences of an action.
-These different types have different colors and icons on GitHub. I figured these would be perfect for my update blocks if I could just do:
-&gt; [!NOTE] Update 2024-06-20&gt; This is the update that has happened
-Thankfully someone had made a plugin to handle this with markdown-it, the renderer I use for this site: markdown-it-github-alerts. I installed the package and added it to my Eleventy config:
-let markdownLib =  markdownIt(options)	.use(require(&quot;markdown-it-footnote&quot;))+	.use(require(&#39;markdown-it-github-alerts&#39;))
-I also pulled in the CSS from the package into my CSS config and made a few tweaks: I&#39;ve no intention of using anything other than the NOTE type so I wanted the colors to match my site rather than use GitHub&#39;s colors.
-
-Finally I went and updated a bunch of old posts that had updates.]]></description>
-      <guid>https://rknight.me/blog/adding-githubstyle-markdown-alerts-to-eleventy/</guid>
-      <pubDate>Fri, 21 Jun 2024 11:26:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
