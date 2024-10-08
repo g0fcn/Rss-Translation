@@ -4,7 +4,19 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:23:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 21:19:00 GMT</lastBuildDate>
+    <item>
+      <title>设置 Mastodon 作者标签</title>
+      <link>https://rknight.me/blog/setting-up-mastodon-author-tags/</link>
+      <description><![CDATA[
+Mastodon 4.3 今天发布，它具有许多功能，但包括我在内的大多数人都对作者标签感到兴奋 - 这不是它们的名称，但据我所知，它们似乎也没有合适的名称。无论如何，您需要做两件事才能获得您可以在上面的屏幕截图中看到的“更多来自 X”部分。首先是将 fediverse:creator 标签添加到您网站的 head 中，我之前在此处写过。
+&lt;meta name=&quot;fediverse:creator&quot; content=&quot;@robb@social.lol&quot; /&gt;
+然后，您需要跳转到 Mastodon 上的设置，并转到“公共个人资料”&gt;“验证”下的“作者归属”部分。添加您想要允许链接到您的个人资料的域。
+
+就是这样。请记住，如果您分享最近发布的帖子来测试此帖子，您的实例可能已将其缓存，因此新作者的内容不会显示。]]></description>
+      <guid>https://rknight.me/blog/setting-up-mastodon-author-tags/</guid>
+      <pubDate>Tue, 08 Oct 2024 19:45:42 GMT</pubDate>
+    </item>
     <item>
       <title>永远不要给我发 TikTok 视频</title>
       <link>https://rknight.me/blog/never-send-me-a-tiktok-video/</link>
@@ -250,13 +262,6 @@ I don&#39;t host many images directly on this domain but rather put them on Bunn
 I know I said my last post would be my final word but this really pissed me off. So once again, fuck you Perplexity.]]></description>
       <guid>https://rknight.me/blog/as-if-perplexity-didnt-suck-enough-theyre-also-hotlinking-images/</guid>
       <pubDate>Tue, 02 Jul 2024 11:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity AI、Robots.txt 及其他问题</title>
-      <link>https://rknight.me/blog/perplexity-ai-robotstxt-and-other-questions/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/perplexity-ai-robotstxt-and-other-questions/</guid>
-      <pubDate>Fri, 28 Jun 2024 11:12:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
