@@ -4,7 +4,28 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Oct 2024 12:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 03:21:50 GMT</lastBuildDate>
+    <item>
+      <title>【开发者自荐】搜题助手：选中题目自动搜题，快速获取答案</title>
+      <link>https://meta.appinn.net/t/topic/61846</link>
+      <description><![CDATA[软件名称
+搜题助手
+应用平台
+
+Chrome
+Edge(已提交审核)
+
+推荐类型
+【开发者自荐】
+软件简介
+搜题助手是一个免费的快速搜题的浏览器插件，选中题目即可自动搜题，快速获取答案。
+截图
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/61846</guid>
+      <pubDate>Thu, 10 Oct 2024 15:38:13 GMT</pubDate>
+    </item>
     <item>
       <title>方方格子有无mac端的替代呢</title>
       <link>https://meta.appinn.net/t/topic/61836</link>
@@ -275,17 +296,6 @@ Github：GitHub - haystackeditor/haystack-editor
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/61459</guid>
       <pubDate>Fri, 27 Sep 2024 14:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>chrome扩展程序如何备份</title>
-      <link>https://meta.appinn.net/t/topic/61436</link>
-      <description><![CDATA[众所周知，对于chrome内核的浏览器在登录账号开启自动同步的情况下，在新设备登录时会自动安装原有扩展程序，但是原有扩展程序设置会丢失，需要重新配置（只有少数扩展程序会有导入导出配置的选项）。所以有没有办法直接本地备份所有扩展程序，后面启用通过开发者模式进行安装（加载已解压的程序），一键恢复？
-问题背景：本人目前使用的是brave，手机与电脑的同步似乎不会自动帮你安装扩展到新电脑端。这个问题不大。只是有些扩展程序需要登录账号，重新配置使用偏好比较麻烦。下面是论坛的类似帖子：
-Chrome的已安装扩展转移问题
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/61436</guid>
-      <pubDate>Fri, 27 Sep 2024 07:34:51 GMT</pubDate>
     </item>
     <item>
       <title>【限时免费】猫咪锁屏发布三年来的首次限免来啦~~</title>
