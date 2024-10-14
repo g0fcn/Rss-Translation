@@ -4,7 +4,60 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Oct 2024 12:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 06:26:22 GMT</lastBuildDate>
+    <item>
+      <title>[开源自荐] 快速预览链接插件</title>
+      <link>https://meta.appinn.net/t/topic/61960</link>
+      <description><![CDATA[Smart Preview
+
+在 mac 上体使用了 Arc 浏览器，最让我难忘的就是 Arc 的 peek 功能。可以直接预览链接而不需要打开过多的标签，也不需要手动关闭。后因为一些原因换回了 window，但对这个功能还是念念不忘，所以在思索着开发一个这个功能的平替插件。希望能帮到你们。Enjoy～
+
+Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页。
+主要特性
+
+快速预览：通过Shift+点击链接，在弹出窗口中预览内容。
+智能窗口管理：
+
+居中模式：将预览窗口居中显示。
+智能模式：记忆并恢复上次的窗口位置和大小。
+
+
+自定义设置：
+
+调整预览窗口的宽度和高度。
+支持多语言设置。
+
+
+便捷操作：
+
+复制链接
+在新标签页中打开
+在当前标签页中打开
+使用Esc键快速关闭预览窗口
+
+
+跨浏览器兼容：使用WXT框架开发，支持多种主流浏览器。
+
+安装
+
+从发布页面下载最新版本的扩展文件（.zip），或者在蓝奏云下载。
+解压下载的文件。
+在浏览器中打开扩展管理页面。
+启用&quot;开发者模式&quot;。
+点击&quot;加载已解压的扩展程序&quot;，然后选择解压后的文件夹。
+
+使用方法
+
+安装扩展后，在任何网页上按住Shift键并点击链接。
+预览窗口将会打开，显示链接内容。
+使用窗口顶部的按钮进行复制链接、新标签页打开等操作。
+按Esc键或点击窗口外部区域关闭预览。
+
+5 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/61960</guid>
+      <pubDate>Mon, 14 Oct 2024 04:12:05 GMT</pubDate>
+    </item>
     <item>
       <title>自部署免费的文档在线管理工具，在线编辑预览，私有存储，永久直链等</title>
       <link>https://meta.appinn.net/t/topic/61908</link>
@@ -262,15 +315,6 @@ Edge
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/61484</guid>
       <pubDate>Sat, 28 Sep 2024 23:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>安卓chrome类浏览器，去掉“请验证是您本人在操作”</title>
-      <link>https://meta.appinn.net/t/topic/61463</link>
-      <description><![CDATA[更新了常用的两个chrome/mium类的安卓浏览器，发现许多网站的自动登录难用了，还得再验证一次-------“请验证是您本人在操作”。愿意风险自担，不要这一步
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/61463</guid>
-      <pubDate>Fri, 27 Sep 2024 22:04:04 GMT</pubDate>
     </item>
     <item>
       <title>【限时免费】猫咪锁屏发布三年来的首次限免来啦~~</title>
