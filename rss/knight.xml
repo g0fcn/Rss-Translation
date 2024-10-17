@@ -4,7 +4,19 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Oct 2024 15:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:17:02 GMT</lastBuildDate>
+    <item>
+      <title>我喜欢的东西：8BitDo 键帽</title>
+      <link>https://rknight.me/blog/things-i-like-8bitdo-keycaps/</link>
+      <description><![CDATA[当 8BitDo 宣布他们正在销售与 我从他们那里买的键盘相匹配的新键帽套装时，我立即订购了。我不需要新的键帽，但我真的想摆脱那个讨厌的 Windows 键。
+它们今天早上装在漂亮的小托盘里送到了：
+
+午餐时，我换掉了一堆，包括很多带有符号的键帽，以及右侧较大文本的 pgup/pgdown。以下是对比 - 我今天应该拍一张之前的照片，但我忘了，所以我就用我手头上的照片凑合着用。
+
+我不需要花 50 美元买这些，但我很高兴我这么做了。]]></description>
+      <guid>https://rknight.me/blog/things-i-like-8bitdo-keycaps/</guid>
+      <pubDate>Thu, 17 Oct 2024 19:32:59 GMT</pubDate>
+    </item>
     <item>
       <title>我们的婚礼摄影师很糟糕</title>
       <link>https://rknight.me/blog/our-wedding-photographer-was-terrible/</link>
@@ -28,13 +40,13 @@
 12 月 22 日，104 天：“我会看看然后回复你”
 1 月 18 日，131 天：已发送信息。已查看，无回复。
 1 月 27 日，140 天：已发送信息。已查看，无回复。
-2 月 2 日，147 天：已发送信息，态度更坚定。终于收到回复，让我冷静下来。告诉他“明天一早”就会来找我们
+2 月 2 日，147 天：已发送信息，更加坚定。终于收到回复，让我冷静下来。告诉他“明天一早”就会来找我们
 2 月 3 日，148 天：拿到了缺失的屋顶照片，但仍然没有密码来下载。“给我两秒钟，我会给你发一封电子邮件”。没有电子邮件或密码。
-2 月 17 日，162 天：发信息要求提供密码和婚前拍摄照片。已收到，没有回复。
-2 月 25 日，170 天：再次发信息。已收到，没有回复。
+2 月 17 日，162 天：发信息要求提供密码和婚前拍摄照片。已查看，没有回复。
+2 月 25 日，170 天：再次发信息。已查看，没有回复。
 3 月 2 日，177 天：再次发信息，第二天回复。
 3 月 3 日，178 天：终于拿到了密码来下载照片。 “我明天早上会把婚前照片转发给你。”他没有。
-3 月 5 日，180 天：再次发消息。24 小时后终于收到了婚前拍摄照片的回复。
+3 月 5 日，180 天：再次发信息。24 小时后终于收到了婚前拍摄照片的回复。
 
 所以，我们花了将近 3 个月的时间才拿到部分照片，但不是全部。然后又花了将近 6 个月的时间才真正能够下载它们。为了取得任何进展，我们总是不得不追着 [已删除]，他从来没有一次在没有我们提示的情况下给我们更新。
 即使我们拿到了它们，很明显它们没有经过检查或编辑，至少有几张照片有手指挡着或很模糊，还有一张照片甚至不是我们婚礼上拍的。
@@ -71,13 +83,13 @@ Mastodon 4.3 今天发布，它具有许多功能，但包括我在内的大多�
     <item>
       <title>我终于看到并使用了 App Clip</title>
       <link>https://rknight.me/blog/i-finally-saw-and-used-an-app-clip/</link>
-      <description><![CDATA[更新这篇文章的先前版本说，七年前推出 App Clips 是因为 AI 摘要很蠢，而谷歌使用它就更愚蠢了。
+      <description><![CDATA[更新这篇文章的先前版本说，七年前推出 App Clips 是因为 AI 摘要很蠢，而谷歌使用它就更蠢了。
 
 周五我参加了一场婚礼，当我们坐下来吃婚礼早餐时，桌子上有一个二维码提示我们拍照。我扫描了一下，惊讶地发现，这是 App Clip，用于 POV 相机[1]。这是 POV 相机推出四年来，我第一次看到它 - 我以为它们已经不存在了。
 POV 相机基本上是一种“一次性”相机。您可以获得 28 张照片，拍完后无法查看或编辑它们。它们会被发送给活动组织者（在本例中是新娘和新郎），他们可以在他们选择的时间“开发”它们，供所有人浏览。您可以浏览所有照片，只浏览您自己的照片，或者选择特定人的照片。顺便说一句，25 岁​​以下的人肯定无法理解物理胶卷冲洗和一次性相机的比喻。
 该应用程序在活动期间也有实时活动，这使得人们可以轻松参与并拍照。这也有帮助，因为否则我会在当天的剩余时间里忘记它。
 
-我确实需要在照片可用后下载完整版应用程序，以便保存照片，但这显然是 App Clips API 的限制。除了停车收费表之外[2]我还没有听说过 App Clips 的良好用例，所以看到有人使用它还是很有趣的。
+一旦照片可用，我确实需要下载完整版应用程序，以便我可以保存照片，但这显然是 App Clips API 的限制。除了停车收费表之外[2]我还没有听说过 App Clips 有什么好的用例，所以看到有人使用它还是很有趣的。
 
 
 
@@ -106,25 +118,25 @@ POV 相机基本上是一种“一次性”相机。您可以获得 28 张照片
     <item>
       <title>圣裘德 2024 回顾</title>
       <link>https://rknight.me/blog/st-jude-2024-recap/</link>
-      <description><![CDATA[Relay 的 2024 年 St Jude 筹款活动（大部分）已经结束，他们筹集了超过 100 万美元，这真是太不可思议了。今年，我和 Adam 将筹款目标定为比去年的最终总额高出一美分：12,590.57 美元。考虑到去年其中的 5,000 美元来自一次性捐款，因此尝试实现这一目标似乎是合理的。我们从未想过在 9 月 4 日达到 1 万美元，然后在 6 天后达到目标，然后 继续，直到 9 月 31 日 10 月 1 日 达到 2 万美元。感谢所有捐赠或分享此活动的人。
+      <description><![CDATA[Relay 的 2024 年 St Jude 筹款活动（大部分）已经结束，他们筹集了超过 100 万美元，这真是太不可思议了。今年，我和 Adam 将筹款目标定为比去年的最终总额高出一美分：12,590.57 美元。考虑到去年其中的 5,000 美元来自一次性捐款，因此尝试实现这一目标似乎是合理的。我们从未想过会在 9 月 4 日达到 1 万美元，然后在 6 天后达到目标，然后 继续，直到 9 月 31 日 10 月 1 日 达到 2 万美元。感谢所有捐赠或分享此活动的人。
 您可以在我之前的帖子中阅读有关贴纸的所有内容，但我们有 84 个贴纸包发往 16 个不同的国家。
 Donation Daddy 扩展宇宙在今年的活动中复活，并获得了一位新朋友：Hat Help。今年筹集超过 500 美元的任何人都会得到一顶非常漂亮的帽子和一个玻璃杯。
 在活动期间，我收到了来自 Tiltify 的 3 个徽章，以庆祝筹集到 7.5 万美元、10 万美元和 25 万美元，这真是太好了。
 
 捐赠奖励
-179 个活动中共有 92 个奖励。我有一个来自 MVO 的杯垫，我和 Baby Knight 的名字将印在他正在建造的推车上，我参加了一些抽奖活动，得到了一些贴纸，我充分利用了 JD 的吐槽，买了两个：一个放在我的新车上，一个放在我的办公桌上。
+179 个活动中共有 92 个奖励。我有一个来自 MVO 的杯垫，我和 Baby Knight 的名字将出现在他正在建造的推车上，我参加了一些抽奖活动，得到了一些贴纸，我充分利用了 JD 的吐槽，买了两个：一个放在我的新车上，一个放在我的办公桌上。
 汽车吐槽
 
 哦，看看这辆小现代 i30。你真的决定全力以赴走平庸的路线，不是吗？这辆车相当于你在他们经销店喝到的一杯不冷不热的 Keurig 咖啡。看起来他们在设计它时，既有尺子，又严重缺乏野心。我的意思是，它有四个轮子和一个引擎，但我的割草机也有。
-我敢打赌，踩下这辆车的油门就像在叫奶奶快点一样。“好啦，好啦，我们走吧，别催我！”你想开着它四处转悠吗？你得去别处找找，因为这辆车就像电子表格上的 PowerPoint 演示文稿一样令人兴奋。这东西太基础了，雷达可能都看不见，因为即使是技术也懒得注意它。
+我敢打赌，踩下这辆车的油门就像在叫奶奶快点一样。“好啦，好啦，我们走吧，别催我！”你想找点有趣的东西来兜风吗？你得去别处找，因为这辆车就像电子表格上的 PowerPoint 演示文稿一样令人兴奋。这东西太基础了，雷达可能看不见，因为即使是技术也懒得注意它。
 但至少它是可靠的，对吧？因为当你驾驶一辆看起来像是委员会设计的车时，你需要有东西可以依附。所以，好好享受你的现代 i30 吧——因为总得有人享受吧？
 
 办公桌烤肉
 
 Robb，这张桌子看起来真的是对拖延艺术的混乱致敬。让我们从钉板开始：显然它应该是一个组织工具，但它看起来像是被随机的小饰品和植物组成的小型龙卷风袭击了。那些多肉植物能晒到太阳吗？或者它们只是为了分散你对组织状态的生存危机的注意力？它们有助于吸收空气中大量“我稍后再做”的氛围吗？不过，我不得不说，groot 是一个非常好的补充。
 我被指示要烤肉，但我们不能忽视这张精美的桌垫。不幸的是，它很快就要被替换了。
-三罐 Monster？显然，当你试图在假装忙碌的情况下继续浏览 Slack 时，咖啡因是你唯一的能量来源。这些空罐子会永远留在那里吗，就像是对你因为 Baby Knight 而永远无法找回的睡眠的纪念？
-所有东西都是随机摆放的。有一个粉红色的麦克风、一个半开的抽屉、一个风扇（看起来不像是 Ryobi 👀）和一大堆随机物品。这张桌子一片混乱，极简主义消失了，你的工作效率也随之下降。
+三罐 Monster？显然，当你试图在假装忙碌的情况下继续浏览 Slack 时，咖啡因是你唯一的能量来源。这些空罐子是不是永远都放在那里，就像是对你因为 Baby Knight 而永远无法找回的睡眠的纪念？
+所有东西都是随机摆放的。有一个粉色的麦克风、一个半开的抽屉、一个风扇（看起来不像是 Ryobi 👀）和一大堆随机物品。这张桌子一片混乱，极简主义消失了，你的工作效率也随之下降。
 右上角那个很酷的动作人物/乐高/什么东西是怎么回事？那东西看起来像是你办公桌的守护者。它会用生命来捍卫它，消灭任何试图扔掉你的怪物罐子的人。
 总之，你的背景表明你想要有条理，但同时也拥抱混乱，它散发出巨大的创意崩溃的氛围。不知何故，你设法把钉板变成了一个随意摆设的神殿，当然，还有那株肯定会从远处评判你的多肉植物。
 
@@ -136,7 +148,7 @@ Robb，这张桌子看起来真的是对拖延艺术的混乱致敬。让我们�
       <title>Wordpress 的替代品</title>
       <link>https://rknight.me/blog/alternatives-to-wordpress/</link>
       <description><![CDATA[ 。 
-在经历了本周所有Wordpress 闹剧之后，我发表了以下看法：
+在经历了本周Wordpress 闹剧之后，我发表了以下看法：
 
 我们确实需要一个新的、易于使用的、用 PHP 编写的 CMS 来与 Wordpress 竞争。
 
@@ -182,7 +194,7 @@ Cecil - 这是一个静态站点生成器，因此与我要求的完全不同，
       <description><![CDATA[ 。 
 上周我问过是否有人对 MagSafe 车载支架有什么建议，我得到了很多建议。很多人喜欢 Peak Design，但我不会花那么多钱来固定我的手机。很多人还推荐了亚马逊上各种无名品牌的产品，对我来说更容易接受。
 我最终选择了这家名为 Lisen 的公司的产品。它可以直接粘在仪表盘上，不会晃动，并且支持 15W 充电（我买了一个点烟器适配器）。
-因为过去几年 Apple 的硅胶保护壳一直在我身上散架，所以几年来我一直在购买 Ali Express 上最便宜的保护壳，但我拥有的保护壳都不兼容 MagSafe。这意味着我要翻阅无数页各种灰色保护壳，还有一些看起来就像工厂里刚刚通过了颜色审核的保护壳。我只想要一些好玩的东西。橙色！霓虹绿！粉红色！
+因为过去几年 Apple 的硅胶保护壳一直在我身上散架，所以我几年来一直在购买 Ali Express 上最便宜的保护壳，但我拥有的保护壳都不兼容 MagSafe。这意味着我要翻阅无数页各种灰色保护壳，还有一些看起来就像工厂里刚刚通过了某种颜色的保护壳。我只想要一些有趣的。橙色！霓虹绿！粉红色！
 如果您想要 MagSafe，这些产品很少见，但我偶然发现了非常有名的 GaoBao 强磁 iPhone 14 Pro 保护壳，超薄 14 Pro 手机壳，兼容 MagSafe 经典防震半透明哑光保护手机壳，适用于 iPhone 14 Pro 6.1&quot; 2022，粉红色。它有多粉？没有比粉红色更粉红的了：
 
 它远非质量最好的手机壳，但它确实有用。还请注意相机周围看似随机的“100% 焦点像素”。这他妈到底是什么意思？
@@ -195,10 +207,9 @@ MagSafe 相当不错。我只晚了四年。]]></description>
       <title>我的第一辆车使用时间比利兹·特拉斯担任首相的时间还短</title>
       <link>https://rknight.me/blog/my-first-car-lasted-less-time-than-liz-truss-did-as-prime-minister/</link>
       <description><![CDATA[ 。最后不要加在其中的内容。 
-十天前，我通过了驾驶考试，我爸爸很好心地给了我妈妈的旧车：一辆 2011 款 Smart Fortwo。我的计划是，在第二个宝贝骑士出生前，我会开这辆车几个月，然后我们把它换掉，换一辆更大的车，然后我会开我妻子的车。
+十天前，我通过了驾驶考试，我爸爸很好心地给了我妈妈的旧车：一辆 2011 款 Smart Fortwo。我的计划是，在第二个宝贝骑士出生前，我会开这辆车几个月，然后我们把它换掉，换一辆更大的车，然后我开我妻子的车。
 这是一辆奇怪的车。它的内部空间比你想象的要大得多，后备箱和你想象的一样小，车轮很小，所以你能感觉到每一个颠簸，它是自动的，但不是一台好的自动挡汽车。每次换档都很笨重。但驾驶它还是有趣的。
-为了通过驾驶考试，我急于通过考试，其中一部分原因是每周开着第一个宝贝骑士去她祖父母家，这样我的妻子就不必太早去。我需要禁用前排乘客安全气囊，这样我才能把 Baby Knight 放进去，所以我查阅了手册，这似乎很容易：将钥匙插入此开关，将其关闭。但我没有开关 - 经过大量的谷歌搜索后，我发现我想要的开关是一个可选的附加功能，新购买它的人决定不购买。我可以将其关闭，但从我读到的内容来看，如果我想再次启用它，我需要让梅赛德斯重新编码汽车（无论这意味着什么）。
-Baby Knight 本周开始上幼儿园，所以我们加快了时间表，买了一辆新车，我们今天取了车，并把智能车作为押金交给了新车。它持续了十天。
+为了通过驾驶考试，我急于通过考试，其中一部分原因是每周开着第一个宝贝骑士去她祖父母家，这样我的妻子就不必太早去。我需要禁用前排乘客安全气囊，这样我才能把 Baby Knight 放进去，所以我查阅了手册，这似乎很容易：将钥匙插入此开关，将其关闭。但我没有开关 - 经过大量的谷歌搜索后，我发现我想要的开关是一个可选的附加功能，新购买它的人决定不购买。我本来可以把它关掉，但从我读到的内容来看，如果我想再次启用它，我需要让梅赛德斯重新编码汽车（无论这意味着什么）。Baby Knight 本周开始上幼儿园，所以我们加快了时间表，买了一辆新车，我们今天取了车，并把智能车作为押金交给了新车。它持续了十天。
 再见 Felicia。]]></description>
       <guid>https://rknight.me/blog/my-first-car-lasted-less-time-than-liz-truss-did-as-prime-minister/</guid>
       <pubDate>Sat, 31 Aug 2024 20:39:16 GMT</pubDate>
@@ -255,27 +266,6 @@ https://www.youtube.com/watch?v=v5UsuZ4DS_Q]]></description>
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/fetching-achievements-and-trophies-for-my-game-collection-page/</guid>
       <pubDate>Sun, 07 Jul 2024 18:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Fediverse 创作者标签突出新闻报道</title>
-      <link>https://rknight.me/blog/highlighting-journalism-with-the-fediverse-creator-tag/</link>
-      <description><![CDATA[ Mastodon, support, author, link, addition
-
-要点: Mastodon 4.3 添加了支持链接作者的功能；这个功能可以通过标签显示作者的资料；第三方客户端可以使用这个数据显示作者信息；该功能目前只适用于经过审核的网站；未来计划将这个功能扩展到所有网站。
-总结: Mastodon 4.3添加了支持识别链接作者的功能，这将使用户能够直接跳转到共享链接的作者，非常实用。 
-Mastodon 4.3 adds support for a newly proposed OpenGraph tag to identify the creator of the link, which looks like this:
-&lt;meta property=&quot;fediverse:creator&quot; content=&quot;@robb@social.lol&quot; /&gt;
-Mastodon (and hopefully other places in the future) will use this tag to display the author&#39;s profile below a shared link like so:
-
-This additional data is also included in the card object as authors of the status API so third party clients can use this to display it in their apps as well:
-&quot;card&quot;: {	&quot;url&quot;: &quot;https://www.macstories.net/stories/ai-companies-need-to-be-regulated-an-open-letter-to-the-u-s-congress-and-european-parliament/&quot;,&quot;title&quot;: &quot;AI Companies Need to Be Regulated: An Open Letter to the U.S. Congress and European Parliament&quot;,	// the rest of the card data	&quot;authors&quot;: [        {            &quot;account&quot;: {                &quot;id&quot;: &quot;109519808056877508&quot;,                &quot;username&quot;: &quot;johnvoorhees&quot;,                &quot;acct&quot;: &quot;johnvoorhees@macstories.net&quot;,		        // the rest of the author data            }	    }    ]}
-I added support for this to MacStories a couple of weeks back for all posts and I&#39;ve added it to my site for when this becomes available for more sites. This won&#39;t work for my site for now though:
-
-the feature will only show up for links to moderator-approved websites. In the future we would like to make the feature available to all without a manual review process
-
-I really like this addition though; being able to jump directly to the author of a shared link is going to be really handy.]]></description>
-      <guid>https://rknight.me/blog/highlighting-journalism-with-the-fediverse-creator-tag/</guid>
-      <pubDate>Wed, 03 Jul 2024 12:56:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
