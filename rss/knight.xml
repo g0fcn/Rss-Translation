@@ -4,7 +4,23 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 18 Oct 2024 01:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:34:30 GMT</lastBuildDate>
+    <item>
+      <title>修复在 MacOS 上使用蓝牙耳机时音频出现裂纹的问题</title>
+      <link>https://rknight.me/blog/fix-crackly-audio-when-using-bluetooth-headphones-on-macos/</link>
+      <description><![CDATA[我时不时地开始通过耳机在 MacOS 上听音乐，但声音却很刺耳和刺耳。我尝试了退出 Apple Music、重新连接耳机，甚至重启 Mac，但都无法解决这个问题。我终于找到了解决办法[1] - 将 Mac 的输入设置更改为不使用耳机。不再有噼啪声。
+
+又一个非常愚蠢的音频问题修复。
+
+
+
+我可能在 Reddit 或 Apple 论坛上找到了此解决方案，但现在找不到来源 ⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/fix-crackly-audio-when-using-bluetooth-headphones-on-macos/</guid>
+      <pubDate>Fri, 18 Oct 2024 11:59:23 GMT</pubDate>
+    </item>
     <item>
       <title>设置DNSControl</title>
       <link>https://rknight.me/blog/setting-up-dnscontrol/</link>
@@ -255,18 +271,6 @@ You can donate at stjude.omg.lol to grab your stickers. It&#39;s for the kids.]]
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/building-a-seating-plan-for-relay-10/</guid>
       <pubDate>Thu, 15 Aug 2024 20:30:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人都可以自由创建网站</title>
-      <link>https://rknight.me/blog/everybodys-free-to-make-websites/</link>
-      <description><![CDATA[ couple, re-worked, video, idea, Baz Luhrmann
-
-couple前几天重新制作了Baz Luhrmann著名作品的歌词，后来产生了制作视频的想法。最终制作了一个视频。总结：couple改编了Baz Luhrmann的作品，产生了做视频的想法。 
-A couple of days ago Sara tooted, then wrote a post, with re-worked words of the Wear Sunscreen essay made famous by Baz Luhrmann.
-Keenan then recorded this over the music and I later had the idea to make a proper video for it, So here it is.
-https://www.youtube.com/watch?v=v5UsuZ4DS_Q]]></description>
-      <guid>https://rknight.me/blog/everybodys-free-to-make-websites/</guid>
-      <pubDate>Thu, 18 Jul 2024 07:37:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
