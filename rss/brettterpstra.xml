@@ -4,7 +4,37 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Oct 2024 21:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 01:25:31 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 10 月 19 日的网络游览</title>
+      <link>https://brett.trpstra.net/link/535/16859872/web-excursions-for-october-19-2024</link>
+      <description><![CDATA[
+
+
+
+
+
+
+与 NordVPN 合作为您带来网络游览。有效且经济地保护您的互联网浏览。
+
+IndigoStack
+这真的很酷。本地 Web 开发堆栈的裸机性能。使用 https、反向代理或任何您需要的技术运行多个堆栈 - 无需 Docker、无需 VM，完全终端集成。做得非常好。
+在 Bunch 中使用 Moom 的快速提示
+Stephen Millard 的关于将 Moom 4 与 Bunch 结合使用的精彩帖子。很多提示！
+复制存储库
+复制/粘贴任何 Github 存储库的内容，以便在您选择的 LLM 中使用。可按文件类型过滤。
+ttscoff/confluence2md
+我专门为 Oracle 的内部文档团队制作了这个，但我认为其他人可能会发现它的用途。它从 Confluence 获取 HTML 导出转储并将其转换为 Markdown（特别是 Python markdown，但可以轻松修改为其他格式）。非常适合将 Confluence 文档 wiki 转换为 GitHub/GitLab 页面。
+
+NordVPN 可保护您的互联网浏览，此外，它还可以使服务看起来像您来自任何国家/地区。 今天就来看看吧。
+点赞或分享这篇文章 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
+所有材料 ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | 隐私政策]]></description>
+      <guid>https://brett.trpstra.net/link/535/16859872/web-excursions-for-october-19-2024</guid>
+      <pubDate>Sat, 19 Oct 2024 15:58:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 10 月 4 日网络游览</title>
       <link>https://brett.trpstra.net/link/535/16834045/web-excursions-for-october-04-2024</link>
@@ -201,7 +231,7 @@ Planter 现在不再依赖单个模板文件，而是需要一个模板目录，
 这意味着你不能轻易地嵌入整个脚本，而必须依赖它安装在用户的系统上。
 如果你经常创建遵循类似目录/文件结构的项目，Planter 将为你节省大量时间。查看它。
 如果你有想法或需要支持，请使用论坛。我期待收到您的来信！
-点赞或分享此帖子 Twitter。
+点赞或分享此帖子Twitter。
 
 BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
 所有材料 ©2024 Brett Terpstra
@@ -226,7 +256,7 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
     <item>
       <title>重新推出 The Lab 和 Rock Scissors 的 T 恤</title>
       <link>https://brett.trpstra.net/link/535/16796647/relaunched-t-shirts-for-the-lab-and-rock-scissors</link>
-      <description><![CDATA[我让原来设立的 TeeSpring 商店陷入困境，而 TeeSpring 更改了一堆内容，导致我的所有列表都无效。因此，我重新推出了店面，保留了原来的设计，并增加了一些新设计。
+      <description><![CDATA[我让原来设立的 TeeSpring 商店陷入困境，而 TeeSpring 更改了一些东西，导致我的所有列表都无效。因此，我重新推出了店面，保留了原来的设计，并增加了一些新设计。
 
 
 
@@ -236,7 +266,7 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
 
 
 
-实验室 有一些新的徽标设计，还有“经典” 的徽标设计。不是自负，但我很想再次看到实验室。我还更新了 **BOLD** 设计，采用新的 **STRONG** 设计，这是一款很棒的、虽然极简主义的咖啡杯。Gruber 从技术角度对 BOLD 版本提出了质疑，因此 STRONG 版本应该可以满足要求。这些设计可用于各种服装（男式衬衫、女式衬衫、一些连帽衫）和咖啡杯/贴纸。如果您有想要但没有看到的东西，请告诉我。
+实验室 有一些新的徽标设计，还有“经典” 的徽标设计。不是自负，但我很想再次看到实验室。我还更新了 **BOLD** 设计，采用新的 **STRONG** 设计，这是一款很棒的、虽然极简主义的咖啡杯。Gruber 从技术角度对 BOLD 版本提出了质疑，因此 STRONG 版本应该满足要求。这些设计可用于各种服装（男式衬衫、女式衬衫、一些连帽衫）和咖啡杯/贴纸。如果您有想要但没有看到的东西，请告诉我。
 
 
 
@@ -248,7 +278,7 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
 
 Rock Scissors 商店提供一些受摇滚乐启发的旧设计，以及我喜欢的新设计：希望你猜出我的名字衬衫，作为对滚石乐队的致敬。我最喜欢的衬衫，向黑旗乐队、雷蒙斯乐队和性手枪乐队致敬的衬衫拒绝列出，但我有一个客户支持查询，希望很快出现。
 我从这些东西中赚不到多少钱，这更像是一种爱的劳动，但这绝对是支持我工作的一种方式。请尽情享受！
-在 Mastodon 上点赞或分享此帖子或Twitter。
+在 Mastodon 或  href=&quot;https://twitter.com/intent/tweet?original_referer=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F08%2F14%2Frelaunched-t-shirts-for-the-lab-and-rock-scissors%2F&amp;text=Relaunched+T-shirts+for+The+Lab+and+Rock+Scissors&amp;url=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F08%2F14%2Frelaunched-t-shirts-for-the-lab-and-rock-scissors%2F&amp;via=ttscoff&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;发推文&quot;&gt;Twitter。
 
 BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供帮助，请单击此处。
 所有材料 ©2024 Brett Terpstra
@@ -376,13 +406,6 @@ All materials ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | Privacy Policy]]></description>
       <guid>https://brett.trpstra.net/link/535/16767225/searchlink-with-improved-bookmark-and-history-searching</guid>
       <pubDate>Fri, 09 Aug 2024 17:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Howzit 模板加速开发</title>
-      <link>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16762490/speed-up-development-with-howzit-templates</guid>
-      <pubDate>Mon, 05 Aug 2024 19:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
