@@ -4,7 +4,24 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 22 Oct 2024 18:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 01:19:09 GMT</lastBuildDate>
+    <item>
+      <title>黑曜石任务和祝你好运</title>
+      <link>https://rknight.me/blog/obsidian-tasks-and-godspeed/</link>
+      <description><![CDATA[两周前我吹嘘：
+
+上帝保佑我，我又回到了 Obsidian Tasks
+
+我想到了一个很好的解决方案。使用 Obsidian Tasks 查询语言显示我每个项目文件中的第一个待办事项：
+path includes projectsgroup by function task.file.path.split(&#39;/&#39;)[1].replace(&#39;.md&#39;,&#39;&#39;)limit groups 1not done
+
+我不得不在 css 中添加一些规则来隐藏使用分组时显示的注释标题：
+.tasks-group-heading { 显示：无；&gt;&gt;&gt;ul.plugin-tasks-query-result { margin-bottom：0； margin-top：0；&gt;&gt;div.task-count { margin-top: 10px;&gt;
+事实证明，这个有效，但只是对我无效。所以我删除了所有内容（记下配置后，因为 Obsidian Tasks 可能很复杂）。
+Godspeed现在是我最好的朋友。我不会尝试深入研究 Godspeed 所做的一切，但用户界面很简单，对我的大脑来说很有用。他们最大的卖点是所有事情都可以用我喜欢的键盘完成。这也是我注册 Setapp 的原因之一（很快就会有一篇关于此内容的帖子）。如果你想了解更多，请观看 Matt 的一段关于 Godspeed 的精彩视频，这也是我最先发现它的方式。]]></description>
+      <guid>https://rknight.me/blog/obsidian-tasks-and-godspeed/</guid>
+      <pubDate>Wed, 23 Oct 2024 20:16:52 GMT</pubDate>
+    </item>
     <item>
       <title>使用 DNSControl 移动我的 DNS 记录</title>
       <link>https://rknight.me/blog/moving-my-dns-records-with-dnscontrol/</link>
@@ -244,33 +261,6 @@ Baby Knight 本周开始上幼儿园，所以我们加快了时间表，买了�
 再见 Felicia。]]></description>
       <guid>https://rknight.me/blog/my-first-car-lasted-less-time-than-liz-truss-did-as-prime-minister/</guid>
       <pubDate>Sat, 31 Aug 2024 20:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣裘德 2024</title>
-      <link>https://rknight.me/blog/st-jude-2024/</link>
-      <description><![CDATA[ 。
-
-Here is the Chinese summary with key points and format as requested:
-
-儿童癌症 筹款活动 贴纸 omg.lol St Jude
-
-总结:
-1. 9月是儿童癌症意识月,即将开始年度筹款活动
-2. 去年筹集了一定金额,今年目标是超越这个数字
-3. 提供两款独家贴纸:Party Prami和Ruminate Heatwave
-4. omg.lol网站提供St Jude主题和支持页脚
-5. 每天在某平台上会提供终身omg.lol代码
-6. 可以通过指定链接捐款获取贴纸
-7. 活动旨在帮助患病儿童 
-tl;dr: Donate to our campaign here at stjude.omg.lol.
-It&#39;s basically September which means it&#39;s childhood cancer awareness month and time for Relay&#39;s annual fundraising event. Last year, me and Adam raised $12,590.57 as part of the campaign. This year we&#39;re going to try and beat that total and we have two exclusive stickers which you can get for a donation of $15: Party Prami and Ruminate Heatwave.
-
-Over on omg.lol you can use a special St Jude theme for your omg.lol profile which you can see on mine and Adam&#39;s profile. You can also enable a &quot;supporting St Jude&quot; footer for your profile too! Here it all is in action:
-
-Finally, every day on bids.lol they&#39;ll be a lifetime omg.lol code up for grabs and I&#39;m sure Adam has some other tricks up his sleeve.
-You can donate at stjude.omg.lol to grab your stickers. It&#39;s for the kids.]]></description>
-      <guid>https://rknight.me/blog/st-jude-2024/</guid>
-      <pubDate>Wed, 28 Aug 2024 15:48:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
