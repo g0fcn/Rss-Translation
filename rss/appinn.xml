@@ -4,7 +4,21 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 22 Oct 2024 18:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 06:26:01 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】Whisper 语音转文本工具</title>
+      <link>https://meta.appinn.net/t/topic/62294</link>
+      <description><![CDATA[这个工具其实是 GitHub - argmaxinc/WhisperKit: On-device Speech Recognition for Apple Silicon fork 之后修改的。
+原项目不便于普通人直接使用，所以我加上了一点点小功能。
+
+增加中文翻译
+转换成功后自动上传到指定接口，接口地址可自定义，便于后续使用 n8n、dify 等自动化流程工具进行更进一步的优化、提炼。
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/62294</guid>
+      <pubDate>Thu, 24 Oct 2024 03:09:44 GMT</pubDate>
+    </item>
     <item>
       <title>「图片翻译助手」浏览器插件，一键翻译网页上的图片内容</title>
       <link>https://meta.appinn.net/t/topic/62244</link>
@@ -323,27 +337,6 @@ Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/61908</guid>
       <pubDate>Sat, 12 Oct 2024 07:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>【开发者自荐】搜题助手：选中题目自动搜题，快速获取答案</title>
-      <link>https://meta.appinn.net/t/topic/61846</link>
-      <description><![CDATA[软件名称
-搜题助手
-应用平台
-
-Chrome
-Edge(已提交审核)
-
-推荐类型
-【开发者自荐】
-软件简介
-搜题助手是一个免费的快速搜题的浏览器插件，选中题目即可自动搜题，快速获取答案。
-截图
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/61846</guid>
-      <pubDate>Thu, 10 Oct 2024 15:38:13 GMT</pubDate>
     </item>
     <item>
       <title>【限免】NFC标签如何与物品收纳结合？不妨试试这个App</title>
