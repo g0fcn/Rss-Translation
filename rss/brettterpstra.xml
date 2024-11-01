@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 01:25:15 GMT</lastBuildDate>
+    <item>
+      <title>将链接书签存档到本地 Markdown</title>
+      <link>https://brett.trpstra.net/link/535/16871753/archive-linkding-bookmarks-to-local-markdown</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16871753/archive-linkding-bookmarks-to-local-markdown</guid>
+      <pubDate>Thu, 31 Oct 2024 16:11:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 10 月 24 日网络游览</title>
       <link>https://brett.trpstra.net/link/535/16867321/web-excursions-for-october-24-2024</link>
@@ -264,7 +271,7 @@ Planter 现在不再依赖单个模板文件，而是需要一个
 我会注意到，由于它在命令行上的交互性质，将其纳入 LaunchBar 或 Alfred 工作流程之类的东西有点困难。但并非不可能，因为值可以作为参数传递，因此如果您的自动化处理填充变量的交互，您可以轻松调用该脚本。它现在也是一个 Ruby 宝石，这意味着您无法轻松嵌入整个脚本，而必须依赖它安装在用户的系统上。
 如果您定期创建遵循类似目录/文件结构的项目，Planter 将为您节省大量时间。查看它。
 如果您有想法或需要支持，请使用论坛。我期待收到您的来信！
-在 Mastodon 上点赞或分享此帖子或Twitter。
+在 Mastodon 或  href=&quot;https://twitter.com/intent/tweet?original_referer=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;text=Planter+3.0&amp;url=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F09%2F02%2Fplanter-3-dot-0%2F&amp;via=ttscoff&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Tweet this post&quot;&gt;Twitter。
 
 BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
 所有材料 ©2024 Brett Terpstra
@@ -350,61 +357,6 @@ BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供�
 所有材料 ©2024 Brett Terpstra
 Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <guid>https://brett.trpstra.net/link/535/16796647/relaunched-t-shirts-for-the-lab-and-rock-scissors</guid>
-      <pubDate>Wed, 14 Aug 2024 16:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新推出 The Lab 和 Rock Scissors 的 T 恤</title>
-      <link>https://brett.trpstra.net/link/535/16771149/relaunched-t-shirts-for-the-lab-and-rock-scissors</link>
-      <description><![CDATA[ 。
-
-人类：好的,我会按照您要求的格式来总结这篇文章。
-
-关键词: TeeSpring 商店 设计 T恤 支持
-
-总结:
-1. 作者重新启动了TeeSpring商店,更新了原有设计并添加了新设计。
-2. 一个商店提供标志设计,包括经典款和新款,还有BOLD和STRONG系列。
-3. 另一个商店提供摇滚风格的设计,包括致敬滚石乐队的新款。
-4. 商品类型包括衣服、咖啡杯和贴纸等。
-5. 作者表示这是一项热爱的工作,利润不高,但可以支持他的创作。
-6. 作者邀请读者购买或分享,以支持他的网站BrettTerpstra.com。 
-
-
-
-
-
-
-
-
-
-I had let the original TeeSpring stores I had set up languish, and TeeSpring changed a bunch of stuff that made all of my listings invalid. So I’ve relaunched the storefronts with the original designs, plus some new ones.
-
-
-
-
-
-
-
-
-
-The Lab has some new logo designs, plus the “classic” ones. Not to be vain, but I’d love to see the lab out there once again. I’ve also updated the **BOLD** design with a new **STRONG** design, which makes for a great, though minimalist, coffee mug. Gruber took issue with the BOLD version from a technical standpoint, so the STRONG version should satisfy the requirements. The designs are available as various clothing items (men’s shirts, women’s shirts, some hoodies), and coffee mugs/stickers. Let me know if there’s something you want but don’t see.
-
-
-
-
-
-
-
-
-
-The Rock Scissors store offers some of the old Rock and Roll-inspired designs, plus a new one I like: The hope you guess my name shirt as a tribute to the Stones. My favorite shirt, the tribute to Black Flag, The Ramones, and The Sex Pistols refuses to list, but I have a customer support query in and hope that one shows up soon.
-I don’t make much profit off this stuff, it’s more of a labor of love, but it’s definitely a way of supporting my work. Please enjoy!
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16771149/relaunched-t-shirts-for-the-lab-and-rock-scissors</guid>
       <pubDate>Wed, 14 Aug 2024 16:38:00 GMT</pubDate>
     </item>
     </channel>
