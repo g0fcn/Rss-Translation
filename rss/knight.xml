@@ -4,7 +4,16 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Sun, 03 Nov 2024 15:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 12:35:51 GMT</lastBuildDate>
+    <item>
+      <title>我们有家庭第二季</title>
+      <link>https://rknight.me/blog/we-got-family-season-two/</link>
+      <description><![CDATA[
+We Got Family 是我和 David Darnes 合作制作的关于《速度与激情》系列电影的播客。第一季我们制作了前四部电影，外加一集Superfast!。
+好久不见，我们回来继续制作第二季，从 2011 年的《速度与激情 5》开始。 在网站上收听，也可以通过RSS、Apple Podcasts、Spotify、Overcast、Pocketcasts、卡斯特罗，或者您获取播客的任何地方。]]></description>
+      <guid>https://rknight.me/blog/we-got-family-season-two/</guid>
+      <pubDate>Mon, 04 Nov 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>博客PoMo AMA</title>
       <link>https://rknight.me/blog/weblogpomo-ama/</link>
@@ -141,7 +150,7 @@ Godspeed现在是我最好的朋友。我不会尝试深入研究 Godspeed 所�
       <link>https://rknight.me/blog/fix-crackly-audio-when-using-bluetooth-headphones-on-macos/</link>
       <description><![CDATA[我时不时地开始通过耳机在 MacOS 上听音乐，但声音却很刺耳和刺耳。我尝试了退出 Apple Music、重新连接耳机，甚至重启 Mac，但都无法解决这个问题。我终于找到了解决办法[1] - 将 Mac 的输入设置更改为不使用耳机。不再有噼啪声。
 
-又一个非常愚蠢的音频问题修复。
+又一个针对愚蠢音频问题的非常愚蠢的修复。
 
 
 
@@ -255,19 +264,6 @@ POV 相机基本上是一种“一次性”相机。您可以获得 28 张照片
 ]]></description>
       <guid>https://rknight.me/blog/i-finally-saw-and-used-an-app-clip/</guid>
       <pubDate>Mon, 07 Oct 2024 11:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>贴纸书</title>
-      <link>https://rknight.me/blog/the-sticker-book/</link>
-      <description><![CDATA[每次我打开书桌上的抽屉时：
-
-哇，这个抽屉里有很多贴纸，我从来没有用过，因为我不知道该把它们放在哪里，如果我贴错了，就再也回不来了
-
-再也不用了！我通过把它们贴在一本书上，摆脱了贴纸疑虑的束缚。把我的贴纸贴在一个专为贴纸设计的东西上，这是一个非凡的想法。我的天才范围真的是无止境的。
-
-但是，如果这本书不适合它们，如果有更好的地方放它们怎么办？那该怎么办？！]]></description>
-      <guid>https://rknight.me/blog/the-sticker-book/</guid>
-      <pubDate>Thu, 03 Oct 2024 18:55:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
