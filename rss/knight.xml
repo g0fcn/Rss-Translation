@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Nov 2024 12:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 12:33:55 GMT</lastBuildDate>
+    <item>
+      <title>为 Eleventy Three Ways 添加 Cooklang 支持</title>
+      <link>https://rknight.me/blog/adding-cooklang-support-to-eleventy-two-ways/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/adding-cooklang-support-to-eleventy-two-ways/</guid>
+      <pubDate>Thu, 07 Nov 2024 08:37:23 GMT</pubDate>
+    </item>
     <item>
       <title>为什么没有人使用食谱模式？</title>
       <link>https://rknight.me/blog/why-is-no-one-using-the-recipe-schema/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 06 Nov 2024 08:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>对食谱格式的思考比任何人都要多</title>
+      <title>比任何人都更认真地考虑菜谱格式</title>
       <link>https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/</link>
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/</guid>
@@ -197,7 +204,7 @@ Godspeed现在是我最好的朋友。我不会尝试深入研究 Godspeed 所�
     <item>
       <title>我们的婚礼摄影师很糟糕</title>
       <link>https://rknight.me/blog/our-wedding-photographer-was-terrible/</link>
-      <description><![CDATA[我原本计划发布这篇关于我们婚礼摄影师的严厉评论，因为我等了 6 个月才拿到照片，非常生气，但他基本上破产了，从那时起我就平静了下来。无论如何，我还是会发布它，因为它已经在我的帖子草稿中存在了几个月，我想将其作为参考。摄影师的名字被删除了，因为坦白地说生命太短暂了。
+      <description><![CDATA[我原本计划发布这篇对我们的婚礼摄影师的严厉评论，因为我等了 6 个月才拿到照片，非常生气，但他基本上破产了，从那时起我就平静了下来。无论如何，我还是会发布它，因为它已经在我的帖子草稿中存在了几个月，我想将其作为参考。摄影师的名字被删除了，因为坦白地说生命太短暂了。
 
 婚礼当天：
 
@@ -231,18 +238,6 @@ Godspeed现在是我最好的朋友。我不会尝试深入研究 Godspeed 所�
 还有，场景。]]></description>
       <guid>https://rknight.me/blog/our-wedding-photographer-was-terrible/</guid>
       <pubDate>Fri, 11 Oct 2024 11:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置 Mastodon 作者标签</title>
-      <link>https://rknight.me/blog/setting-up-mastodon-author-tags/</link>
-      <description><![CDATA[
-Mastodon 4.3 今天发布，它具有许多功能，但包括我在内的大多数人都对作者标签感到兴奋 - 这不是它们的名称，但据我所知，它们似乎也没有合适的名称。无论如何，您需要做两件事才能获得您可以在上面的屏幕截图中看到的“更多来自 X”部分。首先是将 fediverse:creator 标签添加到您网站的 head 中，我之前在此处写过。
-&lt;meta name=&quot;fediverse:creator&quot; content=&quot;@robb@social.lol&quot; /&gt;
-然后，您需要跳转到 Mastodon 上的设置，并转到“公共个人资料”&gt;“验证”下的“作者归属”部分。添加您想要允许链接到您的个人资料的域。
-
-就是这样。请记住，如果您分享最近发布的帖子来测试此帖子，您的实例可能已将其缓存，因此新作者的内容不会显示。]]></description>
-      <guid>https://rknight.me/blog/setting-up-mastodon-author-tags/</guid>
-      <pubDate>Tue, 08 Oct 2024 19:45:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
