@@ -4,7 +4,52 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Nov 2024 01:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 18:23:39 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 11 月 12 日的网络游览</title>
+      <link>https://brett.trpstra.net/link/535/16884022/web-excursions-for-november-10th-2024</link>
+      <description><![CDATA[ 关键词: 开发文档, Web开发者, 日历应用, GitHub, AI总结:这篇文章提供了几个有用的资源和应用程序，特别适合Web开发者和技术人员。首先介绍了一个可以在本地获取针对特定技术栈的开发文档的应用，支持Vue和React等框架，有免费版本可试用，完整版价格为30美元。其次，一款流行的Mac和iOS日历应用现也适用于Windows。此外，文章讨论了GitHub的新项目，该项目使用AI帮助用户创建或修改软件。最后，提及了为Ultimate Hacking Keyboard用户设计独特键帽的服务。 
+
+
+
+
+
+
+
+Web excursions brought to you in partnership with CleanMyMac X, all the tools to speed up your Mac, in one app.
+
+mighty_docs – AI-Powered Developer Documentation Assistance
+
+
+Get accurate answers from the latest dev docs, customized for your tech stack, locally on your computer.
+
+
+
+This looks great for web developers, with the ability to chat with documentation for stacks like Vue and React. Maybe more platforms in the future? But the free version is enough to test it out, and a lifetime license is a reasonable $30. Mac only.
+
+Fantastical for Windows
+My favorite calender app for Mac and iOS is now available for Windows (scroll down the page if you don’t see the Microsoft Store link).
+GitHub Spark
+
+
+GitHub Next Project: Can we enable anyone to create or adapt software for themselves, using AI and a fully-managed runtime?
+
+
+
+I watched demos of this at GitHub Universe and it’s pretty astounding. I’ve been skeptical that AI was going to get to a point where you could just describe an idea and get accurate code from it, but we’re already at that point.
+
+Custom keycaps for UHK
+Design unique dye sub keycaps with UHK layout. Just for the Ultimate Hacking Keyboard users out there. Here’s what I did with it.
+
+
+Like or share this post on Mastodon or Twitter.
+
+BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
+All materials ©2024 Brett Terpstra
+Twitter | Mastodon | GitHub | Privacy Policy]]></description>
+      <guid>https://brett.trpstra.net/link/535/16884022/web-excursions-for-november-10th-2024</guid>
+      <pubDate>Tue, 12 Nov 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 11 月 6 日的网络游览</title>
       <link>https://brett.trpstra.net/link/535/16876989/web-excursions-for-november-6-2024</link>
@@ -320,7 +365,7 @@ Planter 现在不再依赖单个模板文件，而是需要一个
 包含的所有子目录和文件。为了实现这一点，模板变量
 系统已完全重新设计。它现在支持命名键、在命令行上提示输入值，甚至可以处理 if/then 逻辑和多项选择变量。
 模板变量可以应用于文件名（包括 if/then 逻辑）和任何类型的基于文本的文件（包括 XML、RTF、JSON 等，Apple Binary PLIST 将自动转换）。这意味着您可以模板化您的源代码、笔记，甚至 Mindnode 思维导图、富文本笔记和 Scrivener 文档。
-我不会在这里记录整个过程，因为我已经为该项目编写了一个相当不错的 README。如果您对此感兴趣，请告诉我文档中任何令人困惑的地方。
+我不会在这里记录整个过程，因为我已经为该项目编写了一个非常好的 README。如果您对此感兴趣，请告诉我文档中任何令人困惑的地方。
 我会注意到，由于它在命令行上的交互性质，将其纳入 LaunchBar 或 Alfred 工作流程之类的东西有点困难。但并非不可能，因为值可以作为参数传递，因此如果您的自动化处理填充变量的交互，您可以轻松调用该脚本。它现在也是一个 Ruby 宝石，这意味着您无法轻松嵌入整个脚本，而必须依赖它安装在用户的系统上。
 如果您定期创建遵循类似目录/文件结构的项目，Planter 将为您节省大量时间。查看它。
 如果您有想法或需要支持，请使用论坛。我期待收到您的来信！
@@ -338,39 +383,6 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16796641/updated-generate-slick-changelogs-from-git-commits</guid>
       <pubDate>Sat, 31 Aug 2024 19:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新推出 The Lab 和 Rock Scissors 的 T 恤</title>
-      <link>https://brett.trpstra.net/link/535/16796647/relaunched-t-shirts-for-the-lab-and-rock-scissors</link>
-      <description><![CDATA[我让自己原来设立的 TeeSpring 商店陷入困境，而 TeeSpring 更改了一些东西，导致我的所有列表都无效。因此，我重新推出了店面，保留了原来的设计，并增加了一些新设计。
-
-
-
-
-
-
-
-
-
-实验室 有一些新的徽标设计，还有“经典” 的徽标设计。不是自负，但我很想再次看到实验室。我还更新了 **BOLD** 设计，采用新的 **STRONG** 设计，这是一款很棒的、虽然极简主义的咖啡杯。Gruber 从技术角度对 BOLD 版本提出了质疑，因此 STRONG 版本应该满足要求。这些设计可用于各种服装（男式衬衫、女式衬衫、一些连帽衫）和咖啡杯/贴纸。如果您有想要但没有看到的东西，请告诉我。
-
-
-
-
-
-
-
-
-
-Rock Scissors 商店提供一些受摇滚乐启发的旧设计，以及我喜欢的新设计：希望你猜出我的名字衬衫，作为对滚石乐队的致敬。我最喜欢的衬衫，向黑旗乐队、雷蒙斯乐队和性手枪乐队致敬的衬衫拒绝列出，但我有一个客户支持查询，希望很快出现。
-我从这些东西中赚不到多少钱，这更像是一种爱的劳动，但这绝对是支持我工作的一种方式。请尽情享受！
-在 Mastodon 或  href=&quot;https://twitter.com/intent/tweet?original_referer=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F08%2F14%2Frelaunched-t-shirts-for-the-lab-and-rock-scissors%2F&amp;text=Relaunched+T-shirts+for+The+Lab+and+Rock+Scissors&amp;url=http%3A%2F%2F0.0.0.0%3A4000%2F2024%2F08%2F14%2Frelaunched-t-shirts-for-the-lab-and-rock-scissors%2F&amp;via=ttscoff&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;发推文&quot;&gt;Twitter。
-
-BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供帮助，请单击此处。
-所有材料 ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | 隐私政策]]></description>
-      <guid>https://brett.trpstra.net/link/535/16796647/relaunched-t-shirts-for-the-lab-and-rock-scissors</guid>
-      <pubDate>Wed, 14 Aug 2024 16:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
