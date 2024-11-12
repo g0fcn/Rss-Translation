@@ -4,7 +4,33 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Tue, 12 Nov 2024 12:35:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 15:18:49 GMT</lastBuildDate>
+    <item>
+      <title>5ire | 开源大模型跨平台桌面客户端</title>
+      <link>https://meta.appinn.net/t/topic/63060</link>
+      <description><![CDATA[
+功能特点
+
+跨平台支持，兼容Windows和macOS；
+支持主流大模型，OpenAI, Azure OpenAI, Anthropic, Google, 百度, Moonshot, 豆包, Grok, DeepSeek 和 Ollama；
+体验友好；
+本地知识库;
+自定义提示词库;
+全局搜索和书签;
+用量统计;
+内置GPT-4 系列模型：免费赠送 GPT-4o 和 GPT-4 大模型用量；
+持续更新。
+
+地址
+
+官网
+Github
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/63060</guid>
+      <pubDate>Tue, 12 Nov 2024 12:17:48 GMT</pubDate>
+    </item>
     <item>
       <title>全能图片转换PDF专家 - 免费、离线转换图片</title>
       <link>https://meta.appinn.net/t/topic/63055</link>
@@ -399,19 +425,6 @@ Id     Name            PSJobTypeName   State         HasMoreData     Location   
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/62556</guid>
       <pubDate>Wed, 30 Oct 2024 13:35:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>求一款方便老人记录血压测量结果及用药记录的APP</title>
-      <link>https://meta.appinn.net/t/topic/62553</link>
-      <description><![CDATA[家里有高血压的老人，每天都会测量血压，求一款操作简单的APP，可以方便老人每次记录测量数值。
-需求就是，方便记录高压、低压、脉搏，时间日期几个数值。并形成数据表格、曲线图等。记录方式可以是手动输入，如果能拍照识别自动录入则更好。
-同时记录降压药的用药情况，到时间通过铃声、消息提醒用药等。
-我知道现在很多血压仪已经支持蓝牙连接手机APP，自动记录数值。但是，这些新品牌都是非老牌医疗器械品牌，测量的数值并不准确，比如某米、某跃，实际上测量更准确的还是欧姆龙之类的老牌子。再就是老款血压仪还是需要记录的，这东西很少会用坏，使用寿命还挺长的。
-此外，我也找过提醒用药的APP，至今没有找到特别好用的。
-3 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/62553</guid>
-      <pubDate>Wed, 30 Oct 2024 11:44:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
