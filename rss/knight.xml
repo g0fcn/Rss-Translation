@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 12 Nov 2024 12:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:34:36 GMT</lastBuildDate>
+    <item>
+      <title>芝士鸡肉培根意面食谱</title>
+      <link>https://rknight.me/blog/cheesy-chicken-and-bacon-pasta-recipe/</link>
+      <description><![CDATA[第三周的食​​谱是奶酪鸡肉培根意面，我上周第一次尝试，味道很棒。你应该试试。]]></description>
+      <guid>https://rknight.me/blog/cheesy-chicken-and-bacon-pasta-recipe/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:55:12 GMT</pubDate>
+    </item>
     <item>
       <title>蜜饯墨西哥胡椒食谱</title>
       <link>https://rknight.me/blog/candied-jalapenos-recipe/</link>
@@ -196,13 +203,6 @@ Godspeed现在是我最好的朋友。我不会尝试深入研究 Godspeed 所�
 ]]></description>
       <guid>https://rknight.me/blog/fix-crackly-audio-when-using-bluetooth-headphones-on-macos/</guid>
       <pubDate>Fri, 18 Oct 2024 11:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置DNSControl</title>
-      <link>https://rknight.me/blog/setting-up-dnscontrol/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/setting-up-dnscontrol/</guid>
-      <pubDate>Thu, 17 Oct 2024 20:36:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
