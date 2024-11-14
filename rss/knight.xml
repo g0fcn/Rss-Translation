@@ -4,7 +4,16 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Wed, 13 Nov 2024 15:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 12:35:35 GMT</lastBuildDate>
+    <item>
+      <title>熨斗通心粉奶酪食谱</title>
+      <link>https://rknight.me/blog/flatiron-mac-and-cheese-recipe/</link>
+      <description><![CDATA[ 纽约, 阿里, 生活, 鹿子酒会, 威尔士乡村总结:文章讲述了作者的朋友阿里在纽约生活时曾尝试过的一道菜谱，并在不同场合包括作者的鹿子酒会上为朋友们烹制。提到鹿子酒会是在威尔士乡村的一间小屋中，三个朋友共度了三天的美好时光。 
+This recipe came to me via my friend Ali, who had it at The Flatiron Room when he was living in New York. He&#39;s made it for us a bunch of times, including on my stag do, as you can in the accompanying photo.
+As an aside, my stag do was three of us in a cabin in the middle of the Welsh countryside for three days and it was glorious.]]></description>
+      <guid>https://rknight.me/blog/flatiron-mac-and-cheese-recipe/</guid>
+      <pubDate>Thu, 14 Nov 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>芝士鸡肉培根意面食谱</title>
       <link>https://rknight.me/blog/cheesy-chicken-and-bacon-pasta-recipe/</link>
@@ -187,22 +196,6 @@ Godspeed现在是我最好的朋友。我不会尝试深入研究 Godspeed 所�
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/moving-my-dns-records-with-dnscontrol/</guid>
       <pubDate>Tue, 22 Oct 2024 14:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复在 MacOS 上使用蓝牙耳机时音频出现裂纹的问题</title>
-      <link>https://rknight.me/blog/fix-crackly-audio-when-using-bluetooth-headphones-on-macos/</link>
-      <description><![CDATA[我时不时地开始通过耳机在 MacOS 上听音乐，但声音却很刺耳和刺耳。我尝试了退出 Apple Music、重新连接耳机，甚至重启 Mac，但都无法解决这个问题。我终于找到了解决办法[1] - 将 Mac 的输入设置更改为不使用耳机。不再有噼啪声。
-
-又一个针对愚蠢音频问题的非常愚蠢的修复。
-
-
-
-我可能在 Reddit 或 Apple 论坛上找到了此解决方案，但现在找不到来源 ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/fix-crackly-audio-when-using-bluetooth-headphones-on-macos/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:59:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
