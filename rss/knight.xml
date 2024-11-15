@@ -4,7 +4,33 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 15 Nov 2024 12:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 15:19:51 GMT</lastBuildDate>
+    <item>
+      <title>命名我的计算机</title>
+      <link>https://rknight.me/blog/naming-my-computers/</link>
+      <description><![CDATA[ 设备命名, Marvel角色, iPhone, AirPods, Beats Studio buds总结:本文作者介绍了自己为电子设备命名的方法，其中大部分以Marvel角色为主。例如，他的Mac Mini被命名为J.A.R.V.I.S，MacBook Pro和iPhone尚未提及命名，Apple Watch和AirPods Pro的命名未被透露。而AirPods Max因材质被命名为Metal。此外，作者为Beats Studio buds起了一个与众不同的名字——Fantastic Beats and Where to Find Them，而iPad因使用不频繁而简单地命名为Robb&#39;s iPad。这种命名方式给作者的设备增添了一份个性和趣味。 
+Alex has an excellent post about how they name their computers which is, as they mention, a very important part of setting up a new device.
+Unlike Alex, I don&#39;t choose a new name when it gets replaced - my iPhone is always called Starlord. Which brings me to the naming scheme: Marvel characters. Some of these make sense, some of them don&#39;t.
+
+Mac Mini: This is used for Plex and some other boring home things but it&#39;s the hub for the house or something. Anyway I went with Jarvis. Technically it&#39;s written J.A.R.V.I.S. but who&#39;s got time for that.
+MacBook Pro: This is my main computer and is called Vision.
+iPhone: Starlord
+Apple Watch: Rocket
+AirPods Pro: Maximoff. Because there&#39;s two of them? A clever one.
+AirPods Max: Magneto because metal
+My black Apple Magic keyboard: Black Widow
+
+My Beats Studio buds are the one exception to this naming rule because I thought of a name[1] so good I couldn&#39;t not use it: Fantastic Beats and Where to Find Them. My iPad is called Robb&#39;s iPad because I don&#39;t use it enough to name it.
+
+
+
+I originally thought of this joke for this tweet ⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/naming-my-computers/</guid>
+      <pubDate>Fri, 15 Nov 2024 13:23:18 GMT</pubDate>
+    </item>
     <item>
       <title>蟾蜍进洞食谱</title>
       <link>https://rknight.me/blog/toad-in-the-hole-recipe/</link>
@@ -197,18 +223,6 @@ Host * IdentityFile ~/.ssh/personal_id_rsa
 然后使用 sudo service ssh restart 刷新 ssh 服务。]]></description>
       <guid>https://rknight.me/blog/copy-ssh-keys-to-a-server/</guid>
       <pubDate>Sat, 26 Oct 2024 13:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Miniflux 与 Reeder 和 NetNewsWire 结合使用</title>
-      <link>https://rknight.me/blog/using-miniflux-with-reeder-and-netnewswire/</link>
-      <description><![CDATA[尝试找到如何将 Miniflux 与 Reeder (app) 和 Google Reader API 结合使用的答案有点困难，因为应用程序名称和 API 名称相似。或者可能是我睡眠不足。无论如何，我终于解决了这个问题，但我从未找到明确的“这是你如何做的”只有大量模糊的 Reddit 帖子，所以我们在这里。
-在 Miniflux 中，转到 设置 &gt; 集成 &gt; Google Reader 并设置用户名和密码。
-
-设置完成后，在 Reeder 的添加帐户屏幕中选择“Reader”，设置您托管 Miniflux 的域，然后就可以开始了。
-
-要在 NetNewsWire 中使用 Miniflux，请按照第一步操作，然后在添加帐户屏幕中选择 FreshRSS。确保 NetNewsWire 中的域后面没有斜杠，否则会出错。]]></description>
-      <guid>https://rknight.me/blog/using-miniflux-with-reeder-and-netnewswire/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:14:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
