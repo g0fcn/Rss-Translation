@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 15 Nov 2024 01:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:35:36 GMT</lastBuildDate>
+    <item>
+      <title>蟾蜍进洞食谱</title>
+      <link>https://rknight.me/blog/toad-in-the-hole-recipe/</link>
+      <description><![CDATA[好吧，伙计们，这是有史以来最懒惰的“食谱”，但它很棒，所以我们就在这里：蟾蜍在洞里。下次做的时候我会拍一张更好的照片，我不得不从我的 Instagram/Pixelfed 档案中取出这张照片。]]></description>
+      <guid>https://rknight.me/blog/toad-in-the-hole-recipe/</guid>
+      <pubDate>Fri, 15 Nov 2024 09:29:43 GMT</pubDate>
+    </item>
     <item>
       <title>更多关于 Bluesky 的杂乱想法</title>
       <link>https://rknight.me/blog/more-unorganised-thoughts-about-bluesky/</link>
@@ -202,30 +209,6 @@ Host * IdentityFile ~/.ssh/personal_id_rsa
 要在 NetNewsWire 中使用 Miniflux，请按照第一步操作，然后在添加帐户屏幕中选择 FreshRSS。确保 NetNewsWire 中的域后面没有斜杠，否则会出错。]]></description>
       <guid>https://rknight.me/blog/using-miniflux-with-reeder-and-netnewswire/</guid>
       <pubDate>Fri, 25 Oct 2024 11:14:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mark One Enigma 版钢笔评测</title>
-      <link>https://rknight.me/blog/mark-one-enigma-edition-pen-review/</link>
-      <description><![CDATA[9 月期间，我向 Enigma Stationery 的活动捐款，并参加了抽奖，有机会赢得 Mark One Enigma Edition，而且……我真的赢了！我从来没有拥有过一支花哨的钢笔[1]，尤其是这么漂亮的钢笔。我甚至不怎么用笔和纸写字。我的笔记本都没有好的纸张，封面质量也不好，也不能平折，但我还是会评论一下。
-
-Mark One 是 Studio Neat 出品的一款笔，他们制作了很多可爱的东西。Enigma 版的特点是“三层外涂层，黑色背景上闪闪发光的蓝绿色”。手感很好，点击机制非常令人满意。对于墨水，它需要一个 Schmidt 无盖笔芯，在我这个外行人看来，它看起来像某种墨水容器。我随附的那个肯定有墨水。我制作了这个简洁的图表来帮助解释：
-
-当我开始写这篇文章时，我想模仿 Brad 在The Pen Addict上所做的钢笔评论，但我真的对钢笔了解甚少，所以我做不到。无论如何，这是一支可爱的钢笔，现在我发现自己正在看不错的笔记本、马克一号笔盘和其他漂亮的钢笔。
-
-亲爱的，他在逗你。没有人有两支电视机漂亮的钢笔。
-
-
-从上到下：Mark One，然后是我闲逛时用过的其他钢笔。
-
-
-
-
-甚至没有派克钢笔，当我上学时，它被认为是最酷的钢笔一个人可能拥有⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/mark-one-enigma-edition-pen-review/</guid>
-      <pubDate>Thu, 24 Oct 2024 12:31:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
