@@ -4,7 +4,23 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 15:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 18:25:16 GMT</lastBuildDate>
+    <item>
+      <title>有用的 Bluesky 工具</title>
+      <link>https://rknight.me/blog/useful-bluesky-tools/</link>
+      <description><![CDATA[这个周末，我一直在帮助在 Bluesky 上设置 MacStories，并且我偶然发现了一些方便的网站。GitHub 上的这个 awesome-bluesky 列表中有很多有趣的与 Bluesky 相关的链接，下面是我偶然发现并觉得有用的链接。
+ClearSky 允许您查看您位于哪些列表（启动包）、您屏蔽了谁以及谁屏蔽了您。顺便说一句，屏蔽数据是公开的并且没有办法选择退出启动包，这表明完全没有考虑到这可能会被滥用，但这不是这篇文章的重点。不太重要，但为什么入门包的最低要求是七个这让我很难过。
+我发现了两个用于解析 DID 的工具，您需要它们来处理各种与 API 相关的事情。DID 是“每个帐户的持久、长期标识符。”它们看起来像这样：did:plc:b3i7xuqiybecdpm3lkywmlwv。
+
+Bluesky DID 解析器
+Bluesky DID 生成器 - 令人困惑的是，它被命名为“生成器”
+
+要在 Ivory 等 Mastodon 客户端中使用 Bluesky，您可以使用 Skybridge。如果我不能使用 Ivory，我怀疑我是否会检查 Bluesky。我使用 Coolify 自行安装了它。不过，Deck Blue 是一款不错的 Web 客户端。
+最后，SkyLink 是一款 Chrome 扩展程序，与 Streetpass 类似（尽管不那么先进）。
+您可以在 MacStories 入门包 中查看所有 MacStories 团队和播客帐户，我在那里的用户名是 @rknight.me。]]></description>
+      <guid>https://rknight.me/blog/useful-bluesky-tools/</guid>
+      <pubDate>Mon, 18 Nov 2024 15:15:19 GMT</pubDate>
+    </item>
     <item>
       <title>本周我是 AppStories 的嘉宾</title>
       <link>https://rknight.me/blog/i-was-a-guest-on-appstories-this-week/</link>
@@ -197,15 +213,6 @@ As an aside, my stag do was three of us in a cabin in the middle of the Welsh co
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/</guid>
       <pubDate>Mon, 04 Nov 2024 20:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们有家庭第二季</title>
-      <link>https://rknight.me/blog/we-got-family-season-two/</link>
-      <description><![CDATA[
-We Got Family 是我和 David Darnes 合作制作的关于《速度与激情》系列电影的播客。第一季我们制作了前四部电影，外加一集Superfast!。
-好久不见，我们回来继续制作第二季，从 2011 年的《速度与激情 5》开始。 在网站上收听，也可以通过RSS、Apple Podcasts、Spotify、Overcast、Pocketcasts、卡斯特罗，或者您获取播客的任何地方。]]></description>
-      <guid>https://rknight.me/blog/we-got-family-season-two/</guid>
-      <pubDate>Mon, 04 Nov 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
