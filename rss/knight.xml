@@ -4,7 +4,16 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 01:24:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 15:20:05 GMT</lastBuildDate>
+    <item>
+      <title>本周我是 AppStories 的嘉宾</title>
+      <link>https://rknight.me/blog/i-was-a-guest-on-appstories-this-week/</link>
+      <description><![CDATA[ MacStories, AppStories+, fediverse, ActivityPub, development setup总结:最近几周MacStories每周都邀请不同的主持人，这周轮到作者亲自参与。在AppStories+的预展中，他们讨论了节目的起源；在正式节目中，他们探讨了fediverse和ActivityPub，分享了作者的一些开发设置。节目最后，还有一段关于主持人Federico对作者人格的看法，这让作者感到震惊。你可以选择用你喜欢的播客软件收听这一集，或者观看视频版本。 
+The past few weeks AppStories has had a different MacStories host as a guest and this week was my turn. In the AppStories+ pre-show we talk about the origins of Ruminate and in the main show we discuss the fediverse and ActivityPub, some of my projects, as well as my development setup. Stick around to find out what kind of person Federico thinks I am because I&#39;m still reeling.
+Listen to episode 412: What Kind of Person Are You? in your podcatcher of choice or you can watch the episode on YouTube.]]></description>
+      <guid>https://rknight.me/blog/i-was-a-guest-on-appstories-this-week/</guid>
+      <pubDate>Mon, 18 Nov 2024 12:52:40 GMT</pubDate>
+    </item>
     <item>
       <title>水牛城辣酱食谱</title>
       <link>https://rknight.me/blog/buffalo-sauce-recipe/</link>
@@ -197,13 +206,6 @@ We Got Family 是我和 David Darnes 合作制作的关于《速度与激情》�
 好久不见，我们回来继续制作第二季，从 2011 年的《速度与激情 5》开始。 在网站上收听，也可以通过RSS、Apple Podcasts、Spotify、Overcast、Pocketcasts、卡斯特罗，或者您获取播客的任何地方。]]></description>
       <guid>https://rknight.me/blog/we-got-family-season-two/</guid>
       <pubDate>Mon, 04 Nov 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>博客PoMo AMA</title>
-      <link>https://rknight.me/blog/weblogpomo-ama/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/weblogpomo-ama/</guid>
-      <pubDate>Sun, 03 Nov 2024 10:32:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
