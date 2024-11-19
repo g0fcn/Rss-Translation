@@ -4,7 +4,33 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Nov 2024 18:22:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 03:29:34 GMT</lastBuildDate>
+    <item>
+      <title>将任意窗口贴边隐藏</title>
+      <link>https://meta.appinn.net/t/topic/63251</link>
+      <description><![CDATA[将任意窗口贴边隐藏
+
+一个类似 windows qq 贴边隐藏的功能
+
+
+
+
+https://h1.appinn.me/file/1731979068320_demo-10.mp4
+
+
+因为图床限制 5m ，所以进行了抽帧和压缩，所以看起来操作卡卡的。
+
+支持任意有窗口的应用
+支持快捷键触发
+支持多个屏幕
+支持多个虚拟桌面
+
+这样的应用你们感兴趣吗
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/63251</guid>
+      <pubDate>Tue, 19 Nov 2024 01:10:24 GMT</pubDate>
+    </item>
     <item>
       <title>IOS或者Android平板上有啥离线版的CRM客户管理软件吗？</title>
       <link>https://meta.appinn.net/t/topic/63216</link>
@@ -339,36 +365,6 @@ ChatGPT官网：
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/62701</guid>
       <pubDate>Sun, 03 Nov 2024 05:17:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>【新闻】LocalSend更新了1.16.0版本</title>
-      <link>https://meta.appinn.net/t/topic/62699</link>
-      <description><![CDATA[
-
-
-GitHub
-
-
-
-Release v1.16.0 · localsend/localsend
-Windows 7 is no longer supported to keep up with the latest updates from Flutter.
-LocalSend now uses Rust as HTTP client (rhttp). This improves performance when the sending device is the bottleneck...
-
-
-
-
-
-重要更新内容：
-
-允许仅从标记的设备中自动接收文件
-允许仅在文件接收成功或跳过时自动完成，失败时提示
-语言本地化与docs改进
-改善传输速度
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/62699</guid>
-      <pubDate>Sun, 03 Nov 2024 04:36:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
