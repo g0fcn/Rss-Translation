@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 18:25:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:20:10 GMT</lastBuildDate>
+    <item>
+      <title>阻止 Mastodon 获取我的笔记的元数据</title>
+      <link>https://rknight.me/blog/stopping-mastodon-from-fetching-metadata-for-my-notes/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/stopping-mastodon-from-fetching-metadata-for-my-notes/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:34:28 GMT</pubDate>
+    </item>
     <item>
       <title>有用的 Bluesky 工具</title>
       <link>https://rknight.me/blog/useful-bluesky-tools/</link>
@@ -206,13 +213,6 @@ As an aside, my stag do was three of us in a cabin in the middle of the Welsh co
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/why-is-no-one-using-the-recipe-schema/</guid>
       <pubDate>Wed, 06 Nov 2024 08:47:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>比任何人都更认真地考虑菜谱格式</title>
-      <link>https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/</guid>
-      <pubDate>Mon, 04 Nov 2024 20:23:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
