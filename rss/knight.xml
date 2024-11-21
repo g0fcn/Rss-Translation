@@ -4,7 +4,29 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Nov 2024 18:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:22:47 GMT</lastBuildDate>
+    <item>
+      <title>在 Coolify 上安装 GoToSocial</title>
+      <link>https://rknight.me/blog/installing-gotosocial-on-coolify/</link>
+      <description><![CDATA[由于各种原因，我今晚有机会尝试一下 GoToSocial，所以我将它安装在运行 Coolify 的服务器上，但遇到了几个问题，在 Lewis 和 Brandon 的帮助下，我解决了这些问题。
+首先，因为它运行的是反向代理，所以我需要 Docker compose 文件中的第三个选项。
+端口： # - “443:8080” ## 对于 letsencrypt： #- “80:80” ## 对于反向代理设置： - “127.0.0.1:8082:8080”
+第二个问题是 GoToSocial 无法访问数据库，日志中显示此错误：
+sqlite ping：sqlite3：无法打开数据库文件
+此 GitHub 问题显示这是一个权限问题，其中 docker compose 中指定的用户不是具有 gotosocial/data 文件权限的用户。我本可以尝试找出用户和组是什么，或者我可以通过 chmod 来解决这个问题。猜猜我选了哪一个。在 Coolify 中，转到侧边栏中的 Terminal，选择安装 GoToSocial 的项目，然后连接并 cd 到目录。然后设置数据目录的权限。
+$ cd /data/coolify/services/isjdbvfihsavfids/$ chmod 777 gotosocial/data
+我通过检查 Coolify 中 GoToSocial 服务上的 storage 选项卡获得了它的安装目录 (/isjdbvfihsavfids)。
+其他说明：
+
+/settings 可让您进入帐户的设置页面。
+帖子的默认可见性为“未列出”，与 Mastodon 不同，Mastodon 的公开可见性为默认。您可以在设置中更改此设置。
+其他实例级设置（如配置文件上的自定义 CSS）可以在 config.yaml 文件中更改，请参阅此处的配置文档。
+将用户设为管理员需要重新启动服务器。
+
+我仍在尝试使用 GoToSocial，但它看起来是我想要的一个很好的解决方案 - 比 Mastodon 更容易维护，资源占用更少。]]></description>
+      <guid>https://rknight.me/blog/installing-gotosocial-on-coolify/</guid>
+      <pubDate>Wed, 20 Nov 2024 21:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>阻止 Mastodon 获取我的笔记的元数据</title>
       <link>https://rknight.me/blog/stopping-mastodon-from-fetching-metadata-for-my-notes/</link>
@@ -206,13 +228,6 @@ As an aside, my stag do was three of us in a cabin in the middle of the Welsh co
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/adding-cooklang-support-to-eleventy-two-ways/</guid>
       <pubDate>Thu, 07 Nov 2024 08:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么没有人使用食谱模式？</title>
-      <link>https://rknight.me/blog/why-is-no-one-using-the-recipe-schema/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/why-is-no-one-using-the-recipe-schema/</guid>
-      <pubDate>Wed, 06 Nov 2024 08:47:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
