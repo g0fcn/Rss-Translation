@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Nov 2024 12:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 12:35:53 GMT</lastBuildDate>
     <item>
       <title>【自荐】Topit: 无视系统限制, 强制置顶任何窗口(支持交互)</title>
       <link>https://meta.appinn.net/t/topic/63352</link>
@@ -503,18 +503,26 @@ AppStore下载
       <pubDate>Fri, 08 Nov 2024 06:26:20 GMT</pubDate>
     </item>
     <item>
-      <title>有没有好用的浏览器邮箱管理插件？</title>
-      <link>https://meta.appinn.net/t/topic/62913</link>
-      <description><![CDATA[虽然这个需求很奇怪（打开了浏览器可以直接去邮箱网页
-但还是想问问，有没有可以直接管理邮箱的插件？
-1.侧边栏或者点击弹出
-2.能添加多个邮箱（outlook、gmail、qq）
-3.有了新邮件可以提醒
-4.可以方便跳转到邮箱网页
-1 个帖子 - 1 位参与者
+      <title>移动端文件管理应用</title>
+      <link>https://meta.appinn.net/t/topic/40371</link>
+      <description><![CDATA[移动平台的文件管理，尽管总体上较桌面端简单，但是有没有产生新的需求、新的使用方式？期待大家的分享！
+期待提及的：
+
+软件名称
+
+软件网址：
+开源&amp;付费情况：
+平台：Android、iOS、iPad OS、Plasma Mobile、Ubuntu Touch、Steam OS，etc.
+特性：标签系统、两栏视图、分栏视图、书签收藏、查看文件元数据、解压缩格式支持、云盘支持、SFTP/FTP/SMB支持、轻量快速、预览，etc.
+（选）截图/截图链接：
+（选）加上本论坛中过去提到该软件的讨论链接更佳
+
+
+格式可参考 电子书阅读软件 中的提名
+9 个帖子 - 6 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/62913</guid>
-      <pubDate>Fri, 08 Nov 2024 02:16:28 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/40371</guid>
+      <pubDate>Mon, 06 Feb 2023 01:38:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
