@@ -4,7 +4,20 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Nov 2024 01:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 01:24:01 GMT</lastBuildDate>
+    <item>
+      <title>应用默认设置 2024</title>
+      <link>https://rknight.me/blog/app-defaults-2024/</link>
+      <description><![CDATA[ RSS, Raindrop, Mastodon, BBC新闻, 提醒总结:一年来我的生活发生了很多变化。我目前完全使用来处理待办事项，尽管觉得提醒功能有些烦人。我自己托管RSS，并在iOS上使用，在Mac上使用。关于书签，我选择了自托管的解决方案。至于稍后阅读，我使用Raindrop，以前用的Omnivore已经停用了。在新闻方面，我仍在使用Mastodon，但应建议已将BBC新闻从我的主屏幕上移除。 
+It&#39;s been just over a year since Dual of the Defaults burst into our lives and my time was consumed by tracking nearly 400 blog posts. Rather than write out last years list again, here&#39;s what has changed since then:
+To-Do: I&#39;m all in on Godspeed. Reminders is just a bit...annoying?
+RSS: Self-hosted Miniflux with Reeder Classic on iOS and NetNewsWire on the Mac. Reeder is new because it has a dark icon, NetNewsWire doesn&#39;t right now.
+Bookmarks: Self-hosted LinkAce.
+Read-it-Later: Raindrop. Ominvore as it happens is now gone but I switched a while ago.
+News: I&#39;m still using Mastodon but on the advice of Johnny, BBC news is gone from my home screen.]]></description>
+      <guid>https://rknight.me/blog/app-defaults-2024/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:18:38 GMT</pubDate>
+    </item>
     <item>
       <title>在 Coolify 上安装 GoToSocial</title>
       <link>https://rknight.me/blog/installing-gotosocial-on-coolify/</link>
@@ -221,13 +234,6 @@ As an aside, my stag do was three of us in a cabin in the middle of the Welsh co
 这是我们每隔几周为 Baby Knight 批量烹饪的一道菜，她吃得非常过瘾。上一批菜我没有番茄酱，但我还是继续做了，她仍然很喜欢。]]></description>
       <guid>https://rknight.me/blog/mango-chicken-curry-recipe/</guid>
       <pubDate>Mon, 11 Nov 2024 08:54:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Eleventy Three Ways 添加 Cooklang 支持</title>
-      <link>https://rknight.me/blog/adding-cooklang-support-to-eleventy-two-ways/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/adding-cooklang-support-to-eleventy-two-ways/</guid>
-      <pubDate>Thu, 07 Nov 2024 08:37:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
