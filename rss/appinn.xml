@@ -4,7 +4,36 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 01 Dec 2024 12:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 18:26:12 GMT</lastBuildDate>
+    <item>
+      <title>【油猴脚本】【开发者自荐】让浏览器也有安卓的拉伸回弹效果</title>
+      <link>https://meta.appinn.net/t/topic/63740</link>
+      <description><![CDATA[发现频道  chrome
+【油猴脚本】【开发者自荐】让浏览器也有安卓的拉伸回弹效果
+下载地址：仿安卓拉伸回弹 + 页面抗锯齿
+简介
+在滚动到页面边缘时对页面执行拉伸，以模拟安卓的拉伸回弹效果
+主要就是图个乐子
+特色
+
+油猴脚本同时兼容chrome和firefox
+拉伸和回弹参数可自定义（在代码最上方）
+
+已知问题
+
+因为是检查浏览器滚动条，所以在某些网站上无法使用
+部分网站会造成布局错误和弹出内容错位
+
+已解决问题
+
+在过短的网站上会造成页面显示不全，所以在过短页面上默认禁用
+拉伸过程中会造成页面字体抖动，加入抗锯齿后有所缓解
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/63740</guid>
+      <pubDate>Mon, 02 Dec 2024 15:11:43 GMT</pubDate>
+    </item>
     <item>
       <title>🎉 Wins 2.5 发布！新增调度中心 Pro</title>
       <link>https://meta.appinn.net/t/topic/63684</link>
@@ -417,17 +446,6 @@ Transfer files to iPhone or iPad over WiFi. Movies, documents, audiobooks, reada
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/63205</guid>
       <pubDate>Sun, 17 Nov 2024 04:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以反复截取屏幕固定位置和尺寸的区域并且自动保存的截屏软件？</title>
-      <link>https://meta.appinn.net/t/topic/63151</link>
-      <description><![CDATA[截取网页固定的区域
-操作网页
-再重复
-5 个帖子 - 4 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/63151</guid>
-      <pubDate>Fri, 15 Nov 2024 02:50:02 GMT</pubDate>
     </item>
     <item>
       <title>移动端文件管理应用</title>
