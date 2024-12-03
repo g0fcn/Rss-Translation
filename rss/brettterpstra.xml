@@ -4,7 +4,23 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 28 Nov 2024 18:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 18:24:06 GMT</lastBuildDate>
+    <item>
+      <title>Sequoia 中的按键重复</title>
+      <link>https://brett.trpstra.net/link/535/16909674/key-repeat-in-sequoia</link>
+      <description><![CDATA[我在黑色星期五促销时买了一台新的 MacBook Pro，过去几天一直在设置它。brew bundle、DotBot 和 Mackup 的组合使这个过程变得非常轻松，但我仍然需要做很多调整。Setapp 甚至会在第一次运行时自动安装您的收藏夹。很好。
+但有一件事让我感到沮丧，那就是在系统设置中设置按键重复延迟和按键重复速度没有效果。带有变音符号的键仍然会弹出特殊字符弹出框，而没有变音符号的键在按住时没有任何反应。终于找到了解决方案，我在这里发布它主要是为了让下次发生这种情况时可以轻松找到它。
+在终端中运行以下命令：
+defaults write -g ApplePressAndHoldEnabled -bool false
+然后重新启动您的机器（只需注销即可）。现在系统设置中的按键重复设置将真正发挥作用。
+随机旁注：如果 iTerm 中的 Nerd Font 没有显示图标，请务必取消选中“使用内置 Powerline 字形”在个人资料-&gt;文本设置中。
+在Twitter上点赞或分享此帖子。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提供帮助，请单击此处。
+在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+      <guid>https://brett.trpstra.net/link/535/16909674/key-repeat-in-sequoia</guid>
+      <pubDate>Tue, 03 Dec 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>健康更新</title>
       <link>https://brett.trpstra.net/link/535/16901133/a-health-update</link>
@@ -30,7 +46,7 @@
 GitLaw
 
 
-GitLaw 是一个创新平台，可免费访问广泛的法律合同模板库。我们的智能编辑器由人工智能提供支持，可简化和澄清法律文件，而我们安全的私人存储库可让您轻松存储和管理合同。使用 GitLaw 探索法律文件的未来。
+GitLaw 是一个创新平台，可免费访问广泛的法律合同模板库。我们的智能编辑器由人工智能提供支持，可简化和澄清法律文件，而我们安全的私人存储库可让您轻松存储和管理合同。使用 GitLaw 探索法律文档的未来。
 
 
 
@@ -397,49 +413,6 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16825237/marky-2-dot-0</guid>
       <pubDate>Sun, 29 Sep 2024 18:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 9 月 20 日的网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16815563/web-excursions-for-september-20-2024</link>
-      <description><![CDATA[ 。
-
-Here&#39;s my response in Chinese:
-
-CLI工具 文档生成 错误代码 命令行AI 文本编辑器插件
-
-总结:
-1. 介绍了一个可用于生成man pages、Markdown和shell补全脚本的CLI工具架构。
-2. 提到了一个查找Apple OS错误代码的工具。
-3. 描述了Warp集成的AI命令帮助功能,可以直接在命令行中识别自然语言并提供帮助。
-4. 介绍了一个可以为macOS文本字段添加Vim模式的插件,有免费试用版。
-5. 文章最后提到了Setapp服务,可以访问众多Mac和iOS应用。
-6. 文章来自BrettTerpstra.com,由读者支持运营。 
-
-
-
-
-
-
-
-Web excursions brought to you in partnership with Setapp. Get access to hundreds of Mac and iOS apps for one low monthly subscription fee.
-
-Usage
-A schema for CLIs that can be used to generate man pages, Markdown, and shell completion scripts. I might have to start implementing this…
-OSStatus — Apple API Errors
-Look up those inscrutable Apple OS Error codes easily.
-Agent Mode in Warp AI
-There are a bunch of caveats to the service, but I love that Warp integrated AI command help in the command line just by recognizing natural language. You no longer have to load a panel or anything, just ask for help at the prompt. Pretty cool.
-kindaVim
-Add Vim mode to any macOS text field. Works pretty well! Free trial only allows usage during a certain period of the day, kind of a clever limited trial.
-
-Check out Setapp today and get access to the best Mac and iOS apps out there.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16815563/web-excursions-for-september-20-2024</guid>
-      <pubDate>Fri, 20 Sep 2024 19:32:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
