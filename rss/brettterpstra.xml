@@ -4,7 +4,34 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 10 Dec 2024 18:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 21:17:44 GMT</lastBuildDate>
+    <item>
+      <title>Shell 技巧：检查端口上正在监听的内容</title>
+      <link>https://brett.trpstra.net/link/535/16922449/shell-tricks-check-whats-listening-on-a-port</link>
+      <description><![CDATA[我已经有一段时间没有提供 shell 技巧了，所以这里有一个我最近发现很有用的技巧。这是一种快速检查特定端口上正在监听的内容的方法。
+有时我在运行本地服务时会遇到冲突，说端口已经在使用中，但我不知道是什么原因。所以我使用下面的方法。
+此代码段依赖于将您的 root 密码存储在您的登录钥匙串中。有关设置说明，请参阅这篇文章。一旦它到位，您将有一种安全的方式从脚本运行 sudo 命令，这些脚本仅在您的钥匙串被锁定时要求输入密码。
+以下是代码片段，可在函数或别名中使用：
+#!/bin/bash
+
+PASS=$(security find-generic-password -l &quot;root password&quot; -a root -w|tr -d &#39;\n&#39;)
+echo $PASS | sudo -S lsof -nP -iTCP:$1 -sTCP:LISTEN
+该代码片段使用 lsof 来显示进程正在监听您作为脚本参数提供的任何端口。
+将其存储在名为 whatsonport（或任何您喜欢的名称）的函数或脚本中。将 &quot;root password&quot; 替换为您在 Keychain Access 中命名的密码条目。现在您可以像 whatsonport 2020 一样调用它。
+我在 Fish 中将其用作 ~/.config/fish/functions/whatsonport.fish 中的函数：
+function whatsonport --description &#39;找出端口上运行的 PID（需要密码）&#39;
+set -l pass (security find-generic-password -l &quot;root password&quot; -a root -w|tr -d &#39;\n&#39;)
+echo $pass | sudo -S lsof -nP -iTCP:$argv -sTCP:LISTEN
+end
+
+希望有用！
+点赞或分享此帖子 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提供帮助，请单击此处。
+在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+      <guid>https://brett.trpstra.net/link/535/16922449/shell-tricks-check-whats-listening-on-a-port</guid>
+      <pubDate>Mon, 16 Dec 2024 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>MacPaw 2024 开发者调查</title>
       <link>https://brett.trpstra.net/link/535/16915677/the-macpaw-2024-developer-survey</link>
@@ -389,37 +416,6 @@ BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供�
 Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <guid>https://brett.trpstra.net/link/535/16867321/web-excursions-for-october-24-2024</guid>
       <pubDate>Mon, 28 Oct 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 10 月 22 日网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16862230/web-excursions-for-october-22-2024</link>
-      <description><![CDATA[
-
-
-
-
-
-
-与 CleanShot X 合作为您带来网络游览，CleanShot X 绝对是 Mac 屏幕截图的最佳应用程序。在这里获取我最喜欢的应用程序之一。
-什么？7 天内进行两次网络游览？在这种经济条件下？我周末刚发现一些额外的东西……
-
-忙碌状态栏 — 带 LED 像素屏幕的生产力多功能工具设备
-显示个人忙碌消息。内置番茄钟和应用程序。完全可定制、开源且对黑客友好
-App Store 上的 HomeBatteries for HomeKit
-HomeBatteries 让您可以非常快速轻松地在一个位置查看所有 HomeKit 配件电池。
-Playnode
-一个有趣的基于节点的界面，用于使用各种 LLM 以可视化方式创建文本内容。免费计划提供每周 20 个积分。
-JSX.design
-适用于 React 的无代码所见即所得编辑器。拖放组件并生成干净的代码。
-
-我使用 CleanShot X 进行所有截图和屏幕录制。我非常喜欢它。 你应该得到它。
-喜欢或分享这篇文章Twitter。
-
-BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
-所有材料 ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | 隐私政策]]></description>
-      <guid>https://brett.trpstra.net/link/535/16862230/web-excursions-for-october-22-2024</guid>
-      <pubDate>Tue, 22 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
