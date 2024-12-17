@@ -4,7 +4,28 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Dec 2024 01:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 18:27:17 GMT</lastBuildDate>
+    <item>
+      <title>无处不在的链接和显著销售的宣言！</title>
+      <link>https://brett.trpstra.net/link/535/16923018/the-manifesto-for-ubiquitous-linking-and-a-marked-sale</link>
+      <description><![CDATA[
+三年前的这个月，Hookmark 的创始人 Luc Beaudoin 发表了无处不在的链接宣言。其理念是将所有类别的开发人员聚集在一起，并在 Mac 软件中推广“无处不在的链接”，这一概念可以提高认知流程和生产力。我是最初签署者之一，但自那时起许多人都加入了进来。
+这份宣言很简单，呼吁开发人员通过以下方式尽自己的一份力量：
+
+
+确保用户可以通过用户界面方便地获取当前打开或选定资源的链接；和
+提供应用程序编程接口 (API) 以获取或构建指向该资源的链接（即获取其地址和名称）。
+
+
+如果您使用过 Hookmark，那么您一定很熟悉（并且希望喜欢）将任何内容链接到 Mac 上的任何内容这一概念。 Marked 和 nvUltra 均与 Ubiquitous Linking 配合使用，还可与 大量其他应用（例如 Obsidian、DEVONthink、Calibre、Curio、MindNode、MailMate、Arc Browser 等）配合使用。
+作为本次周年庆促销活动的一部分，我将使用优惠券代码 ULMANIFESTO（有效期至 1 月 1 日）为 Marked 2 提供 30% 折扣。 点击此处兑换！
+在 Mastodon 上点赞或分享此帖子，Bluesky，或 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提供帮助，请单击此处。
+在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+      <guid>https://brett.trpstra.net/link/535/16923018/the-manifesto-for-ubiquitous-linking-and-a-marked-sale</guid>
+      <pubDate>Tue, 17 Dec 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Shell 技巧：检查端口上正在监听的内容</title>
       <link>https://brett.trpstra.net/link/535/16922449/shell-tricks-check-whats-listening-on-a-port</link>
@@ -381,41 +402,6 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16871753/archive-linkding-bookmarks-to-local-markdown</guid>
       <pubDate>Thu, 31 Oct 2024 16:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 10 月 24 日网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16867321/web-excursions-for-october-24-2024</link>
-      <description><![CDATA[
-
-
-
-
-
-
-
-Linkwarden
-Linkwarden 是一个自托管的开源协作书签管理器，用于收集、组织和存档网页。目标是将您在网络上找到的有用网页和文章组织到一个地方，由于有用的网页可能会消失（参见 Link Rot 的必然性），Linkwarden 还会将每个网页的副本保存为屏幕截图和 PDF，以确保即使原始内容不再可用也可以访问。H/T Eric Beavers。
-sissbruecker/linkding
-自托管书签管理器，设计为最小、快速且易于通过 Docker 设置。如果您想切换，Pinboard 的绝佳 1:1 替代品（允许自定义 CSS！）
-PikaPods - 即时开源应用托管
-每月 1 美元即可运行最优质的开源 Web 应用，完全托管，无跟踪，无广告，完全隐私。自托管从未如此方便。
-
-这是运行您自己的 LinkDing 服务器的好方法。
-
-Supercharge
-很酷的小 Mac 应用，只需对操作系统进行一些调整。我已经有了它大部分功能的快捷方式，但重新创建 TotalFinder 遮阳板的想法非常酷。共享软件。
-bruno
-使用纯文本语言创建 API 请求集合的 API 客户端，可与 Git 同步，是 Postman、Insomnia 和其他工具的绝佳替代品。开源。
-beorg：待办事项列表和议程
-概念上与 Noteplan 类似（待办事项与笔记混合，纯文本存储），但使用 Org 模式文件，可与任何云服务同步。仅限 iOS/WatchOS，但文件可在任何地方使用 Emacs 或其他编辑器访问。来自 TrunkNotes 的创建者，它是我过去最喜欢的个人维基之一。
-
-点赞或分享此帖子 Twitter。
-
-BrettTerpstra.com 得到了像您这样的读者的支持。 如果您想提供帮助，请单击此处。
-所有材料 ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | 隐私政策]]></description>
-      <guid>https://brett.trpstra.net/link/535/16867321/web-excursions-for-october-24-2024</guid>
-      <pubDate>Mon, 28 Oct 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
