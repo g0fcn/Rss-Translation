@@ -4,7 +4,17 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 10 Dec 2024 18:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 01:19:54 GMT</lastBuildDate>
+    <item>
+      <title>表情符号风暴</title>
+      <link>https://rknight.me/blog/emojistorm/</link>
+      <description><![CDATA[你知道吗，有时候你做了一件事，然后你想“哦，我要做另一件事”，然后又做了另一件与此相关的事情，然后你知道你正在用别人做的一个网络组件制作一个奇怪的网站，因为你可以？不是吗？不管怎样。
+EmojiStorm 就是这样一个项目。它以 Zach 的 snow-fall 组件 的一个实例开始，然后你可以继续添加更多，但这是一个随机的表情符号。
+十个左右之后，它会变得有点慢，这取决于你的电脑，所以你已经被警告了。
+在这里查看 EmojiStorm。]]></description>
+      <guid>https://rknight.me/blog/emojistorm/</guid>
+      <pubDate>Thu, 19 Dec 2024 21:22:24 GMT</pubDate>
+    </item>
     <item>
       <title>鸡肉丁加食谱</title>
       <link>https://rknight.me/blog/chicken-tinga-recipe/</link>
@@ -284,13 +294,6 @@ This recipe came to me via my friend Ali, who had it at The Flatiron Room when h
 As an aside, my stag do was three of us in a cabin in the middle of the Welsh countryside for three days and it was glorious.]]></description>
       <guid>https://rknight.me/blog/flatiron-mac-and-cheese-recipe/</guid>
       <pubDate>Thu, 14 Nov 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>芝士鸡肉培根意面食谱</title>
-      <link>https://rknight.me/blog/cheesy-chicken-and-bacon-pasta-recipe/</link>
-      <description><![CDATA[第三周的食​​谱是奶酪鸡肉培根意面，我上周第一次尝试，味道很棒。你应该试试。]]></description>
-      <guid>https://rknight.me/blog/cheesy-chicken-and-bacon-pasta-recipe/</guid>
-      <pubDate>Wed, 13 Nov 2024 11:55:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
