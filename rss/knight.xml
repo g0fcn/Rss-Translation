@@ -4,7 +4,14 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Dec 2024 01:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 18:23:16 GMT</lastBuildDate>
+    <item>
+      <title>Lens：元标签检查器（Robb 版本）</title>
+      <link>https://rknight.me/blog/lens-meta-tag-checker-robbs-version/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/lens-meta-tag-checker-robbs-version/</guid>
+      <pubDate>Mon, 23 Dec 2024 15:53:34 GMT</pubDate>
+    </item>
     <item>
       <title>表情符号风暴</title>
       <link>https://rknight.me/blog/emojistorm/</link>
@@ -285,15 +292,6 @@ I&#39;ve updated my verify page to reflect the fact that I am using Bluesky.
 ]]></description>
       <guid>https://rknight.me/blog/unorganised-thoughts-about-bluesky/</guid>
       <pubDate>Thu, 14 Nov 2024 17:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>熨斗通心粉奶酪食谱</title>
-      <link>https://rknight.me/blog/flatiron-mac-and-cheese-recipe/</link>
-      <description><![CDATA[ 纽约, 阿里, 生活, 鹿子酒会, 威尔士乡村总结:文章讲述了作者的朋友阿里在纽约生活时曾尝试过的一道菜谱，并在不同场合包括作者的鹿子酒会上为朋友们烹制。提到鹿子酒会是在威尔士乡村的一间小屋中，三个朋友共度了三天的美好时光。 
-This recipe came to me via my friend Ali, who had it at The Flatiron Room when he was living in New York. He&#39;s made it for us a bunch of times, including on my stag do, as you can in the accompanying photo.
-As an aside, my stag do was three of us in a cabin in the middle of the Welsh countryside for three days and it was glorious.]]></description>
-      <guid>https://rknight.me/blog/flatiron-mac-and-cheese-recipe/</guid>
-      <pubDate>Thu, 14 Nov 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
