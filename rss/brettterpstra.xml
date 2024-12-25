@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Dec 2024 01:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 01:18:18 GMT</lastBuildDate>
+    <item>
+      <title>外出时编写脚本：beengone 2.0</title>
+      <link>https://brett.trpstra.net/link/535/16927338/scripting-when-youre-away-beengone-2-dot-0</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16927338/scripting-when-youre-away-beengone-2-dot-0</guid>
+      <pubDate>Tue, 24 Dec 2024 18:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>StretchLink.cc 简介</title>
       <link>https://brett.trpstra.net/link/535/16925839/introducing-stretchlink-dot-cc</link>
@@ -112,7 +119,7 @@ BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提�
       <description><![CDATA[本周赞助商 MacPaw 发布了特别公告！
 
 MacPaw 的 2024 年 Mac 开发者调查现已上线！
-这项年度调查由 Setapp 团队开展，今年已是第八年，已成为洞察不断发展的 Mac 开发者格局的可靠基准。今年的调查结果揭示了开发者在应用分发、平台集成和新硬件机会方面发生了重大变化——尤其是 Apple 的最新创新。
+这项年度调查由 Setapp 团队开展，今年已是第八次，已成为洞察不断发展的 Mac 开发者格局的可靠基准。今年的调查结果揭示了开发者在应用分发、平台集成和新硬件机会方面发生了重大变化 -尤其是 Apple 的最新创新。
 2024 年调查的主要见解：
 
 收入多样化程度提高
@@ -350,51 +357,6 @@ Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16889966/a-card-based-layout-for-linkding</guid>
       <pubDate>Mon, 18 Nov 2024 17:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 11 月 12 日的网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16884022/web-excursions-for-november-10th-2024</link>
-      <description><![CDATA[ 关键词: 开发文档, Web开发者, 日历应用, GitHub, AI总结:这篇文章提供了几个有用的资源和应用程序，特别适合Web开发者和技术人员。首先介绍了一个可以在本地获取针对特定技术栈的开发文档的应用，支持Vue和React等框架，有免费版本可试用，完整版价格为30美元。其次，一款流行的Mac和iOS日历应用现也适用于Windows。此外，文章讨论了GitHub的新项目，该项目使用AI帮助用户创建或修改软件。最后，提及了为Ultimate Hacking Keyboard用户设计独特键帽的服务。 
-
-
-
-
-
-
-
-Web excursions brought to you in partnership with CleanMyMac X, all the tools to speed up your Mac, in one app.
-
-mighty_docs – AI-Powered Developer Documentation Assistance
-
-
-Get accurate answers from the latest dev docs, customized for your tech stack, locally on your computer.
-
-
-
-This looks great for web developers, with the ability to chat with documentation for stacks like Vue and React. Maybe more platforms in the future? But the free version is enough to test it out, and a lifetime license is a reasonable $30. Mac only.
-
-Fantastical for Windows
-My favorite calender app for Mac and iOS is now available for Windows (scroll down the page if you don’t see the Microsoft Store link).
-GitHub Spark
-
-
-GitHub Next Project: Can we enable anyone to create or adapt software for themselves, using AI and a fully-managed runtime?
-
-
-
-I watched demos of this at GitHub Universe and it’s pretty astounding. I’ve been skeptical that AI was going to get to a point where you could just describe an idea and get accurate code from it, but we’re already at that point.
-
-Custom keycaps for UHK
-Design unique dye sub keycaps with UHK layout. Just for the Ultimate Hacking Keyboard users out there. Here’s what I did with it.
-
-
-Like or share this post on Mastodon or Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16884022/web-excursions-for-november-10th-2024</guid>
-      <pubDate>Tue, 12 Nov 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
