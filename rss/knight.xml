@@ -4,7 +4,30 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Mon, 23 Dec 2024 18:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 18:23:34 GMT</lastBuildDate>
+    <item>
+      <title>我曾是 Conduit 的嘉宾</title>
+      <link>https://rknight.me/blog/i-was-a-guest-on-conduit/</link>
+      <description><![CDATA[几周前，Jay 联系我，问我是否愿意做 Conduit 的嘉宾，我当然立刻答应了。
+我们谈到了我的部分项目，包括我正在使用 EchoFeed 做什么，然后我被要求[1]创建一个网站，我做到了。在超级指挥家节目结束后，杰伊问我关于英国汽车的问题，我不得不把我从 Top Gear 和 Grand Tour 上学到的所有知识都用上。
+听听 Conduit 91：Robb Knight 为自己做了这个，也许你也一样
+
+
+
+这不是一个挑战，但我把它当作一个挑战⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/i-was-a-guest-on-conduit/</guid>
+      <pubDate>Thu, 26 Dec 2024 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我多久没看过《贱女孩》了？</title>
+      <link>https://rknight.me/blog/how-long-since-i-watched-mean-girls-/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://rknight.me/blog/how-long-since-i-watched-mean-girls-/</guid>
+      <pubDate>Thu, 26 Dec 2024 16:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>Lens：元标签检查器（Robb 版本）</title>
       <link>https://rknight.me/blog/lens-meta-tag-checker-robbs-version/</link>
@@ -238,60 +261,6 @@ I originally thought of this joke for this tweet ⤾
       <description><![CDATA[好吧，伙计们，这是有史以来最懒惰的“食谱”，但它很棒，所以我们就在这里：蟾蜍在洞里。下次做的时候我会拍一张更好的照片，我不得不从我的 Instagram/Pixelfed 档案中取出这张照片。]]></description>
       <guid>https://rknight.me/blog/toad-in-the-hole-recipe/</guid>
       <pubDate>Fri, 15 Nov 2024 09:29:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>更多关于 Bluesky 的杂乱想法</title>
-      <link>https://rknight.me/blog/more-unorganised-thoughts-about-bluesky/</link>
-      <description><![CDATA[ Bluesky, 自托管, 储存空间, ActivityPub, 骚扰总结:文章讨论了Bluesky平台及其与其他社交媒体的对比，尤其是技术实现和使用Bluesky的理由。自托管Bluesky较复杂，需要4.5TB的存储空间，远超单一PHP文件的可能性。同时提到Bluesky可能是Twitter的简化替代品，而Fediverse作为去中心化的跨平台连接器。在Mastodon平台上，边缘化群体面临骚扰的情况被提及，这也是一些人选择Bluesky的原因之一。作者最后考虑自己托管PDS，以便在需要时更容易地管理数据。 
-I got a lot of feedback from my last post which fell into two categories: either about the technical implementations or why someone is using Bluesky over other options. As soon as my sent my previous post Bluesky started having outages which has made looking into the feedback interesting to say the least but they&#39;ve been adding obscene amounts of users every second today.
-Technical
-MCG and Matt linked me to this post which is titled &quot;How to self-host all of Bluesky except the AppView (for now)&quot;. There are more components to self-hosting Bluesky than say, Mastodon, but it is doable. Sort of. You can&#39;t do the AppView which &quot;aggregates data from across the Atmosphere to produce their UIs&quot;. It&#39;s late and I don&#39;t have the energy to translate what that actually means but it sounds important.
-The part that jumped out to me (after MCG mentioned it) is the article mentions needing 4.5tb of storage for the relay which is a fuckton and might as well be a million terabytes for the sake of discussing self-hosting. There is a second relay option called Jetstream which from my reading of it, can be used instead of the 4.5tb version. Looking at the docs it&#39;s not ideal for all circumstances but if we assume it could work for a small user base then cool. This is, however, a far stretch from my question of could it be done on a single PHP file. Seems like that&#39;s going to be a no. ActivityPub is by no means simple but AT Proto seems infinitely more complicated.
-Why use it?
-The why is harder. There&#39;s no accounting for what people like or enjoy, people just do. A lot of it came down to just a feeling of what Bluesky is like (early Twitter was banded around a bit).
-Friend of the show Alex Cox pointed out to me, a cis white dude, that marginalised people on Mastodon are subject to constant reply guys and harassment. I&#39;m embarrassed that I didn&#39;t even think of it.
-
-Most marginalized people who joined mastodon.social or another generic instance bounced pretty quickly because not many want to stick around and learn how to create your own instance when in the meantime you’re constantly blocking random guys telling you you’re doing it/everything wrong
-
-As an aside, most of the reports we deal with on social.lol are spam probably because the instance is paid so there&#39;s a barrier that doesn&#39;t exist on mastodon.social and the other big instances.
-Final Thoughts
-Ben has a great post here about Bluesky, the Fediverse, and the future of social media:
-
-Bluesky may evolve into a streamlined alternative to Twitter, while the Fediverse could serve as a decentralized, cross-platform connector among diverse networks
-
-There&#39;s no reason to believe both can&#39;t continue to exist side by side. Mastodon isn&#39;t going anywhere and if better tools for self hosting come around for Bluesky, I could see myself potentially using both.
-This is too much for one person to think about protocols[1] but I do want to investigate hosting a PDS if only because my data could be deleted easily by me without relying on Bluesky to do so if something were to happen. I think this is the case although I suppose it&#39;d be in other relays? Something to look into.
-
-
-
-Especially after last week&#39;s recipe saga ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/more-unorganised-thoughts-about-bluesky/</guid>
-      <pubDate>Thu, 14 Nov 2024 21:50:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于蓝天的杂乱想法</title>
-      <link>https://rknight.me/blog/unorganised-thoughts-about-bluesky/</link>
-      <description><![CDATA[ Bluesky, API, Starter Packs, Mastodon, 交叉发布总结:这篇文章主要记录了作者对社交网络Bluesky的一些初步感受和思考。首先，作者觉得Bluesky的API设计相对其他社交网络来说比较奇异，开发者需要手动标记话题、提及和链接，并且需要自己处理链接预览。作者也提到了Bluesky的Starter Packs功能虽然受到了一部分人的喜爱，但他本人更倾向于用户能够通过浏览内容后再做关注决定。此外，作者对比了Bluesky和Mastodon，不太理解为什么有人会从Mastodon转到Bluesky。最后，作者还提到了自己如何通过交叉发布保持与粉丝的互动，并且他对社交平台的交互持开放态度。 
-These thoughts about Bluesky are unorganised and mostly off-the-cuff so make of that what you will.
-The API, even just for posting, strikes me as very strange. I, as the developer, have to mark which things are hashtags, mentions, and links unlike Twitter, Mastodon, and basically every other network. If I want link previews I have to do that too.
-The Personal Data Store is interesting. I haven&#39;t set one up but Brandon and Rafael did and it seems easy enough but this is just one part of the AT Protocol. Is it possible to host the entire stack yourself without relying on bsky.social? Can you be part of the AT Protocol with a single PHP file? That might sound stupid but I don&#39;t think that&#39;s an unreasonable bar to interact with a network even if it&#39;s in a limited way.
-Starter Packs are a good idea that people seem to like but I would rather people followed me because they&#39;ve had a gander at what I post and decided to follow. Choosing to follow people en masse without looking at those profiles seems weird to me. The other thing is it feels like they pigeon-hole people into being a specific version of themselves and perhaps give unrealistic expectations to people following[1]. I feel the same about mastodon instances focused around a specific topic.
-I&#39;ve seen a few people drop Mastodon for Bluesky but I don&#39;t really understand why, nothing about it jumps out at me as all that different to Mastodon. You have to go where your people are though so it could just be that. I&#39;m pretty sure Bluesky will get enshittified before too long and everyone will be onto the next thing.
-I am cross-posting my posts and links to my Bluesky account with EchoFeed. People are there, they presumably followed me to see my things, and I don&#39;t lose anything if the service blows up overnight. POSSE, baby.
-I setup my own install of SkyBridge so I can use Ivory to read my Bluesky timeline because none of the apps are as good as Ivory and probably never will be.
-I&#39;ve updated my verify page to reflect the fact that I am using Bluesky.
-
-
-
-&quot;Stop posting about politics, stay in your lane&quot; ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/unorganised-thoughts-about-bluesky/</guid>
-      <pubDate>Thu, 14 Nov 2024 17:05:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
