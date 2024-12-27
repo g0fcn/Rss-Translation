@@ -4,7 +4,45 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 26 Dec 2024 06:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 01:19:08 GMT</lastBuildDate>
+    <item>
+      <title>做了一个可以把 GitHub 仓库转成 LLM 友好提示词 📝 的浏览器插件</title>
+      <link>https://meta.appinn.net/t/topic/64596</link>
+      <description><![CDATA[前阵子得知 GitIngest 后发现实在好用，但修改连结也太过于麻烦。于是一个下午的时间，在 Cursor 老师的帮助下，做了这样的一个浏览器插件出来。 
+Chrome Web Store （安装插件） | GitHub
+ 演示
+YouTube 演示影片（还是不会插入影片啊啊）：GitIngest Extension - Turn any Git repository into a prompt-friendly text ingest for LLMs.
+
+
+
+
+ 
+ 
+
+
+
+ 功能
+
+一键访问 GitIngest 服务来生成文字总结
+将 GitHub 仓库转化为 Prompt
+针对 LLM （ ChatGPT, Claude 等） 提示优化输出格式
+还有统计功能：
+
+档案和目录结构
+提取的大小
+token 数
+
+
+隐私第一、扩展本身零资料收集
+开放原始码、社群驱动
+
+希望可以多多支持，有帮到的话如果可以请帮我点个 Star 。期待建议和反馈
+Chrome Web Store （安装插件） | GitHub
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/64596</guid>
+      <pubDate>Thu, 26 Dec 2024 23:26:45 GMT</pubDate>
+    </item>
     <item>
       <title>「开发者自荐」记录您的工作精力消耗，关注您的身心健康，杜绝过劳与透支</title>
       <link>https://meta.appinn.net/t/topic/64557</link>
@@ -403,15 +441,6 @@ AppStore下载
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64333</guid>
       <pubDate>Fri, 20 Dec 2024 05:15:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】一款将中文汉字转换成对应的日本汉字的在线工具</title>
-      <link>https://meta.appinn.net/t/topic/64319</link>
-      <description><![CDATA[（话题已被作者删除）
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64319</guid>
-      <pubDate>Thu, 19 Dec 2024 15:53:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
