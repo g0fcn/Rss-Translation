@@ -4,7 +4,14 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 06:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:17:40 GMT</lastBuildDate>
+    <item>
+      <title>HomTodo - 多人协作处理家务，轻松规划家中大小事务 (自荐)</title>
+      <link>https://meta.appinn.net/t/topic/64604</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/64604</guid>
+      <pubDate>Fri, 27 Dec 2024 06:41:09 GMT</pubDate>
+    </item>
     <item>
       <title>求推荐一款 Chrome 浏览器插件，能够同步历史纪录、标签页（手机与pc之间不同浏览器！！）</title>
       <link>https://meta.appinn.net/t/topic/64602</link>
@@ -403,37 +410,6 @@ AppStore下载
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64368</guid>
       <pubDate>Sat, 21 Dec 2024 08:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】一个将中文汉字转换成日本汉字的在线工具</title>
-      <link>https://meta.appinn.net/t/topic/64334</link>
-      <description><![CDATA[软件名&lt; /h1&gt;
-中文汉字→日本汉字
- 官网
-在线使用：https://hanzi2kanji.zeabur.app/
-源码地址：GitHub - BHznJNs/hanzi2kanji: 一个专注于将中文汉字转换到日语中对应汉字的在线应用
- 简单介绍
-这是一个专注于将中文汉字转换到日语中对应汉字的在线应用
-作为一名日语学习者，你是否常常遇到这样的困扰
-当你看到一个日语词汇时，想要查询它的读音，却因为部分和制汉字无法直接用中文输入法打出而无从下手？ 
-刚好，这就是你梦寐以求的解决方案
-中文汉字→日本汉字 为正在学习日语的中文母语者量身定制，无需复杂操作，轻松查询目标和制汉字的读音、用法和例句。 
- 特点
-
-完全免费：无需注册，即开即用，让学习更高效
-精准匹配：内置丰富的中日汉字对照字库，准确度有保障
-一键查询：每个搜索结果都附带 Weblio、Jisho、KanjiPedia 等知名日语字典的快捷链接，轻松跳转查看详细释义与用法
-开源免费：字库数据和源代码完全公开，不追踪任何用户数据
-
- 界面截图
-
-
- 是否付费
-软件完全免费，也没有收费计划。之后会在页面内添加赞赏二维码
-5 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64334</guid>
-      <pubDate>Fri, 20 Dec 2024 05:17:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
