@@ -4,7 +4,99 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Dec 2024 06:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 09:18:45 GMT</lastBuildDate>
+    <item>
+      <title>【开源自荐】懒猫书签清理 -一款支持浏览器书签清理和统计的拓展程序</title>
+      <link>https://meta.appinn.net/t/topic/64700</link>
+      <description><![CDATA[软件名称
+懒猫书签清理
+应用平台
+
+Chrome
+Edge
+
+推荐类型
+【开发者自荐】
+一句话简介
+懒猫书签清理 - 你的书签整理和分析助手
+应用简介
+智能书签清理
+
+自动检测失效链接和空文件夹
+批量清理功能，一键恢复整洁
+支持多种错误类型识别和分类
+清理前可预览，安全可控
+
+ 生成书签画像
+
+生成独特的书签使用报告
+可视化展示你的收藏偏好
+了解自己的浏览习惯
+
+隐私保护
+
+100% 本地运行，无需联网
+不收集任何个人数据
+不上传任何书签信息
+完全开源，值得信赖
+
+温馨提示
+删除的书签无法自动恢复，建议：
+
+删除前确认书签状态
+重要书签可先做备份
+分批次进行整理
+
+截图预览
+浏览器书签清理页面
+ 
+
+
+
+浏览器书签画像页面
+
+
+
+
+项目网站
+
+
+
+ainewtab.app
+
+
+
+懒猫书签清理工具 - 让书签管理变得简单
+一键清理重复书签、失效链接和空文件夹，让您的书签井井有条。智能分析功能助您轻松管理书签，确保隐私安全。
+
+
+
+
+
+Chrome 商店
+https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef
+Github 源码
+
+
+github.com
+
+
+
+
+GitHub - Alanrk/LazyCat-Bookmark-Cleaner: https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/...
+https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/zh-cn/
+
+
+
+
+
+
+欢迎大家使用和反馈
+5 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/64700</guid>
+      <pubDate>Mon, 30 Dec 2024 06:32:52 GMT</pubDate>
+    </item>
     <item>
       <title>求助：有没有一款拍照 app 是自带相册的？</title>
       <link>https://meta.appinn.net/t/topic/64677</link>
@@ -352,22 +444,6 @@ yingdao.com
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64394</guid>
       <pubDate>Sun, 22 Dec 2024 07:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>好奇大家在手机上用什么软件临时编辑office系列文件</title>
-      <link>https://meta.appinn.net/t/topic/64391</link>
-      <description><![CDATA[如题，我都是直接用wps，虽然它
-
-极其臃肿（一大堆用不到的功能例如ai写文啥的），但是基本功能确实齐全
-偶尔部分操作有些反人类也能勉强接受（例如页边距的调整只能手动拖拽不能输入精准数字）
-与大多数国内系统死绑（如小米的一堆什么XX查看器都基于wps，并且如果已安装了wps会默认跳转到wps而不是原来的那个清爽的查看器）
-
-永中office好是好，问题是它偶尔在操作时还会遇到bug，并且没法设置为默认软件，每次都得手动跳转……实在是过于麻烦了
-巨硬自己的Office一直没试过，有没有试过的分享下啥样（
-3 个帖子 - 3 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64391</guid>
-      <pubDate>Sun, 22 Dec 2024 05:42:36 GMT</pubDate>
     </item>
     <item>
       <title>OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD</title>
