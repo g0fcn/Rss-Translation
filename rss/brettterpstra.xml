@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 18:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:18:45 GMT</lastBuildDate>
+    <item>
+      <title>Brett 的最爱 2024：硬件</title>
+      <link>https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware</guid>
+      <pubDate>Mon, 30 Dec 2024 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Brett 的最爱 2024：iOS</title>
       <link>https://brett.trpstra.net/link/535/16928623/bretts-favorites-2024-ios</link>
@@ -261,59 +268,6 @@ BrettTerpstra.com 得到了像您这样的读者的支持。如果您想提供�
 Twitter | Mastodon | GitHub | 隐私政策]]></description>
       <guid>https://brett.trpstra.net/link/535/16901093/web-excursions-for-november-28th-2024</guid>
       <pubDate>Thu, 28 Nov 2024 13:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 11 月 25 日的网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16898151/web-excursions-for-november-25th-2024</link>
-      <description><![CDATA[ WebAssembly, App Store, Mints, QuickLook, Bluesky总结:WebAssembly是一种用于构建和运行无服务器应用程序的开源开发工具Spin；App Store盛行的时代应该结束，已有替代方案出现；Mints是一系列工具集，帮助用户提取日志、调研问题、探索macOS并对Spotlight进行测试；QuickLook插件调查因qlmanage在Sequoia上基本无用，而Mints提供了有用的专业工具；Bluesky的快捷方式在其网站和应用上都有用，有助于用户更有效地使用Bluesky，尤其是对于那些正在从转移到Bluesky的用户。 
-
-
-
-
-
-
-
-Web excursions brought to you in partnership with CleanShot X, the absolute, hands-down best app for Mac screenshots. Get one of my all-time favorite apps here.
-
-fermyon/spin
-
-
-Spin is the open source developer tool for building and running serverless applications powered by WebAssembly
-
-
-Once again, the only way forward is the Mac
-
-
-The App Store era must end and the solution is already here.
-
-
-Mints: a multifunction utility
-
-
-Mints is a growing collection of tools which provide tailor-made log extracts for investigating problems and exploring macOS, collate various information about a Mac which can be difficult to find elsewhere, perform a set of tests on Spotlight, and provide specialist tools for certain types of data.
-
-
-
-Useful for investigating QuickLook plugins now that qlmanage is basically useless on Sequoia.
-
-New in the Shortcuts Library: Bluesky shortcuts – Matthew Cassinelli
-
-
-These shortcuts for Bluesky work on the web and the app – jump directly into any section. Plus, build out your List dictionary.
-
-
-
-If you, like many others, are getting into Bluesky, these might be helpful. I’m still mostly on Mastodon (and plan to continue to be), but Bluesky (find me here) is more attractive to me than Threads (here) as an alternative.
-
-
-I do all of my screenshots and screen recordings with CleanShot X. I love it to pieces. You should get it.
-Like or share this post Twitter.
-
-BrettTerpstra.com is supported by readers like you. Click here if you&#39;d like to help out.
-All materials ©2024 Brett Terpstra
-Twitter | Mastodon | GitHub | Privacy Policy]]></description>
-      <guid>https://brett.trpstra.net/link/535/16898151/web-excursions-for-november-25th-2024</guid>
-      <pubDate>Mon, 25 Nov 2024 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

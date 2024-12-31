@@ -4,7 +4,21 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Thu, 26 Dec 2024 21:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:19:04 GMT</lastBuildDate>
+    <item>
+      <title>我的主屏幕（2024 年 12 月）</title>
+      <link>https://rknight.me/blog/my-homescreen-december-2024/</link>
+      <description><![CDATA[
+自从我在今年年初最后一次分享我的主屏幕以来，iOS18 添加了暗黑模式图标，我立即将其打开。我还有一些应用尚未更新，但我需要将它们放在主屏幕上，所以我只能忍受它。
+其他变化：
+
+我回到了 Reddit，但只能阅读，不能发帖
+我使用 Raindrop 而不是 Omnivore（反正已经关闭了）
+Godspeed 是我现在处理大部分提醒和待办事项的地方
+]]></description>
+      <guid>https://rknight.me/blog/my-homescreen-december-2024/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>我曾是 Conduit 的嘉宾</title>
       <link>https://rknight.me/blog/i-was-a-guest-on-conduit/</link>
@@ -254,13 +268,6 @@ I originally thought of this joke for this tweet ⤾
 ]]></description>
       <guid>https://rknight.me/blog/naming-my-computers/</guid>
       <pubDate>Fri, 15 Nov 2024 13:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>蟾蜍进洞食谱</title>
-      <link>https://rknight.me/blog/toad-in-the-hole-recipe/</link>
-      <description><![CDATA[好吧，伙计们，这是有史以来最懒惰的“食谱”，但它很棒，所以我们就在这里：蟾蜍在洞里。下次做的时候我会拍一张更好的照片，我不得不从我的 Instagram/Pixelfed 档案中取出这张照片。]]></description>
-      <guid>https://rknight.me/blog/toad-in-the-hole-recipe/</guid>
-      <pubDate>Fri, 15 Nov 2024 09:29:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
