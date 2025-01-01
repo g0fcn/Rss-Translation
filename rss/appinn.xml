@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 12:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 15:18:04 GMT</lastBuildDate>
     <item>
       <title>有好用的视频逐帧截图工具吗？</title>
       <link>https://meta.appinn.net/t/topic/64777</link>
@@ -390,32 +390,6 @@ Readest
       <pubDate>Wed, 25 Dec 2024 00:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>【自荐】海拔：一款查询当前位置海拔高度的应用</title>
-      <link>https://meta.appinn.net/t/topic/64489</link>
-      <description><![CDATA[软件名称
-海拔
-应用平台
-
-Web
-
-推荐类型
-【开发者自荐】
-一句简介
-这是一个用来展示当前位置海拔高度的 PWA 网页应用
-应用简介
-
-一天，我站在山顶上，翻遍了应用市场都没能找到简洁、无广告且免费的海拔计应用，于是下定决心开发一个 App。
-
-基于 PWA：无需安装，打开网页就可以使用，添加到手机桌面后即可离线使用。
-极简设计：用极简的界面展示当前海拔高度，方便你在登山过程中打卡合影。
-免费！你可以完全免费地使用「海拔」App，你甚至可以在这里找到它的源代码。
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64489</guid>
-      <pubDate>Tue, 24 Dec 2024 10:17:59 GMT</pubDate>
-    </item>
-    <item>
       <title>OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD</title>
       <link>https://meta.appinn.net/t/topic/63159</link>
       <description><![CDATA[
@@ -452,6 +426,15 @@ v7.0.XX ~ 8.2.XX
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/63159</guid>
       <pubDate>Fri, 15 Nov 2024 06:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家手机的储存空间情况是怎么样的？你们是怎么解决手机储存空间不足的问题的？</title>
+      <link>https://meta.appinn.net/t/topic/41082</link>
+      <description><![CDATA[最近老同学找我玩游戏，下完发现128g的储存空间只剩15g，除了“小而美”和“虚幻Q”都不知道存储叫谁吃去了，大家都是怎么管理手机存储问题的。
+18 个帖子 - 17 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/41082</guid>
+      <pubDate>Mon, 27 Feb 2023 01:48:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
