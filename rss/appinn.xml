@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 15:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 18:23:24 GMT</lastBuildDate>
     <item>
       <title>有好用的视频逐帧截图工具吗？</title>
       <link>https://meta.appinn.net/t/topic/64777</link>
@@ -326,70 +326,6 @@ Mental Battery 是一款工作健康与精力管理应用，减轻您长期使�
       <pubDate>Wed, 25 Dec 2024 13:14:43 GMT</pubDate>
     </item>
     <item>
-      <title>【开发者自荐】Readest - 极简、现代和面向未来的电子书阅读器</title>
-      <link>https://meta.appinn.net/t/topic/64506</link>
-      <description><![CDATA[
-
-
-
-Readest
-
-
-项目地址
-项目 GitHub 主页：https://github.com/readest/readest
-访问官网下载Readest： https://readest.com
-或立即体验Readest网页版： https://web.readest.com
-
-
-
-
-
-
-
-全新的开源电子书阅读器——Readest，专为追求沉浸式深度阅读体验的用户打造！支持macOS、Windows、Linux和Web平台，未来默认支持iOS和Android。
-
-
-预览
-
-
-
-
-
-
-
-已支持的功能：
-
-支持多种电子书格式：支持EPUB 、MOBI 、AZW3 、PDF 等多种格式；
-分页/滚动阅读模式：自由切换，适应不同阅读；
-注释与标记：支持高亮、书签和笔记，轻松整理知识点；
-全文搜索与翻译：支持全文搜索，内置DeepL翻译工具；
-双屏平行阅读：支持同时阅读两本书，满足学术研究和文本对比需求；
-个性化排版设置：字体、主题、颜色随心定制，专属阅读体验；
-内置同步服务器：支持多端同步阅读进度、计划线和笔记。
-
-未来计划支持的功能：
-
-支持iOS和Android平台；
-与Koreader设备同步进度、计划线和笔记；
-与 OPDS / Calibre 集成；
-支持手写注释与语音朗读；
-支持高级阅读统计；
-支持AI自动生成大纲摘要和问答。
-
-立即体验Readest！
-
- 访问官网下载 Readest： https://readest.com
- 或访问 GitHub 下载 Readest： Releases · readest/readest · GitHub
- 也可直接访问 Readest Web 版体验： https://web.readest.com
- 欢迎开发者加和 fork 代码，参与贡献： https://github.com/readest/readest
-
-欢迎大家尝试并与我分享反馈，共同打造最大限度的阅读体验！让阅读回归纯粹的乐趣！
-11个帖子 - 6位参与者
-&lt;一href=&quot;https://meta.appinn.net/t/topic/64506&quot;&gt;阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64506</guid>
-      <pubDate>Wed, 25 Dec 2024 00:16:50 GMT</pubDate>
-    </item>
-    <item>
       <title>OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD</title>
       <link>https://meta.appinn.net/t/topic/63159</link>
       <description><![CDATA[
@@ -435,6 +371,13 @@ v7.0.XX ~ 8.2.XX
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/41082</guid>
       <pubDate>Mon, 27 Feb 2023 01:48:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】直棋 (三棋): 唤起儿时回忆的反直觉“短游戏”</title>
+      <link>https://meta.appinn.net/t/topic/39826</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/39826</guid>
+      <pubDate>Fri, 20 Jan 2023 11:39:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
