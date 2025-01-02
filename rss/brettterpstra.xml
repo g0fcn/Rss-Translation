@@ -4,7 +4,47 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 02 Jan 2025 03:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 18:23:51 GMT</lastBuildDate>
+    <item>
+      <title>2025 年 1 月 2 日网络游览</title>
+      <link>https://brett.trpstra.net/link/535/16932574/web-excursions-for-january-2nd-2025</link>
+      <description><![CDATA[
+与 Setapp 合作为您带来网络游览。只需支付一笔低廉的月度订阅费，即可访问数百个 Mac 和 iOS 应用程序。
+
+alexwlchan/safari-webarchiver
+从命令行将网页另存为 Safari webarchive 文件。 H/T 至 Stephen Millard
+
+我已将其合并到我的链接存档脚本中，以便将 webarchive 文件与存档书签的 Markdown 版本一起保存。请注意，如果您启用了 SIP，则无法使用该工具的可下载版本，您需要下载源代码并使用 swiftc 进行编译（请参阅 README）。
+
+Wakamai Fondue
+
+
+该工具可回答“我的字体能做什么？”的问题
+
+
+
+上传字体并查看其所有功能（字距调整、连字、变体）并下载 CSS 以启用这些功能。
+
+mickael-menu/ShadowVim：
+“Neovim inside Xcode，真的存在。”这使用 Accessibility API 将“shadow”Neovim 实例放入 Xcode 编辑器中。 Xcode 的 Vim 模式非常棒，但这个模式几乎为你提供了一切，包括宏和插件。
+Nix 是我在 macOS 上最喜欢使用的包管理器
+我并不完全想改造我的设置，但如果你雄心勃勃（或者还没有嵌入 Homebrew），这里有一个完整的描述和教程视频，介绍 Nix 包管理器（可以在 Homebrew 上运行）。
+
+立即查看 Setapp，获取最好的 Mac 和 iOS 应用程序。
+点赞或分享这篇文章 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提供帮助，请单击此处。
+在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+      <guid>https://brett.trpstra.net/link/535/16932574/web-excursions-for-january-2nd-2025</guid>
+      <pubDate>Thu, 02 Jan 2025 17:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brett 的最爱 2024：幕后花絮</title>
+      <link>https://brett.trpstra.net/link/535/16931942/bretts-favorites-2024-behind-the-scenes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16931942/bretts-favorites-2024-behind-the-scenes</guid>
+      <pubDate>Thu, 02 Jan 2025 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 iTerm 处理 x-man-page URL</title>
       <link>https://brett.trpstra.net/link/535/16931584/use-iterm-to-handle-x-man-page-urls</link>
@@ -205,47 +245,6 @@ BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提�
 在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
       <guid>https://brett.trpstra.net/link/535/16915677/the-macpaw-2024-developer-survey</guid>
       <pubDate>Tue, 10 Dec 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 12 月 5 日的网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16911897/web-excursions-for-december-5th-2024</link>
-      <description><![CDATA[
-与 Setapp 合作为您带来网络游览。只需支付一笔低廉的月度订阅费，即可访问数百个 Mac 和 iOS 应用程序。
-
-Nerd Fonts
-
-
-标志性字体聚合器、集合和修补程序：9,000+ 个字形/图标，60+ 种修补字体。
-
-
-
-获取内置所有开发人员图标的字体。
-
-编程字体 - 试用
-试用最佳和最新的等宽字体进行编码。150 种字体，带有精美的预览。
-jdx/mise
-我正在用这个替换 asdf。开发工具、环境变量和任务运行器可处理 Python、Ruby、NodeJS 等的多个版本，以及运行脚本和设置每个项目的环境变量。
-为什么管道有时会“卡住”：缓冲
-对于命令行脚本编写者和 *nix 用户来说非常有用的信息。当您确定管道中有数据时，管道命令是否意外地不显示任何内容？这就是您的答案。向 Patrice 致敬。
-BetterZip 5
-一款用于创建和管理存档（zip、dmg、tgz 等）的出色工具。我最喜欢的部分是它提供了可导航的 zip 存档快速预览。当然，仅凭这一点并不值 25 美元的价格，但它也在 Setapp 上。
-Omni 自动化视频
-macOS 自动化名人 Sal Soghoian 制作了一系列 1-3 分钟的视频，介绍如何自动化 Omni 产品。向传奇人物学习。
-
-立即查看 Setapp，获取最佳 Mac 和 iOS 应用程序。
-在 Mastodon 上点赞或分享此帖子，Bluesky，或 Twitter。
-
-BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提供帮助，请单击此处。
-在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
-      <guid>https://brett.trpstra.net/link/535/16911897/web-excursions-for-december-5th-2024</guid>
-      <pubDate>Thu, 05 Dec 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可疑包裹持续发出警报</title>
-      <link>https://brett.trpstra.net/link/535/16910822/suspicious-package-keeps-on-tickin</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16910822/suspicious-package-keeps-on-tickin</guid>
-      <pubDate>Wed, 04 Dec 2024 16:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
