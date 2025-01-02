@@ -4,7 +4,31 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 18:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 03:21:01 GMT</lastBuildDate>
+    <item>
+      <title>Curl-impersonate：curl 的特殊版本，可以模拟 Chrome 和 Firefox</title>
+      <link>https://meta.appinn.net/t/topic/64796</link>
+      <description><![CDATA[
+
+github.com
+
+
+
+
+GitHub - lwthiker/curl-impersonate: curl-impersonate: A special build of curl that can...
+curl-impersonate: A special build of curl that can impersonate Chrome &amp; Firefox
+
+
+
+
+
+
+一种特殊的curl构建，可以模拟四种主要浏览器：Chrome、Edge、Safari和Firefox。 curl-impersonate 能够执行与真实浏览器相同的 TLS 和 HTTP 握手。
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/64796</guid>
+      <pubDate>Thu, 02 Jan 2025 01:06:34 GMT</pubDate>
+    </item>
     <item>
       <title>有好用的视频逐帧截图工具吗？</title>
       <link>https://meta.appinn.net/t/topic/64777</link>
@@ -312,18 +336,6 @@ Mental Battery 是一款工作健康与精力管理应用，减轻您长期使�
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64557</guid>
       <pubDate>Thu, 26 Dec 2024 02:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于Chrome发出扩展程序安全检查警告</title>
-      <link>https://meta.appinn.net/t/topic/64538</link>
-      <description><![CDATA[在使用Chrome时，可能会遇到浏览器对某些扩展程序发出安全检查警告的情况。它可能会提醒有潜在的安全风险。这些警告并不一定意味着扩展程序就是恶意的，但值得对此保持警惕。
-你遇到过Chrome对扩展程序的安全检查警告吗？你的处理方式是什么？你如何找到更好的替代扩展？欢迎在评论区分享你的经验和看法！
-我的安全检查警告
-
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64538</guid>
-      <pubDate>Wed, 25 Dec 2024 13:14:43 GMT</pubDate>
     </item>
     <item>
       <title>OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD</title>
