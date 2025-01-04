@@ -4,7 +4,14 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 03 Jan 2025 18:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 06:23:06 GMT</lastBuildDate>
+    <item>
+      <title>一年一更，抓取统计2024年公众号小众软件阅读数前10文章，导出所有文章内容合成一个pdf文件</title>
+      <link>https://meta.appinn.net/t/topic/64877</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/64877</guid>
+      <pubDate>Sat, 04 Jan 2025 02:41:21 GMT</pubDate>
+    </item>
     <item>
       <title>Listary 团队新作： Gety 加入过等待列表的现可以体验了</title>
       <link>https://meta.appinn.net/t/topic/64867</link>
@@ -206,18 +213,18 @@ The AI Shadcn Theme Generator crafts stunning, consistent themes for your shadcn
     <item>
       <title>【开源自荐】懒猫书签清理 -一款支持浏览器书签清理和统计的拓展程序</title>
       <link>https://meta.appinn.net/t/topic/64700</link>
-      <description><![CDATA[软件名称
+      <description><![CDATA[软件名称&lt; /h2&gt;
 懒猫书签清理
-应用平台
+应用平台&lt; /h2&gt;
 
 Chrome
 Edge
 
-推荐类型
+推荐类型&lt; /h2&gt;
 【开发者自荐】
 一句话简介
 懒猫书签清理 - 你的书签整理和分析助手
-应用简介
+应用简介&lt; /h2&gt;
 智能书签清理
 
 自动检测失效链接和空文件夹
@@ -231,21 +238,21 @@ Edge
 可视化展示你的收藏偏好
 了解自己的浏览习惯
 
-隐私保护
+隐私保护&lt; /h3&gt;
 
 100% 本地运行，无需联网
 不收集任何个人数据
 不上传任何书签信息
 完全开源，值得信赖
 
-温馨提示
+温馨提示&lt; /h2&gt;
 删除的书签无法自动恢复，建议：
 
 删除前确认书签状态
 重要书签可先做备份
 分批次进行整理
 
-截图预览
+截图预览&lt; /h2&gt;
 浏览器书签清理页面
  
 
@@ -256,7 +263,7 @@ Edge
 
 
 
-项目网站
+项目网站&lt; /h2&gt;
 
 
 
@@ -264,16 +271,16 @@ ainewtab.app
 
 
 
-懒猫书签清理工具 - 让书签管理变得简单
-一键清理重复书签、失效链接和空文件夹，让您的书签井井有条。智能分析功能助您轻松管理书签，确保隐私安全。
+懒猫书签清理工具- 让书签管理变得简单
+一键清理重复书签、失效链接和空文件夹，让您的书签井井有条。智能分析功能助您轻松管理书签，确保隐私安全。 
 
 
 
 
 
-Chrome 商店
-https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef
-Github 源码
+Chrome 商店&lt; /h2&gt;
+https:// chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef
+Github 源码&lt; /h2&gt;
 
 
 github.com
@@ -281,7 +288,7 @@ github.com
 
 
 
-GitHub - Alanrk/LazyCat-Bookmark-Cleaner: https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/...
+GitHub - Alanrk/LazyCat-Bookmark-Cleaner: https:/ /www.ainewtab.app/LazyCat-Bookmark-Cleaner/...
 https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/zh-cn/
 
 
@@ -323,13 +330,6 @@ https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/zh-cn/
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64620</guid>
       <pubDate>Fri, 27 Dec 2024 10:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>HomTodo - 多人协作处理家务，轻松规划家中大小事务 (自荐)</title>
-      <link>https://meta.appinn.net/t/topic/64604</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/64604</guid>
-      <pubDate>Fri, 27 Dec 2024 06:41:09 GMT</pubDate>
     </item>
     <item>
       <title>OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD</title>
