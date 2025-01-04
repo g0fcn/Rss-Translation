@@ -4,7 +4,97 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 04 Jan 2025 06:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 12:32:09 GMT</lastBuildDate>
+    <item>
+      <title>SQLean——多功能SQLite扩展程序集</title>
+      <link>https://meta.appinn.net/t/topic/64892</link>
+      <description><![CDATA[软件名称
+sqlean
+推荐类型
+【用户推荐】
+软件平台
+Windows，Linux，macOS
+一句话简介
+一组 SQLite 扩展程序，可以为 SQLite 增加更多功能，比如计算样品标准偏差、中位数、百分位数等。
+项目首页
+
+
+github.com
+
+
+
+
+GitHub - nalgeon/sqlean: The ultimate set of SQLite extensions
+The ultimate set of SQLite extensions
+
+
+
+
+
+
+许可证为 MIT
+作者自述
+
+原文见项目首页，以下内容由 DeepL 翻译
+与其他数据库管理系统相比，SQLite 的功能很少。SQLite 的作者认为这是一个特点而不是问题，因为 SQLite 有一个扩展机制。
+现在有很多 SQLite 扩展，但都不完整、不一致，而且散落在互联网上。Sqlean 将它们整合在一起，整齐地打包成域模块，并为 Linux、Windows 和 macOS 提供了文档记录和测试。
+我们并不试图将所有现有扩展集结成一大堆–那样做的用处不大。我们的目标是创建一套经过深思熟虑的域模块，并提供方便的应用程序接口。这是一种 SQLite 标准库。
+为了实现这一目标，我们会拆分过于宽泛的扩展，合并过于狭窄的扩展，重构，添加缺失的功能，测试，记录，并做大量其他的小事情。
+
+使用案例
+——在 DB Browser for SQLite 中，借助 sqlean 进行统计分析
+我有很多实验数据是存储在 SQLite 数据库中的，有时候要对这些结果进行分析。如果只是算极值、平均值还好说，SQLite 提供了 max()、min()、average() 函数。但要计算样品标准偏差就比较麻烦了，SQLite 本身没有这个功能。
+而 SQLean 提供了一个统计工具包扩展，这个扩展中包含了能计算标准偏差的函数。以下是操作方法：
+1 下载扩展包
+到 releases 页面，下载与您的操作系统相符的扩展包。以 Linux 系统为例，下载 sqlean-linux-x86.zip。然后，解压这个压缩包，找到其中的统计分析工具包 stats.so。
+2 加载扩展包
+打开 DB Browser for SQLite，然后打开数据库。接下来，点击 工具 → 加载扩展，找到刚刚解压出的 stats.so。加载完毕后，会弹出对话框 “扩展成功加载。”
+3 调用统计函数
+以样品标准偏差函数的函数为例，执行如下查询命令即可：
+SELECT stats_stddev(列名称) FROM 表名称 GROUP BY 分组依据
+
+每一个函数的具体用法可参考作者的文档。以下是统计工具包的文档：
+
+
+github.com
+
+
+nalgeon/sqlean/blob/main/docs/stats.md
+# stats: Mathematical statistics in SQLite
+
+The `sqlean-stats` extension provides common statistical functions.
+
+[Reference](#reference) •
+[Acknowledgements](#acknowledgements) •
+[Installation and usage](#installation-and-usage)
+
+## Reference
+
+There are aggregate functions such as median and percentile, and a table-valued sequence function for generating sequences.
+
+### Aggregate functions
+
+-   `stats_median(x)` — median (50th percentile),
+-   `stats_p25(x)` — 25th percentile,
+-   `stats_p75(x)` — 75th percentile,
+-   `stats_p90(x)` — 90th percentile,
+-   `stats_p95(x)` — 95th percentile,
+-   `stats_p99(x)` — 99th percentile,
+
+
+
+
+  This file has been truncated. show original
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/64892</guid>
+      <pubDate>Sat, 04 Jan 2025 08:58:18 GMT</pubDate>
+    </item>
     <item>
       <title>一年一更，抓取统计2024年公众号小众软件阅读数前10文章，导出所有文章内容合成一个pdf文件</title>
       <link>https://meta.appinn.net/t/topic/64877</link>
@@ -213,18 +303,18 @@ The AI Shadcn Theme Generator crafts stunning, consistent themes for your shadcn
     <item>
       <title>【开源自荐】懒猫书签清理 -一款支持浏览器书签清理和统计的拓展程序</title>
       <link>https://meta.appinn.net/t/topic/64700</link>
-      <description><![CDATA[软件名称&lt; /h2&gt;
+      <description><![CDATA[软件名称
 懒猫书签清理
-应用平台&lt; /h2&gt;
+应用平台
 
 Chrome
 Edge
 
-推荐类型&lt; /h2&gt;
+推荐类型
 【开发者自荐】
 一句话简介
 懒猫书签清理 - 你的书签整理和分析助手
-应用简介&lt; /h2&gt;
+应用简介
 智能书签清理
 
 自动检测失效链接和空文件夹
@@ -238,21 +328,21 @@ Edge
 可视化展示你的收藏偏好
 了解自己的浏览习惯
 
-隐私保护&lt; /h3&gt;
+隐私保护
 
 100% 本地运行，无需联网
 不收集任何个人数据
 不上传任何书签信息
 完全开源，值得信赖
 
-温馨提示&lt; /h2&gt;
+温馨提示
 删除的书签无法自动恢复，建议：
 
 删除前确认书签状态
 重要书签可先做备份
 分批次进行整理
 
-截图预览&lt; /h2&gt;
+截图预览
 浏览器书签清理页面
  
 
@@ -263,7 +353,7 @@ Edge
 
 
 
-项目网站&lt; /h2&gt;
+项目网站
 
 
 
@@ -271,16 +361,16 @@ ainewtab.app
 
 
 
-懒猫书签清理工具- 让书签管理变得简单
-一键清理重复书签、失效链接和空文件夹，让您的书签井井有条。智能分析功能助您轻松管理书签，确保隐私安全。 
+懒猫书签清理工具 - 让书签管理变得简单
+一键清理重复书签、失效链接和空文件夹，让您的书签井井有条。智能分析功能助您轻松管理书签，确保隐私安全。
 
 
 
 
 
-Chrome 商店&lt; /h2&gt;
-https:// chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef
-Github 源码&lt; /h2&gt;
+Chrome 商店
+https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef
+Github 源码
 
 
 github.com
@@ -288,7 +378,7 @@ github.com
 
 
 
-GitHub - Alanrk/LazyCat-Bookmark-Cleaner: https:/ /www.ainewtab.app/LazyCat-Bookmark-Cleaner/...
+GitHub - Alanrk/LazyCat-Bookmark-Cleaner: https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/...
 https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/zh-cn/
 
 
@@ -312,24 +402,6 @@ https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/zh-cn/
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64677</guid>
       <pubDate>Sun, 29 Dec 2024 14:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>【工具自荐】一键预览 B 站视频封面效果的 Chrome 浏览器插件！</title>
-      <link>https://meta.appinn.net/t/topic/64620</link>
-      <description><![CDATA[基本情况
-插件名字：Bilibili Cover Preview - 哔哩哔哩封面预览
-核心功能：一键预览 B 站视频封面效果！让创作者快速选择最佳封面。
-视频介绍：https://www.bilibili.com/video/BV1DKC6YVEFJ
-插件地址：https://chromewebstore.google.com/detail/bilibili-cover-preview-哔哩/ejoogldnnjeclfmmjjkdfhopfinhagjl?authuser=0&amp;hl=zh-CN
-效果预览
- 
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64620</guid>
-      <pubDate>Fri, 27 Dec 2024 10:15:22 GMT</pubDate>
     </item>
     <item>
       <title>OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD</title>
