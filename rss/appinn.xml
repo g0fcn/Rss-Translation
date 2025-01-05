@@ -4,7 +4,65 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 04 Jan 2025 18:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 12:32:13 GMT</lastBuildDate>
+    <item>
+      <title>｛Table Habit｝：适用于 Android 的开源习惯追踪统计工具，拥有较为丰富的自定义选项</title>
+      <link>https://meta.appinn.net/t/topic/64913</link>
+      <description><![CDATA[#川陀大学图书馆
+ 
+｛Table Habit｝：适用于 Android 的开源习惯追踪统计工具，拥有较为丰富的自定义选项
+＞ 源码：GitHub
+＞ 许可：Apache-2.0
+ 
+Table Habit（桌上习惯）是一个适用于 Android 的开源习惯追踪统计工具。该工具包括一套完整的成长曲线和图表，帮助你更有效地养成习惯。特性如下：
+
+一个评分系统，帮助你发展个人微习惯
+简单易用的界面，用于打卡签到习惯
+使用不同的颜色来区分不同的习惯
+可以使用人类可读的格式（JSON）导出和导入习惯
+适配 Material3 和 Android 12 及更高版本的动态颜色
+适配横屏和大屏设备
+
+每个习惯可以使用以下选项自定义：
+
+名称、描述
+类型（正/负）
+颜色
+每日目标、每日目标单位
+每天预计完成的最大目标
+频率
+开始日期、预计完成时间
+提醒事项
+
+
+
+
+
+
+
+笔者：这个项目相比之前推荐过的同类项目 Loop Habit Tracker，主要优势是自定义选项较为丰富。另外开发者还计划适配 windows 和 linux，只不过都还处于早期阶段。
+
+版本：1.14.4 (57)
+关注：GitHub 400+ stars
+状态：正常维护，积极开发
+语言：支持中文
+网络：目前完全离线
+资费：免费
+平台：android；ios；macos
+＞ 安装：GitHub Releases；F-Droid
+＞ 捐助：～Donate；Buy Me A Coffee
+ 
+＞ 副本：川陀大学图书馆 FU102
+＞ 副本：川陀大学图书馆 TG101
+＞ 档案：20240320_001
+＃：#1_开源项目 #2_开源工具收集
+＃：#A_收集 #B_整理 #C_引述 #D_开源 #D_工具 #E_中文
+％：2024年1月5日（UTC+8）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/64913</guid>
+      <pubDate>Sun, 05 Jan 2025 08:35:01 GMT</pubDate>
+    </item>
     <item>
       <title>有没有edge上能快速把多个页面的视频整合在同一个页面同时播放的方案？</title>
       <link>https://meta.appinn.net/t/topic/64898</link>
@@ -403,44 +461,6 @@ https://www.ainewtab.app/LazyCat-Bookmark-Cleaner/zh-cn/
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64700</guid>
       <pubDate>Mon, 30 Dec 2024 06:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>OSX-PROXMOX - 在任何电脑安装 macOS，基于 Proxmox VE，Intel & AMD</title>
-      <link>https://meta.appinn.net/t/topic/63159</link>
-      <description><![CDATA[
-
-github.com
-
-
-
-
-GitHub - luchina-gabriel/OSX-PROXMOX:瞧，在任何电脑上安装 macOS！这是...
-瞧，在任何电脑上安装 macOS！这真的是最神奇最简单的方法！
-
-
-
-
-
-
-支持 macOS：
-
-macOS High Sierra - 10.13
-macOS Mojave - 10.14
-macOS Catalina - 10.15
-macOS Big Sur - 11
-macOS Monterey - 12
-macOS Ventura - 13
-macOS Sonoma - 14
-macOS 红杉 - 15
-
-支持 Proxmox VE
-
-v7.0.XX ~ 8.2.XX
-
-1个帖子 - 1位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/63159</guid>
-      <pubDate>Fri, 15 Nov 2024 06:09:34 GMT</pubDate>
     </item>
     <item>
       <title>大家手机的储存空间情况是怎么样的？你们是怎么解决手机储存空间不足的问题的？</title>
