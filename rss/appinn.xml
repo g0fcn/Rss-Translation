@@ -4,7 +4,33 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Jan 2025 12:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 15:18:57 GMT</lastBuildDate>
+    <item>
+      <title>【工具自荐】一款基于 AI 的智能书签管理插件</title>
+      <link>https://meta.appinn.net/t/topic/65034</link>
+      <description><![CDATA[工具名称
+Smart Bookmark
+应用平台
+Chrome浏览器插件
+工具简介
+Smart Bookmark 是一款基于 AI 的智能书签管理插件，专注于解决书签收藏和搜索的痛点。
+Chrome 商店链接
+ Smart Bookmark - 点击体验
+功能亮点
+
+AI 自动生成标签：收藏网页时，智能生成相关标签，无需手动归类，彻底告别繁琐的文件夹！
+语义化搜索：用自然语言描述内容即可快速找到目标书签。
+自定义筛选规则：支持按标题、标签、网址等筛选规则，轻松实现书签自动归类，管理更加高效。
+
+
+
+使用成本
+插件使用免费，用户需提供自己的AI模型 API Key（目前支持 OpenAI、通义千问、智谱 GLM）来使用AI功能。经过实际测试，1 元的 Token 足够使用一个多月。
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/65034</guid>
+      <pubDate>Wed, 08 Jan 2025 10:36:06 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】字体秀 FontShow - 一个本地字体预览工具，批量对比自定义内容的字体效果</title>
       <link>https://meta.appinn.net/t/topic/65028</link>
@@ -401,30 +427,6 @@ curl-impersonate: A special build of curl that can impersonate Chrome &amp; Fire
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/64796</guid>
       <pubDate>Thu, 02 Jan 2025 01:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有好用的视频逐帧截图工具吗？</title>
-      <link>https://meta.appinn.net/t/topic/64777</link>
-      <description><![CDATA[看了今天的推文，发现这个app已经很久没更新了
-
-
-小众软件 – 7 Jun 21
-
-
-
-Video to Pic - 从视频中逐帧导出图片[iPhone] - 小众软件
-Video to Pic 是一款可以从视频或 Live Photos（实况照片）中“逐帧“导出一张或多张高质量照片的应用，支持 iPad、iPhone，支持切换不同的视频帧率，可导出 PNG 和 JPEG 格式。@Appinn
-
-
-
-
-
-
-有替代品吗？快捷指令导出的画质太差了
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/64777</guid>
-      <pubDate>Wed, 01 Jan 2025 09:58:31 GMT</pubDate>
     </item>
     <item>
       <title>大家手机的储存空间情况是怎么样的？你们是怎么解决手机储存空间不足的问题的？</title>
