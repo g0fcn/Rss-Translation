@@ -4,7 +4,7 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Jan 2025 01:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 03:24:45 GMT</lastBuildDate>
     <item>
       <title>咬紧牙关</title>
       <link>https://rknight.me/blog/biting-the-bullet/</link>
@@ -115,20 +115,20 @@ Time for a heaving link dump becuase I&#39;m well into triple figures in my Rain
 First up are a pair of intorductions: one to Alpine.js by Blake of HTML for People fame and one for htmx. I&#39;m always on the lookout for something a bit less complicated than a full-on framework.
 Things you forgot (or never knew) because of React is a scathing look at the state[1] of React in comparison to other, similar frameworks and it&#39;s not great.
 Ergonomic Static Site Blogging. Someone else on a quest to have a nice CMS for a static site with no success.
-Leon and Melanie both wrote up their experience with Coolify with the latter setting up a Bluesky PDS for shits and giggles[2]:
+Leon and Melanie both wrote up their experience with Coolify with the latter setting up a Bluesky PDS for shits and giggles&lt; sup class=&quot;footnote-ref&quot;&gt;[2]: 
 
 The hardest part of all of this was Bluesky’s instability. Bluesky likes to pretend that it is “decentralized” or “federated.” It sure as shit isn’t either of those things.
 
-How I teach Eleventy from scratch is an excellent intro to Eleventy by Juha-Matti; this will be my go-to next time someone asks about how to get started.
+How I teach Eleventy from scratch is an excellent intro to Eleventy by Juha -Matti; this will be my go-to next time someone asks about how to get started.
 One more tutorial, this time for CSS sprite sheet animations.
 Coding Font sets up a bracket like the sports do to choose the best coding font for you. It lacks a few popular ones but it&#39;s a fun distraction for a couple of minutes.
-Kagi, the search engine, open-sourced their feed parser. &quot;It&#39;s 10x-100x faster than a traditional feedparser&quot;.
+Kagi, the search engine, open-sourced their feed parser. &quot;It&#39;s 10x-100x faster than a traditional feedparser&quot; .
 Can I PHP? It&#39;s like Can I Use but for PHP features. Fun.
 I was wronged by Safari and was sent this great post on browsers by Tyler. Also, it&#39;s not just me.
 Gamery released ScanDex, a &quot;curated barcode database for video games&quot; and Foursquare released a huge places dataset.
 I don&#39;t have much call for doing web videos but player.style look likes a great resource for different styles.
 Johnny mentioned he used Migadu Email for his email. Pricing looks great, unlimited domains and mailboxes. If I ever need to move off of iCloud, this might be the way to go.
-“Back to the Future” and “The Goonies” take place on the same day. Can&#39;t argue with this logic, it&#39;s canon now.
+ “Back to the Future” and “The Goonies” take place on the same day. Can&#39;t argue with this logic, it&#39;s canon now.
 I am obsessed with Wes Tank Rapping Fox in Socks on the Dr Suess channel.
 An Akaline Trio font.
 And finally, I want this clothes shop for dads idea to be a reality.
@@ -228,7 +228,7 @@ I don&#39;t know where I got this recipe but it&#39;s buffalo sauce so I suspect
 
 Buffalo Sauce
 300g Hot Sauce4 Garlic Gloves20g Worcestershire Sauce15g Distilled Vinegar120g Unsalted Butter
-Add hot sauce, garlic gloves, worcestershire sauce, and distilled vinegar to sauce pan over medium high heat. Whisk ingredients together and allow to cook for 5 minutes until thickened slightly. Whisk in the unsalted butter slowly on low heat. A tiny pinch of Xantham gum once it&#39;s off the heat.
+Add hot sauce, garlic gloves , worcestershire sauce, and distilled vinegar to sauce pan over medium high heat. Whisk ingredients together and allow to cook for 5 minutes until thickened slightly. Whisk in the unsalted butter slowly on low heat. A tiny pinch of Xantham gum once it&#39;s off the heat.
 
 ]]></description>
       <guid>https://rknight.me/blog/buffalo-sauce-recipe/</guid>
