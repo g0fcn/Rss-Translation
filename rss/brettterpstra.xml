@@ -4,7 +4,23 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Jan 2025 01:23:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 01:16:16 GMT</lastBuildDate>
+    <item>
+      <title>mdless 的删除线和表情符号</title>
+      <link>https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless</link>
+      <description><![CDATA[
+今天早上我刚刚向 mdless 发布了几个新功能：删除线和 GitHub 表情符号支持。
+您现在可以使用 ~~text~~ 格式，如果您的终端支持删除线文本，它将以此方式显示。您可以通过将 deletion 添加到主题文件来控制格式和颜色，默认情况下为 ~/.config/mdless/default.theme:
+deletion: strikethrough red
+我还添加了对 GitHub 表情符号的支持，例如 :smile: 表示 😁，:umbrella: 表示 ☂️。我无法保证完全兼容，但涵盖了大量表情符号。VS Code 无法处理这么多表情符号，我不得不打开值得信赖的 BBEdit，它在处理大文件方面绝对是佼佼者。mdless 中的表情符号支持默认启用，无需更改配置。
+就是这样，但如果您使用 mdless，尤其是用于读取 GitHub 文件，我想您会喜欢这些新增功能。只需使用 gem install mdless 即可更新！
+点赞或分享此帖子 Twitter。
+
+BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提供帮助，请单击此处。
+在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+      <guid>https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless</guid>
+      <pubDate>Mon, 13 Jan 2025 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我的“远程” Web 开发设置</title>
       <link>https://brett.trpstra.net/link/535/16938543/my-remote-web-development-setup</link>
@@ -164,34 +180,6 @@ BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提�
 在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
       <guid>https://brett.trpstra.net/link/535/16925839/introducing-stretchlink-dot-cc</guid>
       <pubDate>Sat, 21 Dec 2024 19:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 12 月 20 日的网络游览</title>
-      <link>https://brett.trpstra.net/link/535/16925555/web-excursions-for-december-20th-2024</link>
-      <description><![CDATA[
-与 NordVPN 合作为您带来网络游览。有效且经济地保护您的互联网浏览。
-
-1Piece - 适用于 Mac 的多功能应用程序
-此 macOS 应用程序中有很多很酷的可用性功能。窗口管理、Stage Manager 功能、扩展的 Hot Corners 等。
-
-感谢 @kdude 提供此帮助。
-
-jtroo/kanata
-通过高级自定义提高键盘的舒适度和可用性。将点击并按住图层应用于所有按键。感谢 MacOSX Guru
-OmniFocus 4.5
-OmniFocus 本周发布了 4.5 版，其中包含大量新的快捷方式和快捷方式改进。他们还将开始提供不显眼的提示，提醒您注意应用程序未使用但可能有用的功能。我期待了解更多信息。
-Acorn 8
-Acorn 8 版有一些疯狂的新照片编辑功能。如果您正在寻找一款功能强大、价格实惠的照片编辑应用程序，那么值得一试。
-microsoft/markitdown
-用于将文件和办公文档转换为 Markdown 的 Python 工具。微软终于发布了 Word 的解药？
-
-NordVPN 可保护您的互联网浏览，而且它可以让服务看起来像您来自任何国家/地区。 今天就来看看吧。
-点赞或分享这篇文章 Twitter。
-
-BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提供帮助，请单击此处。
-在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
-      <guid>https://brett.trpstra.net/link/535/16925555/web-excursions-for-december-20th-2024</guid>
-      <pubDate>Fri, 20 Dec 2024 23:17:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
