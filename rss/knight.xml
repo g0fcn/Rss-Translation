@@ -4,7 +4,24 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Jan 2025 03:24:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 03:17:56 GMT</lastBuildDate>
+    <item>
+      <title>关于临时斜线页面</title>
+      <link>https://rknight.me/blog/on-transient-slash-pages/</link>
+      <description><![CDATA[几周前 Chris 就斜线页面发表了以下看法：
+
+我认为，写下我现在随身携带的东西更有意义，如果我以后再写，它不必取代我之前写过的东西
+
+Slash Pages 是我维护的一个网站，它是一个“可添加到您网站的常用页面指南”。因此，/uses、/now 等等。Chris 上面的引述是关于 /edc 的，但它适用于所有这些页面。 ShopTalk 第 647 集也讨论了这个问题。
+我关于自动化我的 /now 页面的帖子非常受欢迎，我为自己所做的感到自豪，但我一直在想，它非常不人性化。它是数据。它不是我以任何有意义的方式编写的页面。
+Leon对此有一些类似的想法，他的想法是每个博客文章都是页面的一部分，但呈现为一个页面。他和我的最终目标是通过 RSS、POSSE 等方式联合发布新添加的内容。我喜欢将 /now 重定向到标记为 now 的最新帖子的想法，这样人们就可以看到我现在正在做的事情的最新版本。
+对于 /now 页面，这很有意义 - 按照定期计划，我可以添加有关我正在做的事情的新帖子并根据需要更新内容，但是当考虑我的 /uses 页面时，对该页面的更新是什么样的？假设一个简短的 /uses 页面如下：
+- MacBook Pro- AirPods Max- iPhone 14 Pro
+第一篇博客文章很简单，它将包含所有这些，但如果我将手机换成 16 Pro，我是否需要复制整个内容但只更新那一行？如果我只是发布更改内容的差异，那么就没有一个地方可以看到我使用的所有内容。
+我将从我的 /now 页面开始，同时考虑如何处理其他一些页面。]]></description>
+      <guid>https://rknight.me/blog/on-transient-slash-pages/</guid>
+      <pubDate>Mon, 13 Jan 2025 22:11:53 GMT</pubDate>
+    </item>
     <item>
       <title>咬紧牙关</title>
       <link>https://rknight.me/blog/biting-the-bullet/</link>
@@ -115,20 +132,20 @@ Time for a heaving link dump becuase I&#39;m well into triple figures in my Rain
 First up are a pair of intorductions: one to Alpine.js by Blake of HTML for People fame and one for htmx. I&#39;m always on the lookout for something a bit less complicated than a full-on framework.
 Things you forgot (or never knew) because of React is a scathing look at the state[1] of React in comparison to other, similar frameworks and it&#39;s not great.
 Ergonomic Static Site Blogging. Someone else on a quest to have a nice CMS for a static site with no success.
-Leon and Melanie both wrote up their experience with Coolify with the latter setting up a Bluesky PDS for shits and giggles&lt; sup class=&quot;footnote-ref&quot;&gt;[2]: 
+Leon and Melanie both wrote up their experience with Coolify with the latter setting up a Bluesky PDS for shits and giggles[2]:
 
 The hardest part of all of this was Bluesky’s instability. Bluesky likes to pretend that it is “decentralized” or “federated.” It sure as shit isn’t either of those things.
 
-How I teach Eleventy from scratch is an excellent intro to Eleventy by Juha -Matti; this will be my go-to next time someone asks about how to get started.
+How I teach Eleventy from scratch is an excellent intro to Eleventy by Juha-Matti; this will be my go-to next time someone asks about how to get started.
 One more tutorial, this time for CSS sprite sheet animations.
 Coding Font sets up a bracket like the sports do to choose the best coding font for you. It lacks a few popular ones but it&#39;s a fun distraction for a couple of minutes.
-Kagi, the search engine, open-sourced their feed parser. &quot;It&#39;s 10x-100x faster than a traditional feedparser&quot; .
+Kagi, the search engine, open-sourced their feed parser. &quot;It&#39;s 10x-100x faster than a traditional feedparser&quot;.
 Can I PHP? It&#39;s like Can I Use but for PHP features. Fun.
 I was wronged by Safari and was sent this great post on browsers by Tyler. Also, it&#39;s not just me.
 Gamery released ScanDex, a &quot;curated barcode database for video games&quot; and Foursquare released a huge places dataset.
 I don&#39;t have much call for doing web videos but player.style look likes a great resource for different styles.
 Johnny mentioned he used Migadu Email for his email. Pricing looks great, unlimited domains and mailboxes. If I ever need to move off of iCloud, this might be the way to go.
- “Back to the Future” and “The Goonies” take place on the same day. Can&#39;t argue with this logic, it&#39;s canon now.
+“Back to the Future” and “The Goonies” take place on the same day. Can&#39;t argue with this logic, it&#39;s canon now.
 I am obsessed with Wes Tank Rapping Fox in Socks on the Dr Suess channel.
 An Akaline Trio font.
 And finally, I want this clothes shop for dads idea to be a reality.
@@ -213,26 +230,6 @@ The past few weeks AppStories has had a different MacStories host as a guest and
 Listen to episode 412: What Kind of Person Are You? in your podcatcher of choice or you can watch the episode on YouTube.]]></description>
       <guid>https://rknight.me/blog/i-was-a-guest-on-appstories-this-week/</guid>
       <pubDate>Mon, 18 Nov 2024 12:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>水牛城辣酱食谱</title>
-      <link>https://rknight.me/blog/buffalo-sauce-recipe/</link>
-      <description><![CDATA[ 辣酱、大蒜、辣椒酱、黄油、食醋总结:这是一个制作水牛城辣酱的食谱。首先将辣酱、切碎的大蒜、辣椒酱和食醋放入锅中，用中高火加热并搅拌，煮5分钟直至略为浓稠。然后降低火力，慢慢加入无盐黄油搅拌均匀。最后，在离火后加入少许黄原胶使辣酱更加稠密。整个过程简单快捷，适合喜欢辣味的人尝试。 
-I don&#39;t know where I got this recipe but it&#39;s buffalo sauce so I suspect it&#39;s mostly the same from everyone but here we are, final day of recipe week. Enjoy.
-
-
-
-
-
-
-
-Buffalo Sauce
-300g Hot Sauce4 Garlic Gloves20g Worcestershire Sauce15g Distilled Vinegar120g Unsalted Butter
-Add hot sauce, garlic gloves , worcestershire sauce, and distilled vinegar to sauce pan over medium high heat. Whisk ingredients together and allow to cook for 5 minutes until thickened slightly. Whisk in the unsalted butter slowly on low heat. A tiny pinch of Xantham gum once it&#39;s off the heat.
-
-]]></description>
-      <guid>https://rknight.me/blog/buffalo-sauce-recipe/</guid>
-      <pubDate>Sun, 17 Nov 2024 21:07:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
