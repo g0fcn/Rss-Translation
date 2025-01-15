@@ -4,7 +4,33 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 14 Jan 2025 06:23:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 01:18:04 GMT</lastBuildDate>
+    <item>
+      <title>现在（2025 年 1 月）</title>
+      <link>https://rknight.me/blog/now-january-2025/</link>
+      <description><![CDATA[这是新系列文章中的第一篇，将用博客文章填充我的 /now 页面。时间中的一刻。我现在正在做的事情。记录我正在做的事情。
+感谢Nic，这真的很容易做到，因为我可以模仿他的做法：
+
+用Now标记帖子
+获取带有此类标签的最新帖子
+在我的 /now 页面上使用该内容
+
+
+我还要休一周左右的陪产假，因为要生第二个孩子。身边有个小孩，一切都难上加难。
+我尝试子弹日记，进展顺利......还好吗？现在说这些可能还为时过早。我所知道的是，我在 YouTube 上的推荐被毁了，我买了新笔。
+我和妻子正在看《少年谢尔顿》的最后两季。之后，她同意和我一起看《最后生还者》。我一直想重看一遍。
+我没有年度主题，但如果我有的话，它会是&amp;;被淹没的一年&amp;;[1]。我想停止被数以百万计的电影/电视节目/书籍/游戏/任何东西的选择所淹没，并有意识地努力选择一件事。我没有时间做所有事情，尤其是现在有两个孩子。如果我不确定某件事，就放弃它，它不需要列在清单上。
+你知道吗，管他呢，我确实有一个年度主题。就是这个。
+
+
+
+你可以在欧洲做到这一点⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/now-january-2025/</guid>
+      <pubDate>Tue, 14 Jan 2025 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>关于临时斜线页面</title>
       <link>https://rknight.me/blog/on-transient-slash-pages/</link>
@@ -221,15 +247,6 @@ Bluesky DID 生成器 - 令人困惑的是，它被命名为“生成器”
 您可以在 MacStories 入门包 中查看所有 MacStories 团队和播客帐户，我在那里的用户名是 @rknight.me。]]></description>
       <guid>https://rknight.me/blog/useful-bluesky-tools/</guid>
       <pubDate>Mon, 18 Nov 2024 15:15:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周我是 AppStories 的嘉宾</title>
-      <link>https://rknight.me/blog/i-was-a-guest-on-appstories-this-week/</link>
-      <description><![CDATA[ MacStories, AppStories+, fediverse, ActivityPub, development setup总结:最近几周MacStories每周都邀请不同的主持人，这周轮到作者亲自参与。在AppStories+的预展中，他们讨论了节目的起源；在正式节目中，他们探讨了fediverse和ActivityPub，分享了作者的一些开发设置。节目最后，还有一段关于主持人Federico对作者人格的看法，这让作者感到震惊。你可以选择用你喜欢的播客软件收听这一集，或者观看视频版本。 
-The past few weeks AppStories has had a different MacStories host as a guest and this week was my turn. In the AppStories+ pre-show we talk about the origins of Ruminate and in the main show we discuss the fediverse and ActivityPub, some of my projects, as well as my development setup. Stick around to find out what kind of person Federico thinks I am because I&#39;m still reeling.
-Listen to episode 412: What Kind of Person Are You? in your podcatcher of choice or you can watch the episode on YouTube.]]></description>
-      <guid>https://rknight.me/blog/i-was-a-guest-on-appstories-this-week/</guid>
-      <pubDate>Mon, 18 Nov 2024 12:52:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
