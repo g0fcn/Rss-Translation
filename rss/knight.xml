@@ -4,7 +4,37 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 03:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:23:07 GMT</lastBuildDate>
+    <item>
+      <title>博客问答挑战</title>
+      <link>https://rknight.me/blog/blog-question-challenge/</link>
+      <description><![CDATA[我被 Kyle 和 B 标记来做这件事，所以就在这里。
+你当初为什么开始写博客？
+最初我以为我会成为一个热门博主，帖子被很多人转发，成为受欢迎的人。那时我们都想成为格鲁伯。
+最近我为我自己写博客。它是食谱、技术帖子、我解决的问题、我有过的想法。基本上是我或其他人可能想要做的任何事情的说明。
+您使用什么平台管理您的博客，为什么使用它？
+我的网站是用 Eleventy 构建的。理论上，这意味着它只是一堆 markdown 文件。实际上，它是 markdown 文件、JSON 文件、javascript 文件，加上我的自定义 CMS。我使用它，因为它让我能够灵活地让我的网站完全按照我的意愿运行。
+你以前在其他平台上写过博客吗？
+多年前我开始使用托管的 Wordpress，然后是自托管的 Wordpress，然后是 Jekyll，然后是 Hugo，然后是 Hexo，现在是 Eleventy。
+你如何撰写帖子？
+通常我在 Obsidian 中写草稿，然后将其复制到 VSCode 中并发布。对于较短的帖子或我的笔记，我将它们直接写入 CMS，然后将其推送到 GitHub 存储库。我在这里更深入地讨论了这个问题。
+什么时候最有写作灵感？
+我主要在两个时候感到灵感迸发：
+
+当我解决了一个问题并想记录解决方案时
+当我感觉自己想写一篇推文时
+
+你通常是在写完后立即发布，还是让它慢慢酝酿？
+我很少让它们慢慢酝酿，我只是把它们发布到世界各地，这样错别字就会自己显露出来。
+你最喜欢博客上的哪篇文章？
+明智的答案是7622 - 为什么我用两个 B 来拼写我的名字，但这篇关于 Hey Bear 果实的睡眠不足的漫谈绝对值得一看。
+博客有什么未来计划吗？
+我的清单比你想象的要长，但接下来是一些关于transient slash pages的工作。
+接下来谁会参加？
+Keenan，拜托。]]></description>
+      <guid>https://rknight.me/blog/blog-question-challenge/</guid>
+      <pubDate>Wed, 15 Jan 2025 14:18:04 GMT</pubDate>
+    </item>
     <item>
       <title>现在（2025 年 1 月）</title>
       <link>https://rknight.me/blog/now-january-2025/</link>
@@ -231,22 +261,6 @@ $ cd /data/coolify/services/isjdbvfihsavfids/$ chmod 777 gotosocial/data
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/stopping-mastodon-from-fetching-metadata-for-my-notes/</guid>
       <pubDate>Tue, 19 Nov 2024 13:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有用的 Bluesky 工具</title>
-      <link>https://rknight.me/blog/useful-bluesky-tools/</link>
-      <description><![CDATA[这个周末，我一直在帮助在 Bluesky 上设置 MacStories，并且我偶然发现了一些方便的网站。GitHub 上的这个 awesome-bluesky 列表中有很多有趣的与 Bluesky 相关的链接，下面是我偶然发现并觉得有用的链接。
-ClearSky 允许您查看您位于哪些列表（启动包）、您屏蔽了谁以及谁屏蔽了您。顺便说一句，屏蔽数据是公开的并且没有办法选择退出启动包，这表明完全没有考虑到这可能会被滥用，但这不是这篇文章的重点。不太重要，但为什么入门包的最低要求是七个这让我很难过。
-我发现了两个用于解析 DID 的工具，您需要它们来处理各种与 API 相关的事情。DID 是“每个帐户的持久、长期标识符。”它们看起来像这样：did:plc:b3i7xuqiybecdpm3lkywmlwv。
-
-Bluesky DID 解析器
-Bluesky DID 生成器 - 令人困惑的是，它被命名为“生成器”
-
-要在 Ivory 等 Mastodon 客户端中使用 Bluesky，您可以使用 Skybridge。如果我不能使用 Ivory，我怀疑我是否会检查 Bluesky。我使用 Coolify 自行安装了它。不过，Deck Blue 是一款不错的 Web 客户端。
-最后，SkyLink 是一款 Chrome 扩展程序，与 Streetpass 类似（尽管不那么先进）。
-您可以在 MacStories 入门包 中查看所有 MacStories 团队和播客帐户，我在那里的用户名是 @rknight.me。]]></description>
-      <guid>https://rknight.me/blog/useful-bluesky-tools/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:15:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
