@@ -4,7 +4,14 @@
     <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 14 Jan 2025 03:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 18:23:11 GMT</lastBuildDate>
+    <item>
+      <title>Marky 获得 DEVONthink 集成</title>
+      <link>https://brett.trpstra.net/link/535/16941987/marky-gets-devonthink-integration</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16941987/marky-gets-devonthink-integration</guid>
+      <pubDate>Fri, 17 Jan 2025 15:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>mdless 的删除线和表情符号</title>
       <link>https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless</link>
@@ -162,24 +169,6 @@ BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提�
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16927338/scripting-when-youre-away-beengone-2-dot-0</guid>
       <pubDate>Tue, 24 Dec 2024 18:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>StretchLink.cc 简介</title>
-      <link>https://brett.trpstra.net/link/535/16925839/introducing-stretchlink-dot-cc</link>
-      <description><![CDATA[
-我在制作其他东西的过程中做了一些东西。我没有完成其他东西，但我想我会分享这个东西……
-
-我很想恢复 StretchLink，这是我的小菜单栏应用程序，它会在您复制缩短的链接时展开它们，因此您在粘贴时会有一个完整的 URL。在跟随链接之前，它可以很好地查看链接将带您到哪里。考虑到互联网的现状，这似乎很有用。
-我有内部解析链接的代码，但我喜欢 API 的灵活性。原始 StretchLink 依赖于一个已经消失的 API，所以我决定自己编写一个。这并不复杂。
-所以这里是 stretchlink.cc。一个简单的小 API，它接受缩短的 URL 并输出长版本。如果您愿意，它可以删除跟踪信息，以及将亚马逊产品链接减少到 URL 运行所需的最低限度。它可以输出纯文本（仅解析的 URL）、Markdown（带有可选标题）或 JSON（包括原始 URL、扩展 URL 和可选标题）。
-我添加了缓存和并发，就其价值而言。如果使用它，它将很好地扩展。我怀疑它会不会，但我喜欢覆盖我的基础。我编写了几个快捷方式，利用它来在点击之前仔细检查你收到的 URL。我会单独分享这些。如果你用 API 做了任何有用的事情，请在评论中分享（与论坛相关）。
-查看登录页面了解详细说明。
-点赞或分享这篇文章Twitter。
-
-BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提供帮助，请单击此处。
-在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
-      <guid>https://brett.trpstra.net/link/535/16925839/introducing-stretchlink-dot-cc</guid>
-      <pubDate>Sat, 21 Dec 2024 19:54:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
