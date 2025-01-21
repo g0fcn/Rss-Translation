@@ -4,7 +4,7 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jan 2025 15:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 18:24:06 GMT</lastBuildDate>
     <item>
       <title>自动铅笔</title>
       <link>https://rknight.me/blog/mechanical-pencils/</link>
@@ -32,13 +32,13 @@ Kathy 提到“永远铅笔”，我大吃一惊，于是我完全按照她的�
 你如何撰写帖子？
 通常我在 Obsidian 中写草稿，然后将其复制到 VSCode 中并发布。对于较短的帖子或我的笔记，我将它们直接写入 CMS，然后将其推送到 GitHub 存储库。我在这里更深入地讨论了这个问题。
 什么时候最有写作灵感？
-我主要在两个时候感到灵感迸发：
+我主要在两个时候感到有灵感：
 
-当我解决了一个问题并想记录解决方案时
-当我感觉自己想写一篇推文时
+当我解决了一个问题并想要记录解决方案时
+当我感觉自己想要写一篇推文时
 
 你通常是在写完后立即发布，还是让它慢慢酝酿？
-我很少让它们慢慢酝酿，我只是把它们发布到世界各地，这样错别字就会自己显露出来。
+我很少让它们慢慢酝酿，我只是把它们发送到世界各地，这样错别字就会自己显露出来。
 你最喜欢博客上的哪篇文章？
 明智的答案是7622 - 为什么我用两个 B 来拼写我的名字，但这篇关于 Hey Bear 果实的睡眠不足的漫谈绝对值得一看。
 博客有什么未来计划吗？
@@ -124,7 +124,7 @@ Godspeed 是我现在处理大部分提醒和待办事项的地方
     <item>
       <title>我曾是 Conduit 的嘉宾</title>
       <link>https://rknight.me/blog/i-was-a-guest-on-conduit/</link>
-      <description><![CDATA[几周前，Jay 联系我，问我是否愿意做 Conduit 的嘉宾，我当然立刻答应了。
+      <description><![CDATA[几周前，Jay 联系我，问我是否愿意做客 Conduit，我当然立刻答应了。
 我们谈到了我的部分项目，包括我正在使用 EchoFeed 做什么，然后我被要求[1]创建一个网站，我做到了。在超级指挥家节目结束后，杰伊问我关于英国汽车的问题，我不得不把我从 Top Gear 和 Grand Tour 上学到的所有知识都用上。
 听听 Conduit 91：Robb Knight 为自己做了这个，也许你也一样
 
@@ -238,7 +238,7 @@ or more likely, through genuine curiousity ⤾
       <link>https://rknight.me/blog/app-defaults-2024/</link>
       <description><![CDATA[ RSS, Raindrop, Mastodon, BBC新闻, 提醒总结:一年来我的生活发生了很多变化。我目前完全使用来处理待办事项，尽管觉得提醒功能有些烦人。我自己托管RSS，并在iOS上使用，在Mac上使用。关于书签，我选择了自托管的解决方案。至于稍后阅读，我使用Raindrop，以前用的Omnivore已经停用了。在新闻方面，我仍在使用Mastodon，但应建议已将BBC新闻从我的主屏幕上移除。 
 It&#39;s been just over a year since Dual of the Defaults burst into our lives and my time was consumed by tracking nearly 400 blog posts. Rather than write out last years list again, here&#39;s what has changed since then:
-To-Do: I&#39;m all in on Godspeed. Reminders is just a bit. ..annoying?
+To-Do: I&#39;m all in on Godspeed. Reminders is just a bit...annoying?
 RSS: Self-hosted Miniflux with Reeder Classic on iOS and NetNewsWire on the Mac. Reeder is new because it has a dark icon, NetNewsWire doesn&#39;t right now.
 Bookmarks: Self-hosted LinkAce.
 Read-it-Later: Raindrop. Ominvore as it happens is now gone but I switched a while ago.
