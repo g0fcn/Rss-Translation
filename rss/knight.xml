@@ -4,7 +4,20 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 18:23:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 15:18:29 GMT</lastBuildDate>
+    <item>
+      <title>自动铅笔</title>
+      <link>https://rknight.me/blog/mechanical-pencils/</link>
+      <description><![CDATA[我在 Relay 和 omg.lol Discords 中询问了关于自动铅笔的推荐，以下是推荐的内容：
+
+Uniball Kuru Toga - 这款有一个花哨的削笔机制
+Tombow mono graph - 我在亚马逊上花了 3 英镑买了一支来试试
+Pentel sharp 看起来非常漂亮
+Kathy 提到“永远铅笔”，我大吃一惊，于是我完全按照她的要求订购了这款Sun Star 伸缩铅笔
+]]></description>
+      <guid>https://rknight.me/blog/mechanical-pencils/</guid>
+      <pubDate>Tue, 21 Jan 2025 13:12:00 GMT</pubDate>
+    </item>
     <item>
       <title>博客问答挑战</title>
       <link>https://rknight.me/blog/blog-question-challenge/</link>
@@ -225,7 +238,7 @@ or more likely, through genuine curiousity ⤾
       <link>https://rknight.me/blog/app-defaults-2024/</link>
       <description><![CDATA[ RSS, Raindrop, Mastodon, BBC新闻, 提醒总结:一年来我的生活发生了很多变化。我目前完全使用来处理待办事项，尽管觉得提醒功能有些烦人。我自己托管RSS，并在iOS上使用，在Mac上使用。关于书签，我选择了自托管的解决方案。至于稍后阅读，我使用Raindrop，以前用的Omnivore已经停用了。在新闻方面，我仍在使用Mastodon，但应建议已将BBC新闻从我的主屏幕上移除。 
 It&#39;s been just over a year since Dual of the Defaults burst into our lives and my time was consumed by tracking nearly 400 blog posts. Rather than write out last years list again, here&#39;s what has changed since then:
-To-Do: I&#39;m all in on Godspeed. Reminders is just a bit...annoying?
+To-Do: I&#39;m all in on Godspeed. Reminders is just a bit. ..annoying?
 RSS: Self-hosted Miniflux with Reeder Classic on iOS and NetNewsWire on the Mac. Reeder is new because it has a dark icon, NetNewsWire doesn&#39;t right now.
 Bookmarks: Self-hosted LinkAce.
 Read-it-Later: Raindrop. Ominvore as it happens is now gone but I switched a while ago.
@@ -254,13 +267,6 @@ $ cd /data/coolify/services/isjdbvfihsavfids/$ chmod 777 gotosocial/data
 我仍在尝试使用 GoToSocial，但它看起来是我想要的一个很好的解决方案 - 比 Mastodon 更容易维护，资源占用更少。]]></description>
       <guid>https://rknight.me/blog/installing-gotosocial-on-coolify/</guid>
       <pubDate>Wed, 20 Nov 2024 21:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>阻止 Mastodon 获取我的笔记的元数据</title>
-      <link>https://rknight.me/blog/stopping-mastodon-from-fetching-metadata-for-my-notes/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/stopping-mastodon-from-fetching-metadata-for-my-notes/</guid>
-      <pubDate>Tue, 19 Nov 2024 13:34:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
