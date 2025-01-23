@@ -4,7 +4,26 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 23 Jan 2025 06:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 12:34:36 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】推荐一款开源在线白板工具</title>
+      <link>https://meta.appinn.net/t/topic/65684</link>
+      <description><![CDATA[工具名称 Drawnix，名字源于绘画( Draw )与凤凰( Phoenix )的灵感交织。 
+Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理（暂时只能快速响应缺陷或者基础交互优化，高阶过功能可能要后续再迭代）。 
+ 
+
+
+
+另外，我个人其实非常喜欢excalidraw，也想做一个像excalidraw 一样简单、好用的在线白板工具，持续做下去就算成功，目前drawnix 虽然很新，相比其它优秀的开源白板一些基础交互和功能还不是特别强，但是drawnix 目前支持思维导图，是一体化的白板，这是同类开源白板工具不具备的，后续drawnix 的开发也会尽量克制，优先完善优化基础交互和基础能力，做简单好用的白板工具。 
+体验地址：https://drawnix.com
+仓储地址：GitHub - plait-board/drawnix: 开源白板工具（SaaS ），一体化白板，包含思维导图、流程图、自由画等。 All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+突破绘画，涅槃重生
+Draw Beyond, Rise Above.
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/65684</guid>
+      <pubDate>Thu, 23 Jan 2025 07:45:36 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】GitHub Freshness 帮助你快速判断一个 GitHub 仓库是否在更新</title>
       <link>https://meta.appinn.net/t/topic/65673</link>
@@ -422,28 +441,6 @@ Linux 基金会官方新闻：Linux Foundation Announces the Launch of Supporter
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65385</guid>
       <pubDate>Thu, 16 Jan 2025 11:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>猫猫贴纸-一款创意产品开始测试，欢迎参与测试</title>
-      <link>https://meta.appinn.net/t/topic/65375</link>
-      <description><![CDATA[名称
-猫猫贴纸（Kitten Sticker）
-简介
-猫猫贴纸是一款专为宠物爱好者打造的创意贴纸应用，让你的猫咪变得更加萌趣可爱！通过这款 app，你可以轻松为你的猫咪制作独一无二的贴纸，将它们的可爱瞬间转化为艺术品。 
-测试地址&lt; /h2&gt;
-需要将Play账号添加到测试组
-https ://play.google.com/store/apps/details?id=com.cat.sticker.catsticker
-交流
-拥有Play账号的同学可以进群交流
-
-图片
-
-视频
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65375</guid>
-      <pubDate>Thu, 16 Jan 2025 07:57:55 GMT</pubDate>
     </item>
     <item>
       <title>Ries.AI Chrome插件 - 无压力学习英语，拓展词汇量</title>
