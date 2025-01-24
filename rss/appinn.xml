@@ -4,7 +4,38 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 23 Jan 2025 12:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 09:18:18 GMT</lastBuildDate>
+    <item>
+      <title>从 Windows 转到 macOS 的各位是怎么适应 macOS 的操作习惯的？</title>
+      <link>https://meta.appinn.net/t/topic/65734</link>
+      <description><![CDATA[如题。这个月初公司要求，换到了 Macbook 开发。用了半个月都不习惯 macOS 的操作逻辑，尤其是：
+
+Control 和 Command 分离。原来Windows 下的Ctrl + A/C/V 现在变成Command + A/C/V，但Ctrl + S 这种又是Control + S，每次都记不清，一个操作要按两遍（而且我根本找不到舒适的手势来按Command…）；
+Delete 键直接没了，目前还不清楚如何替代；
+Windows 上可以 Ctrl + Backspace/Delete/左右 删除整个单词或跳过整个单词移动光标，目前还不清楚如何替代；
+Windows 上浏览器里可以「选中文字+拖动」，比如拖动到标签页栏就是「用默认搜索引擎搜索文字」，拖到编辑框就是「复制粘贴文字」，但macOS 上好像也没这操作；
+触摸板真的用不习惯，选中和移动光标时食指肌肉一直高度紧张，用了小半天感觉腱鞘炎要犯了；
+外接鼠标依然会光标加速，没法准确定位；
+方向键好小，大手按不着；
+不知道 Fn 键有啥用，好像没用过几次；
+应用打开速度总比 Windows 慢一拍；
+自带截图工具是直接保存而不是复制到剪贴板。动作稍微慢一两秒，右下角的临时预览悬浮窗就消失了，只能去截图目录拖出来；
+……
+
+还有一些疑似 bug：
+
+尽管把默认浏览器设成 Chrome，重按选中文字并选择「在 Google 中搜索」，依然会打开 Safari 来搜索；
+设置里的「鼠标」页经常无故消失；
+合盖后依然会尝试连接蓝牙耳机，手动断联也没用，一合盖又连上了。 
+
+
+以上纯属个人吐槽。我知道不少都能搜索解决，也不劳烦大家花时间来给我解答。我想说的是，macOS 的上手体验确实让我这个 Linux、Windows 老用户感觉异常水土不服。 
+大家是怎么克服 macOS 前期使用的不适应的？ 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/65734</guid>
+      <pubDate>Fri, 24 Jan 2025 07:40:05 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐】推荐一款开源在线白板工具</title>
       <link>https://meta.appinn.net/t/topic/65684</link>
@@ -441,31 +472,6 @@ Linux 基金会官方新闻：Linux Foundation Announces the Launch of Supporter
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65385</guid>
       <pubDate>Thu, 16 Jan 2025 11:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ries.AI Chrome插件 - 无压力学习英语，拓展词汇量</title>
-      <link>https://meta.appinn.net/t/topic/65373</link>
-      <description><![CDATA[大家好，我是Ries.AI的开发者Orion！作为一名职场人，我深知在忙碌的工作中抽出时间学习英语的难度。为此，我开发了Ries.AI Chrome插件，旨在帮助你在浏览中文网页时，轻松提升英语词汇量，做到无缝学习。 
-为什么使用Ries 。人工智能？ 
-1. 自然学习，零负担
-Ries.AI会在你浏览中文内容时智能地加入高频英语词汇，帮助你在保持日常习惯的同时，逐步提升词汇量。你无需额外安排学习时间，就能实现英语学习。 
-2. 高效理解，强化记忆
-当你阅读英文内容时，Ries.AI会根据你的个人语言图谱，挑选最合适的词汇进行翻译，确保你在理解内容的同时，学习新的单词，提升语言能力。 
-3. 个性化词汇图谱，因人而异
-Ries.AI会追踪你的词汇进展，智能调整学习难度，确保提供符合你水平的学习内容。这一设计基于“可理解性输入”理论，让学习更高效。 
-4. 融入工作流，不打扰效率
-Ries.AI与日常浏览完美融合，不会打扰你的工作流程。无论你是在阅读新闻、邮件还是其他内容，Ries.AI都能在不影响你的情况下帮助你学习英语。 
-如何体验？ 
-无需额外时间安排，也不需要繁琐的步骤。只需安装Ries.AI Chrome插件，就能开始随时随地的英语学习。 
- 点击此处免费安装插件
-你的反馈至关重要
-Ries.AI的目标是让语言学习变得更加自然、高效、无压力。我们真诚地邀请你体验并提供宝贵的反馈。我们将根据用户的建议不断优化，帮助大家更轻松地学习英语。 
-如果你有任何问题或建议，欢迎通过微信与我联系：OrionTyce
-期待你的加入！ 
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65373</guid>
-      <pubDate>Thu, 16 Jan 2025 06:53:19 GMT</pubDate>
     </item>
     <item>
       <title>｛Varia｝：跨平台的开源文件下载管理器，Adwaita 风格的 Aria2 图形前端</title>
