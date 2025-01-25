@@ -4,7 +4,52 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 24 Jan 2025 12:33:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 15:15:52 GMT</lastBuildDate>
+    <item>
+      <title>｛Filelight｝：适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况</title>
+      <link>https://meta.appinn.net/t/topic/65783</link>
+      <description><![CDATA[｛Filelight｝：适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况
+＞ 源码：KDE Invent
+＞ 许可：GPL-2.0 等
+ 
+
+馆长注：
+1. 该软件最初是为 Linux 平台开发，后续移植到 Windows 和 macOS 平台，相比之下开发进度可能较为迟滞，可能存在不可用和不稳定情况。 
+2. 因为该软件除了扫描功能外还有文件删除功能，故请做好备份谨慎操作，防止不必要的文件损失。 
+
+Filelight 是一个适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况。 
+功能特性：
+
+扫描本地、远程或可移动磁盘
+查看文件和文件夹的详细信息
+删除占用过多存储空间的文件和文件夹
+与 Dolphin、Konqueror 和 Krusader 等文件管理器集成使用
+可自定义的配色方案
+
+
+版本：24.12.1
+关注：Flathub 237k+ Installs
+状态：正常维护
+语言：支持中文
+网络：无联网功能
+资费：免费
+平台： linux；&lt; svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;windows；macos
+＞ 主页：KDE 应用程序
+＞ 安装：Flathub；Snap Store；Microsoft Store
+＞ 指南：KDE 用户百科
+＞ 交流：KDE 论坛
+＞ 捐助：捐款给 KDE
+ 
+＞ 副本：FU102；TG101；Appinn
+＞ 档案：20240620_003
+＃：1_开源项目 # 2_开源工具收集
+＃：#A_收集 #B_整理 #C _引述 #D_开源 #D_工具 #E_中文
+％：2025年1月25日（UTC+8）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/65783</guid>
+      <pubDate>Sat, 25 Jan 2025 13:32:20 GMT</pubDate>
+    </item>
     <item>
       <title>从 Windows 转到 macOS 的各位是怎么适应 macOS 的操作习惯的？</title>
       <link>https://meta.appinn.net/t/topic/65734</link>
@@ -444,34 +489,6 @@ macOS
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65393</guid>
       <pubDate>Fri, 17 Jan 2025 01:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌安排Linux基金会接手Chromium项目以避反垄断措施</title>
-      <link>https://meta.appinn.net/t/topic/65385</link>
-      <description><![CDATA[为应对与美国司法部的反垄断诉讼，谷歌面临可能被迫出售Chrome浏览器的困境，促使谷歌选择中立的Linux基金会作为管理者，旨在确保Chromium项目避免了微软的独占。 
-Linux基金会相关页面摘要
-支持基于Chromium的浏览器的组织将为行业领袖、学术界、开发者及更广泛的开源社区提供一个中立空间，以共同支持Chromium生态系统内的项目。通过促进合作，该组织旨在消除创新障碍，扩大采纳率，并确保Chromium生态系统内的项目获得所需资源以蓬勃发展。 Chromium项目本身将继续在现有的治理结构下运作，而新成立的支持基于Chromium的浏览器组织将归于Linux基金会管辖之下。 
-关键点&lt; /h3&gt;
-
-支持基于Chromium的浏览器的组织旨在促进不同利益相关者之间的合作与交流。 
-该组织将为开源社区提供一个中立的平台，以支持Chromium生态系统的成长。 
-目标是消除创新过程中的障碍，推动技术的快速发展。 
-支持者组织将帮助扩大基于Chromium的技术的采用率和应用范围。 
-Chromium项目将继续遵循现有的治理结构，保持独立性。 
-新的支持组织将归属于Linux基金会，增强其资源与影响力。 
-这一举措旨在为相关项目提供所需的资源，确保其长期成功和可持续发展。 
-
-信息来源：
-
-为挽救Chromium，Linux基金会站了出来 - 三姨君的文章 - 知乎
-https://zhuanlan.zhihu.com/p/17893253688
-相关页面：Supporters of Chromium- Based Browsers
-Linux 基金会官方新闻：Linux Foundation Announces the Launch of Supporters of Chromium-Based Browsers
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65385</guid>
-      <pubDate>Thu, 16 Jan 2025 11:43:27 GMT</pubDate>
     </item>
     <item>
       <title>｛Varia｝：跨平台的开源文件下载管理器，Adwaita 风格的 Aria2 图形前端</title>
