@@ -4,7 +4,39 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Jan 2025 15:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 18:20:41 GMT</lastBuildDate>
+    <item>
+      <title>自由哈士奇</title>
+      <link>https://meta.appinn.net/t/topic/65787</link>
+      <description><![CDATA[这是一个基于 Firefox 开发的一个独立的分支，以隐私、安全和用户自由为首要目标。 
+
+
+
+librewolf.net
+
+
+
+LibreWolf Browser
+A custom version of Firefox, focused on privacy, security and freedom.
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/65787</guid>
+      <pubDate>Sat, 25 Jan 2025 16:44:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在还有美化贴吧的插件吗？</title>
+      <link>https://meta.appinn.net/t/topic/65786</link>
+      <description><![CDATA[在Win上的浏览器里使用0.0
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/65786</guid>
+      <pubDate>Sat, 25 Jan 2025 15:43:54 GMT</pubDate>
+    </item>
     <item>
       <title>｛Filelight｝：适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况</title>
       <link>https://meta.appinn.net/t/topic/65783</link>
@@ -406,89 +438,6 @@ macOS
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65449</guid>
       <pubDate>Sat, 18 Jan 2025 05:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>【付费】如何自动展开问答列表的每一个折叠文本（答案）（网站无限制）</title>
-      <link>https://meta.appinn.net/t/topic/65423</link>
-      <description><![CDATA[【付费】如何自动展开问答列表的每一个隐藏文本
-我想搜集一个开放网站的问题与答案，页面会展示所有问题，答案只需要点击问题就可以看到，但是需要一个一个点开。可以小额付费，如果太复杂/价格高就不麻烦大家了。 
-谷歌浏览器，Win
-问题清单网址
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65423</guid>
-      <pubDate>Fri, 17 Jan 2025 11:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 代码过滤器：设计工具代码提取利器</title>
-      <link>https://meta.appinn.net/t/topic/65393</link>
-      <description><![CDATA[ 诞生背景
-在前端开发工作中，我们经常遇到这样的场景：
-
-从 Figma、摹客、蓝湖 等设计工具中复制样式代码
-需要从冗长的 CSS 中提取特定属性（如布局、字体、背景 等）
-手动筛选过程繁琐且容易遗漏
-
-为了解决这个效率问题，我用 Cursor 开发了『CSS代码过滤器』浏览器插件，让代码提取变得简单高效。 
-插件信息&lt; /h2&gt;
-插件名字：CSS 代码过滤器
-插件地址：https://chromewebstore.google.com/detail/css-代码过滤器/lagekjeidhfjnofmoegfifcckdnilelj?hl=zh-CN
-效果演示动图
-
- 核心功能
-1. 智能属性搜索
-
-支持模糊搜索和缩写匹配（如w → width，bg → background）
-实时过滤显示匹配的 CSS 属性
-支持多属性同时选择
-
-2. 方案管理
-
-支持创建、保存、更新和删除常用的属性组合方案
-方案数据本地持久化存储
-快速切换不同的属性组合
-
-3. 便捷操作
-
-一键复制过滤后的代码
-智能的属性选择界面
-清晰的已选属性展示
-
- 使用方法
-
-
-创建属性方案
-
-点击&quot;新增方案&quot;（例如：创建&quot;布局方案&quot;包含 width、height、margin 等属性）
-输入方案名称
-选择需要的 CSS 属性
-保存方案
-
-
-
-提取 CSS 代码
-
-从设计工具复制 CSS 代码
-选择已有方案或直接选择需要的属性
-点击&quot;过滤 CSS 代码&quot;
-获取过滤后的结果并使用
-
-
-
- 支持作者
-如果你觉得这个工具对你有帮助，欢迎：
-
-在 B 站关注作者：作者主页
-赞助支持：赞助链接
-
- 结语
-『CSS 代码过滤器』源于实际开发中与设计工具协作的需求，致力于提升前端开发效率。它能让你的样式代码处理工作变得更加轻松。无论你是刚开始接触前端还是经验丰富的开发者，相信这个工具都能为你的工作带来便利。 
-欢迎下载使用，也期待你的反馈和建议！ 
-
-4 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65393</guid>
-      <pubDate>Fri, 17 Jan 2025 01:20:42 GMT</pubDate>
     </item>
     <item>
       <title>｛Varia｝：跨平台的开源文件下载管理器，Adwaita 风格的 Aria2 图形前端</title>
