@@ -4,7 +4,7 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Jan 2025 21:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 03:19:50 GMT</lastBuildDate>
     <item>
       <title>自由哈士奇</title>
       <link>https://meta.appinn.net/t/topic/65787</link>
@@ -440,45 +440,14 @@ macOS
       <pubDate>Sat, 18 Jan 2025 05:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>｛Varia｝：跨平台的开源文件下载管理器，Adwaita 风格的 Aria2 图形前端</title>
-      <link>https://meta.appinn.net/t/topic/65215</link>
-      <description><![CDATA[川陀大学图书馆
- 
-｛Varia｝：跨平台的开源文件下载管理器，Adwaita 风格的 Aria2 图形前端
-＞ 源码：GitHub
-＞ 许可：MPL-2.0
- 
-Varia 是一个跨平台的开源文件下载管理器，支持使用 Aria2 下载普通文件和 Torrent，并采用 GTK4 和 Libadwaita 制作用户界面。特性如下：
+      <title>Edge浏览器怎么设置关闭最后一个标签时不关闭浏览器？</title>
+      <link>https://meta.appinn.net/t/topic/31593</link>
+      <description><![CDATA[类似360的这种设置
 
-快速下载文件和磁盘阵列，即使重启后也能继续下载未完成的文件。 
-可通过插件与 Firefox 浏览器和 Chromium 浏览器集成，以重定向下载。 
-使用功能强大的调度程序安排下载，允许为一周中的每一天自定义时间段。 
-通过基本认证和 cookies.txt 导入支持从受保护区域进行下载。 
-控制运行在任何服务器上的远程 aria2 实例。 
-
-
-版本：2024.11.7-1
-关注：GitHub 340+ stars
-状态：正常维护
-语言：支持中文
-网络：主要为联网功能
-资费：免费
-平台： linux；&lt; svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;windows；firefox；chromium（chrome）
-＞ 主页：Varia
-＞ 安装：GitHub Releases；Repology&lt; /a&gt;；Flathub
-＞ 安装：Firefox Add-ons；Chrome Web Store
-＞ 捐助：GitHub Sponsors
- 
-＞ 副本：川陀大学图书馆 FU102
-＞ 副本：川陀大学图书馆 TG101
-＞ 档案：20240604_008
-＃：1_开源项目 # 2_开源工具收集
-＃：#A_收集 #B_整理 #C _引述 #D_开源 #D_工具 #E_中文
-％：2025年1月12日（UTC+8）
-5 个帖子 - 4 位参与者
+26 个帖子 - 9 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65215</guid>
-      <pubDate>Mon, 13 Jan 2025 01:11:51 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/31593</guid>
+      <pubDate>Mon, 11 Apr 2022 09:05:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
