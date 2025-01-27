@@ -4,7 +4,20 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jan 2025 18:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:17:13 GMT</lastBuildDate>
+    <item>
+      <title>对 Pixelfed 的质疑</title>
+      <link>https://rknight.me/blog/doubts-about-pixelfed/</link>
+      <description><![CDATA[我有一个 Pixelfed 帐户。我发帖不多，但它就在那里。我喜欢有一个专门的地方来发布照片。我喜欢看别人的照片。首先我要说的是，Pixelfed 的维护者 Dan 总是在我向他询问各种与 ActivityPub 相关的事情时非常乐于助人。当谈到 AP 规范时，他非常了解。这篇文章收集了我过去几个月对 Pixelfed 及其寿命的担忧。
+Dan，引用 Mel 的话，“像创始人一样发帖（贬义）”，并不是一件有趣的事情。
+Pixelfed Kickstarter 表示他们希望成为“第一个拥有 10 亿用户的 Fediverse 应用程序”。无论如何都要有远大的梦想，但这很混乱。我们已经看到了十亿人社交网络会发生什么——联盟不会解决这个问题。
+在 Mel 的帖子中，她注意到项目帐户发布了有关当天可用的新数据导出功能。它以前不可用，现在仍然不可用。可用的导出实际上并不包括您的图像，它只是带有文件 URL 的 JSON。对于没有技术知识的人来说，这不是理想的导出。
+事实证明，Pixelfed.social 运行的是来自 repo 的最新提交，这意味着格式与发布版本不同，因此 Mel 整理的代码仅适用于其他 Pixelfed 服务器。方便的是，Posty 支持这两种格式。值得注意的是，Pixelfed.social 上的版本不是发布的完整 HTML 版本，只是一种新格式。
+最后，这篇概述 Dan 的“对 FOSS 维护者和整个生态系统的敌意”读起来真的很不舒服，对项目的未来来说不是一个好兆头。
+所有这些因素加在一起让我不想使用 Pixelfed，所以我将把我的导出转换为这里的笔记帖子，并删除我的 Pixelfed 帐户。]]></description>
+      <guid>https://rknight.me/blog/doubts-about-pixelfed/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:49:31 GMT</pubDate>
+    </item>
     <item>
       <title>自动铅笔</title>
       <link>https://rknight.me/blog/mechanical-pencils/</link>
@@ -32,13 +45,13 @@ Kathy 提到“永远铅笔”，我大吃一惊，于是我完全按照她的�
 你如何撰写帖子？
 通常我在 Obsidian 中写草稿，然后将其复制到 VSCode 中并发布。对于较短的帖子或我的笔记，我将它们直接写入 CMS，然后将其推送到 GitHub 存储库。我在这里更深入地讨论了这个问题。
 什么时候最有写作灵感？
-我主要在两个时候感到有灵感：
+我主要在两个时候感到灵感迸发：
 
-当我解决了一个问题并想要记录解决方案时
-当我感觉自己想要写一篇推文时
+当我解决了一个问题并想记录解决方案时
+当我感觉自己想写一篇推文时
 
 你通常是在写完后立即发布，还是让它慢慢酝酿？
-我很少让它们慢慢酝酿，我只是把它们发送到世界各地，这样错别字就会自己显露出来。
+我很少让它们慢慢酝酿，我只是把它们发布到世界各地，这样错别字就会自己显露出来。
 你最喜欢博客上的哪篇文章？
 明智的答案是7622 - 为什么我用两个 B 来拼写我的名字，但这篇关于 Hey Bear 果实的睡眠不足的漫谈绝对值得一看。
 博客有什么未来计划吗？
@@ -124,7 +137,7 @@ Godspeed 是我现在处理大部分提醒和待办事项的地方
     <item>
       <title>我曾是 Conduit 的嘉宾</title>
       <link>https://rknight.me/blog/i-was-a-guest-on-conduit/</link>
-      <description><![CDATA[几周前，Jay 联系我，问我是否愿意做客 Conduit，我当然立刻答应了。
+      <description><![CDATA[几周前，Jay 联系我，问我是否愿意做 Conduit 的嘉宾，我当然立刻答应了。
 我们谈到了我的部分项目，包括我正在使用 EchoFeed 做什么，然后我被要求[1]创建一个网站，我做到了。在超级指挥家节目结束后，杰伊问我关于英国汽车的问题，我不得不把我从 Top Gear 和 Grand Tour 上学到的所有知识都用上。
 听听 Conduit 91：Robb Knight 为自己做了这个，也许你也一样
 
@@ -201,20 +214,20 @@ Time for a heaving link dump becuase I&#39;m well into triple figures in my Rain
 First up are a pair of intorductions: one to Alpine.js by Blake of HTML for People fame and one for htmx. I&#39;m always on the lookout for something a bit less complicated than a full-on framework.
 Things you forgot (or never knew) because of React is a scathing look at the state[1] of React in comparison to other, similar frameworks and it&#39;s not great.
 Ergonomic Static Site Blogging. Someone else on a quest to have a nice CMS for a static site with no success.
-Leon and Melanie both wrote up their experience with Coolify with the latter setting up a Bluesky PDS for shits and giggles[2]:
+Leon and Melanie both wrote up their experience with Coolify with the latter setting up a Bluesky PDS for shits and giggles&lt; sup class=&quot;footnote-ref&quot;&gt;[2]: 
 
 The hardest part of all of this was Bluesky’s instability. Bluesky likes to pretend that it is “decentralized” or “federated.” It sure as shit isn’t either of those things.
 
-How I teach Eleventy from scratch is an excellent intro to Eleventy by Juha-Matti; this will be my go-to next time someone asks about how to get started.
+How I teach Eleventy from scratch is an excellent intro to Eleventy by Juha -Matti; this will be my go-to next time someone asks about how to get started.
 One more tutorial, this time for CSS sprite sheet animations.
 Coding Font sets up a bracket like the sports do to choose the best coding font for you. It lacks a few popular ones but it&#39;s a fun distraction for a couple of minutes.
-Kagi, the search engine, open-sourced their feed parser. &quot;It&#39;s 10x-100x faster than a traditional feedparser&quot;.
+Kagi, the search engine, open-sourced their feed parser. &quot;It&#39;s 10x-100x faster than a traditional feedparser&quot; .
 Can I PHP? It&#39;s like Can I Use but for PHP features. Fun.
 I was wronged by Safari and was sent this great post on browsers by Tyler. Also, it&#39;s not just me.
 Gamery released ScanDex, a &quot;curated barcode database for video games&quot; and Foursquare released a huge places dataset.
 I don&#39;t have much call for doing web videos but player.style look likes a great resource for different styles.
 Johnny mentioned he used Migadu Email for his email. Pricing looks great, unlimited domains and mailboxes. If I ever need to move off of iCloud, this might be the way to go.
-“Back to the Future” and “The Goonies” take place on the same day. Can&#39;t argue with this logic, it&#39;s canon now.
+ “Back to the Future” and “The Goonies” take place on the same day. Can&#39;t argue with this logic, it&#39;s canon now.
 I am obsessed with Wes Tank Rapping Fox in Socks on the Dr Suess channel.
 An Akaline Trio font.
 And finally, I want this clothes shop for dads idea to be a reality.
@@ -238,35 +251,13 @@ or more likely, through genuine curiousity ⤾
       <link>https://rknight.me/blog/app-defaults-2024/</link>
       <description><![CDATA[ RSS, Raindrop, Mastodon, BBC新闻, 提醒总结:一年来我的生活发生了很多变化。我目前完全使用来处理待办事项，尽管觉得提醒功能有些烦人。我自己托管RSS，并在iOS上使用，在Mac上使用。关于书签，我选择了自托管的解决方案。至于稍后阅读，我使用Raindrop，以前用的Omnivore已经停用了。在新闻方面，我仍在使用Mastodon，但应建议已将BBC新闻从我的主屏幕上移除。 
 It&#39;s been just over a year since Dual of the Defaults burst into our lives and my time was consumed by tracking nearly 400 blog posts. Rather than write out last years list again, here&#39;s what has changed since then:
-To-Do: I&#39;m all in on Godspeed. Reminders is just a bit...annoying?
+To-Do: I&#39;m all in on Godspeed. Reminders is just a bit. ..annoying?
 RSS: Self-hosted Miniflux with Reeder Classic on iOS and NetNewsWire on the Mac. Reeder is new because it has a dark icon, NetNewsWire doesn&#39;t right now.
 Bookmarks: Self-hosted LinkAce.
 Read-it-Later: Raindrop. Ominvore as it happens is now gone but I switched a while ago.
 News: I&#39;m still using Mastodon but on the advice of Johnny, BBC news is gone from my home screen.]]></description>
       <guid>https://rknight.me/blog/app-defaults-2024/</guid>
       <pubDate>Mon, 25 Nov 2024 20:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Coolify 上安装 GoToSocial</title>
-      <link>https://rknight.me/blog/installing-gotosocial-on-coolify/</link>
-      <description><![CDATA[由于各种原因，我今晚有机会尝试一下 GoToSocial，所以我将它安装在运行 Coolify 的服务器上，但遇到了几个问题，在 Lewis 和 Brandon 的帮助下，我解决了这些问题。
-首先，因为它运行的是反向代理，所以我需要 Docker compose 文件中的第三个选项。
-端口： # - “443:8080” ## 对于 letsencrypt： #- “80:80” ## 对于反向代理设置： - “127.0.0.1:8082:8080”
-第二个问题是 GoToSocial 无法访问数据库，日志中显示此错误：
-sqlite ping：sqlite3：无法打开数据库文件
-此 GitHub 问题显示这是一个权限问题，其中 docker compose 中指定的用户不是具有 gotosocial/data 文件权限的用户。我本可以尝试找出用户和组是什么，或者我可以通过 chmod 来解决这个问题。猜猜我选了哪一个。在 Coolify 中，转到侧边栏中的 Terminal，选择安装 GoToSocial 的项目，然后连接并 cd 到目录。然后设置数据目录的权限。
-$ cd /data/coolify/services/isjdbvfihsavfids/$ chmod 777 gotosocial/data
-我通过检查 Coolify 中 GoToSocial 服务上的 storage 选项卡获得了它的安装目录 (/isjdbvfihsavfids)。
-其他说明：
-
-/settings 可让您进入帐户的设置页面。
-帖子的默认可见性为“未列出”，与 Mastodon 不同，Mastodon 的公开可见性为默认。您可以在设置中更改此设置。
-其他实例级设置（如配置文件上的自定义 CSS）可以在 config.yaml 文件中更改，请参阅此处的配置文档。
-将用户设为管理员需要重新启动服务器。
-
-我仍在尝试使用 GoToSocial，但它看起来是我想要的一个很好的解决方案 - 比 Mastodon 更容易维护，资源占用更少。]]></description>
-      <guid>https://rknight.me/blog/installing-gotosocial-on-coolify/</guid>
-      <pubDate>Wed, 20 Nov 2024 21:00:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
