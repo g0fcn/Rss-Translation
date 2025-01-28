@@ -4,7 +4,17 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 28 Jan 2025 01:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 15:18:50 GMT</lastBuildDate>
+    <item>
+      <title>我的 Pebble Steel 基本已经报废</title>
+      <link>https://rknight.me/blog/my-pebble-steel-is-mostly-dead/</link>
+      <description><![CDATA[得知Pebble 即将回归的消息后，我找到了我的 Pebble Steel，看看它是否还能用。
+在摆弄了糟糕的充电线，陷入了循环一段时间后，它终于启动了，我能够将表盘设置为我十年前制作的Relay。
+
+遗憾的是，当我断开充电器时，它会关闭。我想它需要一块新电池，但我没有精力或时间这样做，所以它又回到了存储中。]]></description>
+      <guid>https://rknight.me/blog/my-pebble-steel-is-mostly-dead/</guid>
+      <pubDate>Tue, 28 Jan 2025 13:44:41 GMT</pubDate>
+    </item>
     <item>
       <title>对 Pixelfed 的质疑</title>
       <link>https://rknight.me/blog/doubts-about-pixelfed/</link>
@@ -245,19 +255,6 @@ or more likely, through genuine curiousity ⤾
 ]]></description>
       <guid>https://rknight.me/blog/link-dump-5/</guid>
       <pubDate>Wed, 27 Nov 2024 12:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用默认设置 2024</title>
-      <link>https://rknight.me/blog/app-defaults-2024/</link>
-      <description><![CDATA[ RSS, Raindrop, Mastodon, BBC新闻, 提醒总结:一年来我的生活发生了很多变化。我目前完全使用来处理待办事项，尽管觉得提醒功能有些烦人。我自己托管RSS，并在iOS上使用，在Mac上使用。关于书签，我选择了自托管的解决方案。至于稍后阅读，我使用Raindrop，以前用的Omnivore已经停用了。在新闻方面，我仍在使用Mastodon，但应建议已将BBC新闻从我的主屏幕上移除。 
-It&#39;s been just over a year since Dual of the Defaults burst into our lives and my time was consumed by tracking nearly 400 blog posts. Rather than write out last years list again, here&#39;s what has changed since then:
-To-Do: I&#39;m all in on Godspeed. Reminders is just a bit. ..annoying?
-RSS: Self-hosted Miniflux with Reeder Classic on iOS and NetNewsWire on the Mac. Reeder is new because it has a dark icon, NetNewsWire doesn&#39;t right now.
-Bookmarks: Self-hosted LinkAce.
-Read-it-Later: Raindrop. Ominvore as it happens is now gone but I switched a while ago.
-News: I&#39;m still using Mastodon but on the advice of Johnny, BBC news is gone from my home screen.]]></description>
-      <guid>https://rknight.me/blog/app-defaults-2024/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:18:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
