@@ -4,7 +4,40 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 28 Jan 2025 18:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 01:18:47 GMT</lastBuildDate>
+    <item>
+      <title>音乐问题挑战</title>
+      <link>https://rknight.me/blog/music-questions-challenge/</link>
+      <description><![CDATA[我被 Flamed 和其他人标记在 omg.lol Signal 聊天 中（但消息太多，无法检查是谁标记的）。
+你最喜欢的五张专辑是什么？
+我已经在一篇题为“完美专辑”的帖子中写过这个，所以我会推荐你​​去那里。虽然我肯定会将From Zero添加到完美专辑列表中。
+你最喜欢的五首歌是什么？
+
+Faint - Linkin Park
+Letters to You - Finch
+Cute Without the &#39;E&#39; (Cut From the Team) - Taking Back Sunday
+Where I Belong - Simple Plan &amp; State Champs
+Crashed the Wedding - Busted
+
+最喜欢的乐器？
+吉他。
+您目前正在听什么歌曲或专辑？
+Bring Me the Horizo​​n 的翻唱的 Wonderwall 真是太棒了，自从我发现它以来，我每周至少听一次The Bootstrap Paradox。
+您听收音机吗？如果是，频率是多少？
+我非常不喜欢收音机，所以我在车里会把它调成静音，这样我就不用在手机连接所需的 5 秒钟内听到收音机的声音了。
+你多久听一次音乐？
+每天。
+你多久发现一次音乐？您是如何发现音乐的？
+我每周都会查看一次或两次 Apple Music 主页上的推荐。
+您喜欢的歌曲或专辑是什么，但您希望它能得到更多的认可？
+Sugarcult 的《Palm Trees and Power Lines》。
+您一直以来最喜欢的歌曲是什么？
+这是一个几乎不可能回答的问题，但也许是 Linkin Park 的《Faint》。
+这些年来您的音乐品味有变化吗？
+从我 16 岁起就没有变化过。现在我更擅长听专辑了，即使一开始我都不认识这些歌。]]></description>
+      <guid>https://rknight.me/blog/music-questions-challenge/</guid>
+      <pubDate>Sun, 02 Feb 2025 23:24:30 GMT</pubDate>
+    </item>
     <item>
       <title>我的 Pebble Steel 基本已经报废</title>
       <link>https://rknight.me/blog/my-pebble-steel-is-mostly-dead/</link>
@@ -215,46 +248,6 @@ EmojiStorm 就是这样一个项目。它以 Zach 的 snow-fall 组件 的一个
 ]]></description>
       <guid>https://rknight.me/blog/chicken-tinga-recipe/</guid>
       <pubDate>Tue, 10 Dec 2024 12:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>链接转储 #5</title>
-      <link>https://rknight.me/blog/link-dump-5/</link>
-      <description><![CDATA[ React, CMS, Bluesky, Eleventy, Kagi总结:文章中介绍了多个技术工具和资源。首先有对React及其不尽如人意的表现的批评。接下来提到了几位作者尝试使用Bluesky PDS的体验，以及Eleventy的一篇入门教程推荐。此外，讨论了Kagi搜索引擎在处理订阅内容时显示出的高效性。最后，作者表达了对某些视频游戏和网页视频资源的兴趣，并提到了一种理想的静态站点CMS的想法。 
-Time for a heaving link dump becuase I&#39;m well into triple figures in my Raindrop inbox.
-First up are a pair of intorductions: one to Alpine.js by Blake of HTML for People fame and one for htmx. I&#39;m always on the lookout for something a bit less complicated than a full-on framework.
-Things you forgot (or never knew) because of React is a scathing look at the state[1] of React in comparison to other, similar frameworks and it&#39;s not great.
-Ergonomic Static Site Blogging. Someone else on a quest to have a nice CMS for a static site with no success.
-Leon and Melanie both wrote up their experience with Coolify with the latter setting up a Bluesky PDS for shits and giggles&lt; sup class=&quot;footnote-ref&quot;&gt;[2]: 
-
-The hardest part of all of this was Bluesky’s instability. Bluesky likes to pretend that it is “decentralized” or “federated.” It sure as shit isn’t either of those things.
-
-How I teach Eleventy from scratch is an excellent intro to Eleventy by Juha -Matti; this will be my go-to next time someone asks about how to get started.
-One more tutorial, this time for CSS sprite sheet animations.
-Coding Font sets up a bracket like the sports do to choose the best coding font for you. It lacks a few popular ones but it&#39;s a fun distraction for a couple of minutes.
-Kagi, the search engine, open-sourced their feed parser. &quot;It&#39;s 10x-100x faster than a traditional feedparser&quot; .
-Can I PHP? It&#39;s like Can I Use but for PHP features. Fun.
-I was wronged by Safari and was sent this great post on browsers by Tyler. Also, it&#39;s not just me.
-Gamery released ScanDex, a &quot;curated barcode database for video games&quot; and Foursquare released a huge places dataset.
-I don&#39;t have much call for doing web videos but player.style look likes a great resource for different styles.
-Johnny mentioned he used Migadu Email for his email. Pricing looks great, unlimited domains and mailboxes. If I ever need to move off of iCloud, this might be the way to go.
- “Back to the Future” and “The Goonies” take place on the same day. Can&#39;t argue with this logic, it&#39;s canon now.
-I am obsessed with Wes Tank Rapping Fox in Socks on the Dr Suess channel.
-An Akaline Trio font.
-And finally, I want this clothes shop for dads idea to be a reality.
-
-you&#39;re sure as hell not gonna advertise some bugger else&#39;s T-shirt business on your body, so you give him twelve quid and he hands you Bin Bag 2
-
-
-
-
-Not an intentional pun ⤾
-
-or more likely, through genuine curiousity ⤾
-
-
-]]></description>
-      <guid>https://rknight.me/blog/link-dump-5/</guid>
-      <pubDate>Wed, 27 Nov 2024 12:06:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
