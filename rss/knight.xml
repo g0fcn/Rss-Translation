@@ -4,7 +4,24 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Feb 2025 03:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 21:16:18 GMT</lastBuildDate>
+    <item>
+      <title>Zebra Big 30 支装钢笔</title>
+      <link>https://rknight.me/blog/zebra-big-30-pack-of-pens/</link>
+      <description><![CDATA[我想买一包mildliners来给我的bullet journal增添一些色彩，它们大多是五包一包的，对一个人来说已经足够了。当我在谷歌上搜索谁有库存时，我看到了这个 30 件装，里面有 15 支软笔、15 支钢笔和一个精致的笔架，只要 10 英镑，所以如果我不买它，我会亏本[1]。
+
+所有酷孩子都会做小测试页，所以在这里，我在笔记本背面做了一个。我真的喜欢朱红色和烟蓝色。
+
+
+
+
+我不是经济学家，别管我⤾
+
+
+]]></description>
+      <guid>https://rknight.me/blog/zebra-big-30-pack-of-pens/</guid>
+      <pubDate>Tue, 04 Feb 2025 19:46:17 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Eleventy 加载 Pixelfed 照片</title>
       <link>https://rknight.me/blog/loading-pixelfed-photos-with-eleventy/</link>
@@ -213,16 +230,6 @@ Godspeed 是我现在处理大部分提醒和待办事项的地方
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/lens-meta-tag-checker-robbs-version/</guid>
       <pubDate>Mon, 23 Dec 2024 15:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>表情符号风暴</title>
-      <link>https://rknight.me/blog/emojistorm/</link>
-      <description><![CDATA[你知道吗，有时候你做了一件事，然后你想“哦，我要做另一件事”，然后又做了另一件与此相关的事情，然后你知道你正在用别人做的一个网络组件制作一个奇怪的网站，因为你可以？不是吗？不管怎样。
-EmojiStorm 就是这样一个项目。它以 Zach 的 snow-fall 组件 的一个实例开始，然后你可以继续添加更多，但这是一个随机的表情符号。
-十个左右之后，它会变得有点慢，这取决于你的电脑，所以你已经被警告了。
-在这里查看 EmojiStorm。]]></description>
-      <guid>https://rknight.me/blog/emojistorm/</guid>
-      <pubDate>Thu, 19 Dec 2024 21:22:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
