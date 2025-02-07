@@ -4,7 +4,17 @@
     <title>Robb Knight • 帖子 • Atom Feed</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Feb 2025 01:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:19:18 GMT</lastBuildDate>
+    <item>
+      <title>实用刀具的小兔子洞</title>
+      <link>https://rknight.me/blog/a-small-rabbit-hole-of-utility-knives/</link>
+      <description><![CDATA[
+Palmer 多功能刀在The Pen Addict的最新一集中被提及，这让我陷入了一个小小的兔子洞。 Studio Neat 有 Keen，将于今年夏天发货，售价 78 英镑，还有 SlideWinder，售价 15 英镑。告诉你这是一个小洞。
+我最想买的是原子紫的 Palmer - 它的设计和其他人相比更吸引我。我差点就买了，但考虑了一会儿；我只是不会经常用这种刀。
+不过，看到许多不同的公司都在解决这个非常具体的问题，还是很有趣的。]]></description>
+      <guid>https://rknight.me/blog/a-small-rabbit-hole-of-utility-knives/</guid>
+      <pubDate>Thu, 06 Feb 2025 20:18:28 GMT</pubDate>
+    </item>
     <item>
       <title>Zebra Big 30 支装钢笔</title>
       <link>https://rknight.me/blog/zebra-big-30-pack-of-pens/</link>
@@ -52,13 +62,13 @@ Bring Me the Horizo​​n 的翻唱的 Wonderwall 真是太棒了，自从我�
 你多久听一次音乐？
 每天。
 你多久发现一次音乐？您是如何发现音乐的？
-我每周都会查看一次或两次 Apple Music 主页上的推荐。
-您喜欢的歌曲或专辑是什么，但您希望它能得到更多的认可？
+我每周都会查看 Apple Music 主页一两次，了解推荐内容。
+您喜欢哪首歌或哪张专辑，但希望它能得到更多的认可？
 Sugarcult 的《Palm Trees and Power Lines》。
 您一直以来最喜欢的歌曲是什么？
 这是一个几乎不可能回答的问题，但也许是 Linkin Park 的《Faint》。
-这些年来您的音乐品味有变化吗？
-从我 16 岁起就没有变化过。现在我更擅长听专辑了，即使一开始我都不认识这些歌。]]></description>
+这些年来，您的音乐品味有变化吗？
+从我 16 岁起就没有变化过。现在，即使一开始我都不认识这些歌，我也能更好地听专辑了。]]></description>
       <guid>https://rknight.me/blog/music-questions-challenge/</guid>
       <pubDate>Sun, 02 Feb 2025 23:24:30 GMT</pubDate>
     </item>
@@ -112,13 +122,13 @@ Kathy 提到“永远铅笔”，我大吃一惊，于是我完全按照她的�
 你如何撰写帖子？
 通常我在 Obsidian 中写草稿，然后将其复制到 VSCode 中并发布。对于较短的帖子或我的笔记，我将它们直接写入 CMS，然后将其推送到 GitHub 存储库。我在这里更深入地讨论了这个问题。
 什么时候最有写作灵感？
-我主要在两个时候感到有灵感：
+我主要在两个时候感到灵感迸发：
 
-当我解决了一个问题并想要记录解决方案时
-当我感觉自己想要写一篇推文时
+当我解决了一个问题并想记录解决方案时
+当我感觉自己想写一篇推文时
 
 你通常是在写完后立即发布，还是让它慢慢酝酿？
-我很少让它们慢慢酝酿，我只是把它们发送到世界各地，这样错别字就会自己显露出来。
+我很少让它们慢慢酝酿，我只是把它们发布到世界各地，这样错别字就会自己显露出来。
 你最喜欢博客上的哪篇文章？
 明智的答案是7622 - 为什么我用两个 B 来拼写我的名字，但这篇关于 Hey Bear 果实的睡眠不足的漫谈绝对值得一看。
 博客有什么未来计划吗？
@@ -223,13 +233,6 @@ Godspeed 是我现在处理大部分提醒和待办事项的地方
       <description><![CDATA[]]></description>
       <guid>https://rknight.me/blog/how-long-since-i-watched-mean-girls-/</guid>
       <pubDate>Thu, 26 Dec 2024 16:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lens：元标签检查器（Robb 版本）</title>
-      <link>https://rknight.me/blog/lens-meta-tag-checker-robbs-version/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rknight.me/blog/lens-meta-tag-checker-robbs-version/</guid>
-      <pubDate>Mon, 23 Dec 2024 15:53:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
