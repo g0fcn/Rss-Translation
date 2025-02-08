@@ -4,9 +4,32 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Feb 2025 06:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 06:22:17 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>【开发者自荐】Metric-Converter.com —— 实用的单位转换工具</title>
+      <link>https://meta.appinn.net/t/topic/66250</link>
+      <description><![CDATA[Metric-Converter.com —— 实用的单位转换工具
+Metric-Converter.com 是一个在线单位转换工具，支持长度、重量、温度、体积、速度 等多种单位的转换。 
+无需注册，打开即可使用，适合 日常计算、学习、工作 等各种场景。 
+
+
+
+ 主要功能：
+
+支持多种单位：公制、英制、美制等主流测量单位转换
+多类别转换：长度、质量、温度、体积、速度等
+操作简单：输入数值，秒出结果
+跨设备使用：无需安装，网页端即可访问
+
+ 官网地址：Metric- Converter.com
+第二次在小众软件发布，AI工具的熟练使用让自己能有更快的产出了。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/66250</guid>
+      <pubDate>Sat, 08 Feb 2025 03:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>有啥网页定时刷新的工具么？</title>
       <link>https://meta.appinn.net/t/topic/66207</link>
       <description><![CDATA[（话题已被作者删除）
 1 个帖子 - 1 位参与者
@@ -15,21 +38,57 @@
       <pubDate>Fri, 07 Feb 2025 01:22:18 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>小猫画画上线，参与测试自动送终身会员</title>
       <link>https://meta.appinn.net/t/topic/66185</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[名称
+小猫画画（Kitten Drawing）
+简介
+小猫画画，创意随心动！通过简单的临摹，让你轻松画出可爱猫咪，释放无限创意，享受绘画乐趣！适合每一个爱猫又爱画的你～
+测试地址&lt; /h2&gt;
+需要将Play账号添加到测试组，如果找不到进群找作者
+https ://play.google.com/store/apps/details?id=com.kitten.drawing.kittendrawing
+交流
+ 
+
+
+
+视频
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66185</guid>
       <pubDate>Thu, 06 Feb 2025 07:04:09 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>有哪些本地运行的 web 端工具？</title>
       <link>https://meta.appinn.net/t/topic/66150</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[顺便问一下有没有更好的名称&amp;更好的描述
+这个提名主要是想收集一些：
+
+使用浏览器网址访问、加载
+加载后的使用是本地运行的
+功能不限
+
+特点：只需要记住网址，打开浏览器就能使用的工具。 
+举例：
+
+【自荐】字体秀FontShow - 一个本地字体预览工具，批量对比自定义内容的字体效果 
+（貌似是）PDF24 Tools: 免费且易于使用的在线PDF工具
+
+提名内容（参考）：
+工具名称
+工具功能
+网址
+相似帖子&lt; /h3&gt;
+经@VIctoryRoad 提醒，由于不是按照“软件功能”来进行的提名，发在“我的最爱”分类下会使“投票功能”失去意义。遂重新发。 
+你所知道的支持通过 WebDAV 同步的应用有哪些？ 
+9 个帖子 - 4 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66150</guid>
       <pubDate>Wed, 05 Feb 2025 08:34:50 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我的这四款App限免中，有需要的可以下载使用</title>
       <link>https://meta.appinn.net/t/topic/66128</link>
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/66128</guid>
@@ -38,12 +97,56 @@
     <item>
       <title>｛NFSee｝：适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据</title>
       <link>https://meta.appinn.net/t/topic/65840</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[｛NFSee｝：适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据
+＞ 源码：GitHub
+＞ 许可：MIT
+ 
+
+馆长注：
+1. 由于馆长对 NFC 技术没有什么深入了解，只能确定该软件的的读取和转储功能正常，不能确定是否支持 NFC 卡模拟。 
+2. 该软件提供了“执行脚本”功能，可以运行自定义的JavaScript 脚本，目前没有预设脚本，不清楚能否用于NFC 卡模拟。 
+
+NFSee 是一个适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据。 
+目前支持：
+
+全国城市一卡通（发行信息、余额和交易记录）
+北京市政公交一卡通（发行信息、余额和交易记录，不支持 iOS）
+深圳通（发行信息、余额和交易记录）
+岭南通（发行信息、余额和交易记录）
+八达通（余额）
+清华校园卡（发行信息、余额和交易记录）
+中华人民共和国居民身份证（仅 GUID，不支持 iOS）
+支持 PPSE 的银行卡（发行信息、余额和交易记录，不支持 iOS）
+T-Union （发行信息、余额和交易记录）
+MIFARE Ultralight（基本信息、NDEF 数据和原始数据）
+MIFARE DESFire（基本信息、NDEF 数据和原始数据）
+MIFARE Classic4（基本信息、NDEF 数据和原始数据，不支持 iOS）
+
+
+版本：2.4.0+20400
+关注：GitHub 150+ stars
+状态：缓慢开发
+语言：支持中文
+网络：完全离线
+资费：免费
+技术：Flutter
+平台： android；&lt; svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;ios
+＞ 主页：NFSee
+＞ 安装：GitHub Releases；F-Droid；Google Play； App Store
+＞ 捐助：～Donate
+ 
+＞ 副本：FU102；TG101；Appinn
+＞ 档案：A_20250121_002
+＃：1_开源项目 # 2_开源工具收集
+＃：#A_收集 #B_整理 #C _引述 #D_开源 #D_工具 #E_中文
+％：2025年1月27日（UTC+8）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65840</guid>
       <pubDate>Mon, 27 Jan 2025 12:21:47 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>【无用之物】grex：一个根据给定的文本输出可用正则的命令行工具</title>
       <link>https://meta.appinn.net/t/topic/65830</link>
       <description><![CDATA[作用
 grex是一个可以将给定的文件内容（按行拆分）或者输入的语句猜测并给出正则匹配的小工具（感觉不如ai）
@@ -115,7 +218,7 @@ Root 后的 Android 菜单栏，小功能一大堆，第一次玩机难免会想
       <pubDate>Mon, 27 Jan 2025 06:37:53 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>librehusky</title>
       <link>https://meta.appinn.net/t/topic/65787</link>
       <description><![CDATA[这是一个基于 Firefox 开发的一个独立的分支，以隐私、安全和用户自由为首要目标。 
 
@@ -138,7 +241,7 @@ A custom version of Firefox, focused on privacy, security and freedom.
       <pubDate>Sat, 25 Jan 2025 16:44:16 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>现在还有美化贴吧的插件吗？</title>
       <link>https://meta.appinn.net/t/topic/65786</link>
       <description><![CDATA[在Win上的浏览器里使用0.0
 1 个帖子 - 1 位参与者
@@ -149,42 +252,147 @@ A custom version of Firefox, focused on privacy, security and freedom.
     <item>
       <title>｛Filelight｝：适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况</title>
       <link>https://meta.appinn.net/t/topic/65783</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[｛Filelight｝：适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况
+＞ 源码：KDE Invent
+＞ 许可：GPL-2.0 等
+ 
+
+馆长注：
+1. 该软件最初是为 Linux 平台开发，后续移植到 Windows 和 macOS 平台，相比之下开发进度可能较为迟滞，可能存在不可用和不稳定情况。 
+2. 因为该软件除了扫描功能外还有文件删除功能，故请做好备份谨慎操作，防止不必要的文件损失。 
+
+Filelight 是一个适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况。 
+功能特性：
+
+扫描本地、远程或可移动磁盘
+查看文件和文件夹的详细信息
+删除占用过多存储空间的文件和文件夹
+与 Dolphin、Konqueror 和 Krusader 等文件管理器集成使用
+可自定义的配色方案
+
+
+版本：24.12.1
+关注：Flathub 237k+ Installs
+状态：正常维护
+语言：支持中文
+网络：无联网功能
+资费：免费
+平台： linux；&lt; svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;windows；macos
+＞ 主页：KDE 应用程序
+＞ 安装：Flathub；Snap Store；Microsoft Store
+＞ 指南：KDE 用户百科
+＞ 交流：KDE 论坛
+＞ 捐助：捐款给 KDE
+ 
+＞ 副本：FU102；TG101；Appinn
+＞ 档案：20240620_003
+＃：1_开源项目 # 2_开源工具收集
+＃：#A_收集 #B_整理 #C _引述 #D_开源 #D_工具 #E_中文
+％：2025年1月25日（UTC+8）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65783</guid>
       <pubDate>Sat, 25 Jan 2025 13:32:20 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>从 Windows 转到 macOS 的各位是怎么适应 macOS 的操作习惯的？</title>
       <link>https://meta.appinn.net/t/topic/65734</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[如题。这个月初公司要求，换到了 Macbook 开发。用了半个月都不习惯 macOS 的操作逻辑，尤其是：
+
+Control 和 Command 分离。原来Windows 下的Ctrl + A/C/V 现在变成Command + A/C/V，但Ctrl + S 这种又是Control + S，每次都记不清，一个操作要按两遍（而且我根本找不到舒适的手势来按Command…）；
+Delete 键直接没了，目前还不清楚如何替代；
+Windows 上可以 Ctrl + Backspace/Delete/左右 删除整个单词或跳过整个单词移动光标，目前还不清楚如何替代；
+Windows 上浏览器里可以「选中文字+拖动」，比如拖动到标签页栏就是「用默认搜索引擎搜索文字」，拖到编辑框就是「复制粘贴文字」，但macOS 上好像也没这操作；
+触摸板真的用不习惯，选中和移动光标时食指肌肉一直高度紧张，用了小半天感觉腱鞘炎要犯了；
+外接鼠标依然会光标加速，没法准确定位；
+方向键好小，大手按不着；
+不知道 Fn 键有啥用，好像没用过几次；
+应用打开速度总比 Windows 慢一拍；
+自带截图工具是直接保存而不是复制到剪贴板。动作稍微慢一两秒，右下角的临时预览悬浮窗就消失了，只能去截图目录拖出来；
+……
+
+还有一些疑似 bug：
+
+尽管把默认浏览器设成 Chrome，重按选中文字并选择「在 Google 中搜索」，依然会打开 Safari 来搜索；
+设置里的「鼠标」页经常无故消失；
+合盖后依然会尝试连接蓝牙耳机，手动断联也没用，一合盖又连上了。 
+
+
+以上纯属个人吐槽。我知道不少都能搜索解决，也不劳烦大家花时间来给我解答。我想说的是，macOS 的上手体验确实让我这个 Linux、Windows 老用户感觉异常水土不服。 
+大家是怎么克服 macOS 前期使用的不适应的？ 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65734</guid>
       <pubDate>Fri, 24 Jan 2025 07:40:05 GMT</pubDate>
     </item>
     <item>
       <title>【自荐】推荐一款开源在线白板工具</title>
       <link>https://meta.appinn.net/t/topic/65684</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[工具名称 Drawnix，名字源于绘画( Draw )与凤凰( Phoenix )的灵感交织。 
+Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理（暂时只能快速响应缺陷或者基础交互优化，高阶过功能可能要后续再迭代）。 
+ 
+
+
+
+另外，我个人其实非常喜欢excalidraw，也想做一个像excalidraw 一样简单、好用的在线白板工具，持续做下去就算成功，目前drawnix 虽然很新，相比其它优秀的开源白板一些基础交互和功能还不是特别强，但是drawnix 目前支持思维导图，是一体化的白板，这是同类开源白板工具不具备的，后续drawnix 的开发也会尽量克制，优先完善优化基础交互和基础能力，做简单好用的白板工具。 
+体验地址：https://drawnix.com
+仓储地址：GitHub - plait-board/drawnix: 开源白板工具（SaaS ），一体化白板，包含思维导图、流程图、自由画等。 All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+突破绘画，涅槃重生
+Draw Beyond, Rise Above.
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65684</guid>
       <pubDate>Thu, 23 Jan 2025 07:45:36 GMT</pubDate>
     </item>
     <item>
       <title>【开发者自荐】GitHub Freshness 帮助你快速判断一个 GitHub 仓库是否在更新</title>
       <link>https://meta.appinn.net/t/topic/65673</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[软件名称&lt; /h2&gt;
+GitHub Freshness
+应用平台&lt; /h2&gt;
+
+Chrome
+Firefox
+
+推荐类型&lt; /h2&gt;
+【开发者自荐】
+简介
+通过颜色高亮的方式，帮助你快速判断一个 GitHub 仓库是否在更新。 
+应用简介&lt; /h2&gt;
+GitHub Freshness 是一个油猴脚本，通过颜色高亮的方式，帮助你快速判断一个 GitHub 仓库是否在更新。你可以通过设置面板来自定义颜色，并根据仓库的更新时间，轻松识别哪些项目仍在维护，哪些已经被遗弃。再也不用浪费时间在过时的项目上，寻找最新更新、活跃的资源更加高效！ 
+截图预览： 
+ 
+
+
+
+官方网站&lt; /h2&gt;
+
+
+github.com
+
+
+
+
+GitHub - rational-stars/GitHub-Freshness 
+通过在 GitHub 上创建帐户来为 rational-stars/GitHub-Freshness 开发做出贡献。 
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65673</guid>
       <pubDate>Thu, 23 Jan 2025 03:41:35 GMT</pubDate>
     </item>
     <item>
-      <title></title>
-      <link>https://meta.appinn.net/t/topic/65663</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/65663</guid>
-      <pubDate>Wed, 22 Jan 2025 12:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
+      <title>Edge浏览器怎么设置关闭最后一个标签时不关闭浏览器？</title>
       <link>https://meta.appinn.net/t/topic/31593</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[类似360的这种设置
+
+26 个帖子 - 9 位参与者
+阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/31593</guid>
       <pubDate>Mon, 11 Apr 2022 09:05:24 GMT</pubDate>
     </item>
