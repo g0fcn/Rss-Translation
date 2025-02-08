@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>BrettTerpstra.com - Brett Terpstra 的疯狂科学</title>
+    <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 31 Jan 2025 18:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 18:21:14 GMT</lastBuildDate>
     <item>
-      <title>将链接书签存档至 DEVONthink</title>
+      <title>读取的亮点</title>
+      <link>https://brett.trpstra.net/link/535/16958687/readwise-highlights-to-devonthink</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16958687/readwise-highlights-to-devonthink</guid>
+      <pubDate>Sat, 08 Feb 2025 15:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>档案链接书签到德文郡</title>
       <link>https://brett.trpstra.net/link/535/16952450/archive-linkding-bookmarks-to-devonthink</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16952450/archive-linkding-bookmarks-to-devonthink</guid>
@@ -20,51 +27,53 @@
       <pubDate>Sun, 19 Jan 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Marky 获得 DEVONthink 集成</title>
+      <title>Marky获得了Devonthink集成</title>
       <link>https://brett.trpstra.net/link/535/16941987/marky-gets-devonthink-integration</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16941987/marky-gets-devonthink-integration</guid>
       <pubDate>Fri, 17 Jan 2025 15:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>mdless 的删除线和表情符号</title>
+      <title>罢工和表情符号</title>
       <link>https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless</link>
-      <description><![CDATA[
-今天早上我刚刚向 mdless 发布了几个新功能：删除线和 GitHub 表情符号支持。
-您现在可以使用 ~~text~~ 格式，如果您的终端支持删除线文本，它将以此方式显示。您可以通过将 deletion 添加到主题文件来控制格式和颜色，默认情况下为 ~/.config/mdless/default.theme:
-deletion: strikethrough red
-我还添加了对 GitHub 表情符号的支持，例如 :smile: 表示 😁，:umbrella: 表示 ☂️。我无法保证完全兼容，但涵盖了大量表情符号。VS Code 无法处理这么多表情符号，我不得不打开值得信赖的 BBEdit，它在处理大文件方面绝对是佼佼者。mdless 中的表情符号支持默认启用，无需更改配置。
-就是这样，但如果您使用 mdless，尤其是用于读取 GitHub 文件，我想您会喜欢这些新增功能。只需使用 gem install mdless 即可更新！
-点赞或分享此帖子 Twitter。
+      <description><![CDATA[  &lt; /p&gt;
+我刚刚发布了一些新功能， mdless 今天早上：Strikethrough and Github Emoji支持。 
+您现在可以使用 ~~文本~~ ~~ 格式，如果您的终端支持罢工文本，则将以此类形式显示。您可以通过添加删除来控制格式和颜色，默认情况下，  〜/ .config/mdless/default.theme ：
+    删除  ：  strikeThrough red      
+我还增加了对github表情符号的支持，例如：微笑：for😁和：伞：for☂️。我可以保证完全兼容，但涵盖了大量的表情符号。足够的vs代码在列表上cho住了，我必须打开可信赖的 bbedit  ，这是处理大文件的绝对冠军。默认情况下启用了MDLESS中的表情符号支持，并且不需要配置更改。
+它是这样的，但是如果您使用MDless，尤其是在阅读Github文件时，我认为您会很感激这些添加。只需使用 gem安装mdless 进行更新！
+喜欢或分享此帖子 Twitter 。
 
-BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提供帮助，请单击此处。
-在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+ brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
+                喜欢提供帮助。 
+在 mastodon ， blueskyky ， github 和其他地方。 ]]></description>
       <guid>https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless</guid>
       <pubDate>Mon, 13 Jan 2025 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我的“远程” Web 开发设置</title>
+      <title>我的“远程”网络开发设置</title>
       <link>https://brett.trpstra.net/link/535/16938543/my-remote-web-development-setup</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16938543/my-remote-web-development-setup</guid>
       <pubDate>Sun, 12 Jan 2025 15:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>StretchLink 快捷方式</title>
+      <title>伸展链接快捷方式</title>
       <link>https://brett.trpstra.net/link/535/16936928/a-stretchlink-shortcut</link>
-      <description><![CDATA[Immo Junghärtchen 在论坛上分享了 StretchLink.cc 的快捷方式，我根据自己的需要对其进行了少许修改。下面两个都可以找到。
-原始快捷方式可以在论坛上找到，但这里有一个直接链接。感谢 Immo 的帮助。
-我专门为输出 Markdown 链接创建了自己的版本，并做了一些其他修改。您可以在下面下载。如果您需要将 Markdown 中的短网址转换为长网址以用于博客、论坛帖子等，这可以节省您的一些时间。安装后，您可以选择将其设置为清理跟踪信息并整理那些笨重的亚马逊 URL。
-StretchLink.cc Markdown Link Shortcut v1.0下载 StretchLink.cc Markdown Link Shortcut v1.0用于将短网址转换为 Markdown 链接的 macOS 快捷方式。发布于 01/08/25。更新于 01/08/25。变更日志捐赠 • 更多信息…
-点赞或分享此帖子 Twitter。
+      <description><![CDATA[ ImmoJunghärtchen在论坛上分享了strentlink.cc的快捷方式，我为自己的需求进行了稍作修改。在下面找到两个。
+可以找到原始快捷方式在论坛上这里＆rsquo os a 直接链接。感谢Immo的开始。
+我创建了自己的版本，专门用于输出标记链接以及其他一些修改。您可以在下面下载它。如果您需要将简短的URL转换为Markdown中的长URL，以进行博客，论坛帖子等，这应该节省您的时间。安装时，您可以选择将其设置为清洁跟踪信息并整理那些笨拙的Amazon URL。
+  strentlink.cc markdown链接快捷方式v1.0           用于将短URL转换为Markdown链接的MacOS快捷方式。 发布01 /08/25.&lt; P class =“ dl-updated”&gt;更新了01/08/25。  changelog    捐赠＆bull; 更多信息&gt;  
+喜欢或分享此帖子 Twitter 。
 
-BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提供帮助，请单击此处。
-在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+ brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
+                喜欢提供帮助。 
+在 mastodon ， blueskyky ， github 和其他地方。 ]]></description>
       <guid>https://brett.trpstra.net/link/535/16936928/a-stretchlink-shortcut</guid>
       <pubDate>Thu, 09 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>习惯流量：一种独特的习惯追踪方法</title>
+      <title>习惯交通：一种独特的习惯跟踪方法</title>
       <link>https://brett.trpstra.net/link/535/16936381/habit-traffic-a-unique-approach</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16936381/habit-traffic-a-unique-approach</guid>
@@ -78,97 +87,96 @@ BrettTerpstra.com 得到了像您这样的读者的支持。 如果您愿意提�
       <pubDate>Sat, 04 Jan 2025 17:06:00 GMT</pubDate>
     </item>
     <item>
-      <title>2025 年 1 月 2 日网络游览</title>
+      <title>2025年1月2日的网络游览</title>
       <link>https://brett.trpstra.net/link/535/16932574/web-excursions-for-january-2nd-2025</link>
-      <description><![CDATA[
-与 Setapp 合作为您带来网络游览。只需支付一笔低廉的月度订阅费，即可访问数百个 Mac 和 iOS 应用程序。
+      <description><![CDATA[  
+与Setapp合作带给您的Web游览。 获得数百个Mac和iOS应用程序的访问，以一个低的每月订阅费。 
 
-alexwlchan/safari-webarchiver
-从命令行将网页另存为 Safari webarchive 文件。 H/T 至 Stephen Millard
+  alexwlchan/safari-webarchiver  
+将网页保存为命令行中的Safari Webarchive文件。 h/t to  stephen Millard  /dd&gt;
+  
+ i＆rsquo; ve将其纳入我的链接存档脚本中，以便与存档书签的标记版一起保存网络结构文件。请注意，如果您启用了SIP，您将能够使用该工具的可下载版本，您需要下载源并使用 swiftc （请参阅readme）。
 
-我已将其合并到我的链接存档脚本中，以便将 webarchive 文件与存档书签的 Markdown 版本一起保存。请注意，如果您启用了 SIP，则无法使用该工具的可下载版本，您需要下载源代码并使用 swiftc 进行编译（请参阅 README）。
-
-Wakamai Fondue
-
-
-该工具可回答“我的字体能做什么？”的问题
+  wakamai fondue  
 
 
+回答“我的字体可以做什么？”的工具
 
-上传字体并查看其所有功能（字距调整、连字、变体）并下载 CSS 以启用这些功能。
 
-mickael-menu/ShadowVim：
-“Neovim inside Xcode，真的存在。”这使用 Accessibility API 将“shadow”Neovim 实例放入 Xcode 编辑器中。 Xcode 的 Vim 模式非常棒，但这个模式几乎为你提供了一切，包括宏和插件。
-Nix 是我在 macOS 上最喜欢使用的包管理器
-我并不完全想改造我的设置，但如果你雄心勃勃（或者还没有嵌入 Homebrew），这里有一个完整的描述和教程视频，介绍 Nix 包管理器（可以在 Homebrew 上运行）。
 
-立即查看 Setapp，获取最好的 Mac 和 iOS 应用程序。
-点赞或分享这篇文章 Twitter。
+上传字体，查看其所有功能（kerning，rigatures，variants）和下载CSS以启用功能。
 
-BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提供帮助，请单击此处。
-在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+  mickael-menu/shadowvim： 
+; neovim   xcode，用于真实的＆rdquo;这使用可访问性API放置了“影子”。 Neovim实例进入XCode编辑器。 Xcode的VIM模式非常好，但这几乎为您提供了所有内容，包括宏和插件。
+  nix是我最喜欢在macos上使用的软件包   
+ i＆rsquo;不是完全在修改我的设置方面出售，但是如果您雄心勃勃（或尚未嵌入了自制的型号），则在这里及其在Nix Package Manager（可以在Homebrew of Homebrew of Homebrew of Homebrew of Homebrew of Homebrew of Homebrew of Homebrew of Homebrew of Homebrew of Homebrew ）。
+
+ 今天查看setapp 今天，可以访问最佳的Mac和iOS应用程序。
+喜欢或分享此帖子 Twitter 。
+
+ brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
+                喜欢提供帮助。 
+在 mastodon ， blueskyky ， github 和其他地方。 ]]></description>
       <guid>https://brett.trpstra.net/link/535/16932574/web-excursions-for-january-2nd-2025</guid>
       <pubDate>Thu, 02 Jan 2025 17:21:00 GMT</pubDate>
     </item>
     <item>
-      <title>Brett 的最爱 2024：幕后花絮</title>
+      <title>布雷特的最爱2024：幕后</title>
       <link>https://brett.trpstra.net/link/535/16931942/bretts-favorites-2024-behind-the-scenes</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16931942/bretts-favorites-2024-behind-the-scenes</guid>
       <pubDate>Thu, 02 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 iTerm 处理 x-man-page URL</title>
+      <title>使用iterm处理X-Man-Page URL</title>
       <link>https://brett.trpstra.net/link/535/16931584/use-iterm-to-handle-x-man-page-urls</link>
-      <description><![CDATA[
-当我使用 LaunchBar 搜索模板时，它开始出现。我尝试了手册页搜索，它在终端中打开了一个不错的窗口。但当 iTerm 已经在运行时，我不想打开终端。
-我最初的搜索表明这是不可能的，但实际上它真的很容易。我找到了这个要点，它解决了这个问题。
-可以设置 iTerm 配置文件来处理 URL 处理程序，包括 x-man-page，这是搜索模板使用的。如果您创建一个新的配置文件（称为“Man Page”）并在常规下，将“Login Shell”更改为“Command”并粘贴此内容：
-bash -c &quot;echo $$HOST$$ | sed -E &#39;s/(.*)\/(.*)/\1 \2/&#39;​​ | xargs man&quot;
-然后在 General 窗格底部，找到“URL Schemes”，并从下拉列表中选择 x-man-page。它会询问您是否要将 iTerm 设为默认处理程序 — 单击“是”（这就是要点）。
-这是您必须做的最少的事情。我继续自定义配色方案，将窗口设置为 80 列，并在窗口设置下添加了一些透明度和模糊。在会话设置下，我确保将其设置为在命令终止时关闭，并禁用有关提前终止的警告，这在我输入错误命令并需要重试时很烦人。
+      <description><![CDATA[  &lt; /p&gt;
 
-iTerm 手册页主题
-这是我制作的配色方案，有浅色和深色。我在终端中通常是一个“深色”的人，但我有点喜欢终端用于手册页的浅色主题。我把它弄得不那么黄，并为粗体和下划线文本添加了对比色，这在查看手册页时看起来很棒。随心所欲地定制。
-这是一个很酷的技巧，希望它能帮助那些还不知道的人。设置完成后，您可以在任何您喜欢的地方使用 x-man-page://[COMMAND]，包括在 shell 中为其设置别名或创建函数。在 Fish 中它将是：
-function nman --description &#39;在新终端窗口中打开手册页&#39;
-open &quot;x-man-page://&quot;$argv
-end
+它始于我使用Launch -Bar搜索模板。我尝试了Man Page搜索，并打开了终端中一个不错的窗口。但是我不想在ITERM已经运行时打开终端。
+我的最初搜索说这是不可能的，但实际上确实很容易。我找到了解决问题的此要多。
+可以将ITERM配置文件设置为处理URL处理程序，包括 X-Man-page ，这是搜索模板使用的。如果您创建一个新的配置文件（称其为“男人页”），并且在一般情况下，更改; login shell; rdquo;命令＆rdquo;并将其粘贴在：中
+
+    bash -c“ echo $$ host $$ host $$ | sed -e&#39;s/ s/ s/ s/ s/ s/ s/ s/ s/ （。*）\/（。*）/\ 1 \ 2/&#39;|
+
+然后在一般窗格的底部找到＆ldquo; url方案，＆rdquo;并从下拉列表中选择 x-man-page 。它会问您是否要使Iterm成为默认处理程序＆mdash;单击“是”（这是这一点）。
+
+那是您必须做的最低限度。我继续自定义配色方案，将窗口设置为80列，并在窗口设置下添加了一点透明度和模糊。在会话设置下，我确保在命令终止时将其关闭，并禁用有关提前终止的警告，当我误入命令并需要再次尝试时，这很烦人。。
+  
+ iterm人页主题
+ 这是我制作的配色方案，既有光和黑暗。我一般是a＆ldquo; rdquo;码头的家伙，但我喜欢终端用于人页面的光主题。我将其变成较少的黄色，并为大胆和下划线文本添加了对比色，在查看人页面时看起来很棒。自定义您的内心内容。
+这是一个非常酷的技巧，希望它可以帮助那些已经知道这一点的人。设置设置后，您可以使用 x-man-page：// [命令] 您喜欢的任何地方功能。在鱼类中是：
+    function nman -description&#39;新终端窗口中的open man页面&#39;
+    打开“ X-Man-page：//” $ argv
+结束   
 玩得开心！
-在 Mastodon 上点赞或分享此帖子，Bluesky，或 Twitter。
+喜欢或分享此帖子， bluesky&gt; bluesky 或 twitter 。
 
-BrettTerpstra.com 得到了像您这样的读者的支持。如果您愿意提供帮助，请单击此处。
-在 Mastodon、Bluesky、GitHub 和 其他地方 上找到 Brett。]]></description>
+ brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
+                喜欢提供帮助。 
+在 mastodon ， blueskyky ， github 和其他地方。 ]]></description>
       <guid>https://brett.trpstra.net/link/535/16931584/use-iterm-to-handle-x-man-page-urls</guid>
       <pubDate>Wed, 01 Jan 2025 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Brett 的最爱 2024：最新添加</title>
+      <title>布雷特的最爱2024：迟到</title>
       <link>https://brett.trpstra.net/link/535/16931468/bretts-favorites-2024-late-additions</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16931468/bretts-favorites-2024-late-additions</guid>
       <pubDate>Wed, 01 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Brett 的最爱 2024：个人项目</title>
+      <title>布雷特的最爱2024：个人项目</title>
       <link>https://brett.trpstra.net/link/535/16930966/bretts-favorites-2024-personal-projects</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16930966/bretts-favorites-2024-personal-projects</guid>
       <pubDate>Tue, 31 Dec 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Brett 的最爱 2024：硬件</title>
+      <title>布雷特的最爱2024：硬件</title>
       <link>https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware</link>
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware</guid>
       <pubDate>Mon, 30 Dec 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brett 的最爱 2024：iOS</title>
-      <link>https://brett.trpstra.net/link/535/16928623/bretts-favorites-2024-ios</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16928623/bretts-favorites-2024-ios</guid>
-      <pubDate>Fri, 27 Dec 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
