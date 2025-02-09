@@ -4,7 +4,31 @@
     <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 09 Feb 2025 01:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 18:21:18 GMT</lastBuildDate>
+    <item>
+      <title>摘录到Devonthink更新</title>
+      <link>https://brett.trpstra.net/link/535/16959046/readwise-devonthink-update</link>
+      <description><![CDATA[  &lt; /p&gt;
+
+今天早上，我向 pland plubly昨天。它添加了一些重要功能，因此，如果您已经下载了脚本，则可能需要更新。
+以前的版本效果很好，但是有几件事需要做得更好。
+首先，如果笔记标题包含标点符号，则无法找到现有的注释。这是修复的，因此在现有文档中添加高光和注释会不会创建重复。它仍在创建重复的注释，我还没有弄清楚为什么还可以在以后的版本中解决。
+第二，我不喜欢它突出显示整个段落只是一部分只是一部分。我最初以这种方式进行设置，因为在包含强调和链接的Markdown标记时匹配文本非常棘手，因为读取的亮点不会在其中，因此很难匹配它，而且它会冒着覆盖或覆盖的风险打破现有语法。我认为我已经解决了这个问题，并且它应该始终能够在段落中突出特定的文本而不会破坏任何内容。 （如果您重置日期文件并再次运行脚本，它将自动更新所有亮点。）
+亮点现在还通过将其添加到注释中时在文档中的位置进行排序。以前是按日期进行排序的，因此注释中的亮点的文档顺序不及格。
+最后，我添加了一些输出选项。您可以使用  -  letim 来使所有输出保持沉默。您还可以使用  -  debug 或  - 冗长有关保存每个书签的信息。如果您使用  - 冗长和一个applescript命令失败，它实际上将向您显示其试图运行的代码，这对于调试非常有用。
+我认为我现在可以停止摆弄。查看更新脚本&lt;​​/a&gt;，让我知道您是否有任何问题。&gt; 
+
+ 读取重点亮点，  
+
+喜欢或分享此帖子&lt;a class =“ twitter” href =“ https://twitter.com/intent/tweet？original_referer = devonthink-update%2F&amp;amp;text=Readwise+to+DEVONthink+update&amp;amp;url=https%3A%2F%2Fbrettterpstra.com%2F2025%2F02%2F09%2Freadwise-devonthink-update%2F&amp;amp;via=ttscoff&quot; rel=&quot;nofollow “ target =“ _ blank” title =“ Tweet tweet this Pert”&gt; Twitter 。
+
+ brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
+        喜欢提供帮助。 
+在 mastodon ，到处都是
+        else 。 &lt;img height =“ 1”]]></description>
+      <guid>https://brett.trpstra.net/link/535/16959046/readwise-devonthink-update</guid>
+      <pubDate>Sun, 09 Feb 2025 14:44:00 GMT</pubDate>
+    </item>
     <item>
       <title>读取的亮点</title>
       <link>https://brett.trpstra.net/link/535/16958687/readwise-highlights-to-devonthink</link>
@@ -136,7 +160,7 @@
 我的最初搜索说这是不可能的，但实际上确实很容易。我找到了解决问题的此要多。
 可以将ITERM配置文件设置为处理URL处理程序，包括 X-Man-page ，这是搜索模板使用的。如果您创建一个新的配置文件（称其为“男人页”），并且在一般情况下，更改; login shell; rdquo;命令＆rdquo;并将其粘贴在：中
 
-    bash -c“ echo $$ host $$ host $$ | sed -e&#39;s/ s/ s/ s/ s/ s/ s/ s/ s/ （。*）\/（。*）/\ 1 \ 2/&#39;|
+    bash -c“ echo $$ host $$ host $$ | sed -e&#39;s/ s/ s/ s/ s/ s/ s/ s/ s/ s/ s/ （。*）\/（。*）/\ 1 \ 2/&#39;|
 
 然后在一般窗格的底部找到＆ldquo; url方案，＆rdquo;并从下拉列表中选择 x-man-page 。它会问您是否要使Iterm成为默认处理程序＆mdash;单击“是”（这是这一点）。
 
@@ -170,13 +194,6 @@
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16930966/bretts-favorites-2024-personal-projects</guid>
       <pubDate>Tue, 31 Dec 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>布雷特的最爱2024：硬件</title>
-      <link>https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16930547/bretts-favorites-2024-hardware</guid>
-      <pubDate>Mon, 30 Dec 2024 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
