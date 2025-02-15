@@ -4,7 +4,7 @@
     <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Feb 2025 18:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 21:15:57 GMT</lastBuildDate>
     <item>
       <title>2025年2月15日的网络游览</title>
       <link>https://brett.trpstra.net/link/535/16963353/web-excursions-for-february-15th-2025</link>
@@ -208,7 +208,7 @@
 我的最初搜索说这是不可能的，但实际上确实很容易。我找到了解决问题的此要多。
 可以将ITERM配置文件设置为处理URL处理程序，包括 X-Man-page ，这是搜索模板使用的。如果您创建一个新的配置文件（称其为“男人页”），并且在一般情况下，更改; login shell; rdquo;命令＆rdquo;并将其粘贴在：中
 
-    bash -c“ echo $$ host $$ host $$ | sed -e&#39;s/ s/ s/ s/ s/ s/ s/ s/ s/ （。*）\/（。*）/\ 1 \ 2/&#39;|
+    bash -c“ echo $$ host $$ host $$ | sed -e&#39;s/ s/ s/ s/ s/ s/ s/ s/ s/ s/ s/ （。*）\/（。*）/\ 1 \ 2/&#39;|
 
 然后在一般窗格的底部找到＆ldquo; url方案，＆rdquo;并从下拉列表中选择 x-man-page 。它会问您是否要使Iterm成为默认处理程序＆mdash;单击“是”（这是这一点）。
 
