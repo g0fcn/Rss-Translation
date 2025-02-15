@@ -4,7 +4,45 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Feb 2025 03:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 06:23:32 GMT</lastBuildDate>
+    <item>
+      <title>如何把iOS“文件”里的某个指定文件夹定时同步到远程webdav（或ftp、sftp）服务器？</title>
+      <link>https://meta.appinn.net/t/topic/66560</link>
+      <description><![CDATA[我的iPhone里有一个文件夹，里边有各种各样类型的文件，且里边的文件会经常变动（增、删、改），而且这些文件都比较重要。 
+有没有什么方法或者稳定的app可以定时自动地把这整个文件夹同步到一个远程的webdav或者是sftp服务器里去？ 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/66560</guid>
+      <pubDate>Sat, 15 Feb 2025 05:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opera出了个新浏览器：Opera Air</title>
+      <link>https://meta.appinn.net/t/topic/66559</link>
+      <description><![CDATA[主打一个心静自然凉
+
+世界上第一个以正念为核心浏览器——无需订阅，无需在应用程序之间切换。发现一个专注、平衡且无压力的网络世界。 
+
+
+
+
+opera.com
+
+
+
+Opera Air | Your Mindful Browser | Opera&lt; /h3&gt;
+
+  Mindful browsing with Opera Air. Nurture your well-being and focus in a powerful and distraction-free browser.
+
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/66559</guid>
+      <pubDate>Sat, 15 Feb 2025 05:47:34 GMT</pubDate>
+    </item>
     <item>
       <title>【自荐-网页小游戏】增强版掐秒表，解压玩具</title>
       <link>https://meta.appinn.net/t/topic/66547</link>
@@ -362,29 +400,6 @@ Root 后的 Android 菜单栏，小功能一大堆，第一次玩机难免会想
       <pubDate>Mon, 27 Jan 2025 06:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>librehusky</title>
-      <link>https://meta.appinn.net/t/topic/65787</link>
-      <description><![CDATA[这是一个基于 Firefox 开发的一个独立的分支，以隐私、安全和用户自由为首要目标。 
-
-
-
-librewolf.net
-
-
-
-LibreWolf Browser
-A custom version of Firefox, focused on privacy, security and freedom.
-
-
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65787</guid>
-      <pubDate>Sat, 25 Jan 2025 16:44:16 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有什么脚本能后台打开链接</title>
       <link>https://meta.appinn.net/t/topic/38280</link>
       <description><![CDATA[找了狠多脚本 都是 新标签打开
@@ -419,16 +434,6 @@ open all links in new tab
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/38280</guid>
       <pubDate>Tue, 22 Nov 2022 10:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Edge浏览器怎么设置关闭最后一个标签时不关闭浏览器？</title>
-      <link>https://meta.appinn.net/t/topic/31593</link>
-      <description><![CDATA[类似360的这种设置
-
-26 个帖子 - 9 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/31593</guid>
-      <pubDate>Mon, 11 Apr 2022 09:05:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
