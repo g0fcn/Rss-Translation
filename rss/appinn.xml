@@ -4,7 +4,21 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Feb 2025 06:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 15:16:08 GMT</lastBuildDate>
+    <item>
+      <title>有没有什么很消磨时间又上头的单机手游？</title>
+      <link>https://meta.appinn.net/t/topic/66600</link>
+      <description><![CDATA[大家好，想问下有没有什么很容易上头、一玩起来几个小时就过去了的手游推荐？我计划用来在飞机上消磨一下时间
+由于是在飞机上，所以会有几个附加过滤条件:
+必须允许离线玩
+耗电小
+另外我是 iOS 平台
+最近在玩弓箭传说 2，很容易一玩玩几个小时但它必须有网络粗体文本
+4 个帖子 - 4 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/66600</guid>
+      <pubDate>Sun, 16 Feb 2025 13:39:06 GMT</pubDate>
+    </item>
     <item>
       <title>请问Chrome浏览器有没有能记录当前视频进度条的插件</title>
       <link>https://meta.appinn.net/t/topic/66575</link>
@@ -336,50 +350,6 @@ MIFARE Classic4（基本信息、NDEF 数据和原始数据，不支持 iOS）
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/65840</guid>
       <pubDate>Mon, 27 Jan 2025 12:21:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>【无用之物】grex：一个根据给定的文本输出可用正则的命令行工具</title>
-      <link>https://meta.appinn.net/t/topic/65830</link>
-      <description><![CDATA[作用
-grex是一个可以将给定的文件内容（按行拆分）或者输入的语句猜测并给出正则匹配的小工具（感觉不如ai）
-
-
-github.com
-
-
-
-
-GitHub - pemistahl/grex: A command-line tool and Rust library with Python... 
-A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-
-
-
-
-
-
-测试
-中文一包糟，似乎是没有优化过……
-（沿岸第11周周五下午）机电学院教风学风督察记录表
-（椒盐第13周周四上午）计算机学院教风学风督察记录表
-（其他第10周周日下午）临床医学学院教风学风督察记录表
-（椒盐第3周周五上午）教培学院教风学风督察记录表
-（珠江第3周周日下午）临床医学院教风学风督察记录表
-（椒盐第2周周一上午）材料科学与工程学院教风学风督察记录表
-
-./grex.exe -f C:\Users\Home\Downloads\新建文本文档.txt
-结果它给出的答案是
-^（(?:(?:椒盐第(?:2周周一上午）材料科学与工程|13周周四上午）计算机|3周周五上午）教培)|沿岸第11周周五下午）机电|珠江第3周周日下午）临床医)|其他第10周周日下午）临床医学)学院教风学风督察记录表$
-
-你要问我匹配不匹配，那自然是可以用的，问题是和我自己写的（以及靠ai写的没法比……）
-我的答案：
-^（(.*)?第(\d+)周周(.)(..)）(.*)?学院教风学风督察记录表$
-
-emm，确实不如ai……但是在ai大行其道的当下似乎意义不是太大了……
-（不过我试着英文还能看◐▽◑）
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65830</guid>
-      <pubDate>Mon, 27 Jan 2025 08:42:50 GMT</pubDate>
     </item>
     <item>
       <title>有没有什么脚本能后台打开链接</title>
