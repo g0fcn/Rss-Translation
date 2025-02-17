@@ -4,7 +4,16 @@
     <title>罗布骑士•帖子•原子饲料</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Feb 2025 03:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 01:21:51 GMT</lastBuildDate>
+    <item>
+      <title>安静的</title>
+      <link>https://rknight.me/blog/quiet/</link>
+      <description><![CDATA[昨天在reddit上有一篇文章，我没有保存，现在找不到，这说明了“我正在尝试mastodon，但我的时间表太安静了。
+其中一条评论指出，在Mastodon上缺乏算法，这使我意识到这一点在事后看来很明显：无论您是关注一个人还是一千个，算法驱动的社交媒体平台都会确保是在时间轴中始终东西。即使您没有人关注，您也会获得完整的时间表。
+没有结论可以在这里绘制，只是一个观察。]]></description>
+      <guid>https://rknight.me/blog/quiet/</guid>
+      <pubDate>Sun, 16 Feb 2025 22:21:31 GMT</pubDate>
+    </item>
     <item>
       <title>那里有几种温和的颜色？</title>
       <link>https://rknight.me/blog/how-many-mildliner-colours-are-there/</link>
@@ -263,15 +272,6 @@
 我将从我的/NOW 页面开始，当我仔细考虑如何处理其他问题时。]]></description>
       <guid>https://rknight.me/blog/on-transient-slash-pages/</guid>
       <pubDate>Mon, 13 Jan 2025 22:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>咬子弹</title>
-      <link>https://rknight.me/blog/biting-the-bullet/</link>
-      <description><![CDATA[我一直在ho积了。我的提醒，黑曜石和神速都带有不同类型的毒品。再加上GitHub问题，Mastodon提到和雨滴。我没有去找其中任何一个。我错过了我应该做的事情。我忘记了重要的事情。另外，每周至少一次，我想把计算机扔进海中，因为应该有效的东西却没有。我需要在计算机上花费更少的浪费时间。
-我之前曾尝试使用笔记本以跟踪事物，但是如果没有系统来组织它们，它们就会成为随机涂鸦，而它们的类似在黄道十二摄影器杀手的公寓中不会不合时宜。
-所以我是gunna尝试子弹日记。您无需发送帮助（除了我的YouTube建议外）。但是，如果我成为那种不闭嘴的人，我将任命 keenan  在我的愚蠢笔记中隐喻地打我 - 摄影。]]></description>
-      <guid>https://rknight.me/blog/biting-the-bullet/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:55:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
