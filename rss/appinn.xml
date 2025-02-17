@@ -4,7 +4,50 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Feb 2025 18:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 12:35:46 GMT</lastBuildDate>
+    <item>
+      <title>分享一个听歌识曲后自动添加到苹果音乐的快捷指令</title>
+      <link>https://meta.appinn.net/t/topic/66621</link>
+      <description><![CDATA[和大家分享一个我自己在用的音乐识别快捷指令
+首先先上链接：快捷指令
+它的工作流程是这样的：
+
+
+通过敲击 iPhone 背板或者其他方式触发
+
+
+识别音频
+
+
+识别成功后添加到备忘录并添加到苹果音乐资料库
+
+
+识别部分使用的是 iPhone 自带的 Shazam，因此这个快捷指令在触发后可以识别 iPhone 正在播放的以及麦克风录到的音频。 
+我的使用场景
+有些时候突然需要识曲时打开 Shazam 识别再添加到资料库太繁琐，所以在自动化了以后遇到下面这些情况就很好应对：
+
+
+看视频时想收藏一下 BGM
+
+
+在别的音乐 app 上听到喜欢的歌
+
+
+在外面听到好听的歌
+
+
+
+第一次使用会请求一些权限，比如备忘录的权限。 
+另外我使用的是日区服务，所以针对不同区可能会需要在快捷指令中对「在 iTunes Store 上查找」中的地区进行修改。 
+
+安装好快捷指令后需要手动设置触发方式，我设置的是 辅助功能-触控-轻点背面-轻点三下。 
+如果大家遇到问题欢迎留言，我尽量尝试解决。 
+如果有人愿意直接进行修改、完善，那么请大方分享一下吧 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/66621</guid>
+      <pubDate>Mon, 17 Feb 2025 11:57:38 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么很消磨时间又上头的单机手游？</title>
       <link>https://meta.appinn.net/t/topic/66600</link>
@@ -299,57 +342,6 @@ https ://play.google.com/store/apps/details?id=com.kitten.drawing.kittendrawing
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/66128</guid>
       <pubDate>Wed, 05 Feb 2025 02:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>｛NFSee｝：适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据</title>
-      <link>https://meta.appinn.net/t/topic/65840</link>
-      <description><![CDATA[｛NFSee｝：适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据
-＞ 源码：GitHub
-＞ 许可：MIT
- 
-
-馆长注：
-1. 由于馆长对 NFC 技术没有什么深入了解，只能确定该软件的的读取和转储功能正常，不能确定是否支持 NFC 卡模拟。 
-2. 该软件提供了“执行脚本”功能，可以运行自定义的JavaScript 脚本，目前没有预设脚本，不清楚能否用于NFC 卡模拟。 
-
-NFSee 是一个适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据。 
-目前支持：
-
-全国城市一卡通（发行信息、余额和交易记录）
-北京市政公交一卡通（发行信息、余额和交易记录，不支持 iOS）
-深圳通（发行信息、余额和交易记录）
-岭南通（发行信息、余额和交易记录）
-八达通（余额）
-清华校园卡（发行信息、余额和交易记录）
-中华人民共和国居民身份证（仅 GUID，不支持 iOS）
-支持 PPSE 的银行卡（发行信息、余额和交易记录，不支持 iOS）
-T-Union （发行信息、余额和交易记录）
-MIFARE Ultralight（基本信息、NDEF 数据和原始数据）
-MIFARE DESFire（基本信息、NDEF 数据和原始数据）
-MIFARE Classic4（基本信息、NDEF 数据和原始数据，不支持 iOS）
-
-
-版本：2.4.0+20400
-关注：GitHub 150+ stars
-状态：缓慢开发
-语言：支持中文
-网络：完全离线
-资费：免费
-技术：Flutter
-平台： android；&lt; svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;ios
-＞ 主页：NFSee
-＞ 安装：GitHub Releases；F-Droid；Google Play； App Store
-＞ 捐助：～Donate
- 
-＞ 副本：FU102；TG101；Appinn
-＞ 档案：A_20250121_002
-＃：1_开源项目 # 2_开源工具收集
-＃：#A_收集 #B_整理 #C _引述 #D_开源 #D_工具 #E_中文
-％：2025年1月27日（UTC+8）
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/65840</guid>
-      <pubDate>Mon, 27 Jan 2025 12:21:47 GMT</pubDate>
     </item>
     <item>
       <title>有没有什么脚本能后台打开链接</title>
