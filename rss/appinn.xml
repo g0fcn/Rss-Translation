@@ -4,7 +4,51 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Feb 2025 12:32:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 09:18:45 GMT</lastBuildDate>
+    <item>
+      <title>｛SiriKali｝：适用于桌面端的开源文件加密 GUI 工具，支持多种文件加密后端</title>
+      <link>https://meta.appinn.net/t/topic/66729</link>
+      <description><![CDATA[｛SiriKali｝：适用于桌面端的开源文件加密 GUI 工具，支持多种文件加密后端
+＞ 源码：GitHub
+＞ 许可：GPL-3.0［1；2］
+︹
+馆长注：
+1. 该软件仅仅是 GUI 工具，本身不具备文件加密功能，需安装必要的文件加密后端。 
+2. 除 Flathub 渠道的版本默认包含了对应加密后端外，其他平台或渠道默认不包含后端，部分平台支持软件内部下载安装。 
+3. 如想了解各不同加密后端的差异，可参考ArchWiki 和&lt; a href=&quot;https://nuetzlich.net/gocryptfs/comparison/&quot;&gt;gocryptfs～。 
+︺
+SiriKali 是一个适用于桌面端的开源文件加密 GUI 工具，支持多种文件加密后端，还可以使用 sshfs 连接到 ssh 服务器。 
+后端支持情况：
+
+Linux：Fscrypt、 Securefs、 Ecryptfs、 Cryfs、 Encfs、 Gocryptfs、 Sshfs、Cryptomator。 
+Linux（Flatpak）：Securefs、 Cryfs、 Gocryptfs、Cryptomator。 
+Windows：Cryfs、 Securefs、 Encfs、 Sshfs、 Cppcryptfs、Cryptomator。 
+macOS：Securefs、 Cryfs、 Encfs、Gocryptfs。 
+
+
+版本：1.8.1
+关注：GitHub 800+ stars
+状态：必要维护
+语言：不支持中文
+网络：具有联网功能
+资费：免费
+技术：Qt
+平台： linux；&lt; svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;windows；macos
+＞ 主页：SiriKali
+＞ 安装：GitHub Releases；Flathub；AUR
+＞ 安装：Winget；Scoop
+＞ 指南：GitHub Wiki
+ 
+＞ 副本：FU102；TG101；Appinn
+＞ 档案：A_20250220_002
+＃：1_开源项目 # 2_开源工具收集
+＃：#A_收集 #B_整理 #C _引述 #D_开源 #D_工具 #E_中文
+％：2025年2月20日（UTC+8）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/66729</guid>
+      <pubDate>Thu, 20 Feb 2025 07:47:26 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐-订阅宝-送会员】订阅宝如何通过竞品分析助力订阅优化</title>
       <link>https://meta.appinn.net/t/topic/66692</link>
@@ -371,28 +415,6 @@ Metric-Converter.com 是一个在线单位转换工具，支持长度、重量�
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66207</guid>
       <pubDate>Fri, 07 Feb 2025 01:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>小猫画画上线，参与测试自动送终身会员</title>
-      <link>https://meta.appinn.net/t/topic/66185</link>
-      <description><![CDATA[名称
-小猫画画（Kitten Drawing）
-简介
-小猫画画，创意随心动！通过简单的临摹，让你轻松画出可爱猫咪，释放无限创意，享受绘画乐趣！适合每一个爱猫又爱画的你～
-测试地址&lt; /h2&gt;
-需要将Play账号添加到测试组，如果找不到进群找作者
-https ://play.google.com/store/apps/details?id=com.kitten.drawing.kittendrawing
-交流
- 
-
-
-
-视频
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/66185</guid>
-      <pubDate>Thu, 06 Feb 2025 07:04:09 GMT</pubDate>
     </item>
     <item>
       <title>有没有什么脚本能后台打开链接</title>
