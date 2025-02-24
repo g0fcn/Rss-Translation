@@ -4,7 +4,14 @@
     <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Feb 2025 06:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 18:25:14 GMT</lastBuildDate>
+    <item>
+      <title>配乐乐趣</title>
+      <link>https://brett.trpstra.net/link/535/16969703/soundtrack-fun</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16969703/soundtrack-fun</guid>
+      <pubDate>Mon, 24 Feb 2025 11:24:00 GMT</pubDate>
+    </item>
     <item>
       <title>2025年2月19日的网络游览</title>
       <link>https://brett.trpstra.net/link/535/16966399/web-excursions-for-february-19th-2025</link>
@@ -229,36 +236,6 @@
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16931942/bretts-favorites-2024-behind-the-scenes</guid>
       <pubDate>Thu, 02 Jan 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用iterm处理X-Man-Page URL</title>
-      <link>https://brett.trpstra.net/link/535/16931584/use-iterm-to-handle-x-man-page-urls</link>
-      <description><![CDATA[  &lt; /p&gt;
-
-它始于我使用Launch -Bar搜索模板。我尝试了Man Page搜索，并打开了终端中一个不错的窗口。但是我不想在ITERM已经运行时打开终端。
-我的最初搜索说这是不可能的，但实际上确实很容易。我找到了解决问题的此要多。
-可以将ITERM配置文件设置为处理URL处理程序，包括 X-Man-page ，这是搜索模板使用的。如果您创建一个新的配置文件（称其为“男人页”），并且在一般情况下，更改; login shell; rdquo;命令＆rdquo;并将其粘贴在：中
-
-    bash -c“ echo $$ host $$ host $$ | sed -e&#39;s/ s/ s/ s/ s/ s/ s/ s/ s/ s/ s/ （。*）\/（。*）/\ 1 \ 2/&#39;|
-
-然后在一般窗格的底部找到＆ldquo; url方案，＆rdquo;并从下拉列表中选择 x-man-page 。它会问您是否要使Iterm成为默认处理程序＆mdash;单击“是”（这是这一点）。
-
-那是您必须做的最低限度。我继续自定义配色方案，将窗口设置为80列，并在窗口设置下添加了一点透明度和模糊。在会话设置下，我确保在命令终止时将其关闭，并禁用有关提前终止的警告，当我误入命令并需要再次尝试时，这很烦人。。
-  
- iterm人页主题
- 这是我制作的配色方案，既有光和黑暗。我一般是a＆ldquo; rdquo;码头的家伙，但我喜欢终端用于人页面的光主题。我将其变成较少的黄色，并为大胆和下划线文本添加了对比色，在查看人页面时看起来很棒。自定义您的内心内容。
-这是一个非常酷的技巧，希望它可以帮助那些已经知道这一点的人。设置设置后，您可以使用 x-man-page：// [命令] 您喜欢的任何地方功能。在鱼类中是：
-    function nman -description&#39;新终端窗口中的open man页面&#39;
-    打开“ X-Man-page：//” $ argv
-结束   
-玩得开心！
-喜欢或分享此帖子， Bluesky 或 Twitter 。
-
- brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
-                喜欢提供帮助。 
-在 mastodon ， BLUESKYKY ， github 和其他地方高度=“ 1” src =“ https://brett.trpstra.net/link/535/16931584.gif” width =“ 1”/&gt;]]></description>
-      <guid>https://brett.trpstra.net/link/535/16931584/use-iterm-to-handle-x-man-page-urls</guid>
-      <pubDate>Wed, 01 Jan 2025 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
