@@ -4,12 +4,55 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Feb 2025 06:27:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 12:35:26 GMT</lastBuildDate>
+    <item>
+      <title>｛LibreWolf｝：基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由</title>
+      <link>https://meta.appinn.net/t/topic/67027</link>
+      <description><![CDATA[｛LibreWolf｝：基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由
+＞ 源码：CodeBerg；GitLab
+＞ 许可：MPL-2.0
+︹
+馆长注：
+1. LibreWolf 是一个社区项目，源码和其他设施较多且类型丰富。本文只列出了部分源码仓库，有需要的读者可尝试自行寻找。 
+2. LibreWolf 采用了极为严格的隐私策略，可能影响正常的网页浏览。如无法自行解决或忍受，请停止使用 LibreWolf 并尝试更换浏览器。 
+3. LibreWolf 在最新版本中添加了部分隐私策略的开关按钮，如 RFP。其他无直接开关的，也可尝试在 about:config 或启动参数中自行调整。 
+︺
+LibreWolf 是一个基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由。 
+功能特性：
+
+隐私保护：本机或通过 uBO 从 URL 中删除跟踪元素；启用 RFP；禁用 WebGL；禁用磁盘缓存并在关闭时清除临时文件……
+安全性：及时跟进上游版本与安全补丁；启用更严格的 TLS/SSL 协商规则；禁用内置 pdf 阅读器中的脚本；实施可手动启用的扩展防火墙……
+干扰：防止通过脚本调整窗口大小；禁用媒体自动播放；删除所有干扰、赞助和广告内容；移除 Pocket 扩展；默认禁用 Firefox 同步……
+其他：完全禁用遥测功能（崩溃报告、标准、研究和个性化建议）；禁用 Google Safe Browsing、DRM、内置密码管理器……
+
+
+版本：135.0.1-1（Flathub）
+关注：Codeberg 290+ stars
+状态：积极维护
+语言：支持中文
+网络：主要为联网功能
+资费：免费
+平台：linux；windows；macos
+＞ 主页：LibreWolf
+＞ 安装：～Installation；Flathub；Microsoft Store
+＞ 指南：～Documentation
+＞ 交流：Matrix；Lemmy
+ 
+＞ 副本：FU102；TG101；Appinn
+＞ 档案：A_20240613_002
+＃：1_开源项目 #2_开源工具收集
+＃：#A_收集 #B_整理 #C_引述 #D_开源 #D_工具 #E_中文
+％：2025年2月28日（UTC+8）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67027</guid>
+      <pubDate>Fri, 28 Feb 2025 08:39:20 GMT</pubDate>
+    </item>
     <item>
       <title>如何批量下载这网站图片? 文件名带随机字符 但我觉得可以搞定</title>
       <link>https://meta.appinn.net/t/topic/66766</link>
       <description><![CDATA[但我代码小白，完全不会
-网址：https://www.fashionsnap.com/collection/undercover/ mens/2025ss
+网址：https://www.fashionsnap.com/collection/undercover/mens/2025ss
 ====
 我们可以看到文件名是很有规律的：
 *00004-aab99df6-a3cf-4368-8fb6-74487152edf7.jpg
@@ -29,10 +72,10 @@
       <link>https://meta.appinn.net/t/topic/66761</link>
       <description><![CDATA[看了那么多吹 vim 的文章，博客，手痒痒了，想学学 vim
 之前被那个张快捷键的键位图吓到了，所以没敢学。现在用了几个码表输入法之后，再回过头来看那张 vim 键位图感觉也不过如此（
-但是本身并不是程序员，也没有那么大量的文本输入工作，所以 vim 对我使用电脑过程中的效率提升并不明显。想起了之前看到的在浏览器中实现 vim 操作习惯的扩展，试了试，意外的香。 
+但是本身并不是程序员，也没有那么大量的文本输入工作，所以 vim 对我使用电脑过程中的效率提升并不明显。想起了之前看到的在浏览器中实现 vim 操作习惯的扩展，试了试，意外的香。
 使用 zen 浏览器，用了 tridactyl  这个扩展
 我们在使用一个网页的时候，最常规的操作就是用鼠标去点击某一个元素，为此我们需要把手放在鼠标上，然后准确移动到那个元素的位置，并点击。如果需要在一个输入框中输入内容，那就需要先点击输入框，然后再把手移动到键盘上，打字
-而使用了诸如tridactyl  这样的扩展之后，按住f 键，网页中所有可以点击的元素就会显示出一个对应的按键，这时候只要在键盘上按出那些按键，就算是完成了一次点击操作， 
+而使用了诸如 tridactyl  这样的扩展之后，按住 f 键，网页中所有可以点击的元素就会显示出一个对应的按键，这时候只要在键盘上按出那些按键，就算是完成了一次点击操作，
 
 
 
@@ -55,7 +98,7 @@
 馆长注：
 1. 该软件仅仅是 GUI 工具，本身不具备文件加密功能，需安装必要的文件加密后端。 
 2. 除 Flathub 渠道的版本默认包含了对应加密后端外，其他平台或渠道默认不包含后端，部分平台支持软件内部下载安装。 
-3. 如想了解各不同加密后端的差异，可参考ArchWiki 和&lt; a href=&quot;https://nuetzlich.net/gocryptfs/comparison/&quot;&gt;gocryptfs～。 
+3. 如想了解各不同加密后端的差异，可参考 ArchWiki 和 gocryptfs～。 
 ︺
 SiriKali 是一个适用于桌面端的开源文件加密 GUI 工具，支持多种文件加密后端，还可以使用 sshfs 连接到 ssh 服务器。 
 后端支持情况：
@@ -73,7 +116,7 @@ macOS：Securefs、 Cryfs、 Encfs、Gocryptfs。
 网络：具有联网功能
 资费：免费
 技术：Qt
-平台： linux；&lt; svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;windows；macos
+平台：linux；windows；macos
 ＞ 主页：SiriKali
 ＞ 安装：GitHub Releases；Flathub；AUR
 ＞ 安装：Winget；Scoop
@@ -81,8 +124,8 @@ macOS：Securefs、 Cryfs、 Encfs、Gocryptfs。
  
 ＞ 副本：FU102；TG101；Appinn
 ＞ 档案：A_20250220_002
-＃：1_开源项目 # 2_开源工具收集
-＃：#A_收集 #B_整理 #C _引述 #D_开源 #D_工具 #E_中文
+＃：1_开源项目 #2_开源工具收集
+＃：#A_收集 #B_整理 #C_引述 #D_开源 #D_工具 #E_中文
 ％：2025年2月20日（UTC+8）
 1 个帖子 - 1 位参与者
 阅读完整话题]]></description>
@@ -92,14 +135,14 @@ macOS：Securefs、 Cryfs、 Encfs、Gocryptfs。
     <item>
       <title>【开发者自荐-订阅宝-送会员】订阅宝如何通过竞品分析助力订阅优化</title>
       <link>https://meta.appinn.net/t/topic/66692</link>
-      <description><![CDATA[网站名称&lt; /h2&gt;
+      <description><![CDATA[网站名称
 订阅宝
-下载地址&lt; /h2&gt;
+下载地址
 dingyuebao.cn
-如何使用&lt; /h2&gt;
+如何使用
 只需注册一下，即可使用。 
 邀请好友可送7天会员，快来使用吧
-主要功能&lt; /h2&gt;
+主要功能
 订阅宝在竞品分析方面的表现令人印象深刻。它不仅提供表面数据，还深入挖掘竞品背后的运营逻辑，帮助开发者从多个维度获得洞察：
 
 订阅页面可视化追踪
@@ -178,7 +221,7 @@ The break time reminder app
 关联帖子：【开源自荐】久坐提醒(AHK) 更新V2
 用法
 软件支持“长休”与“短休”两种休息间隔，设定好你需要的休息间隔和提醒方式。 
- &lt; img alt=&quot;drawing&quot; height=&quot;307&quot; src=&quot;https://raw.githubusercontent.com/hovancik/stretchly/refs/heads/trunk/contributors.png&quot; width=&quot;350&quot; /&gt;
+ 
 在连续使用电脑一定时间后，会使用窗口或全屏提醒你休息。 
 
 1 个帖子 - 1 位参与者
@@ -223,7 +266,7 @@ The break time reminder app
 
 安装好快捷指令后需要手动设置触发方式，我设置的是 辅助功能-触控-轻点背面-轻点三下。 
 如果大家遇到问题欢迎留言，我尽量尝试解决。 
-如果有人愿意直接进行修改、完善，那么请大方分享一下吧 
+如果有人愿意直接进行修改、完善，那么请大方分享一下吧  
 1 个帖子 - 1 位参与者
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66621</guid>
@@ -232,7 +275,7 @@ The break time reminder app
     <item>
       <title>有没有什么很消磨时间又上头的单机手游？</title>
       <link>https://meta.appinn.net/t/topic/66600</link>
-      <description><![CDATA[大家好，想问下有没有什么很容易上头、一玩起来几个小时就过去了的手游推荐？我计划用来在飞机上消磨一下时间
+      <description><![CDATA[大家好，想问下有没有什么很容易上头、一玩起来几个小时就过去了的手游推荐？我计划用来在飞机上消磨一下时间 
 由于是在飞机上，所以会有几个附加过滤条件:
 必须允许离线玩
 耗电小
@@ -277,9 +320,8 @@ opera.com
 
 
 
-Opera Air | Your Mindful Browser | Opera&lt; /h3&gt;
-
-  Mindful browsing with Opera Air. Nurture your well-being and focus in a powerful and distraction-free browser.
+Opera Air | Your Mindful Browser | Opera
+Mindful browsing with Opera Air. Nurture your well-being and focus in a powerful and distraction-free browser.
 
 
 
@@ -294,17 +336,17 @@ Opera Air | Your Mindful Browser | Opera&lt; /h3&gt;
     <item>
       <title>【自荐-网页小游戏】增强版掐秒表，解压玩具</title>
       <link>https://meta.appinn.net/t/topic/66547</link>
-      <description><![CDATA[软件名称&lt; /h2&gt;
+      <description><![CDATA[软件名称
 掐秒表 / Stopwatch Game
-应用平台&lt; /h2&gt;
+应用平台
 
 所有支持ES6的浏览器（移动端、PC端）
 
-推荐类型&lt; /h2&gt;
+推荐类型
 【开发者自荐】
 一句话简介
 注意力训练器 无聊时有没有尝试把手机/平板上的秒表按到整数秒？升级版来了：尽可能准确地在秒表达到5.0000s时按下停止吧。 
-应用简介&lt; /h2&gt;
+应用简介
 由于不满自带应用的精度，顺便要为编程社团提供一点材料，返璞归真用HTML+CSS+JS写了一个掐秒表小游戏。 
 
 名义精度0.1ms，以鼠标抬起时间判定，当然实际上浏览器达不到这个精度，但是更好玩。 
@@ -345,7 +387,7 @@ Stopwatch Game
 bi.cool
 
 
-Stopwatch Game，HTML代码在线实时编辑、预览- 笔.COOL
+Stopwatch Game，HTML代码在线实时编辑、预览 - 笔.COOL
 「Stopwatch Game」作品详情，查看完整的代码实现，还能在线运行、编辑和实时预览此代码。适合前端开发学习和参考。 
 
 
@@ -402,29 +444,6 @@ App Store
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66441</guid>
       <pubDate>Wed, 12 Feb 2025 10:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>【iOS】这个高颜值背单词 App 正在限免，有需要的可以下载</title>
-      <link>https://meta.appinn.net/t/topic/66287</link>
-      <description><![CDATA[会员为 iPad 和 iOS 通用，最近刚刚更新了双语释义展示，例句 TTS 朗读功能和禅模式
-通过禅模式可以在睡前回顾当天学习过的所有单词，并且可以熄屏操作，不影响睡眠，不伤眼睛
-下载地址&lt; /h2&gt;
-App Store
-或者在 App Store 中搜索【嗯背单词】
-你也可以购买日语版来支持我们的开发
-App 预览&lt; /h2&gt;
-
-双语释义&lt; /h3&gt;
-
-例句朗读&lt; /h3&gt;
-
-
-有任何问题请在评论区留言，我会及时回复
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/66287</guid>
-      <pubDate>Sun, 09 Feb 2025 07:20:14 GMT</pubDate>
     </item>
     <item>
       <title>有没有什么脚本能后台打开链接</title>
