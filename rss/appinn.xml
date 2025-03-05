@@ -4,7 +4,33 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Mar 2025 06:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 09:20:07 GMT</lastBuildDate>
+    <item>
+      <title>IDM替代品</title>
+      <link>https://meta.appinn.net/t/topic/67182</link>
+      <description><![CDATA[IDM有不少缺点，例如
+
+只支持Windows
+界面难看
+卡顿
+下载完还要合并，磨损SSD
+下载记录保存在注册表里
+加驱
+具有以上缺点的同时，还是个收费软件
+
+这里推荐几个替代品
+
+Gopeed（近期出现的所谓“吸血”客户端是假冒Gopeed的恶意软件）
+AB Download Manager（这东西感觉比IDM还卡）
+Xtreme Download Manager（嗅探能力和IDM不相上下）
+[Neat Download Manager)（界面像精简版的IDM，官方版无中文）
+Free Download Manager - 从网路下载任何东西（这个现在不推荐了）
+
+6 个帖子 - 6 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67182</guid>
+      <pubDate>Wed, 05 Mar 2025 06:06:20 GMT</pubDate>
+    </item>
     <item>
       <title>MacOS上有没有支持谷歌数据同步的Chromium系浏览器？</title>
       <link>https://meta.appinn.net/t/topic/67163</link>
@@ -347,16 +373,6 @@ The break time reminder app
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66575</guid>
       <pubDate>Sun, 16 Feb 2025 00:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何把iOS“文件”里的某个指定文件夹定时同步到远程webdav（或ftp、sftp）服务器？</title>
-      <link>https://meta.appinn.net/t/topic/66560</link>
-      <description><![CDATA[我的iPhone里有一个文件夹，里边有各种各样类型的文件，且里边的文件会经常变动（增、删、改），而且这些文件都比较重要。 
-有没有什么方法或者稳定的app可以定时自动地把这整个文件夹同步到一个远程的webdav或者是sftp服务器里去？ 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/66560</guid>
-      <pubDate>Sat, 15 Feb 2025 05:55:44 GMT</pubDate>
     </item>
     <item>
       <title>Opera出了个新浏览器：Opera Air</title>
