@@ -4,7 +4,17 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Mar 2025 01:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 03:26:43 GMT</lastBuildDate>
+    <item>
+      <title>MacOS上有没有支持谷歌数据同步的Chromium系浏览器？</title>
+      <link>https://meta.appinn.net/t/topic/67163</link>
+      <description><![CDATA[Chrome已经开始禁我的扩展了，但是我的数据都在Chrome上面，Windowsx下可以用Cent续命，MacOS下有什么办法吗？ 
+
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67163</guid>
+      <pubDate>Wed, 05 Mar 2025 00:18:23 GMT</pubDate>
+    </item>
     <item>
       <title>求更好的chrome任务管理器 extension</title>
       <link>https://meta.appinn.net/t/topic/67162</link>
@@ -374,72 +384,6 @@ Mindful browsing with Opera Air. Nurture your well-being and focus in a powerful
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66559</guid>
       <pubDate>Sat, 15 Feb 2025 05:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐-网页小游戏】增强版掐秒表，解压玩具</title>
-      <link>https://meta.appinn.net/t/topic/66547</link>
-      <description><![CDATA[软件名称
-掐秒表 / Stopwatch Game
-应用平台
-
-所有支持ES6的浏览器（移动端、PC端）
-
-推荐类型
-【开发者自荐】
-一句话简介
-注意力训练器 无聊时有没有尝试把手机/平板上的秒表按到整数秒？升级版来了：尽可能准确地在秒表达到5.0000s时按下停止吧。 
-应用简介
-由于不满自带应用的精度，顺便要为编程社团提供一点材料，返璞归真用HTML+CSS+JS写了一个掐秒表小游戏。 
-
-名义精度0.1ms，以鼠标抬起时间判定，当然实际上浏览器达不到这个精度，但是更好玩。 
-保留最近15次的历史记录，适合截图。 
-加上等第评定，更加刺激。 
-
-
-按照误差秒数评级，当前等级参考：
-
-1s内，D级
-0.3s内，C级
-0.13s内，B级
-0.08s内，A级
-0.05s内，S级
-0.02s内，SS级
-0.01s内，SSS级
-0.005s内，U级
-
-网站
-部署于Netlify：
-
-
-
-vanilla.cup11.top
-
-
-Stopwatch Game
-增强版掐秒表小游戏，0.1ms，含评级，有历史记录
-
-
-
-
-
-快速查看源代码：
-
-
-
-bi.cool
-
-
-Stopwatch Game，HTML代码在线实时编辑、预览 - 笔.COOL
-「Stopwatch Game」作品详情，查看完整的代码实现，还能在线运行、编辑和实时预览此代码。适合前端开发学习和参考。 
-
-
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/66547</guid>
-      <pubDate>Sat, 15 Feb 2025 01:48:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
