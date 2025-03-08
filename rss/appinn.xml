@@ -4,7 +4,67 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 06 Mar 2025 12:37:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 12:26:32 GMT</lastBuildDate>
+    <item>
+      <title>web批注效率神器推荐——TingchiAnnotations/庭池批注</title>
+      <link>https://meta.appinn.net/t/topic/67299</link>
+      <description><![CDATA[—— 庭池批注，效率领先昨天两个身位，让知识工作者直接飞起！ 
+简介
+【Tingchi Annotations/庭池批注】是一款上陪学者教授，下陪互联网冲浪客的类Chrome浏览器网页批注扩展。它反思维&amp;时间碎片化，极大提升知识工作者的效率，助力打造知识工作者系统&amp;深入思考的体验；多彩批注一切互联网网页，留下批注足迹，智能全文搜索批注，让资源总是唾手可得；随时捕捉&amp;沉淀你的想法，让你的灵感不再稍纵即逝；最后，【Tingchi Annotations/庭池批注】端到端守护你的数据安全，为保护你的数据隐私不遗余力。 
+【Tingchi Annotations/庭池批注】使用微信登录和微信支付便于中国区用户使用，而对于海外用户，则使用Paypal登录&amp;支付，便于海外用户使用。 
+开启庭池批注，全新的效率&amp;系统思考体验扑面而来，知识工作者直接飞起！预祝您愉快的庭池批注之旅！ 
+应用平台
+
+Windows, Chrome/Edge浏览器
+MacOS, Chrome浏览器
+Linux, Chrome浏览器
+
+获取&amp;安装
+国际用户
+
+Chrome用户，可直接从Google Web Store获取Tingchi Annotations扩展进行安装。 
+
+Edge用户，可从Microsoft Edge Store安装Tingchi Annotations
+国内用户，由于众所周知的原因无法使用Google Web Store，因此特提供扩展下载，打开类Chrome浏览器【开发者模式】即可安装。 
+
+使用
+如何登录？ 
+成功安装【Tingchi Annotations/庭池批注】扩展后，浏览网页时选中内容即可通过鼠标右键菜单【Tingchi Annotations】进行彩色批注。如下图所示：
+
+若你还没有登录，则会提示登录。如下图所示：
+
+点击【OK/确定】按钮将打开庭池批注登录页面。 
+其中，中国区用户可使用微信扫码登录，如下图所示：
+
+海外用户则可使用Paypal快捷登录，如下图所示：
+
+登录成功后，刷新网页或重启类Chrome浏览器就可以正常&amp;愉快使用了！ 
+如何批注一切网页？ 
+成功安装【Tingchi Annotations/庭池批注】扩展后，使用类Chrome浏览器浏览网页时，选中要批注的内容后，就可以通过鼠标右键进行【批注】，如下图所示。 
+
+批注和内容如何进行联动？ 
+如何删除批注？ 
+在作有批注的页面上，鼠标右右键点击批注，在弹出的菜单中选择【删除批注】就可以删除批注。如下图所示：
+
+如何为批注打上标签？ 
+对批注的内容，鼠标点击【标签】按钮，输入标签并且按下回车键，就可以为批注打上标签。如下图所示：
+
+如何在批注中搜索？ 
+在批注面板中，点击【标签】tab页，在搜索框中输入关键字就可以智慧搜索批注及其内容。如下图所示：
+
+
+如何查看最近批注足迹？ 
+在批注面板中，鼠标点击【我的】，就可以查看批注足迹。如下图所示：
+
+如何删除批注足迹？ 
+在批注面板中，鼠标点击【足迹】右侧【编辑】按钮，再点击足迹左侧的删除按钮，就可以删除此条批注足迹。如下图所示：
+
+原文
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67299</guid>
+      <pubDate>Sat, 08 Mar 2025 11:57:07 GMT</pubDate>
+    </item>
     <item>
       <title>Automa 看似又在更新了？</title>
       <link>https://meta.appinn.net/t/topic/67227</link>
@@ -409,16 +469,6 @@ The break time reminder app
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66600</guid>
       <pubDate>Sun, 16 Feb 2025 13:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>请问Chrome浏览器有没有能记录当前视频进度条的插件</title>
-      <link>https://meta.appinn.net/t/topic/66575</link>
-      <description><![CDATA[请问Chrome浏览器有没有能记录当前视频进度条的插件
-我发现很多视频网站都不能自动记录当前观看的进度，十分不方便，请问有没有解决这个问题的crx插件  谢谢各位解答
-5 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/66575</guid>
-      <pubDate>Sun, 16 Feb 2025 00:21:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
