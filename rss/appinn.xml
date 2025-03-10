@@ -4,7 +4,60 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Mar 2025 18:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 12:37:02 GMT</lastBuildDate>
+    <item>
+      <title>Tinytex</title>
+      <link>https://meta.appinn.net/t/topic/67341</link>
+      <description><![CDATA[同志们, 我想跟您分享 TinyTeX.
+介绍
+TinyTex 是一个基于 TeX Live 的轻量的, 跨平台的, 便携的, 且易维护的 TeX 版本; TeX Live 是一个我们可安装于硬盘的综合的 TeX 系统; TeX 是一个排版系统.
+TeX Live 或许是最流行的 TeX 系统. 它含若干千个包, 其或可适合普通的用户的需要. 完整的 TeX Live 是大的: TeX Live 2025 的完整的官方的安装镜像的大小为约 6.44 GB (或约 6.00 GiB), 且 TeX Live 2025 的完整的安装需约 8.97 GB (或约 8.36 GiB). 每个包通常带文档与源码. 普通的用户少地读它们. 以我的经验, 只有开发人或高级的用户读包的源码, 且多的用户不知道文档在哪儿. 当遇到问题时, 一个普通的用户会作什么? 或许会打开浏览器, 在搜索栏输入关键词, 并看搜索结果. 进一步地, 即使他们真地要文档或源码, 他们可能也只要少的包的资料, 其可在 CTAN (综合 TeX 资料网) 被找到.
+TinyTeX 是较小的: 最新的 TinyTeX 的安装包 (含 TeX Live 的完整的官方的安装镜像的所有的包) 的大小小于 2 GB (或约 1.86 GiB), 且最新的 TinyTeX 的完整的安装需约 4.17 GB (或约 3.88 GiB). 磁盘空间现在是便宜的, 但不浪费它仍是好的.
+安装 TinyTeX 的方式
+访问 GitHub - rstudio/tinytex-releases: Windows/macOS/Linux binaries and installation methods of TinyTeX 以了解如何安装 TinyTeX.
+以下是适用于 Windows, Linux, 与 macOS 的安装包:
+
+TinyTeX for Windows: https://github.com/rstudio/tinytex-releases/releases/download/daily/TinyTeX-2.exe
+TinyTeX for Linux: https://github.com/rstudio/tinytex-releases/releases/download/daily/TinyTeX-2.tar.gz
+TinyTeX for macOS: https://github.com/rstudio/tinytex-releases/releases/download/daily/TinyTeX-2.tgz
+
+我是 Linux 用户与 Windows 用户, 故我分享安装 Windows 版与 Linux 版 TinyTeX 的经验. 我不能用 macOS, 故对不起, macOS 用户们, 我不能教您怎么安装 TinyTeX 了.
+Linux
+在此下载文件 TinyTeX-2.tar.gz (Linux 版 TinyTeX). 打开终端 (命令窗口), 进入 TinyTeX-2.tar.gz 所在的文件夹, 并执行:
+tar xf TinyTeX-2.tar.gz -C &quot;$HOME&quot;
+cd &quot;$HOME/.TinyTeX/bin/x86_64-linux/&quot;
+./tlmgr option repository ctan
+./tlmgr option sys_bin /usr/local/bin
+./tlmgr postaction install script xetex
+
+最后, 添加 $HOME/.TinyTeX/bin/x86_64-linux 到您的 PATH.
+比如, 若您用 Bash, 您可在文件 $HOME/.bashrc 添加:
+export PATH=&quot;$HOME/.TinyTeX/bin/x86_64-linux:$PATH&quot;
+
+打开新的终端, 或执行 source $HOME/.bashrc, 以应用更改.
+若您不用 Bash, 您自己找如何永久地修改 PATH 吧.
+为验证安装, 在终端执行 tex -version. 若安装是成功的, 您会看到 TeX 的版本信息.
+Windows
+在此下载文件 TinyTeX-2.exe (Windows 版 TinyTeX). 它是一个自解压文件. 解压它至一个路径不含空格或非 ASCII 字符的文件夹. 您会得到文件夹 TinyTeX. 打开终端 (命令窗口), 进入文件夹 TinyTeX, 并执行:
+cd bin\windows
+tlmgr option repository ctan
+tlmgr postaction install script xetex
+tlmgr path add
+
+重启动 Windows 以应用更改.
+为验证安装, 在终端执行 tex -version. 若安装是成功的, 您会看到 TeX 的版本信息.
+感谢
+我感谢谢益辉作 TinyTeX.
+参考
+
+TinyTeX - A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live - Yihui Xie | 谢益辉
+Frequently (?) Asked Questions - Yihui Xie | 谢益辉
+
+12 个帖子 - 7 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67341</guid>
+      <pubDate>Mon, 10 Mar 2025 02:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以支持在 PC Chrome 中同时播放多个视频的画中画插件？</title>
       <link>https://meta.appinn.net/t/topic/67304</link>
@@ -118,7 +171,7 @@ Edge用户，可从Microsoft Edge Store安装Tingchi Annotations
 
 今自动
               1个帖子 -7位参与踎踎踎踎踎踥 
- href =“ https://meta.oppinn.net/t/topic/67227”&gt;阅读完整话go  ]]></description>
+ href =“ https://ta.appinn.net/t/topic/67227”&gt;阅读完整话go  ]]></description>
       <guid>https://meta.appinn.net/t/topic/67227</guid>
       <pubDate>Thu, 06 Mar 2025 08:22:02 GMT</pubDate>
     </item>
@@ -423,49 +476,6 @@ The break time reminder app
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/66659</guid>
       <pubDate>Tue, 18 Feb 2025 08:39:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享一个听歌识曲后自动添加到苹果音乐的快捷指令</title>
-      <link>https://meta.appinn.net/t/topic/66621</link>
-      <description><![CDATA[和大家分享一个我自己在用的音乐识别快捷指令
-首先先上链接：快捷指令
-它的工作流程是这样的：
-
-
-通过敲击 iPhone 背板或者其他方式触发
-
-
-识别音频
-
-
-识别成功后添加到备忘录并添加到苹果音乐资料库
-
-
-识别部分使用的是 iPhone 自带的 Shazam，因此这个快捷指令在触发后可以识别 iPhone 正在播放的以及麦克风录到的音频。 
-我的使用场景
-有些时候突然需要识曲时打开 Shazam 识别再添加到资料库太繁琐，所以在自动化了以后遇到下面这些情况就很好应对：
-
-
-看视频时想收藏一下 BGM
-
-
-在别的音乐 app 上听到喜欢的歌
-
-
-在外面听到好听的歌
-
-
-
-第一次使用会请求一些权限，比如备忘录的权限。 
-另外我使用的是日区服务，所以针对不同区可能会需要在快捷指令中对「在 iTunes Store 上查找」中的地区进行修改。 
-
-安装好快捷指令后需要手动设置触发方式，我设置的是 辅助功能-触控-轻点背面-轻点三下。 
-如果大家遇到问题欢迎留言，我尽量尝试解决。 
-如果有人愿意直接进行修改、完善，那么请大方分享一下吧  
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/66621</guid>
-      <pubDate>Mon, 17 Feb 2025 11:57:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
