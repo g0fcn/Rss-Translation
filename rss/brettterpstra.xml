@@ -4,7 +4,31 @@
     <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Mar 2025 01:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 18:24:03 GMT</lastBuildDate>
+    <item>
+      <title>标记2.6.46-美人鱼，突出显示等等</title>
+      <link>https://brett.trpstra.net/link/535/16980488/marked-2-dot-6-46</link>
+      <description><![CDATA[  &lt; /p&gt;
+我终于得到了一个显着的标记为更新。  ==亮点== 渲染，以及我认为（某些）用户会喜欢的byo javascript设置。
+  
+首先，我不知道为什么它变得如此受欢迎，但是我收到了很多要求 ~~删除~~ 渲染和〜〜下划线〜作为附加选项。我必须使〜下划线〜函数，因为它与MultiMarkDown的订阅语法发生冲突。但是您可以在设置 - 处理器下找到所有这些选项。甚至还有一个选项可以转换 ==突出显示== 和 ~~ deletions ~~ deletions ~~ deletions ~~  to Crivernal，这允许在标记中显示出更好的显示。。。
+
+接下来，我有
+  
+如果您在设置 - ＆gt;样式下查看，您会找到一个附加脚本按钮。这将打开一个面板，您可以控制每个预览中加载JS的内容（ docs ）。美人鱼有自己的复选框，如果我添加了其他库支持，则将在此处添加复选框。下面是一个3窗格字段，您可以在其中添加本地文件，CDN URL或嵌入原始文本的JavaScript。
+请注意，在添加库时，您负责使它们更新。 标记。hooks api允许您将渲染函数连接到更新调用中，因此每次预览更新（不是完整的刷新）时，您都可以触发任何需要发生的渲染。有关此
+有一个其他一些修复程序。 I published a second update this morning (v2.6.46) that improves multi-line ==highlight== rendering, and finally allows you to customize the reading speed for Reading Time计算。这是直接（桨）客户的目前可用的，并在Setapp和MAS客户的审核中可用。
+如果您从未签到过，请前往
+ marked2app.com 了解更多！
+喜欢或分享此帖子 Twitter 。
+
+ brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
+        喜欢提供帮助。 
+在 github 和无处不在
+        else 。 &lt;img height =“ 1”]]></description>
+      <guid>https://brett.trpstra.net/link/535/16980488/marked-2-dot-6-46</guid>
+      <pubDate>Mon, 10 Mar 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2025年3月6日的网络游览</title>
       <link>https://brett.trpstra.net/link/535/16978350/web-excursions-for-march-6th-2025</link>
@@ -18,10 +42,10 @@
  巫师的学徒 - 蠕虫和病毒 
 这雄辩地阐明了我对Mac上自动化状态的挫败感。 AppleScript为我们提供了许多可能性，而捷径严重削减了它们。更糟糕的是，捷径仍然被视为事后的想法。我想念萨尔。 （请注意，这是在2020年发布的，但核心投诉仍然绝对相同。）
   pierre  
-＆ldquo; Joyful代码评论。＆rdquo;我没有尝试过。根本。但是，如果您想为SaaS看到一个真正疯狂的（阅读精神病）飞溅页面，只需给出这30秒的生活即可。也许该产品也很棒，也可能是Hellip;让我知道您是否尝试。
+＆ldquo; Joyful代码评论。＆rdquo;我没有尝试过。根本。但是，如果您想为SaaS看到一个真正疯狂的（阅读精神病）飞溅页面，只需给您30秒的生活即可。也许该产品也很棒，也可能是Hellip;让我知道您是否尝试。
 
 想要更多的好提示和应用吗？查看 screencastsonline 。
-喜欢或分享此帖子&lt;a class =“ twitter” href=&quot;https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2025%2F03%2F06%2Fweb-excursions-for-march-6th-2025%2F&amp;amp;tex t = Web+游览+3月+6th％2C+2025＆amp; url = https％3A％2F％2fbrettterpterptra.com％2F2025％2f2025％2F03％2F06％2fweb-excursions-for-march-march-march-march-march-march-march-6th-2025％2f＆ampsscoff rel =“ nofollow” target =“ _ blank” title =“ Tweet the Thin this Pert”&gt; Twitter 。
+喜欢或分享此帖子&lt;a class =“ twitter” href=&quot;https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2025%2F03%2F06%2Fweb-excursions-for-march-6th-2025%2F&amp;amp;tex t = Web+游览+3月+6th％2C+2025＆amp; url = https％3A％2F％2fbrettterpterptra.com％2F2025％2f2025％2F03％2F06％2fweb-excursions-for-march-march-march-march-march-6th-2025％2f＆ampsoff rel =“ nofollow” target =“ _ blank” title =“ Tweet the Thin this Pert”&gt; Twitter 。
 
  brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
         喜欢提供帮助。 
@@ -127,7 +151,7 @@
  hat to Laptopllama，最近写了一堆很酷的公用事业
 
   Safari网站作为pdf    
-来自Maarten Den Braber：一个迅速脚本，将Safari网站保存为PDF（使用Cookie Syncing）。
+来自Maarten Den Braber：一个迅速脚本，将Safari网站保存为PDF（使用cookie Syning）。
 
 想要更多的好提示和应用吗？查看 screencastsonline 。
 喜欢或分享此帖子 bluesky 或 Twitter 。
@@ -143,7 +167,7 @@
       <title>2025年2月15日的网络游览</title>
       <link>https://brett.trpstra.net/link/535/16963353/web-excursions-for-february-15th-2025</link>
       <description><![CDATA[  
-网络游览与 Tower ，Macos绝对是最佳Git Gui。
+网络游览与 Tower ，MacOS绝对是最佳Git Gui。
 
  输入挂毯 
  IconFactory的一个很酷的新应用程序将多个媒体源融合到一个列表中，并配有静音和管理工具。您甚至可以使用基本删除符文件。。
@@ -267,7 +291,7 @@
       <link>https://brett.trpstra.net/link/535/16936928/a-stretchlink-shortcut</link>
       <description><![CDATA[ ImmoJunghärtchen在论坛上分享了strentlink.cc的快捷方式，我为自己的需求进行了稍作修改。在下面找到两个。
 可以找到原始快捷方式在论坛上href =“ https://www.icloud.com/shortcuts/8F5255E7295E4F9A853679B1D4125766”&gt;直接链接。感谢Immo的开始。
-我创建了自己的版本，专门用于输出标记链接以及其他一些修改。您可以在下面下载它。如果您需要将简短的URL转换为Markdown中的长URL，以进行博客，论坛帖子等，这应该节省您的时间。安装时，您可以选择将其设置为清洁跟踪信息并整理那些笨拙的Amazon URL。
+我创建了自己的版本，专门用于输出标记链接以及其他一些修改。您可以在下面下载它。如果您需要将短URL转换为Markdown中的长URL，以进行博客，论坛帖子等，这应该节省您的时间。安装时，您可以选择将其设置为清洁跟踪信息并整理那些笨拙的Amazon URL。
   strentlink.cc markdown链接shortcut v1.0          用于将短URL转换为Markdown链接的MacOS快捷方式。 发布01/08/25。  01/08/08/25。  changelog     更多信息
 
 喜欢或分享此帖子 Twitter 。
@@ -277,13 +301,6 @@
 在 github 和其他地方src =“ https://brett.trpstra.net/link/535/16936928.gif” width =“ 1”/&gt;]]></description>
       <guid>https://brett.trpstra.net/link/535/16936928/a-stretchlink-shortcut</guid>
       <pubDate>Thu, 09 Jan 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>习惯交通：一种独特的习惯跟踪方法</title>
-      <link>https://brett.trpstra.net/link/535/16936381/habit-traffic-a-unique-approach</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16936381/habit-traffic-a-unique-approach</guid>
-      <pubDate>Wed, 08 Jan 2025 15:53:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
