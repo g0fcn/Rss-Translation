@@ -4,7 +4,16 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Mar 2025 09:19:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 18:24:50 GMT</lastBuildDate>
+    <item>
+      <title>如何设置同一时间只能打开一个 Chrome 浏览器？</title>
+      <link>https://meta.appinn.net/t/topic/67577</link>
+      <description><![CDATA[让 Chrome 浏览器只运行一个实例，在每次点击 Chrome 图标的时候，只打开原来的窗口，而不是又新建一个。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67577</guid>
+      <pubDate>Fri, 14 Mar 2025 14:55:29 GMT</pubDate>
+    </item>
     <item>
       <title>单词发现者-NG，高亮一定难度英语词汇和习语的Chrome插件</title>
       <link>https://meta.appinn.net/t/topic/67542</link>
@@ -397,58 +406,14 @@ Trae - AI 原生 IDE
       <pubDate>Mon, 03 Mar 2025 03:33:10 GMT</pubDate>
     </item>
     <item>
-      <title>｛LibreWolf｝：基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由</title>
-      <link>https://meta.appinn.net/t/topic/67027</link>
-      <description><![CDATA[｛LibreWolf｝：基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由
-＞ 源码：CodeBerg；GitLab
-＞ 许可：MPL-2.0
-︹
-馆长注：
-1. LibreWolf 是一个社区项目，源码和其他设施较多且类型丰富。本文只列出了部分源码仓库，有需要的读者可尝试自行寻找。 
-2. LibreWolf 采用了极为严格的隐私策略，可能影响正常的网页浏览。如无法自行解决或忍受，请停止使用 LibreWolf 并尝试更换浏览器。 
-3. LibreWolf 在最新版本中添加了部分隐私策略的开关按钮，如 RFP。其他无直接开关的，也可尝试在 about:config 或启动参数中自行调整。 
-︺
-LibreWolf 是一个基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由。 
-功能特性：
-
-隐私保护：本机或通过 uBO 从 URL 中删除跟踪元素；启用 RFP；禁用 WebGL；禁用磁盘缓存并在关闭时清除临时文件……
-安全性：及时跟进上游版本与安全补丁；启用更严格的 TLS/SSL 协商规则；禁用内置 pdf 阅读器中的脚本；实施可手动启用的扩展防火墙……
-干扰：防止通过脚本调整窗口大小；禁用媒体自动播放；删除所有干扰、赞助和广告内容；移除 Pocket 扩展；默认禁用 Firefox 同步……
-其他：完全禁用遥测功能（崩溃报告、标准、研究和个性化建议）；禁用 Google Safe Browsing、DRM、内置密码管理器……
-
-
-版本：135.0.1-1（Flathub）
-关注：Codeberg 290+ stars
-状态：积极维护
-语言：支持中文
-网络：主要为联网功能
-资费：免费
-平台：linux；windows；macos
-＞ 主页：LibreWolf
-＞ 安装：～Installation；Flathub；Microsoft Store
-＞ 指南：～Documentation
-＞ 交流：Matrix；Lemmy
- 
-＞ 副本：FU102；TG101；Appinn
-＞ 档案：A_20240613_002
-＃：1_开源项目 #2_开源工具收集
-＃：#A_收集 #B_整理 #C_引述 #D_开源 #D_工具 #E_中文
-％：2025年2月28日（UTC+8）
-1 个帖子 - 1 位参与者
+      <title>寻找一款可以自己搭建在VPS上的导航页</title>
+      <link>https://meta.appinn.net/t/topic/32731</link>
+      <description><![CDATA[平时收藏了许多网页工具在浏览器书签，想整理一下做成一个导航页面。 
+仅供自己用。 
+13 个帖子 - 10 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67027</guid>
-      <pubDate>Fri, 28 Feb 2025 08:39:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>请推荐一个多平台剪切板同步的软件</title>
-      <link>https://meta.appinn.net/t/topic/66683</link>
-      <description><![CDATA[我现在用 https://app.simplenote.com/
-问题是它是一个笔记软件，比较麻烦。另外不能同步图片。 
-我希望是win和mac同步，最好能在同步android。网络环境不是局域网，因为mac有时需要翻山。 
-6 个帖子 - 5 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/66683</guid>
-      <pubDate>Wed, 19 Feb 2025 01:37:17 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/32731</guid>
+      <pubDate>Fri, 13 May 2022 14:04:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
