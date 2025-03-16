@@ -4,7 +4,49 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Mar 2025 12:32:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 15:17:27 GMT</lastBuildDate>
+    <item>
+      <title>The Unarchiver：macOS 上能创建文件夹的解压缩软件</title>
+      <link>https://meta.appinn.net/t/topic/67647</link>
+      <description><![CDATA[软件基本信息
+软件名：The Unarchiver
+网址：https://theunarchiver.com
+运行平台：macOS
+发行平台：官网、App Store
+发现类型：用户推荐
+发现过程
+压缩包，把多个文件压缩成单个文件，方便文件传输、文件存档、节省空间。 
+人们使用压缩习惯不同：
+
+有的直接压缩
+有的创建文件夹存放文件，然后压缩
+有的创建文件夹并命名好，顺带写一份 readme 文件，压缩完后再给压缩文件命名好。 
+……
+
+压缩者越是认真细致，解压缩时的重新整理越是方便顺心。 
+macOS 上解压缩文件的问题：双击压缩包，里面的文件就会全部跑出来。 
+如果我批量解压多个，如果压缩包里没有整理好，文件就会窜的到处都是，增加整理难度。 
+这时候需要解压缩软件为每个压缩包创建文件夹。 
+我在 Windows 平台一直用的是 Bandizip，有一个特别方便的功能，右键解压到“压缩文件名的文件夹”。 
+
+而 macOS 上自带的和很多压缩工具都不提供这个功能。 （macOS 上的 Bandizip 需要
+付费，我没有优先考虑它）
+我尝试新的搜索方式：问 AI，ChatGPT 直接告诉我使用这个软件（前两个是命令行方法）
+
+我试了一下真的实现了。只要把这个设置改成 Always 即可。 
+
+
+
+站内相关话题
+
+最新版Bandizip已经出现弹窗广告 Bandzip 把创建文件夹集成到了右键菜单
+【macOS】简洁、全能、可预览的免费压缩软件。 提到了这款软件
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67647</guid>
+      <pubDate>Sun, 16 Mar 2025 12:08:01 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】钢琴小组件，无需启动，随时弹奏</title>
       <link>https://meta.appinn.net/t/topic/67635</link>
@@ -356,52 +398,6 @@ Edge用户，可从Microsoft Edge Store安装Tingchi Annotations
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/67299</guid>
       <pubDate>Sat, 08 Mar 2025 11:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automa 看似又在更新了？</title>
-      <link>https://meta.appinn.net/t/topic/67227</link>
-      <description><![CDATA[&gt;
-  &gt;
-      &gt;
-
-       automa.wiki &gt;
-  
-&gt;
-    
-
- 入门| Automa中文文档 
- Outoma浏览器扩展文档
-
-&gt;
-    
-    
-  
- 
-
-
-谷歌 https://chromewebstore.google.com/detail/automa/infppggnoenmfagffknfknfknkpbljcca  
-（（
- github库 &lt;旁边class =“ Onebox gthubrepo”&gt;
-  &gt;
-
-       github.com 
-
-&gt;
-    
-  github -automaapp/automa：浏览器扩展，用于自动化浏览器，以自动化浏览器，...    
- 通过连接块来自动浏览器
-
-&gt;
-    
-    
-  
- 
-
-今自动
-              1个帖子 -7位参与踎踎踎踎踎踥 
- href =“ https://ta.appinn.net/t/topic/67227”&gt;阅读完整话go  ]]></description>
-      <guid>https://meta.appinn.net/t/topic/67227</guid>
-      <pubDate>Thu, 06 Mar 2025 08:22:02 GMT</pubDate>
     </item>
     <item>
       <title>寻找一款可以自己搭建在VPS上的导航页</title>
