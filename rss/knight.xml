@@ -4,7 +4,15 @@
     <title>罗布骑士•帖子•原子饲料</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Mar 2025 01:22:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 15:21:16 GMT</lastBuildDate>
+    <item>
+      <title>我喜欢的东西：遣散播客</title>
+      <link>https://rknight.me/blog/things-i-like-the-severance-podcast/</link>
+      <description><![CDATA[我喜欢听到所有幕后内容，但客人确实在演出。格温多琳·克里斯蒂（Gwendoline Christie）尤其令人难以置信。我不知道该链接在哪里，因为该节目没有网站，因为大型播客不知道如何播客和 Audacy 制作该节目的网站上有一个网站“目前在欧盟中”。我不在欧盟的听觉中，而是在欧盟。
+这是 apple podcasts link 。]]></description>
+      <guid>https://rknight.me/blog/things-i-like-the-severance-podcast/</guid>
+      <pubDate>Mon, 17 Mar 2025 12:31:25 GMT</pubDate>
+    </item>
     <item>
       <title>音乐，游戏和滑板</title>
       <link>https://rknight.me/blog/music-games-and-skateboarding/</link>
@@ -238,36 +246,6 @@ As it turns out Pixelfed.social runs the latest commit from the repo, which mean
 ]]></description>
       <guid>https://rknight.me/blog/mechanical-pencils/</guid>
       <pubDate>Tue, 21 Jan 2025 13:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>博客问题挑战</title>
-      <link>https://rknight.me/blog/blog-question-challenge/</link>
-      <description><![CDATA[我被 kyle 和
-  为什么首先开始写博客？  
-最初，我认为我会很热门的博客，博客作者会因大量人而流行而转发帖子。当时我们都想成为Gruber。
-最近我为我写博客。这是食谱，技术帖子，我解决的问题，我的想法。基本上，我或其他人可能想做的任何事情。
-  您正在使用哪个平台使用管理博客，为什么使用它？  
-我的网站是用高度构建的。从理论上讲，这意味着它只是一堆降价文件。实际上，它是降级文件，JSON文件，JavaScript文件，以及我的自定义CMS 。我之所以使用它，是因为它可以灵活地使我的网站做我想要的。
-  您是否在其他平台上写博客？  
-我多年前就开始托管WordPress，然后是自托管的WordPress，然后是Jekyll，然后是Hugo，然后是Hexo，现在是Eleventy。
-  您如何写帖子？  
-通常，我在黑曜石中写下草稿，然后将其复制到VSCODE并发布。对于较短的帖子，或我的笔记，我将它们直接写入CMS，将它们推到GitHub存储库中。我写了在此处进行更多深入探讨。
-  什么时候您最受启发写？  
-我感到有两次的启发：
-
-当我解决问题时，我想记录解决方案
-当我感到自己正在考虑写汤点时
-
-  您通常在写作后立即立即发布，还是让它immer？  
-我很少让他们小火，我只是将它们发送到世界上，以便打字机可以揭示自己。
-  您在博客上最喜欢的帖子是什么？  
-明智的答案是 7622-为什么我用两个BS 拼写我的名字绝对在那里。
-  博客的未来计划？  
-我的列表比您想象的要长，但是接下来是 Transient Slash Pages 。
-  谁将参加下一个？  
-  keenan，请。]]></description>
-      <guid>https://rknight.me/blog/blog-question-challenge/</guid>
-      <pubDate>Wed, 15 Jan 2025 14:18:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
