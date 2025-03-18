@@ -4,7 +4,19 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Mar 2025 06:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 12:37:14 GMT</lastBuildDate>
+    <item>
+      <title>macOS环境中，如何添加一个 点击后可复制选中文字 的悬浮按钮？</title>
+      <link>https://meta.appinn.net/t/topic/67747</link>
+      <description><![CDATA[macOS环境中
+鼠标拖动选中文字，后展示按钮，
+按钮有复制功能，点击后复制之前选中的文字。 
+这个功能在全局环境（系统级环境）需要怎样实现。 
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67747</guid>
+      <pubDate>Tue, 18 Mar 2025 11:13:26 GMT</pubDate>
+    </item>
     <item>
       <title>请问如何下载这个网站上的超清画质视频，先谢为敬</title>
       <link>https://meta.appinn.net/t/topic/67671</link>
@@ -332,59 +344,6 @@ crxsoso.com
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/67372</guid>
       <pubDate>Mon, 10 Mar 2025 12:09:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tinytex</title>
-      <link>https://meta.appinn.net/t/topic/67341</link>
-      <description><![CDATA[同志们, 我想跟您分享 TinyTeX.
-介绍
-TinyTex 是一个基于 TeX Live 的轻量的, 跨平台的, 便携的, 且易维护的 TeX 版本; TeX Live 是一个我们可安装于硬盘的综合的 TeX 系统; TeX 是一个排版系统.
-TeX Live 或许是最流行的 TeX 系统. 它含若干千个包, 其或可适合普通的用户的需要. 完整的 TeX Live 是大的: TeX Live 2025 的完整的官方的安装镜像的大小为约 6.44 GB (或约 6.00 GiB), 且 TeX Live 2025 的完整的安装需约 8.97 GB (或约 8.36 GiB). 每个包通常带文档与源码. 普通的用户少地读它们. 以我的经验, 只有开发人或高级的用户读包的源码, 且多的用户不知道文档在哪儿. 当遇到问题时, 一个普通的用户会作什么? 或许会打开浏览器, 在搜索栏输入关键词, 并看搜索结果. 进一步地, 即使他们真地要文档或源码, 他们可能也只要少的包的资料, 其可在 CTAN (综合 TeX 资料网) 被找到.
-TinyTeX 是较小的: 最新的 TinyTeX 的安装包 (含 TeX Live 的完整的官方的安装镜像的所有的包) 的大小小于 2 GB (或约 1.86 GiB), 且最新的 TinyTeX 的完整的安装需约 4.17 GB (或约 3.88 GiB). 磁盘空间现在是便宜的, 但不浪费它仍是好的.
-安装 TinyTeX 的方式
-访问 GitHub - rstudio/tinytex-releases: Windows/macOS/Linux binaries and installation methods of TinyTeX 以了解如何安装 TinyTeX.
-以下是适用于 Windows, Linux, 与 macOS 的安装包:
-
-TinyTeX for Windows: https://github.com/rstudio/tinytex-releases/releases/download/daily/TinyTeX-2.exe
-TinyTeX for Linux: https://github.com/rstudio/tinytex-releases/releases/download/daily/TinyTeX-2.tar.gz
-TinyTeX for macOS: https://github.com/rstudio/tinytex-releases/releases/download/daily/TinyTeX-2.tgz
-
-我是 Linux 用户与 Windows 用户, 故我分享安装 Windows 版与 Linux 版 TinyTeX 的经验. 我不能用 macOS, 故对不起, macOS 用户们, 我不能教您怎么安装 TinyTeX 了.
-Linux
-在此下载文件 TinyTeX-2.tar.gz (Linux 版 TinyTeX). 打开终端 (命令窗口), 进入 TinyTeX-2.tar.gz 所在的文件夹, 并执行:
-tar xf TinyTeX-2.tar.gz -C &quot;$HOME&quot;
-cd &quot;$HOME/.TinyTeX/bin/x86_64-linux/&quot;
-./tlmgr option repository ctan
-./tlmgr option sys_bin /usr/local/bin
-./tlmgr postaction install script xetex
-
-最后, 添加 $HOME/.TinyTeX/bin/x86_64-linux 到您的 PATH.
-比如, 若您用 Bash, 您可在文件 $HOME/.bashrc 添加:
-export PATH=&quot;$HOME/.TinyTeX/bin/x86_64-linux:$PATH&quot;
-
-打开新的终端, 或执行 source $HOME/.bashrc, 以应用更改.
-若您不用 Bash, 您自己找如何永久地修改 PATH 吧.
-为验证安装, 在终端执行 tex -version. 若安装是成功的, 您会看到 TeX 的版本信息.
-Windows
-在此下载文件 TinyTeX-2.exe (Windows 版 TinyTeX). 它是一个自解压文件. 解压它至一个路径不含空格或非 ASCII 字符的文件夹. 您会得到文件夹 TinyTeX. 打开终端 (命令窗口), 进入文件夹 TinyTeX, 并执行:
-cd bin\windows
-tlmgr option repository ctan
-tlmgr postaction install script xetex
-tlmgr path add
-
-重启动 Windows 以应用更改.
-为验证安装, 在终端执行 tex -version. 若安装是成功的, 您会看到 TeX 的版本信息.
-感谢
-我感谢谢益辉作 TinyTeX.
-参考
-
-TinyTeX - A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live - Yihui Xie | 谢益辉
-Frequently (?) Asked Questions - Yihui Xie | 谢益辉
-
-12 个帖子 - 7 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67341</guid>
-      <pubDate>Mon, 10 Mar 2025 02:14:13 GMT</pubDate>
     </item>
     <item>
       <title>寻找一款可以自己搭建在VPS上的导航页</title>
