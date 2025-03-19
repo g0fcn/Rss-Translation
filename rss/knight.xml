@@ -4,7 +4,17 @@
     <title>罗布骑士•帖子•原子饲料</title>
     <link>https://rknight.me/subscribe/posts/atom.xml</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Mar 2025 18:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 15:22:10 GMT</lastBuildDate>
+    <item>
+      <title>我是笔瘾者的客人</title>
+      <link>https://rknight.me/blog/i-was-a-guest-on-the-pen-addict/</link>
+      <description><![CDATA[  Myke是亲自休假，Brad要求我在Pen Addict podcast上成为宾客，以讨论我的成瘾。
+我们讨论了即将到来的特别版lamy al all stars  href =“ https://www.penchalet.com/ink_refills/fountain_pen_pen_ink/lamy_special_edition_bottle_fountle_fountain_pen_ink.html”&gt;相关inks  D&#39;Ache Black Edition 在进入我的子弹日记，笔，铅笔和笔记本之前。
+ 听笔瘾君子657：您要为我服务吗？ 
+自周日录制演出以来，我得到了六个又六个Lamy Fountain Pens 。]]></description>
+      <guid>https://rknight.me/blog/i-was-a-guest-on-the-pen-addict/</guid>
+      <pubDate>Wed, 19 Mar 2025 12:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>幸运的lamy列表</title>
       <link>https://rknight.me/blog/a-lucky-lamy-listing/</link>
@@ -34,7 +44,7 @@
 这就是为什么我对和音乐 
 &lt;部分class =“脚注”&gt;
 
- 我还获得了记忆的副本，这是一本犯罪忽视的游戏，但这篇文章并不是那样。 ＆＃10558;  
+ 我还获得了记忆的副本，这是一本犯罪忽视的游戏，但这篇文章并非如此。 ＆＃10558;  
 
  我在  href =“ https://yinan.me/rss-gpt/robb-knight#fnref2”&gt;＆＃10558;  
 
@@ -76,7 +86,7 @@
       <title>安静的</title>
       <link>https://rknight.me/blog/quiet/</link>
       <description><![CDATA[昨天在reddit上有一篇文章，我没有保存，现在找不到，这说明“我正在尝试mastodon，但我的时间表太安静了。
-其中一条评论指出，在Mastodon上缺乏算法，这使我意识到事后看来很明显：无论您是关注一个人还是一千个，算法驱动的社交媒体平台都会确保您的时间表中有始终始终。即使您没有人关注，您也会获得完整的时间表。
+其中一条评论指出，在Mastodon上缺乏算法，这使我意识到事后看来很明显：无论您是关注一个人还是一千个，算法驱动的社交媒体平台都会确保您的时间表中有始终 embers 。即使您没有人关注，您也会获得完整的时间表。
 没有结论可以在这里绘制，只是一个观察。]]></description>
       <guid>https://rknight.me/blog/quiet/</guid>
       <pubDate>Sun, 16 Feb 2025 22:21:31 GMT</pubDate>
@@ -231,19 +241,6 @@ This was funnier before Apple decided to bend over for fascists ＆＃10558;
 可悲的是，当我断开充电器的连接时，它关闭了。我想它需要一个新的电池，但我没有能量或时间去做，所以回到存储中。]]></description>
       <guid>https://rknight.me/blog/my-pebble-steel-is-mostly-dead/</guid>
       <pubDate>Tue, 28 Jan 2025 13:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>对像素化的怀疑</title>
-      <link>https://rknight.me/blog/doubts-about-pixelfed/</link>
-      <description><![CDATA[我有一个像素帐户。我发布的时间不多，但它在那里。我喜欢有一个专门的地方发布照片。我喜欢看别人的照片。  首先，让我说，当我问他各种与ActivityPub相关的事情时，PixeLed的维护者Dan一直很有帮助。当谈到AP规格时，他知道自己的狗屎。这篇文章是我过去几个月中关于像素的及其长寿的关注点的集合。 
-Dan, to quote Mel, &quot;posting like a Founder (derogatory)&quot;, was not a fun thing to witness.
-  pixelfed kickstarter   说他们想成为; em quot; em quot; em quot; em quord; em quord;一定要做梦，但这是混乱的。我们已经看到了十亿人口社交网络会发生什么 - 联邦不会解决这个问题。
-在梅尔（Mel）的帖子中，她注意到该项目帐户当天发布了有关新数据导出功能的信息。不是，现在仍然没有。  可用的导出实际上并不包括您的图像，它只是json，其中包含文件的URL。对于没有技术知识的任何人来说，这都不是理想的出口。
-As it turns out Pixelfed.social runs the latest commit from the repo, which means the format is different to the release version so the code Mel put together only works for other Pixelfed servers.  Posty 支持这两种格式。值得注意的是在pixelded上的版本。社会不是发布的完整html版本，只是一种新格式。
-最后此概述 dan的“ 对FOSS维护者的敌意和对生态系统的敌意” ;是一个非常不舒服的读物，对于项目的未来而言并不是好兆头。
-所有这些组合都使我不想使用像素化的，所以我将把我的导出转换为此处的注释帖子，然后删除我的像素帐户。]]></description>
-      <guid>https://rknight.me/blog/doubts-about-pixelfed/</guid>
-      <pubDate>Mon, 27 Jan 2025 19:49:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
