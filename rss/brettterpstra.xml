@@ -4,7 +4,21 @@
     <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Mar 2025 01:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 12:37:53 GMT</lastBuildDate>
+    <item>
+      <title>钥匙扣：主排箭头群</title>
+      <link>https://brett.trpstra.net/link/535/16990575/keybindings-home-row-arrow-cluster</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16990575/keybindings-home-row-arrow-cluster</guid>
+      <pubDate>Mon, 24 Mar 2025 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>钥匙扣：方便的选项卡开关</title>
+      <link>https://brett.trpstra.net/link/535/16989972/keybindings-convenient-tab-switching</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16989972/keybindings-convenient-tab-switching</guid>
+      <pubDate>Sun, 23 Mar 2025 16:14:00 GMT</pubDate>
+    </item>
     <item>
       <title>一些有用的git命令</title>
       <link>https://brett.trpstra.net/link/535/16981895/some-useful-git-commands</link>
@@ -292,29 +306,6 @@ git＆rsquo的命令设置了您自己的创作（并保留脚本
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16941987/marky-gets-devonthink-integration</guid>
       <pubDate>Fri, 17 Jan 2025 15:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>罢工和表情符号</title>
-      <link>https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless</link>
-      <description><![CDATA[  &lt; /p&gt;
-我刚刚发布了一些新功能， mdless&gt; mdless 
-您现在可以使用 ~~文本~~ ~~ 格式，如果您的终端支持罢工文本，则将以此类形式显示。 You can control formatting and colors by adding deletion to your theme file, which by default is ~/.config/mdless/default.theme:
-     删除 ：   我还增加了对github表情符号的支持，例如：微笑：for😁和：伞：for☂️。我可以保证完全兼容，但涵盖了大量的表情符号。足够的vs代码在列表上cho住了，我不得不打开可信赖的 bbedit ，这是在处理大型文件的绝对冠军。默认情况下启用了MDLESS中的表情符号支持，并且不需要配置更改。
-它是这样的，但是如果您使用MDless，尤其是在阅读Github文件时，我认为您会很感激这些添加。只需使用 gem安装mdless 进行更新！
-喜欢或分享此帖子 Twitter 。
-
- brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
-                喜欢提供帮助。 
-在 github 和其他地方src =“ https://brett.trpstra.net/link/535/16939367.gif” width =“ 1”/&gt;]]></description>
-      <guid>https://brett.trpstra.net/link/535/16939367/strikethrough-and-emojis-for-mdless</guid>
-      <pubDate>Mon, 13 Jan 2025 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的“远程”网络开发设置</title>
-      <link>https://brett.trpstra.net/link/535/16938543/my-remote-web-development-setup</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16938543/my-remote-web-development-setup</guid>
-      <pubDate>Sun, 12 Jan 2025 15:53:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

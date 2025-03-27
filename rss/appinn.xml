@@ -4,168 +4,63 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Mar 2025 06:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 12:38:08 GMT</lastBuildDate>
     <item>
-      <title>【英语外挂】看中文视频和网页也能涨词汇量！安装量超2k+的良心插件大更新了 - Ries.AI</title>
-      <link>https://meta.appinn.net/t/topic/67814</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/67814</guid>
-      <pubDate>Thu, 20 Mar 2025 03:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>无聊小技巧：提取 Chrome 浏览器内置的用户配置文件头像</title>
-      <link>https://meta.appinn.net/t/topic/67797</link>
-      <description><![CDATA[Chrome 浏览器允许用户自定义每一个用户配置文件的头像，并提供了一组扁平化风格的图片以供选择。 
+      <title>比起其他手机浏览器，你正在使用的浏览器给你带来了什么额外的价值？</title>
+      <link>https://meta.appinn.net/t/topic/68145</link>
+      <description><![CDATA[手机浏览器我一直使用 Via，现在我考虑换个浏览器。 
+想问问大家，比起其他手机浏览器，你正在使用的浏览器给你带来了什么额外的价值？ 
+比如说：
 
-要将这些图片提取出来，可在地址栏中输入
-chrome://theme/IDR_PROFILE_AVATAR_27
-
-然后即可在浏览器中看到其中一张头像图片文件，右键点击图片，再点击弹出菜单中的 “图片另存为”，保存即可。 
-
-Chrome 共内置了 29 张头像图片，要保存其他图片，请将上述 URL 中最后的数字换成 27 到 55 之间的其他整数即可。 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67797</guid>
-      <pubDate>Wed, 19 Mar 2025 14:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS环境中，如何添加一个 点击后可复制选中文字 的悬浮按钮？</title>
-      <link>https://meta.appinn.net/t/topic/67747</link>
-      <description><![CDATA[macOS环境中
-鼠标拖动选中文字，后展示按钮，
-按钮有复制功能，点击后复制之前选中的文字。 
-这个功能在全局环境（系统级环境）需要怎样实现。 
-2 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67747</guid>
-      <pubDate>Tue, 18 Mar 2025 11:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>请问如何下载这个网站上的超清画质视频，先谢为敬</title>
-      <link>https://meta.appinn.net/t/topic/67671</link>
-      <description><![CDATA[视频地址
-
-tv.cctv.com
-
-
-
-《2025年3·15晚会》 20250315
-本期节目主要内容：
-2025年3·15晚会以“共铸诚信 提振消费”为主题，聚焦食品、公共安全、金融和数字经济等领域的消费侵权问题，揭示了多个行业的乱象。
-（《2025年3·15晚会》 20250315）
-
-
-
-
-
-
-自行探测目前只能支持普清，无法下载到网页版的超清  求高手指教一下，谢谢
-
-
-
-
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67671</guid>
-      <pubDate>Mon, 17 Mar 2025 01:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费手机扫描应用大盘点</title>
-      <link>https://meta.appinn.net/t/topic/67658</link>
-      <description><![CDATA[从还有免费的手机扫描应用推荐吗？ 继续讨论：
-参考资料
-
-秒杀年费258的同款APP，微软、联想、Adobe、腾讯的良心产品太香了！ 
-官方版被阉割？更好用的扫描全能王免费替代品来了
-提取纸质文字内容的魔法！实用手机扫描与文字识别 OCR 应用 APP 推荐 - 异次元软件下载
-定制版应用收藏: 一些提取自特定机型的定制版APP
-还有免费的手机扫描应用推荐吗？ - 大家的板块 / 青蛙的应用 - 小众软件官方论坛
-我记得布丁扫描收费以… - @小众软件的微博 - 微博
-
-正文
-
-手机自带扫描功能： 其实现在各家手机厂商都已经自带了扫描功能，如果需求不高，完全够用。其中，vivo手机自带的扫描功能实际上就是布丁扫描，但不需要付费
-布丁扫描旧版： 3.4.22之前的版本可以免费使用。 Android可以到豌豆荚下载（下载下来的可能是32位安装包，新款手机不支持的话，请参考这篇文章，到其他渠道获取），iOS请参见这几篇文章：[1] [2] [3]
-Microsoft Lens（iOS、Android）： 不过更推荐用Microsoft 365应用的扫描功能（记得用国际版，iOS到外区商店，Android到这个链接下载
-联想智能扫描（iOS、Android）&amp;联想扫描王（官网）： 联想出品，智能扫描是旧版，扫描王是新版，都是免费的
-vFlat Scan（小众软件推荐页）： 适合多页文档、书籍的扫描
-Adobe Scan（iOS到外区商店下载，Android到这里）： 需要注册登录Adobe账号，且注册时地区不能选择中国
-坚果云扫描（官网）
-Google PhotoScan（小众软件推荐页、iOS、Android）： 这个适合扫描照片
-
-3 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67658</guid>
-      <pubDate>Sun, 16 Mar 2025 16:21:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Unarchiver：macOS 上能创建文件夹的解压缩软件</title>
-      <link>https://meta.appinn.net/t/topic/67647</link>
-      <description><![CDATA[软件基本信息
-软件名：The Unarchiver
-网址：https://theunarchiver.com
-运行平台：macOS
-发行平台：官网、App Store
-发现类型：用户推荐
-发现过程
-压缩包，把多个文件压缩成单个文件，方便文件传输、文件存档、节省空间。 
-人们使用压缩习惯不同：
-
-有的直接压缩
-有的创建文件夹存放文件，然后压缩
-有的创建文件夹并命名好，顺带写一份 readme 文件，压缩完后再给压缩文件命名好。 
-……
-
-压缩者越是认真细致，解压缩时的重新整理越是方便顺心。 
-macOS 上解压缩文件的问题：双击压缩包，里面的文件就会全部跑出来。 
-如果我批量解压多个，如果压缩包里没有整理好，文件就会窜的到处都是，增加整理难度。 
-这时候需要解压缩软件为每个压缩包创建文件夹。 
-我在 Windows 平台一直用的是 Bandizip，有一个特别方便的功能，右键解压到“压缩文件名的文件夹”。 
-
-而 macOS 上自带的和很多压缩工具都不提供这个功能。 （macOS 上的 Bandizip 需要
-付费，我没有优先考虑它）
-我尝试新的搜索方式：问 AI，ChatGPT 直接告诉我使用这个软件（前两个是命令行方法）
-
-我试了一下真的实现了。只要把这个设置改成 Always 即可。 
-
-
-
-站内相关话题
-
-最新版Bandizip已经出现弹窗广告 Bandzip 把创建文件夹集成到了右键菜单
-【macOS】简洁、全能、可预览的免费压缩软件。 提到了这款软件
+播放本地视频很方便
+可以免登录浏览某些网站
+喜欢某个插件，其他浏览器没有
 
 1 个帖子 - 1 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67647</guid>
-      <pubDate>Sun, 16 Mar 2025 12:08:01 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/68145</guid>
+      <pubDate>Thu, 27 Mar 2025 11:26:04 GMT</pubDate>
     </item>
     <item>
-      <title>【开发者自荐】钢琴小组件，无需启动，随时弹奏</title>
-      <link>https://meta.appinn.net/t/topic/67635</link>
-      <description><![CDATA[ 
+      <title>【自荐】Any World Clock，不仅仅为远程工作者定制的世界时钟App</title>
+      <link>https://meta.appinn.net/t/topic/68112</link>
+      <description><![CDATA[软件名称
+Any World Clock
+软件平台
+macOS
+推荐类型
+开发者自荐
+一句话简介
+Any World Clock是一款macOS的世界时钟App，通过搜索和添加城市，用户可查看任意城市的时间。 
+应用介绍
+Any World Clock有很多功能，除了可显示当地天气和日出日落时间、调整日期和时间外，还支持为不同地区的人设置工作时间，方便安排远程会议。 
+
+完整功能
+
+添加城市，并为城市设置昵称、工作时间、图标及颜色
+时间旅行，把当前时间设置到任意时区的任意时间
+显示时钟当地的天气、日出和日落时间等
+根据日出日落时间自动切换时钟到深色模式
+显示当前时间的菜单栏应用
+iCloud同步已添加时钟
+
+Any World Clock可在Mac App Store免费下载并添加1个时钟，用户可一次性付费¥38，添加不限数量的时钟。 
+截图
 
 
 
-ios #iPhone ipad
- 钢琴小组件 - 无需启动，随时弹奏
-这款精心设计的钢琴模拟器，可以在锁屏、灵动岛，甚至控制中心弹琴。 30+种丰富的乐器音色、丝滑手感、个性化定制，是音乐爱好者的随身小玩具～
- 首发活动送大家：内购限免（终身Pro ¥0），请在 App Store 投出您宝贵的一票吧
-App Store：https://apps.apple.com/app/cn/id6450440460
- 主要功能
-
-全88键钢琴键盘
-无广告，超多功能免费用
-30+乐器音色：小提琴/吉他/古筝/竹笛/二胡/卡祖笛等等
-创意小组件：桌面小组件、灵动岛、锁屏钢琴、控制中心
-触点震动，模拟物理反馈
-多点触控：支持多指和弦、轮指、轻/重按压
-内置录音：支持 m4a/aac/wav 等无损格式录制，创作灵感不错过
-节拍器：可定制拍号、节奏BPM、节拍器音效等
-
- 开发者故事
-开发者是音乐爱好者，当遇到好听的旋律和音色了就喜欢随时弹出来听听，iOS17 之后小组件支持互动接口能力，于是终于如愿把钢琴键盘放到了桌面上，随手就能玩，希望大家也喜欢
-功能截图
+链接
+Mac App Store: ‎Any World Clock on the Mac App Store
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/68112</guid>
+      <pubDate>Thu, 27 Mar 2025 03:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>pyme：基于tk的可视化python工具，一键打包成apk</title>
+      <link>https://meta.appinn.net/t/topic/68108</link>
+      <description><![CDATA[官网：https://py-me.com
+最开始我想找一款把用python写好已经打包成exe文件转换成apk的工具，后来发现这个，它是一款流程式可视化工具，只需要拖拽框就能完成开发，感觉很不错，大家感兴趣的可以去试试，里面有很多课程上手之后还有一些兼职接单任务。 
  
 
 
@@ -178,108 +73,9 @@ App Store：https://apps.apple.com/app/cn/id6450440460
 
 
 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67635</guid>
-      <pubDate>Sun, 16 Mar 2025 07:08:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome有没有好用的书签插件</title>
-      <link>https://meta.appinn.net/t/topic/67625</link>
-      <description><![CDATA[以前用neater bookmark可以快捷键打开后直接输入关键词然后点选书签，现在chrome更新后不能用了，求一个类似的插件
-neater bookmark：此扩展程序未遵循 Chrome 扩展程序的最佳实践，因此已无法再使用。 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67625</guid>
-      <pubDate>Sun, 16 Mar 2025 01:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS有网易云音乐的第三方app吗</title>
-      <link>https://meta.appinn.net/t/topic/67603</link>
-      <description><![CDATA[iOS有网易云音乐的第三方app吗？ 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67603</guid>
-      <pubDate>Sat, 15 Mar 2025 08:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于MacBook的几个快捷键</title>
-      <link>https://meta.appinn.net/t/topic/67586</link>
-      <description><![CDATA[回头想想挺可悲的，增删改查这么多年。只有两个功能帮助了我生活工作，通过AppleScript实现。 19年写的，现在我还一直在用，还挺好用，有需要的可以试一下。 
-AppleScript+自动操作+快捷键
-
-清空垃圾桶
-通过终端连接服务器
-
-5 个帖子 - 2 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67586</guid>
-      <pubDate>Sat, 15 Mar 2025 03:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何设置同一时间只能打开一个 Chrome 浏览器？</title>
-      <link>https://meta.appinn.net/t/topic/67577</link>
-      <description><![CDATA[让 Chrome 浏览器只运行一个实例，在每次点击 Chrome 图标的时候，只打开原来的窗口，而不是又新建一个。 
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67577</guid>
-      <pubDate>Fri, 14 Mar 2025 14:55:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>单词发现者-NG，高亮一定难度英语词汇和习语的Chrome插件</title>
-      <link>https://meta.appinn.net/t/topic/67542</link>
-      <description><![CDATA[类别
-网友发现
-简介
-作者deadogone。插件效果是浏览英文的时候会高亮一定难度英语词汇和习语的Chrome插件，鼠标悬浮可以显示解释，效果如图（红字单词和蓝字短语及悬浮窗为插件效果），认识的词可以选”添加到词汇“就不再标出。偶然发现，感觉对学英语有帮助（虽然学英语我从来没坚持下来过），分享一下。 
-
-原作者写的概述
-高亮网页上罕见的英语字典词汇和习语。促进英语语言学习并扩大词汇量。 
-相关特性如下：
-
-高亮生词和习语，可手动导入生词，可自定义导入和导出vocabulary，可自定义生词百分比
-鼠标悬停显示bing词典翻译
-支持在线词典配置，并支持第三方协议 (如 goldendict://)
-右键复制生词，以便加入生词本进行学习
-lemma等级及当前页面词频
-导入导出配置（Export config， Import config），支持在线链接进行手动同步
-缓存生词bing翻译，bing翻译支持预请求
-网页黑白名单
-
-相关配置功能如下：
-
-习语高亮弹出菜单
-非高亮单词弹出菜单
-在线词典（悬停和右键菜单时显示）
-高亮颜色
-其他配置
-a. Auto TTS
-b. Bing Prefetch
-c. 在线同步 Vocabulary Url
-
-官网
 
 
 
-chromewebstore.google.com
-
-
-
-单词发现者-NG - Chrome 应用商店
-高亮网页上罕见的英语字典词汇和习语。促进英语语言学习并扩大词汇量。 
-
-
-
-
-
-国内下载
-
-
-crxsoso.com
-
-
-单词发现者-NG | Chrome扩展 - Crx搜搜
-高亮网页上罕见的英语字典词汇和习语。促进英语语言学习并扩大词汇量。 
 
 
 
@@ -287,55 +83,221 @@ crxsoso.com
 
 1 个帖子 - 1 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67542</guid>
-      <pubDate>Fri, 14 Mar 2025 05:25:42 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/68108</guid>
+      <pubDate>Thu, 27 Mar 2025 02:05:23 GMT</pubDate>
     </item>
     <item>
-      <title>Ios 有没有类似 tvbox 的软件</title>
-      <link>https://meta.appinn.net/t/topic/67511</link>
-      <description><![CDATA[ios 端有没有兼容 tvbox 接口或类似的盗版点播软件？需要自签名也行啊！ 
-找了一圈都没有完美的。 
+      <title>【网站自荐】超级小白新手用Trae编译上线人生的第一个工具站</title>
+      <link>https://meta.appinn.net/t/topic/68079</link>
+      <description><![CDATA[新手小白不懂代码，用Trae辅助编程、CF&amp;Vercel部署上线；
+人生的第一次，第一个工具站站上线，希望大家能提提意见和支持！ 
+
+
+freecalculatoronline.net
+
+
+Asphalt Calculator-asphalt driveway cost calculator
+Asphalt Calculator helps you accurately estimate asphalt road paving costs. Compare asphalt repair and concrete repair costs. Start using our professional tool！ 
+
+
+
+
+
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/68079</guid>
+      <pubDate>Wed, 26 Mar 2025 04:13:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】Qbin 快捷存储</title>
+      <link>https://meta.appinn.net/t/topic/68064</link>
+      <description><![CDATA[ 项目简介
+ 轻盈优雅的全能数据存储服务，以编辑器为核心，一键存储文字、代码、图片、视频等任何数据。 
+分布式架构+多级缓存让存取速度飞快，像记事本般简单，比云盘更便捷，随手记录，即存即用，开启您的云上数据自由时代！ 
+ 核心特性
+
+ 便捷存储：快速保存文字、代码、图片、视频等多种数据
+ 安全可控：支持自定义访问路径和密码保护
+ 灵活期限：可设置内容过期时间
+ 深色模式：完美适配明暗两种主题
+ 全面适配：支持桌面端和移动端
+ 自动保存：定时本地备份，防止数据丢失
+ 第三方登录：支持 Google、GitHub、LinuxDO 授权
+
+ 功能预览
+
+
+
+
+桌面端界面
+移动端界面
+
+
+
+
+
+
+
+
+
+开源地址：GitHub - Quick-Bin/Qbin: ✨ 轻盈优雅的全能数据存储服务 | 以编辑器为核心，一键存储文字、代码、图片、视频等任何数据 | 分布式架构+多级缓存让存取速度飞快 | 像记事本般简单，比云盘更便捷，随手记录，即存即用，开启您的云上数据自由时代！ 
+官网：https://qbin.me
+项目支持一键Docker部署，路过的朋友欢迎 Star​
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/68064</guid>
+      <pubDate>Tue, 25 Mar 2025 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于tampermonkey油猴的更新弹窗</title>
+      <link>https://meta.appinn.net/t/topic/68054</link>
+      <description><![CDATA[脚本自动更新是个需要的功能，但是每次更新的时候如果有更新都会自动弹出来，哪怕浏览器在后台也会蹦到前台来，这就很麻烦
+有一次上网课录屏的时候去睡觉了，结果起来发现更新弹窗把网课窗口给盖住了，录的全是脚本的页面……
+勾上那个“简单的更新XXX不必提醒”好像也只是对“简单”的更新有用，大部分还是会弹出来，而且弹出来的时间不固定
+有没有什么办法即保留更新功能，又不弹窗呢，或者至少不要把浏览器弹到前台来
 2 个帖子 - 2 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67511</guid>
-      <pubDate>Thu, 13 Mar 2025 13:33:59 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/68054</guid>
+      <pubDate>Tue, 25 Mar 2025 11:26:38 GMT</pubDate>
     </item>
     <item>
-      <title>求多平台远程控制软件推荐</title>
-      <link>https://meta.appinn.net/t/topic/67506</link>
-      <description><![CDATA[远程控制软件有很多，控制类型分为：
-1，手机控制电脑，
-2，电脑控制手机，
-3，手机互控，比如kde connect，
-4，手机控制iPad，
-5，电脑互控，
-6，ios互控，
-控制方式：
-1，客户端控制，
-2，浏览器控制，
-3，蓝牙，比如Bluetooth Keyboard&amp;Mouse，
-4，WIFI，局域网，
-5，adb控制，比如甲壳虫ADB助手，
-连接方式又分为蓝牙，WIFI或局域网，有线，adb，混合控制，目前发现只有蓝牙连接的软件最稳定好用，
-目前知道最多只能达到基本导航键操作比如kde connect，直接克隆屏幕并可以操纵就更少了，目前就知道甲壳虫ADB助手，但此软件要手机支持adb无线调试才行（貌似安卓系统版本12才正式支持，但一些第三方系统低版本也有比如cm/fiui系统），蓝牙控制方式比如Bluetooth Keyboard &amp; Mouse，多平台的貌似更少了，目前就知道kde connect支持PC安卓ios，但ios版本要14及以上，而电脑控制手机的目前没有找到并可以用的，都是要联网的否则不给用╰（‵□′）╯ 真是坑
-推荐类型：
-1，不依赖互联网，本地局域网等可用的，
-2，尽量是开源的，
-3，尽可能是多平台的，
+      <title>【自荐】小宇宙/Spotify用户看过来！支持字幕、思维导图、大纲的播客 App 来了！</title>
+      <link>https://meta.appinn.net/t/topic/68050</link>
+      <description><![CDATA[软件名称
+Nextpod - AI 播客 APP, 播客笔记
+应用平台
+
+iPhone &amp; iPad
+Android
+
+推荐类型
+【开发者自荐】
+一句简介
+一个支持字幕、思维导图和大纲的播客 App
+应用简介
+ 快到离谱！ 1小时播客 → 60秒生成导图笔记
+ AI 自动生成章节概览，「听前预习 + 听后复盘」双杀
+ 多语言字幕
+
+支持中英日三种语言的播客
+发言人身份识别 + 字幕高亮
+
+ 一键生成高颜值思维导图，朋友圈配图收割点赞
+ 支持导出 Markdown，秒同步 Notion、Obsidian
+  界面极其简洁，关键是没有任何广告！ 
+ 更多功能开发中
+
+标记精彩内容并添加评论、播客金句分享、推送通知、播放队列、热点话题
+
+截图预览一
+
+截图预览二
+
+下载地址
+
+苹果 App Store 下载地址：Nextpod - AI 播客 APP, 播客笔记
+官网下载地址：https://nextpod.top/
+
 1 个帖子 - 1 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/67506</guid>
-      <pubDate>Thu, 13 Mar 2025 11:51:39 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/68050</guid>
+      <pubDate>Tue, 25 Mar 2025 09:29:26 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一款可以自己搭建在VPS上的导航页</title>
-      <link>https://meta.appinn.net/t/topic/32731</link>
-      <description><![CDATA[平时收藏了许多网页工具在浏览器书签，想整理一下做成一个导航页面。 
-仅供自己用。 
-13 个帖子 - 10 位参与者
+      <title>Mac版的最新chrome浏览器不能最小化</title>
+      <link>https://meta.appinn.net/t/topic/67976</link>
+      <description><![CDATA[近期更新的mac版的最新chrome浏览器不能最小化，无论是点击左上角的最小化按钮，还是用command+M的快捷键，最小到导航栏后又马上变大，且浏览器始终是在最前端，打开其他app后也是在最前端，造成其他app无法使用，只能将chrome关闭才能使用其他app
+有高手指导！ ！ ！ ！ 
+3 个帖子 - 2 位参与者
 阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/32731</guid>
-      <pubDate>Fri, 13 May 2022 14:04:58 GMT</pubDate>
+      <guid>https://meta.appinn.net/t/topic/67976</guid>
+      <pubDate>Mon, 24 Mar 2025 06:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的无线鼠标软件</title>
+      <link>https://meta.appinn.net/t/topic/67954</link>
+      <description><![CDATA[由于前几天把我的gpw一代送修了，没有鼠标用，无意间从appstore搜索了一下发现了这款app，竟然是五星评分，好奇的下载了，然后发现这个软件需要电脑端，从浏览器一搜就找到了，然后有两种连接方式，蓝牙和局域网，唯一的不足就是就是手机屏幕太小而且不支持横屏，横屏好像需要pro订阅，不过免费版也够使了，然后就在刚刚我想到了平板可以解决之前的问题，但是要下ipad的专门版本，比手机版的要好用，大家可以在鼠标坏了的时候等快递的时间，临时应急使用，然后半夜想用电脑了，也可以用这款软件避免吵到舍友http://42.120.7.83:2005/index.php/2025/03/23/软件推荐-无线鼠标/
+这是自己刚刚学习做的小白网站用的免费的云服务器
+https://apps.apple.com/app/id385894596
+这是软件链接
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67954</guid>
+      <pubDate>Mon, 24 Mar 2025 00:14:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里是怎么做到的？能让天猫卖家不能用普通浏览量器，浏览淘宝搜索？</title>
+      <link>https://meta.appinn.net/t/topic/67949</link>
+      <description><![CDATA[前段时间，阿里推出一个新政策，就是做为天猫商家就不能直接用普通的浏览器，浏览淘宝的搜索了，得用千牛客户端
+这导致
+1很多的插件用不了，比如鼠标手势（后来的方案是用了全局的）
+2千牛客户端很难用，各种不适应
+想请问 有没有办法解开这个谜题？ 
+如果不登天猫的账号，用淘宝小号，会频繁验证码，一样很烦
+保持友善，请勿键政
+图床：https://h1.appinn.me 使用码：appinn2
+支持视频、GIF、PDF，最大 5MB
+如果，你想获得一个明确的答案，请选择 问题求助 分类。 
+如果，你想分享、讨论，这里是对的。 
+2 个帖子 - 2 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67949</guid>
+      <pubDate>Sun, 23 Mar 2025 13:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有图形化管理pip安装包的软件？</title>
+      <link>https://meta.appinn.net/t/topic/67932</link>
+      <description><![CDATA[类似homebrew的cakebrew
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67932</guid>
+      <pubDate>Sun, 23 Mar 2025 01:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>求助，ios端可以听有声书的软件。</title>
+      <link>https://meta.appinn.net/t/topic/67926</link>
+      <description><![CDATA[可以下载有声书导入进去，或者可以导入书籍，然后有声阅读的功能。没有广告。 ios端。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/67926</guid>
+      <pubDate>Sat, 22 Mar 2025 18:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>【自荐】Vheer - AI生图，将文本转为任何类型的高清图片，界面美观，无注册，无水印，纯免！</title>
+      <link>https://meta.appinn.net/t/topic/67876</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/67876</guid>
+      <pubDate>Fri, 21 Mar 2025 07:56:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>【英语外挂】看中文视频和网页也能涨词汇量！安装量超2k+的良心插件大更新了 - Ries.AI</title>
+      <link>https://meta.appinn.net/t/topic/67814</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meta.appinn.net/t/topic/67814</guid>
+      <pubDate>Thu, 20 Mar 2025 03:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome/Vivaldi 浏览器如何关掉剪贴板权限弹窗？ clipboard popup</title>
+      <link>https://meta.appinn.net/t/topic/43746</link>
+      <description><![CDATA[Chrome/Vivaldi 浏览器如何关掉剪贴板权限弹窗？ 
+How to disable Chrome clipboard popup
+不知道什么时候开始，每次我在网页上复制东西都会弹出这个框「某网站 想要查看复制到剪贴板的文字和图片」
+英文应该是「See text and images copied to the clipboard」。 
+
+查了一下在这里有一定的相关设置，但是只有请求和禁止两个选项
+chrome://settings/content/clipboard
+
+
+这个东西感觉挺烦的，绝大部分网站只要复制就会弹出
+
+对陌生网站允许这个权限有多大的安全隐患？ 
+这个权限直接全网页禁用掉，会不会影响网页的功能？ 
+有没有办法禁止浏览器弹这个窗？实在是太烦了
+
+3 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/43746</guid>
+      <pubDate>Thu, 18 May 2023 01:29:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
