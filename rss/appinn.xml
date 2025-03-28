@@ -4,7 +4,23 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Mar 2025 15:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 18:26:45 GMT</lastBuildDate>
+    <item>
+      <title>自用浏览器优点痛点特点备忘录</title>
+      <link>https://meta.appinn.net/t/topic/68197</link>
+      <description><![CDATA[chrome系共性
+没有预留回滚和锁定机制，剩余空间不足的的时候会丢插件配置，历史记录这些
+edge
+优点，插件及其方便
+缺点，小版本号布局都不一样，每次升级上手难度都很大，没有自带的“恢复最近的标签”功能，也没办法“地址栏输入的网址从新标签打开”
+123browser
+优点：前两年更新比较勤快，核心到127了
+缺点：输入法冲突，地址栏和搜索栏输入中文输入法回车不是上屏而是直接发出了
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/68197</guid>
+      <pubDate>Fri, 28 Mar 2025 13:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>比起其他手机浏览器，你正在使用的浏览器给你带来了什么额外的价值？</title>
       <link>https://meta.appinn.net/t/topic/68145</link>
@@ -268,13 +284,6 @@ https://apps.apple.com/app/id385894596
       <description><![CDATA[]]></description>
       <guid>https://meta.appinn.net/t/topic/67876</guid>
       <pubDate>Fri, 21 Mar 2025 07:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>【英语外挂】看中文视频和网页也能涨词汇量！安装量超2k+的良心插件大更新了 - Ries.AI</title>
-      <link>https://meta.appinn.net/t/topic/67814</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/67814</guid>
-      <pubDate>Thu, 20 Mar 2025 03:39:39 GMT</pubDate>
     </item>
     <item>
       <title>Chrome/Vivaldi 浏览器如何关掉剪贴板权限弹窗？ clipboard popup</title>
