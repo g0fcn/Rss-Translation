@@ -4,7 +4,63 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Mar 2025 18:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 12:34:11 GMT</lastBuildDate>
+    <item>
+      <title>【自荐】图床图片上传工具-图传</title>
+      <link>https://meta.appinn.net/t/topic/69024</link>
+      <description><![CDATA[软件名称
+图床图片上传工具-图传
+应用平台
+
+MacOS
+
+推荐类型
+【开发者自荐】
+一句简介
+图传可以将本地的图片上传到云空间，通过图传 软件可以方便的管理上传的资源，进行查看、分享和管理。同时支持多图库的展示管理。 
+应用简介
+在 AI 的加持下，再次开发这个图床图片上传工具。爆肝数日，基本完成这个软件现有功能。实现了图片资源的上传、分享、和管理等功能。 
+是一款为 macOS 打造的原生软件，使用swiftUI开发，支持系统版本为 14+，现已经支持多个图床上传，后续会慢慢完善软件，追加更多所需的图床上传。 
+现已支持 Cloudflare R2、GitHub、还用又拍云
+功能介绍
+
+多图拖拽上传
+菜单栏导入上传
+上传进度查看
+图片本地压缩
+多格式地址分享
+多种图片模式展示
+添加了多语言支持
+
+截图预览：
+
+
+
+官方博客
+
+
+
+ichochy.com
+
+
+图床图片上传工具-图传 · 回忆中的明天
+时隔多年，又重新出发，从零开始，在 AI 的加持下，再次开发这个图床图片上传工具。爆肝数日，基本完成这个软件现有功能。实现了图片资源的上传、分享、和管理等功能。 
+
+
+
+
+
+安装
+由于没有开发者账号，安装第一次打开时，系统会提示警告，可在隐私与安全性中任要打开 图传软件
+
+下载
+图传（iUploader）下载：
+https://file.ichochy.com/iUploader.zip
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/69024</guid>
+      <pubDate>Sun, 30 Mar 2025 11:51:20 GMT</pubDate>
+    </item>
     <item>
       <title>自用浏览器优点痛点特点备忘录</title>
       <link>https://meta.appinn.net/t/topic/68197</link>
@@ -277,13 +333,6 @@ https://apps.apple.com/app/id385894596
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/67926</guid>
       <pubDate>Sat, 22 Mar 2025 18:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】Vheer - AI生图，将文本转为任何类型的高清图片，界面美观，无注册，无水印，纯免！</title>
-      <link>https://meta.appinn.net/t/topic/67876</link>
-      <description><![CDATA[]]></description>
-      <guid>https://meta.appinn.net/t/topic/67876</guid>
-      <pubDate>Fri, 21 Mar 2025 07:56:14 GMT</pubDate>
     </item>
     <item>
       <title>Chrome/Vivaldi 浏览器如何关掉剪贴板权限弹窗？ clipboard popup</title>
