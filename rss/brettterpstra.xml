@@ -4,7 +4,14 @@
     <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 30 Mar 2025 18:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 18:27:12 GMT</lastBuildDate>
+    <item>
+      <title>带有URL预览的搜索链接！</title>
+      <link>https://brett.trpstra.net/link/535/16997221/searchlink-with-url-previews</link>
+      <description><![CDATA[]]></description>
+      <guid>https://brett.trpstra.net/link/535/16997221/searchlink-with-url-previews</guid>
+      <pubDate>Wed, 02 Apr 2025 13:52:00 GMT</pubDate>
+    </item>
     <item>
       <title>钥匙扣 - 重新访问的主排箭头群集</title>
       <link>https://brett.trpstra.net/link/535/16995067/keybindings-home-row-redux</link>
@@ -277,7 +284,7 @@ git＆rsquo的命令设置了您自己的创作（并保留脚本
 今天早上，我向昨天发布。它添加了一些重要功能，因此，如果您已经下载了脚本，则可能需要更新。
 以前的版本效果很好，但是有几件事需要做得更好。
 首先，如果笔记标题包含标点符号，则无法找到现有的注释。这是修复的，因此在现有文档中添加高光和注释会不会创建重复。它仍在创建重复的注释，我还没有弄清楚为什么还可以在以后的版本中解决。
-第二，我不喜欢它突出显示整个段落只是一部分只是一部分。我最初以这种方式进行设置，因为在包含强调和链接的Markdown标记时匹配文本非常棘手，因为读取的亮点将不具有其中的重点，因此，匹配它很困难，并且会冒着覆盖或破坏现有句法的风险。我认为我已经解决了这个问题，它应该始终能够在段落中突出特定的文本而不会破坏任何内容。 （如果您重置日期文件并再次运行脚本，它将自动更新所有亮点。）
+第二，我不喜欢它突出显示整个段落只是一部分只是一部分。我最初以这种方式进行设置，因为在包含强调和链接的Markdown标记时匹配文本非常棘手，因为读取的亮点将不具有其中的重点，因此，匹配它很困难，并且会冒着覆盖或破坏现有句法的风险。我认为我已经解决了这个问题，并且它应该始终能够在段落中突出特定的文本而不会破坏任何内容。 （如果您重置日期文件并再次运行脚本，它将自动更新所有亮点。）
 亮点现在还通过将其添加到注释中时在文档中的位置进行排序。以前是按日期进行排序的，因此注释中的亮点的文档顺序不及格。
 最后，我添加了一些输出选项。您可以使用  -  letim 来使所有输出保持沉默。您还可以使用  -  debug 或  - 详细信息输出有关保存的每个书签的更多信息。如果您使用  - 冗长和一个applescript命令失败，它实际上将向您显示其尝试运行的代码，这对于调试非常有用。&gt; 
 我认为我现在可以停止摆弄。查看更新脚本&lt;​​/a&gt;，让我知道您是否有任何问题。&gt; 
@@ -299,13 +306,6 @@ git＆rsquo的命令设置了您自己的创作（并保留脚本
       <description><![CDATA[]]></description>
       <guid>https://brett.trpstra.net/link/535/16958687/readwise-highlights-to-devonthink</guid>
       <pubDate>Sat, 08 Feb 2025 15:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>档案链接书签到德文郡</title>
-      <link>https://brett.trpstra.net/link/535/16952450/archive-linkding-bookmarks-to-devonthink</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16952450/archive-linkding-bookmarks-to-devonthink</guid>
-      <pubDate>Fri, 31 Jan 2025 11:47:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
