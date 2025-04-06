@@ -4,7 +4,30 @@
     <title>Brettterpstra.com- Brett Terpstra的疯狂科学</title>
     <link>https://brettterpstra.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Apr 2025 01:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 01:37:38 GMT</lastBuildDate>
+    <item>
+      <title>MAKDOWN LIPSUM API V3</title>
+      <link>https://brett.trpstra.net/link/535/16999720/markdown-lipsum-api-v3</link>
+      <description><![CDATA[  &lt; /p&gt;
+
+ i＆rsquo; ve发布了我的 markdown lorem ipsum ipsum api 的完全重做的版本。这是一个解决方案，但也是一个重大的改进。
+ MD-Lipsum API为您提供降价格式的Lorem Ipsum，可以用于测试和工具。它的原始版本使用外部API生成Lipsum，但是API已消失（因为API是不可能执行的）。我决定自己建立自己的。我构建的API生成有效的HTML标记，然后MD-Lipsum将其转换为良好的标记。鉴于我自己正在建造它，所以我添加了其他标记和更多功能。
+ API V3 
+ V2 API仍然有效 - 但如果您在任何地方实施了它，则将其重定向到V3。 V3 API位于 https://brettterpstra.com/md-lipsum/api/api/3/ 。它采用大多数相同的路径参数，但为 mark （要添加 == ruck = class class =“ laginase flaintext higeaint-plainter-pruude-routy-ruOu uctrues-prouue un ure ure uoou uctrouty&gt;）就像我的其他大多数API一样， md-lipsum的着陆页现在有了一个交互式查询构建器＆mdash;只需选中您想要的框，您就可以复制一个URL。每次URL加载时，它将是不同的随机内容，但其中包括相同的元素。构建器甚至具有一个很酷但愚蠢的功能，其中编辑字段中的URL会导致复选框根据您的更改进行更新。
+查看着陆页，设置一些选项，然后点击尝试以查看其工作原理。
+想要html lipsum？
+由于我还为此建立了HTML后端，因此我也继续暴露了该功能。 Rather than using path elements, these options use query parameters, so adding ?html=true to any md-lipsum URL will output raw HTML, adding ?complete=true will output the HTML as a complete document (with &lt;code class=&quot;language-plaintext HighLighter-Rouge“&gt;＆lt; head＆gt;  and ＆lt; body＆gt; ），并添加？当您想快速测试浏览器的Web检查员中的基本DOM操作时，后者很方便，但没有其他内容。但是我已经建立了它，所以为什么不可用呢？
+路线图
+此API在相对较少的源ipsum文本上起作用。我想增加一点，但我也可能使它与其他文本来源一起使用。我有一个过时的脚本，它使诸如《仙境梦游仙境》（Alice In Wonderland In In Wonderland 和 1984 之类的书籍）的书籍使lorem ipsum ，这是许多年前的文章。 i  think 是 dr。 drang 谁写了这一点。还有一个很棒的培根发电机，以及其他新颖的API。我想以一些更有趣的文本来源来实现这一传统。问题是当前版本使用大句子片段，而不是智能地重组文本以创建实际的随机句子。随着我与其他文本源一起播放，这可能会改变。
+喜欢或分享此帖子 Twitter 。
+
+ brettterpstra.com得到像您这样的读者的支持。 如果您要单击此处
+        喜欢提供帮助。 
+在 github 和无处不在
+        else 。 ]]></description>
+      <guid>https://brett.trpstra.net/link/535/16999720/markdown-lipsum-api-v3</guid>
+      <pubDate>Sat, 05 Apr 2025 19:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>带有URL预览的搜索链接！</title>
       <link>https://brett.trpstra.net/link/535/16997221/searchlink-with-url-previews</link>
@@ -299,13 +322,6 @@ git＆rsquo的命令设置了您自己的创作（并保留脚本
         else 。 &lt;img height =“ 1”]]></description>
       <guid>https://brett.trpstra.net/link/535/16959046/readwise-devonthink-update</guid>
       <pubDate>Sun, 09 Feb 2025 14:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>读取的亮点</title>
-      <link>https://brett.trpstra.net/link/535/16958687/readwise-highlights-to-devonthink</link>
-      <description><![CDATA[]]></description>
-      <guid>https://brett.trpstra.net/link/535/16958687/readwise-highlights-to-devonthink</guid>
-      <pubDate>Sat, 08 Feb 2025 15:48:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
