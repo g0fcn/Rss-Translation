@@ -4,7 +4,21 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Apr 2025 18:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 06:27:21 GMT</lastBuildDate>
+    <item>
+      <title>请问 U盘每次在mac系统使用后win7在进行复制就报错 如何解决？</title>
+      <link>https://meta.appinn.net/t/topic/69947</link>
+      <description><![CDATA[闪迪的U盘，60GB，文件系统为：exFAT，
+两个系统分别是win7和mac
+win7报错信息为：
+一个意外错误使您无法复制该文件夹。如果您继续收到此错误，可以使用错误代码来搜索有关此问题的帮助。 
+错误 0x80071AC3: 无法完成操作，因为卷有问题。请运行 chkdsk 并重试。 
+每次格式化后就好了，能在两个系统之间传递，但是在mac系统使用一次后必然报错，导致win7系统无法向内复制文件，请问如何解决？ 
+4 个帖子 - 3 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/69947</guid>
+      <pubDate>Fri, 11 Apr 2025 03:09:26 GMT</pubDate>
+    </item>
     <item>
       <title>【开发者自荐】精准截图-AI时代的首款智能截图工具(开源免费)</title>
       <link>https://meta.appinn.net/t/topic/69935</link>
@@ -357,46 +371,6 @@ Asphalt Calculator helps you accurately estimate asphalt road paving costs. Comp
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/68079</guid>
       <pubDate>Wed, 26 Mar 2025 04:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自荐】Qbin 快捷存储</title>
-      <link>https://meta.appinn.net/t/topic/68064</link>
-      <description><![CDATA[ 项目简介
- 轻盈优雅的全能数据存储服务，以编辑器为核心，一键存储文字、代码、图片、视频等任何数据。 
-分布式架构+多级缓存让存取速度飞快，像记事本般简单，比云盘更便捷，随手记录，即存即用，开启您的云上数据自由时代！ 
- 核心特性
-
- 便捷存储：快速保存文字、代码、图片、视频等多种数据
- 安全可控：支持自定义访问路径和密码保护
- 灵活期限：可设置内容过期时间
- 深色模式：完美适配明暗两种主题
- 全面适配：支持桌面端和移动端
- 自动保存：定时本地备份，防止数据丢失
- 第三方登录：支持 Google、GitHub、LinuxDO 授权
-
- 功能预览
-
-
-
-
-桌面端界面
-移动端界面
-
-
-
-
-
-
-
-
-
-开源地址：GitHub - Quick-Bin/Qbin: ✨ 轻盈优雅的全能数据存储服务 | 以编辑器为核心，一键存储文字、代码、图片、视频等任何数据 | 分布式架构+多级缓存让存取速度飞快 | 像记事本般简单，比云盘更便捷，随手记录，即存即用，开启您的云上数据自由时代！ 
-官网：https://qbin.me
-项目支持一键Docker部署，路过的朋友欢迎 Star​
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/68064</guid>
-      <pubDate>Tue, 25 Mar 2025 18:55:40 GMT</pubDate>
     </item>
     <item>
       <title>Chrome/Vivaldi 浏览器如何关掉剪贴板权限弹窗？ clipboard popup</title>
