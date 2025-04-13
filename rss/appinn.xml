@@ -4,7 +4,25 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Apr 2025 06:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 12:34:41 GMT</lastBuildDate>
+    <item>
+      <title>修改B站翻看评论区时，迷你小窗的位置和大小</title>
+      <link>https://meta.appinn.net/t/topic/70015</link>
+      <description><![CDATA[根据Bilibili Player 小窗口助手这个脚本用AI修改而来。 
+适用于普通横竖视频、番剧、电视剧、电影视频播放页面。 
+分浏览器窗口宽度小于1000px和大于1000px两种情况下的小窗。 
+部分视频小窗在浏览器窗口宽度小于1000px时会有出入：电影小窗时，底部的发送栏没有隐藏，自动铺满窗口，示例图在最后。 
+
+代码部分 （点击了解更多详细信息）
+
+效果图示 （点击了解更多详细信息）
+
+部分电影小窗时会有出入 （点击了解更多详细信息）
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/70015</guid>
+      <pubDate>Sun, 13 Apr 2025 10:59:18 GMT</pubDate>
+    </item>
     <item>
       <title>请问 U盘每次在mac系统使用后win7在进行复制就报错 如何解决？</title>
       <link>https://meta.appinn.net/t/topic/69947</link>
@@ -349,28 +367,6 @@ Mac App Store: ‎Any World Clock on the Mac App Store
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/68108</guid>
       <pubDate>Thu, 27 Mar 2025 02:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>【网站自荐】超级小白新手用Trae编译上线人生的第一个工具站</title>
-      <link>https://meta.appinn.net/t/topic/68079</link>
-      <description><![CDATA[新手小白不懂代码，用Trae辅助编程、CF&amp;Vercel部署上线；
-人生的第一次，第一个工具站站上线，希望大家能提提意见和支持！ 
-
-
-freecalculatoronline.net
-
-
-Asphalt Calculator-asphalt driveway cost calculator
-Asphalt Calculator helps you accurately estimate asphalt road paving costs. Compare asphalt repair and concrete repair costs. Start using our professional tool！ 
-
-
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/68079</guid>
-      <pubDate>Wed, 26 Mar 2025 04:13:24 GMT</pubDate>
     </item>
     <item>
       <title>Chrome/Vivaldi 浏览器如何关掉剪贴板权限弹窗？ clipboard popup</title>
