@@ -4,7 +4,22 @@
     <title>小众软件官方论坛 - 使用macos标记的话题</title>
     <link>https://meta.appinn.net/tag/macos</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Apr 2025 12:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 06:27:51 GMT</lastBuildDate>
+    <item>
+      <title>求一个能完整下载网页文字和图片的chrome插件</title>
+      <link>https://meta.appinn.net/t/topic/70085</link>
+      <description><![CDATA[如题。有些特殊网址，需要后台挂着登录器，网址使用http://127.0.0.1:2000/才可以访问。 
+想保存一些这个网站的帖子，用了以下几种方法，各有优缺点：
+singlefile插件：保存为mhtml以后，mhtml文件里没有图片，只有纯文字。 
+浏览器自带的另存为：图片和文字都完整保存下来了，但是ublock插件屏蔽的广告也保存并显示出来了。 
+打印为PDF：可以把图片和文字完整保存下来，并且精简掉了ublock屏蔽的广告。但PDF阅读不太方便。 
+长图：日后浏览不太方便。 
+求大佬们帮忙推荐一个插件，要求如下：浏览器对这个网页显示的是什么效果，就保存为什么样的效果（样式略有不对也能接受，但ublock屏蔽掉的区域不要保存），该有的图片不能缺失，格式为mhtml。 
+1 个帖子 - 1 位参与者
+阅读完整话题]]></description>
+      <guid>https://meta.appinn.net/t/topic/70085</guid>
+      <pubDate>Tue, 15 Apr 2025 03:28:42 GMT</pubDate>
+    </item>
     <item>
       <title>如何伪装mac界面为windows？</title>
       <link>https://meta.appinn.net/t/topic/70033</link>
@@ -346,36 +361,6 @@ Mac App Store: ‎Any World Clock on the Mac App Store
 阅读完整话题]]></description>
       <guid>https://meta.appinn.net/t/topic/68112</guid>
       <pubDate>Thu, 27 Mar 2025 03:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>pyme：基于tk的可视化python工具，一键打包成apk</title>
-      <link>https://meta.appinn.net/t/topic/68108</link>
-      <description><![CDATA[官网：https://py-me.com
-最开始我想找一款把用python写好已经打包成exe文件转换成apk的工具，后来发现这个，它是一款流程式可视化工具，只需要拖拽框就能完成开发，感觉很不错，大家感兴趣的可以去试试，里面有很多课程上手之后还有一些兼职接单任务。 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1 个帖子 - 1 位参与者
-阅读完整话题]]></description>
-      <guid>https://meta.appinn.net/t/topic/68108</guid>
-      <pubDate>Thu, 27 Mar 2025 02:05:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
